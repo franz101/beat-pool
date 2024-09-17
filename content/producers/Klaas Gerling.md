@@ -1,0 +1,16 @@
+---
+id: 7MT8RxUMl67q0mlaMOv6Fi
+type: producer
+url: https://open.spotify.com/artist/7MT8RxUMl67q0mlaMOv6Fi
+---
+# Klaas Gerling
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7MT8RxUMl67q0mlaMOv6Fi" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/7MT8RxUMl67q0mlaMOv6Fi)
+
+**Related artists:**
+
+[[No Angels]]
+[[Twin]]
+[[Klaas]]

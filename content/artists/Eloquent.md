@@ -1,0 +1,98 @@
+---
+id: 5tH5C6RgU17XOg1xuYIvGM
+type: artist
+popularity: 43
+followers: 13706
+url: https://open.spotify.com/artist/5tH5C6RgU17XOg1xuYIvGM
+---
+# Eloquent
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5tH5C6RgU17XOg1xuYIvGM" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5tH5C6RgU17XOg1xuYIvGM)
+
+**Genre:**  #german_boom_bap #german_jazz_rap #jazz_boom_bap
+
+![Artist](https://i.scdn.co/image/ab6761610000e5eb9e69dff627a3a4622a08a97b)
+**Related artists:**
+
+[[Wandl]]
+[[Dennis Kattau]]
+[[Retrogott]]
+[[Luk&Fil]]
+[[Wun Two]]
+[[Dramadigs]]
+[[Dennis Kattan]]
+[[Hulk Hodn]]
+[[Kuchenmann]]
+[[Superhirn]]
+[[Nepumuk]]
+[[Davey Dave]]
+[[Brous One]]
+[[Loki]]
+[[Hiob]]
+[[Twit One]]
+[[I.L.L. Will]]
+[[Felix Göppel]]
+[[Lidly]]
+[[Dude & Phaeb]]
+[[El Ray]]
+[[Suff Daddy]]
+[[IAMPAUL]]
+[[Niko Soprano]]
+[[Torky Tork]]
+[[Nick Noname]]
+[[Patrick Rüdiger]]
+[[beppo & pete]]
+[[Sonne Ra]]
+[[Nelson]]
+[[Delicious Chrischuzz]]
+[[Döll]]
+[[Georg Ziegler]]
+[[Delicious]]
+[[Shames]]
+[[Ive The Knife]]
+[[Tsnd Mrk]]
+[[Evory]]
+[[Navarius]]
+[[Sinan]]
+[[Mirko Machine]]
+[[Anthony Drawn]]
+[[Kwam.E]]
+[[dude26]]
+[[Panorama]]
+[[doZ9]]
+[[Schahabedin Azodifar]]
+[[fLOwTEC]]
+[[Bico]]
+[[Relaén]]
+[[Galt McDermot]]
+[[Dave Sparkz]]
+[[Fid Mella]]
+[[Plusma]]
+[[Felix Diegritz]]
+[[Negroman]]
+[[Morlockko Plus]]
+[[Saje]]
+[[Peter Sipos]]
+[[Der Täubling]]
+[[Shahabedin Azodifar]]
+[[Jan Vetter]]
+[[HTN]]
+[[Knowsum]]
+[[Kwam]]
+[[Beat Dude]]
+[[Kenta Taniyama]]
+[[Chinch 33]]
+[[Tufu]]
+[[Patrick Ruediger]]
+[[MF Saje]]
+[[Figub Brazlevic]]
+[[ELO]]
+[[Ive]]
+[[Aepic]]
+[[J. Wassenberg]]
+[[Morlockk Dilemma]]
+[[Dustin Christ]]
+[[KOOLaction]]
+[[Dexter]]

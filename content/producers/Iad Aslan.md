@@ -1,0 +1,73 @@
+---
+id: 2JvRPpB8C7nrHWebOM99xH
+type: producer
+url: https://open.spotify.com/artist/2JvRPpB8C7nrHWebOM99xH
+---
+# Iad Aslan
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2JvRPpB8C7nrHWebOM99xH" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/2JvRPpB8C7nrHWebOM99xH)
+
+**Related artists:**
+
+[[Mike Singer]]
+[[Capo]]
+[[Simes Branxons]]
+[[Bushido]]
+[[KALIM]]
+[[Penacho]]
+[[Beatzarre]]
+[[Laas Unltd.]]
+[[Ragoart]]
+[[Emilio]]
+[[Fler]]
+[[Sascha Kunstmann]]
+[[PA Sports]]
+[[Kurdo]]
+[[Lucry]]
+[[Babyblue]]
+[[Murad Weshah]]
+[[Nico Chiara]]
+[[Fero47]]
+[[Murat Weshah]]
+[[Capital Bra]]
+[[Bawer]]
+[[Ned Callin]]
+[[Shindy]]
+[[Remoe]]
+[[Macloud]]
+[[Rick Ross]]
+[[Maxe]]
+[[Cris Balloo]]
+[[Ali As]]
+[[Myvisionblurry]]
+[[Chris Balloo]]
+[[Laura Chuala Hinrichs]]
+[[SOTT]]
+[[Djorkaeff]]
+[[Nimo]]
+[[MoTrip]]
+[[Samra]]
+[[Xiara]]
+[[Christoph Bauer]]
+[[Luciano]]
+[[The Cratez]]
+[[Bad Grooves]]
+[[Sentino]]
+[[Artem]]
+[[Sero]]
+[[IZZO]]
+[[Noah]]
+[[Miksu]]
+[[Silla]]
+[[Yung Hurn]]
+[[Frank White]]
+[[Lars Wiedemann]]
+[[Jalil]]
+[[Eno]]
+[[Azzi Memo]]
+[[Milonair]]
+[[AK AUSSERKONTROLLE]]
+[[Summer Cem]]
+[[Farid Bang]]

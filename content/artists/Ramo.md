@@ -1,0 +1,98 @@
+---
+id: 3eSn9mqkLzdmxzHJ9KDPmC
+type: artist
+popularity: 61
+followers: 50617
+url: https://open.spotify.com/artist/3eSn9mqkLzdmxzHJ9KDPmC
+---
+# Ramo
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3eSn9mqkLzdmxzHJ9KDPmC" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/3eSn9mqkLzdmxzHJ9KDPmC)
+
+**Genre:**  #deep_german_hip_hop #german_hip_hop #german_trap #german_underground_rap
+
+![Artist](https://i.scdn.co/image/ab6761610000e5ebf384ecdbb24d0fc79a275c84)
+**Related artists:**
+
+[[Massiv]]
+[[ThisisYT]]
+[[LA91]]
+[[SAMY]]
+[[CAZ]]
+[[mvxionthebeat]]
+[[Perino]]
+[[stanTuned]]
+[[Kilomatik]]
+[[KAY AY]]
+[[Swae]]
+[[Alex Dehn]]
+[[Bulenzho]]
+[[Mert]]
+[[Neal]]
+[[Killa M]]
+[[Deats]]
+[[Manuellsen]]
+[[Maxe]]
+[[Ghana Beats]]
+[[Monet192]]
+[[NEO]]
+[[DINSKI]]
+[[Liam Callan]]
+[[Freshmaker]]
+[[Nimo]]
+[[Gorex]]
+[[KC Rebell]]
+[[Liam Callen]]
+[[Veysel]]
+[[Bullit]]
+[[Frank One]]
+[[Casar]]
+[[Zimzala]]
+[[Veysigz Beats]]
+[[Hemso]]
+[[Pzy]]
+[[Fireonblack]]
+[[Azzi Memo]]
+[[King Khalil]]
+[[Denibeatzz]]
+[[Sinan-G]]
+[[DJ Desue]]
+[[Z]]
+[[PA Sports]]
+[[Shosha]]
+[[Marlo]]
+[[Fard]]
+[[ThankYouKid]]
+[[Mois]]
+[[Maestro]]
+[[Emde51]]
+[[Tengo]]
+[[Future Moguls]]
+[[Macloud]]
+[[Joker Bra]]
+[[Shosha44]]
+[[LIZ]]
+[[Miksu - Macloud]]
+[[Lennart Voigt]]
+[[Martn Beatz]]
+[[Alex Gregory Mullarkey]]
+[[Pietro Lombardi]]
+[[909otb]]
+[[Dominik Felsmann]]
+[[Bonez MC]]
+[[Danny BeatBrotherz]]
+[[Patrick Faubert]]
+[[Sarhad]]
+[[Dannyebtracks]]
+[[Haftbefehl]]
+[[FisnikBeatz]]
+[[FNSHRS]]
+[[Miksu]]
+[[oustonproducedit]]
+[[Azad]]
+[[Yung Swisher]]
+[[The Placements]]
+[[dylanyousob]]
+[[Zero Beatz]]

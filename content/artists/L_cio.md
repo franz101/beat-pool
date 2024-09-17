@@ -1,0 +1,15 @@
+---
+id: 1bp9y0lyzSPhnB6Dk8CUaW
+type: artist
+url: https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW
+---
+# L_cio
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1bp9y0lyzSPhnB6Dk8CUaW" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW)
+
+**Related artists:**
+
+[[Portable]]
+[[Alan Abrahams]]

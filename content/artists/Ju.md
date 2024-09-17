@@ -1,0 +1,17 @@
+---
+id: 6769qeFxlRFQahgeNOA1p8
+type: artist
+url: https://open.spotify.com/artist/6769qeFxlRFQahgeNOA1p8
+---
+# Ju
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6769qeFxlRFQahgeNOA1p8" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/6769qeFxlRFQahgeNOA1p8)
+
+**Related artists:**
+
+[[Afrob]]
+[[Sekou]]
+[[Gentleman]]
+[[Max Herre]]

@@ -1,0 +1,17 @@
+---
+id: 5KgCVAqXQrl3ldLk7Pshwb
+type: producer
+url: https://open.spotify.com/artist/5KgCVAqXQrl3ldLk7Pshwb
+---
+# SCORESESE
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5KgCVAqXQrl3ldLk7Pshwb" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5KgCVAqXQrl3ldLk7Pshwb)
+
+**Related artists:**
+
+[[Samra]]
+[[Djorkaeff]]
+[[Capital Bra]]
+[[Beatzarre]]

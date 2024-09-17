@@ -1,0 +1,19 @@
+---
+id: 50YCYTy01CqEdekPvmgi5Y
+type: artist
+url: https://open.spotify.com/artist/50YCYTy01CqEdekPvmgi5Y
+---
+# Tamara Danz
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/50YCYTy01CqEdekPvmgi5Y" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/50YCYTy01CqEdekPvmgi5Y)
+
+**Related artists:**
+
+[[Silly]]
+[[Uwe Hassbecker]]
+[[Gerhard Gundermann]]
+[[Gitarreros]]
+[[Ritchie Barton]]
+[[Karat]]

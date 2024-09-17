@@ -1,0 +1,16 @@
+---
+id: 5AhnSH8yqDZdYUTrjad3ez
+type: producer
+url: https://open.spotify.com/artist/5AhnSH8yqDZdYUTrjad3ez
+---
+# ARKADI
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5AhnSH8yqDZdYUTrjad3ez" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5AhnSH8yqDZdYUTrjad3ez)
+
+**Related artists:**
+
+[[Sascha Eigner]]
+[[Timo Xanke]]
+[[Jupiter Jones]]

@@ -1,0 +1,16 @@
+---
+id: 0e9LqB5qNCVfovkbJYXmoa
+type: producer
+url: https://open.spotify.com/artist/0e9LqB5qNCVfovkbJYXmoa
+---
+# Robert Jung
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0e9LqB5qNCVfovkbJYXmoa" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/0e9LqB5qNCVfovkbJYXmoa)
+
+**Related artists:**
+
+[[Nicole]]
+[[Ralph Siegel]]
+[[Stereoact]]

@@ -1,0 +1,14 @@
+---
+id: 2diNUFPFtmEpjKWJVOYgga
+type: producer
+url: https://open.spotify.com/artist/2diNUFPFtmEpjKWJVOYgga
+---
+# Anel Laciencia Beats
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2diNUFPFtmEpjKWJVOYgga" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/2diNUFPFtmEpjKWJVOYgga)
+
+**Related artists:**
+
+[[MU$A386]]

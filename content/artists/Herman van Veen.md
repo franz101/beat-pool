@@ -1,0 +1,15 @@
+---
+id: 5jWFYMXC1s1pj0u22ps4Sh
+type: artist
+url: https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh
+---
+# Herman van Veen
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5jWFYMXC1s1pj0u22ps4Sh" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh)
+
+**Related artists:**
+
+[[Heinz Rudolf Kunze]]
+[[Leo Schmidthals]]

@@ -1,0 +1,15 @@
+---
+id: 3BdODtJ7JVKx9AL2bnSsjX
+type: producer
+url: https://open.spotify.com/artist/3BdODtJ7JVKx9AL2bnSsjX
+---
+# QP Laboratories
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3BdODtJ7JVKx9AL2bnSsjX" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/3BdODtJ7JVKx9AL2bnSsjX)
+
+**Related artists:**
+
+[[Homefront Productions]]
+[[Daddy Rings]]

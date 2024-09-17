@@ -1,0 +1,95 @@
+---
+id: 0hLd40hVpRDGENe4KGZLnW
+type: artist
+popularity: 63
+followers: 322946
+url: https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW
+---
+# Falco
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0hLd40hVpRDGENe4KGZLnW" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/0hLd40hVpRDGENe4KGZLnW)
+
+**Genre:**  #austropop #german_pop #neue_deutsche_welle #new_romantic
+
+![Artist](https://i.scdn.co/image/ab6761610000e5eb381a2c6fa34d595b1ed02869)
+**Related artists:**
+
+[[T. Börger]]
+[[Drew Sarich]]
+[[Jan van der Toorn]]
+[[Donauinsel Tribute-Stars]]
+[[Beatzarre]]
+[[Yasmo]]
+[[Ferdi Bolland]]
+[[R. Ponger]]
+[[Robert J Bolland]]
+[[Peter Kruder]]
+[[Pascal Kalli Reinhardt]]
+[[Rob Bolland & Ferdi Bolland for Le Disque Holland B.V.]]
+[[Tom Schley]]
+[[Rob Bolland]]
+[[Candy Rouge]]
+[[Thomas Lang]]
+[[DJ Reckless]]
+[[Phatal Beatz]]
+[[Zugezogen Maskulin]]
+[[George Glueck]]
+[[Niqo Nuevo]]
+[[Ali As]]
+[[Jugglerz]]
+[[Christer Modig]]
+[[Markus Ganter]]
+[[Tarek Leitner]]
+[[Mal Luker]]
+[[Djorkaeff]]
+[[Reinhold Heil]]
+[[T»MB]]
+[[Boris Granich]]
+[[Haze]]
+[[Sido]]
+[[Blasorchester der Musikschule Deutsch-Wagram]]
+[[3Plusss]]
+[[Norbert Ivanek]]
+[[Udo Arndt]]
+[[Thorsten Börger]]
+[[Rob & Ferdi Bolland]]
+[[Celo & Abdi]]
+[[Julian le Play]]
+[[Sun Diego]]
+[[Frauenarzt]]
+[[Johannes Krisch]]
+[[Fettes Brot]]
+[[Bolland Companies Int.]]
+[[Dietz]]
+[[David Bronner]]
+[[Rob Bolland and Ferdi Bolland for Teldec]]
+[[Omik K]]
+[[Ana Milva Gomes]]
+[[Günther Mende]]
+[[Jeo]]
+[[Gianna Nannini]]
+[[Dietmar Tinhof]]
+[[Ponger]]
+[[Peet]]
+[[Edita Malovcic]]
+[[Peter Rauhofer]]
+[[T MB]]
+[[Digital Drama]]
+[[Enaka]]
+[[Thomas Rabitsch]]
+[[Peter Nagy]]
+[[Kontra K]]
+[[Phil Ratey (PzY)]]
+[[RIO]]
+[[Ferdinand Bolland]]
+[[Roman Gregory]]
+[[Skero]]
+[[Alexander C. Derouge]]
+[[JMP]]
+[[Th. Lang]]
+[[Nazar]]
+[[Robert J. Bolland]]
+[[Dannemann]]
+[[Robert Ponger]]

@@ -1,0 +1,15 @@
+---
+id: 5EvFsr3kj42KNv97ZEnqij
+type: artist
+url: https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij
+---
+# Shaggy
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5EvFsr3kj42KNv97ZEnqij" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij)
+
+**Related artists:**
+
+[[Gentleman]]
+[[Ben Bazzazian]]

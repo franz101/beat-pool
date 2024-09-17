@@ -1,0 +1,97 @@
+---
+id: 3OYM3jjPVR60kOqmamRRgk
+type: artist
+popularity: 58
+followers: 349732
+url: https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk
+---
+# Prinz Pi
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3OYM3jjPVR60kOqmamRRgk" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/3OYM3jjPVR60kOqmamRRgk)
+
+**Genre:**  #german_alternative_rap #german_hip_hop #german_pop
+
+![Artist](https://i.scdn.co/image/ab6761610000e5ebdcf519323fa45080e9158b17)
+**Related artists:**
+
+[[Bosse]]
+[[Suena]]
+[[Beatzarre]]
+[[Konstanz]]
+[[Grzegorz]]
+[[Stuttgart]]
+[[Berlin]]
+[[Lucry]]
+[[SDP]]
+[[Mohamad Hoteit]]
+[[Köln]]
+[[Animus]]
+[[Kobra]]
+[[Mirko Schaffer]]
+[[Manuellsen]]
+[[Bausa]]
+[[E-Rich]]
+[[KAIND]]
+[[Nikolaos Rafael Kagiampinis]]
+[[Ali As]]
+[[KEZ]]
+[[Hirntot Posse]]
+[[Erich]]
+[[Djorkaeff]]
+[[Nürnberg]]
+[[Wiesbaden]]
+[[BRKN]]
+[[Frank Zander]]
+[[Saven Musiq]]
+[[Würzburg]]
+[[Gorex]]
+[[Bremen]]
+[[Adel Tawil]]
+[[Chique Ricc]]
+[[The Cratez]]
+[[Taktloss]]
+[[Sido]]
+[[Lukas Strobel]]
+[[KAYEF]]
+[[DaFire]]
+[[King Khalil]]
+[[Sierra Kidd]]
+[[Jonarama]]
+[[Dorincourt]]
+[[Esko]]
+[[Simes Branxons]]
+[[München]]
+[[Casper]]
+[[Fler]]
+[[Schwartz]]
+[[QUARTERHEADS]]
+[[Alligatoah]]
+[[Capital Bra]]
+[[RAF 3.0]]
+[[RAF Camora]]
+[[The Royals]]
+[[Blokkmonsta]]
+[[Hamburg]]
+[[Nessi]]
+[[Basstard]]
+[[Wien]]
+[[Biztram]]
+[[Philipp Dittberner]]
+[[Bobidze]]
+[[Leipzig]]
+[[Young Kira]]
+[[Leer]]
+[[Saarbrücken]]
+[[Valentine]]
+[[Bina]]
+[[Boba Fettt]]
+[[Martin Semmelrogge]]
+[[Donnie Digital]]
+[[Mark Forster]]
+[[Osnabrück]]
+[[Lukas Piano]]
+[[Justus]]
+[[Mudi]]
+[[Vega]]

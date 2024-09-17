@@ -1,0 +1,96 @@
+---
+id: 5dM0ApSI0k1TcOseiik0sY
+type: artist
+popularity: 60
+followers: 8978
+url: https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY
+---
+# Jugglerz
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/5dM0ApSI0k1TcOseiik0sY" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY)
+
+**Genre:** 
+
+![Artist](https://i.scdn.co/image/ab6761610000e5eb385ceaf7c2dd80ea156f7115)
+**Related artists:**
+
+[[Zuna]]
+[[Bozza]]
+[[Brecht]]
+[[Ezhel]]
+[[KAAS]]
+[[Miwata]]
+[[Lucry]]
+[[Chefket]]
+[[Karen]]
+[[Aside]]
+[[Rob Bolland]]
+[[Schwesta Ewa]]
+[[Tilmann Otto]]
+[[Dardan]]
+[[Gentleman]]
+[[Lena]]
+[[Constantin Krieg]]
+[[Albi]]
+[[reezy]]
+[[Santell]]
+[[Bausa]]
+[[Sero El Mero]]
+[[Estikay]]
+[[Gzuz]]
+[[Jr Blender]]
+[[Die Orsons]]
+[[Aylo]]
+[[Klotz]]
+[[Patrice]]
+[[Ky-Mani Marley]]
+[[Nimo]]
+[[MoTrip]]
+[[Veysel]]
+[[The Cratez]]
+[[Miami Yacine]]
+[[Sido]]
+[[Casar]]
+[[Martin Baumgartner]]
+[[Tua]]
+[[Nura]]
+[[Juh-Dee]]
+[[MENJU]]
+[[David Hofmann]]
+[[Dhurata Dora]]
+[[Flo Mega]]
+[[Ramz]]
+[[Ufo361]]
+[[A-Boom]]
+[[JK]]
+[[LX]]
+[[Hägi]]
+[[Azet]]
+[[Omik K]]
+[[RAF Camora]]
+[[Sin Davis]]
+[[Xavier Naidoo]]
+[[Falco]]
+[[jahmiel]]
+[[Olexesh]]
+[[David Hoffmann]]
+[[YONII]]
+[[Jr. Blender]]
+[[JORIS]]
+[[EREN CAN]]
+[[Johannes Oerding]]
+[[Kontra K]]
+[[RIO]]
+[[Wainvel]]
+[[Ferdinand Bolland]]
+[[Bonez MC]]
+[[Luciano]]
+[[Daniel Nitt]]
+[[Noah]]
+[[Apache 207]]
+[[DJ Katch]]
+[[M3]]
+[[AK AUSSERKONTROLLE]]
+[[Baumi]]

@@ -1,0 +1,16 @@
+---
+id: 4d7SDcAqhvLBMB5fnxOUyD
+type: producer
+url: https://open.spotify.com/artist/4d7SDcAqhvLBMB5fnxOUyD
+---
+# Michael Kristanec
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4d7SDcAqhvLBMB5fnxOUyD" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/4d7SDcAqhvLBMB5fnxOUyD)
+
+**Related artists:**
+
+[[Elias Klughammer]]
+[[David Ruoff]]
+[[MoTrip]]

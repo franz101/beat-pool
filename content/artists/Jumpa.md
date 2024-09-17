@@ -1,0 +1,98 @@
+---
+id: 4Xz5sxFWivrXWQlDlO25is
+type: artist
+popularity: 58
+followers: 12392
+url: https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is
+---
+# Jumpa
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4Xz5sxFWivrXWQlDlO25is" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is)
+
+**Genre:**  #german_hip_hop
+
+![Artist](https://i.scdn.co/image/ab6761610000e5ebcb9c8d42a5360c0f4394ef54)
+**Related artists:**
+
+[[Zuna]]
+[[Bozza]]
+[[Cem Tomak]]
+[[Dose]]
+[[Abaz]]
+[[Johnny Illstrument]]
+[[Montez]]
+[[Takt32]]
+[[Animus]]
+[[Jamule]]
+[[Moe Phoenix]]
+[[Maxwell]]
+[[Dardan]]
+[[Chilla]]
+[[Vito Kovach]]
+[[Remoe]]
+[[TyrannBeats]]
+[[Elvana Gjata]]
+[[Bausa]]
+[[Bmac]]
+[[Monet192]]
+[[Beatzarre & Djorkaeff]]
+[[Beatsontherocks]]
+[[Gzuz]]
+[[Aylo]]
+[[Sali]]
+[[Mozzik]]
+[[BRKN]]
+[[Payy]]
+[[Sick1prod]]
+[[Zino]]
+[[Mosh36]]
+[[King Khalil]]
+[[Seyed]]
+[[ELIF]]
+[[Capital T]]
+[[FOOS]]
+[[Neal X]]
+[[Dj Deeky]]
+[[Olson]]
+[[Lune]]
+[[AVO]]
+[[Casper]]
+[[Loredana]]
+[[Kurdo]]
+[[Fard]]
+[[ThankYouKid]]
+[[Kool Savas]]
+[[Hava]]
+[[Magestick]]
+[[Insomnia Beats]]
+[[Hmz]]
+[[UNIK]]
+[[Pedaz]]
+[[TheDoDo]]
+[[RAF Camora]]
+[[Nio]]
+[[187 Strassenbande]]
+[[Beatgees]]
+[[EREN CAN]]
+[[badmómzjay]]
+[[Umut Timur]]
+[[Miksu - Macloud]]
+[[Joshimixu]]
+[[toksi]]
+[[Samra]]
+[[Bonez MC]]
+[[Rocks]]
+[[DJ Gan-G]]
+[[Ardian Bujupi]]
+[[Artem]]
+[[Zinobeatz]]
+[[Noah]]
+[[Miksu]]
+[[Unik]]
+[[Stacks102]]
+[[Joezee]]
+[[Pascal Reinhardt]]
+[[Vega]]
+[[Efe]]

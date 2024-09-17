@@ -1,0 +1,98 @@
+---
+id: 3NjbpG6MmFGVLXwbcPXH90
+type: artist
+popularity: 56
+followers: 66327
+url: https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90
+---
+# Haiyti
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/3NjbpG6MmFGVLXwbcPXH90" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90)
+
+**Genre:**  #frauenrap #german_cloud_rap #german_drill #german_hip_hop
+
+![Artist](https://i.scdn.co/image/ab6761610000e5eb2b38a3b9a27030af33128bf9)
+**Related artists:**
+
+[[umru]]
+[[AlphaMob]]
+[[Yin Kalle]]
+[[Ego]]
+[[SEKOZAZA]]
+[[skoolboy]]
+[[Kaisa Natron]]
+[[Bounce Brothers]]
+[[Eastside]]
+[[Jush]]
+[[KDM Karat]]
+[[Hugo Nameless]]
+[[Donvtello]]
+[[Caramelo]]
+[[Shqiptar]]
+[[Kkuba102]]
+[[Burak]]
+[[Why Sl Know Plug]]
+[[Skinny Finsta]]
+[[Morte]]
+[[Greedy]]
+[[Amedeo Malagia]]
+[[SBM]]
+[[Bulletproof]]
+[[Trettmann]]
+[[Bazzazian]]
+[[BABYLON MAYNE]]
+[[Sizzy]]
+[[SDBY]]
+[[Veysel]]
+[[Rahim Erbil]]
+[[Asadjohn]]
+[[Fruchtmax]]
+[[Pzy]]
+[[Maru]]
+[[Raw Flavour Clik]]
+[[Greeny]]
+[[Lent]]
+[[Vasko Beats]]
+[[Vira Lata]]
+[[Darko]]
+[[Frauenarzt]]
+[[Joey Bargeld]]
+[[SFR]]
+[[KDM Shey]]
+[[Dillon Jaymes]]
+[[Lee]]
+[[SOSA]]
+[[Vogue]]
+[[KitschKrieg]]
+[[Zillin Muzik]]
+[[Macloud]]
+[[MVLIGNXM]]
+[[Miksu - Macloud]]
+[[Maaf]]
+[[Klapse Mane]]
+[[Tamas]]
+[[Project X]]
+[[Albi X]]
+[[LGoony]]
+[[DCVDNS]]
+[[Hustensaft Jüngling]]
+[[Haftbefehl]]
+[[Emmo Casanova]]
+[[Palazzo]]
+[[ISOTOPE]]
+[[2Malle]]
+[[Skool Boy]]
+[[Guido Mineo]]
+[[Miksu]]
+[[Murda Beatz]]
+[[Alexis Troy]]
+[[GPC]]
+[[JACE]]
+[[Capuz]]
+[[Milonair]]
+[[Bounce Brothas]]
+[[jaynbeats]]
+[[Bobby San]]
+[[Sam4]]

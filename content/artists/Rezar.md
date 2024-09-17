@@ -1,0 +1,15 @@
+---
+id: 0KwVGVN1bZfDNQVOySxjsk
+type: artist
+url: https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk
+---
+# Rezar
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0KwVGVN1bZfDNQVOySxjsk" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk)
+
+**Related artists:**
+
+[[Steddy]]
+[[Nisse]]

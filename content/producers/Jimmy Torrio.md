@@ -1,0 +1,73 @@
+---
+id: 0IJ8Xxw1RALnU2JQzZxPsa
+type: producer
+url: https://open.spotify.com/artist/0IJ8Xxw1RALnU2JQzZxPsa
+---
+# Jimmy Torrio
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0IJ8Xxw1RALnU2JQzZxPsa" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/0IJ8Xxw1RALnU2JQzZxPsa)
+
+**Related artists:**
+
+[[Celo & Abdi]]
+[[Capo]]
+[[Ezhel]]
+[[Benaissa Lamroubal]]
+[[KALIM]]
+[[Danny Brasco]]
+[[Gezin 808 Mafia]]
+[[Ufo361]]
+[[John Virgo Garrett III]]
+[[Neal & Alex]]
+[[JZgotKeys]]
+[[Data Luv]]
+[[Douglas Cooper Mitchell]]
+[[DeeVoe]]
+[[Schwesta Ewa]]
+[[Artz]]
+[[AJÉ]]
+[[Maxwell]]
+[[Gezin]]
+[[Abdi]]
+[[Capital Bra]]
+[[Sott]]
+[[RAF Camora]]
+[[Niki Haris]]
+[[Olexesh]]
+[[reezy]]
+[[Sonus03]]
+[[Bugy]]
+[[Gzuz]]
+[[Ben Bazzazian]]
+[[SOTT]]
+[[Sonus030]]
+[[Jambeatz]]
+[[Ufuk Bayraktar]]
+[[Benito Benites]]
+[[Eunique]]
+[[Instinkt]]
+[[Kontra K]]
+[[Future]]
+[[Nimo]]
+[[Funke]]
+[[Doezis]]
+[[Luciano]]
+[[The Cratez]]
+[[Bonez MC]]
+[[Celo]]
+[[Veysel]]
+[[Miami Yacine]]
+[[Veteran]]
+[[Haftbefehl]]
+[[Hanybal]]
+[[Sti]]
+[[Drupes]]
+[[XATAR]]
+[[Yung Hurn]]
+[[Eno]]
+[[Azzi Memo]]
+[[RIN]]
+[[Zeeko]]
+[[AT Beatz]]

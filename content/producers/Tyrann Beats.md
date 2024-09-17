@@ -1,0 +1,16 @@
+---
+id: 2MJgltbHxsyKdJDnlcDPgK
+type: producer
+url: https://open.spotify.com/artist/2MJgltbHxsyKdJDnlcDPgK
+---
+# Tyrann Beats
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2MJgltbHxsyKdJDnlcDPgK" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/2MJgltbHxsyKdJDnlcDPgK)
+
+**Related artists:**
+
+[[Zinobeats]]
+[[Zinobeatz]]
+[[Bass Sultan Hengzt]]

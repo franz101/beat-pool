@@ -1,0 +1,95 @@
+---
+id: 0pOruKWwgyqSLZhn4Xovs9
+type: artist
+popularity: 68
+followers: 158970
+url: https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9
+---
+# Ardian Bujupi
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/0pOruKWwgyqSLZhn4Xovs9" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/0pOruKWwgyqSLZhn4Xovs9)
+
+**Genre:**  #albanian_hip_hop #german_hip_hop #kosovan_pop #turbo_folk
+
+![Artist](https://i.scdn.co/image/ab6761610000e5ebda0ffed49e3feae54c0bb7bd)
+**Related artists:**
+
+[[Marcos G. Pérez]]
+[[Hooss]]
+[[Ajay]]
+[[AriBeatz]]
+[[Jermaine Penniston]]
+[[Avaxus]]
+[[ALEX]]
+[[Lumidee]]
+[[JIGGO]]
+[[Jens Schneider]]
+[[Moe Phoenix]]
+[[Vito Kovach]]
+[[Lijpe]]
+[[Fonty]]
+[[Remoe]]
+[[Maxe]]
+[[GENT]]
+[[Elvana Gjata]]
+[[DJ R'AN]]
+[[Aylo]]
+[[Laruzo]]
+[[Kalli]]
+[[Kostas]]
+[[Minti]]
+[[BTM Soundz]]
+[[Payy]]
+[[Dennis Kör]]
+[[Nero Lindvr]]
+[[Raymatic]]
+[[Jumpa]]
+[[MB]]
+[[Fousy]]
+[[Farruko]]
+[[Ryder]]
+[[Eno]]
+[[Azzi Memo]]
+[[Vanessa Mai]]
+[[Capital T]]
+[[Chahid]]
+[[Kurdo]]
+[[Fard]]
+[[Dalool]]
+[[Seno]]
+[[Xhensila]]
+[[celik lipa]]
+[[Fero47]]
+[[Jonny Jones]]
+[[OceanWAV]]
+[[Oster]]
+[[The Royals]]
+[[DJ Mase]]
+[[Churchboy]]
+[[NGEE]]
+[[BigAli]]
+[[Mohombi]]
+[[Kostas Karagiozidis]]
+[[The Ironix]]
+[[DAVIDE]]
+[[Neal.]]
+[[Genta Ismajli]]
+[[Alfo]]
+[[6 AM]]
+[[Jules Kalmbacher]]
+[[Mavie]]
+[[Nazar]]
+[[Artem]]
+[[Zinobeatz]]
+[[Unik]]
+[[Noah]]
+[[Master HP]]
+[[Big Ali]]
+[[Mark Hardy]]
+[[Unleaded]]
+[[2Sick]]
+[[Yung Swisher]]
+[[Mudi]]
+[[Finem]]

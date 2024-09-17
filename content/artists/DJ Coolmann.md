@@ -1,0 +1,17 @@
+---
+id: 2QgdMaGKoYDOwrHOmaJCPY
+type: artist
+url: https://open.spotify.com/artist/2QgdMaGKoYDOwrHOmaJCPY
+---
+# DJ Coolmann
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2QgdMaGKoYDOwrHOmaJCPY" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/2QgdMaGKoYDOwrHOmaJCPY)
+
+**Related artists:**
+
+[[Toni-L]]
+[[Retrogott]]
+[[Carl Crinx]]
+[[MC Rene]]

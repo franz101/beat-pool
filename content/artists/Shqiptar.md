@@ -1,0 +1,26 @@
+---
+id: 7ay0MUPQfA1OdVhFrsntXr
+type: artist
+popularity: 29
+followers: 1602
+url: https://open.spotify.com/artist/7ay0MUPQfA1OdVhFrsntXr
+---
+# Shqiptar
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7ay0MUPQfA1OdVhFrsntXr" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/7ay0MUPQfA1OdVhFrsntXr)
+
+**Genre:** 
+
+![Artist](https://i.scdn.co/image/ab6761610000e5eb9754fa82e2f579b9b679668e)
+**Related artists:**
+
+[[Azero]]
+[[Big Toe]]
+[[Haiyti]]
+[[Maaf]]
+[[Beste Beatz]]
+[[Project X]]
+[[Kalazh44]]
+[[Diloman]]

@@ -1,0 +1,73 @@
+---
+id: 1FAIjDfIuSxiwPQpZ7hWaX
+type: producer
+url: https://open.spotify.com/artist/1FAIjDfIuSxiwPQpZ7hWaX
+---
+# Thorsten Brötzmann
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/1FAIjDfIuSxiwPQpZ7hWaX" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/1FAIjDfIuSxiwPQpZ7hWaX)
+
+**Related artists:**
+
+[[Ivo Moring]]
+[[Dieter Weidenfeld]]
+[[Stefan Pintev]]
+[[Claudio Capéo]]
+[[Robin Grubert]]
+[[Diane Weigmann]]
+[[Vasee]]
+[[Mathias Roska]]
+[[Maite Kelly]]
+[[Noah Fischer]]
+[[Semino Rossi]]
+[[Nik P.]]
+[[ALEXANDER KAHR]]
+[[Henning Verlage]]
+[[Dieter Hertrampf]]
+[[Kerstin Ott]]
+[[Hamburger Studiostrings]]
+[[Stanfour]]
+[[Werner Becker]]
+[[Ben Zucker]]
+[[Sarah Zucker]]
+[[Oli. P]]
+[[Jürgen Drews]]
+[[Giovanni Zarrella]]
+[[Christina Stürmer]]
+[[Udo Lindenberg]]
+[[Sönke Kirchner]]
+[[Unheilig]]
+[[Stefan Schrupp]]
+[[Stereoact]]
+[[Howard Carpendale]]
+[[Helene Fischer]]
+[[Bro'Sis]]
+[[Back to the Roots]]
+[[Claudius Dreilich]]
+[[Musiker des NDR Elbphilharmonie Orchesters]]
+[[No Angels]]
+[[Azuquita]]
+[[Mariana Wagner]]
+[[Höhner]]
+[[Henrik Menzel]]
+[[Alexander Freund]]
+[[DJ Ötzi]]
+[[Vicky Leandros]]
+[[Roman Lüth]]
+[[Budapest Film Orchestra]]
+[[Matthias Reim]]
+[[Ali Zuckowski]]
+[[Ulrich Wehner]]
+[[Nikolaus Presnik]]
+[[Mathias Ramson]]
+[[Bonnie Tyler]]
+[[David Gold]]
+[[Martin Fliegenschmidt]]
+[[Oliver Som]]
+[[Puhdys]]
+[[Peter "Jem" Seifert]]
+[[Michelle]]
+[[Darius & Finlay]]
+[[Jasmin Shakeri]]

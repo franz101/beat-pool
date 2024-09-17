@@ -1,0 +1,16 @@
+---
+id: 2qY36Lg9eP5T2ZS9x4WLFY
+type: producer
+url: https://open.spotify.com/artist/2qY36Lg9eP5T2ZS9x4WLFY
+---
+# Pat Benzner
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/2qY36Lg9eP5T2ZS9x4WLFY" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Spotify URL:** [Link](https://open.spotify.com/artist/2qY36Lg9eP5T2ZS9x4WLFY)
+
+**Related artists:**
+
+[[Christian Fleps]]
+[[Dave Roth]]
+[[Madeline Juno]]
