@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/4ukOu2Xn7GWJJyRRPjp0m6
 [[Nu51]]
 [[XATAR]]
 [[Maestro]]
-[[Ric & Thadeus]]
+[[producers/Ric & Thadeus]]

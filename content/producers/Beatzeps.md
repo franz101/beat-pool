@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/2eAc1cpSR5eDM5Y1Gou4nT
 
 [[Silla]]
 [[Manuellsen]]
-[[Danno]]
-[[Hamudy]]
+[[producers/Danno]]
+[[producers/Hamudy]]
 [[Kool Savas]]
-[[Cubeatz]]
+[[producers/Cubeatz]]
 [[GFM]]

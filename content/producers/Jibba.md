@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/42Ok03fO0XOaBqTQQhnTAx
 **Related artists:**
 
 [[PTK]]
-[[Nemo]]
+[[producers/Nemo]]

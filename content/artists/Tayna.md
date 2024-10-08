@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/5Cj0xJrG2k8TPOJQ1vdAmZ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb328a4c6d98287ab73b54a723)
 **Related artists:**
 
-[[Lucry]]
+[[producers/Lucry]]
 [[Azet]]
-[[Suena]]
+[[producers/Suena]]
 [[Mc Kresha]]
 [[Lyrical Son]]
 [[Cricket]]

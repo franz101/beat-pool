@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2POj5DK9ZiqcLkeTeTjH7b
 
 **Related artists:**
 
-[[mosif]]
+[[producers/mosif]]
 [[Miami Yacine]]

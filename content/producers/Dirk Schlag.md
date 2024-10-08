@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/3orZX4oyLFUiAMes79EIbr
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Hannes Braun]]
-[[Christian Gundlach]]
+[[producers/Mark Nissen]]
+[[producers/Hannes Braun]]
+[[producers/Christian Gundlach]]
 [[König der Piraten]]
 [[Hardy & Mark]]
-[[Hardy Krech]]
+[[producers/Hardy Krech]]
 [[Santiano]]
 [[Puhdys]]
-[[Rainer Oleak]]
+[[producers/Rainer Oleak]]
 [[Peter Reber]]

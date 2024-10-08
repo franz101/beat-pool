@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5PQjHgYJjWwoZhkiZGemHC
 
 **Related artists:**
 
-[[Lothar Atwell]]
-[[Mirko Michalzik]]
+[[producers/Lothar Atwell]]
+[[producers/Mirko Michalzik]]
 [[Klaus Lage]]
 [[Peter Wölpl]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6hp6vbcdX0PSX6aSOEuMUA
 
 **Related artists:**
 
-[[Produes]]
+[[producers/Produes]]
 [[Silla]]

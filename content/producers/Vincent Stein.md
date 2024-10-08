@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/1HYsysKSo869dnvdTn0NZe
 
 **Related artists:**
 
-[[Wim Treuner]]
+[[producers/Wim Treuner]]
 [[Rea Garvey]]
-[[X-Plosive]]
-[[Djorkaeff]]
-[[Phil The Beat]]
-[[Abaz]]
-[[Biztram]]
-[[Konstantin Scherer]]
+[[producers/X-Plosive]]
+[[producers/Djorkaeff]]
+[[producers/Phil The Beat]]
+[[producers/Abaz]]
+[[producers/Biztram]]
+[[producers/Konstantin Scherer]]
 [[Ivana Santacruz]]
 [[Joel Brandenstein]]
 [[Bausa]]

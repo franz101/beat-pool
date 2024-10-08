@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6N5yvXobbdLq1SBo7sqJyn
 
 **Related artists:**
 
-[[Wim Treuner]]
+[[producers/Wim Treuner]]
 [[BLVTH]]
 [[Emilio]]
-[[Kilian Wilke]]
+[[producers/Kilian Wilke]]
 [[Glasperlenspiel]]
 [[MAJAN]]
 [[7kcalls]]

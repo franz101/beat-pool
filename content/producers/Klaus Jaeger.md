@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5dwUJI1WDkJkcpbvh4pYbs
 
 **Related artists:**
 
-[[Alexs White]]
+[[producers/Alexs White]]
 [[Nino de Angelo]]

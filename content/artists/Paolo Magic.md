@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0YRuXfSPKQe6tLg164BXnj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2b7f113f15b380415bb7d386)
 **Related artists:**
 
-[[Skool Boy]]
+[[producers/Skool Boy]]

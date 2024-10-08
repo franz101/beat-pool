@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3NtQWBBMFMefVOTQ7cZqhd
 
 **Related artists:**
 
-[[Chryziz]]
+[[producers/Chryziz]]
 [[Dú Maroc]]

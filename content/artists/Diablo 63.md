@@ -28,6 +28,6 @@ url: https://open.spotify.com/artist/1WxswOadzY89SJoKEUfUAb
 [[Eypio]]
 [[Massaka]]
 [[Tankurt Manas]]
-[[dadasbeats25]]
+[[producers/dadasbeats25]]
 [[Hidra]]
 [[Tekmill]]

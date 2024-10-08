@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7COHnUQjxEVi5SggMxlu4E
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Mo Black]]
 [[Eunique]]

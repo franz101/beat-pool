@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/4FKZXUrkkYJkBwscr5STcU
 **Related artists:**
 
 [[Chefboss]]
-[[Droopy Goldberg]]
+[[producers/Droopy Goldberg]]
 [[Das Bo]]
 [[Flo Mega]]
 [[Tom Hengst]]

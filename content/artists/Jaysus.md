@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/06owcfrckO11MEnGJaq8SN
 **Related artists:**
 
 [[KEZ]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Manuellsen]]
 [[KC Rebell]]
 [[P.M.B.]]

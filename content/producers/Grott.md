@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5vql4HgLCyXNzBhCbxekuX
 
 **Related artists:**
 
-[[Hassbecker]]
+[[producers/Hassbecker]]
 [[Bataillon d'Amour]]
-[[Klick]]
-[[Barton]]
+[[producers/Klick]]
+[[producers/Barton]]

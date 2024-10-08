@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3RAr7LE5svSKAiDXnacqt3
 
 **Related artists:**
 
-[[Peter Steigenberger]]
-[[Christian Wiedemann]]
+[[producers/Peter Steigenberger]]
+[[producers/Christian Wiedemann]]
 [[Mr. Knight]]
-[[Stefan Luludes]]
+[[producers/Stefan Luludes]]
 [[Eko Fresh]]
-[[Christian Belej]]
+[[producers/Christian Belej]]

@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/6S7RQnvPNIXjexRmJqqQht
 **Related artists:**
 
 [[Marina Marx]]
-[[Achim Kleist]]
-[[Wolfgang von Webenau]]
-[[Syndicate Musicproduction]]
+[[producers/Achim Kleist]]
+[[producers/Wolfgang von Webenau]]
+[[producers/Syndicate Musicproduction]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/10Ri0TmaRmOfwixRutdBup
 
 **Related artists:**
 
-[[Peter Ries]]
-[[Nik Hafemann]]
+[[producers/Peter Ries]]
+[[producers/Nik Hafemann]]
 [[Bro'Sis]]
-[[Marc Mozart]]
+[[producers/Marc Mozart]]

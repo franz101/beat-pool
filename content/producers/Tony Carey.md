@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/4urvwbid7NFoVes5PTx9lV
 **Related artists:**
 
 [[Jennifer Weist]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Philipp Poisel]]
 [[Johannes Oerding]]
 [[Peter Maffay]]
 [[Ilse DeLange]]
-[[Peter Wagner]]
+[[producers/Peter Wagner]]
 [[Katie Melua]]

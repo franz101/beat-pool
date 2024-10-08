@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3j8WQKQWnRSqbrvV9n05g4
 **Related artists:**
 
 [[Eugene Reynolds]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Die Toten Hosen]]

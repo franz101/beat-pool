@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/2vdOdqVu8bCnY9ZEpZBwoT
 ![Artist]()
 **Related artists:**
 
-[[Leon Bontus]]
+[[producers/Leon Bontus]]
 [[YGT]]
-[[Dieter Dietrich]]
+[[producers/Dieter Dietrich]]
 [[SHISU]]
 [[Dietrich]]
 [[42]]

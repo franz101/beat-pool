@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5DE3LqsrmtEK7ZpV5C85tm
 
 **Related artists:**
 
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
 [[Kool Savas]]

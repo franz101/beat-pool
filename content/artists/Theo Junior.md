@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4Q8tZV1nlCycCfu1RFAsJO
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf0ee8d3b81b174fdd4ef161e)
 **Related artists:**
 
-[[Brasco]]
-[[Enigma Beats]]
+[[producers/Brasco]]
+[[producers/Enigma Beats]]

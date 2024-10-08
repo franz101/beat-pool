@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/72IlzE8lIeI5W1C4RTZAGv
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2d37ef7bbe7e10f40330dbd5)
 **Related artists:**
 
-[[Jurij Gold]]
-[[Greedo]]
-[[Falconi]]
-[[Robin Pace]]
-[[Juri Gold]]
-[[Team Gold]]
-[[Danny Ebtracks]]
-[[Black Rose Beatz]]
+[[producers/Jurij Gold]]
+[[producers/Greedo]]
+[[producers/Falconi]]
+[[producers/Robin Pace]]
+[[producers/Juri Gold]]
+[[producers/Team Gold]]
+[[producers/Danny Ebtracks]]
+[[producers/Black Rose Beatz]]

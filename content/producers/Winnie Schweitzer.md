@@ -22,6 +22,6 @@ url: https://open.spotify.com/artist/1K0GbsUzzKIeeWLxX8mRbd
 [[Florence Joy]]
 [[Thomas Enns]]
 [[Fabiana Lui]]
-[[Tobi Worner]]
+[[producers/Tobi Worner]]
 [[Cacau]]
-[[Davis Eisape]]
+[[producers/Davis Eisape]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2n0O3Gv7MMVQyKA94ggPAC
 
 **Related artists:**
 
-[[Robert Laupert]]
+[[producers/Robert Laupert]]
 [[Felix Gauder]]
 [[L'aupaire]]
 [[Max Giesinger]]
-[[Oli Nova]]
-[[Jules Kalmbacher]]
+[[producers/Oli Nova]]
+[[producers/Jules Kalmbacher]]
 [[Nino de Angelo]]

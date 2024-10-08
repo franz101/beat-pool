@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/617bVGwrvCdXDx5qnX9o70
 
 [[Spider Murphy Gang]]
 [[Harald Lepschies]]
-[[Harald Steinhauer]]
+[[producers/Harald Steinhauer]]

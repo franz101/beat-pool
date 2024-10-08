@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0S8fzw4wzTfrf7n5f7HoD8
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Paul Hardiman]]
-[[Dieter Weidenfeld]]
+[[producers/Paul Hardiman]]
+[[producers/Dieter Weidenfeld]]

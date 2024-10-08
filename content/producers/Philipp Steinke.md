@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/3NDW5NSjXBVtiM0YD5kyIS
 
 **Related artists:**
 
-[[Michael Ilbert]]
+[[producers/Michael Ilbert]]
 [[Revolverheld]]
 [[Bosse]]
 [[Antje Schomaker]]
 [[BOY]]
 [[Andreas Bourani]]
-[[Julius Hartog]]
+[[producers/Julius Hartog]]
 [[Casper]]
-[[Konrad Betcher]]
+[[producers/Konrad Betcher]]
 [[Niels Frevert]]
-[[Pascal Reinhardt]]
-[[Peter "Jem" Seifert]]
+[[producers/Pascal Reinhardt]]
+[[producers/Peter "Jem" Seifert]]
 [[Doron Burstein]]
 [[Nino Skrotzki]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3lYfpFuQGhRVPhotlv1lZL
 **Related artists:**
 
 [[Kidnfinity]]
-[[okaymikaaa]]
+[[producers/okaymikaaa]]

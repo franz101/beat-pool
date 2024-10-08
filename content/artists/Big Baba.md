@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/2MqvLoZm9erOyfWI3vdqb7
 [[B-Tight]]
 [[Baba Kaan]]
 [[MC Bogy]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Crackaveli]]
 [[Blokkmonsta]]

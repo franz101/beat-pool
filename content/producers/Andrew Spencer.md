@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx
 
 **Related artists:**
 
-[[Joe Thompson]]
-[[Abel Romez]]
+[[producers/Joe Thompson]]
+[[producers/Abel Romez]]
 [[Aquagen]]
 [[Brooklyn Bounce]]
 [[Crystal Lake]]
@@ -22,9 +22,9 @@ url: https://open.spotify.com/artist/1EjddlgoBT9qmrqLdPbCTx
 [[CJ Stone]]
 [[Ray Knox]]
 [[Big Daddi]]
-[[Andreas Beiderwieden]]
-[[Gino Montesano]]
-[[Stefania Vento]]
+[[producers/Andreas Beiderwieden]]
+[[producers/Gino Montesano]]
+[[producers/Stefania Vento]]
 [[Blaikz]]
 [[Ced Tecknoboy]]
 [[Pulsedriver]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2HqjaeHkmWnnt5C5i6Yn9t
 **Related artists:**
 
 [[Bato]]
-[[6HANA]]
+[[producers/6HANA]]

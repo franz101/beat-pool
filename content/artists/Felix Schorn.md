@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4
 **Related artists:**
 
 [[Zombic]]
-[[Aside]]
+[[producers/Aside]]
 [[Aylo]]

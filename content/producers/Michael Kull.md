@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6WReUzXTDGJowJIRUyi9GZ
 
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[Mike Candys]]
 [[Patrick Pöhl]]
 [[Harris & Ford]]

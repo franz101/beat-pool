@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/6fALm23BvnofrYZKuf6MUQ
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbd0dcc8622e4ee80bf2ffc4d)
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
-[[Melvin "Mesh" Schmitz]]
-[[Marcel "Juh-Dee" Uhde]]
-[[Robin Grubert]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Melvin "Mesh" Schmitz]]
+[[producers/Marcel "Juh-Dee" Uhde]]
+[[producers/Robin Grubert]]
 [[Adel Tawil]]

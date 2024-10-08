@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3z6RHj36fr9RDjBohXaquf
 **Related artists:**
 
 [[FACE]]
-[[madeingermanybeats]]
+[[producers/madeingermanybeats]]

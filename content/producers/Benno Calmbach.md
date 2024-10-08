@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/5jzxRL6xDSSm7RMMAu6GIx
 
 **Related artists:**
 
-[[Irievibration]]
+[[producers/Irievibration]]
 [[Greeny]]
 [[Chakuza]]
 [[Said]]
 [[Silla]]
 [[RAF Camora]]
 [[Joka]]
-[[Dominic Lieder]]
+[[producers/Dominic Lieder]]
 [[Joshi Mizu]]
 [[Sierra Kidd]]
-[[Dominik Lieder]]
+[[producers/Dominik Lieder]]

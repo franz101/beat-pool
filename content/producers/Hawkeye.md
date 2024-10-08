@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6nmxznUOqKpVtVVMUTiuJd
 **Related artists:**
 
 [[Ferris MC]]
-[[tobitob]]
+[[producers/tobitob]]

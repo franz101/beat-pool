@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebaadea96b26fc1369e03687f2)
 **Related artists:**
 
-[[Bastiaan Johannes Van der Vlist]]
+[[producers/Bastiaan Johannes Van der Vlist]]

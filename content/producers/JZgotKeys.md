@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5oa2B28lglYUW5Q79VsSEd
 
 **Related artists:**
 
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Sonus030]]
 [[Ufo361]]
-[[Ufuk Bayraktar]]
+[[producers/Ufuk Bayraktar]]
 [[The Cratez]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6T0s0hTtbwtFjO5y8CgMyu
 
 [[2raumwohnung]]
 [[SIRS]]
-[[Christian Pfeuffer- Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Christian Pfeuffer- Inga Humpe]]
+[[producers/Tommi Eckart]]

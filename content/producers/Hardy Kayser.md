@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3R4A25nDIy5AC7PM9OdPBX
 
 **Related artists:**
 
-[[Frank Ramond]]
+[[producers/Frank Ramond]]
 [[Ina Müller]]

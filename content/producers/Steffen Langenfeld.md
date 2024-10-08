@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5i8GpxL77Tf0zkk7lWJZQA
 
 [[Jörg Weisselberg]]
 [[Silbermond]]
-[[Ulf Wenderlich]]
+[[producers/Ulf Wenderlich]]

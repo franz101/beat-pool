@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0akEk5fhfyiifZA5xI9PPg
 
 **Related artists:**
 
-[[OGKS]]
+[[producers/OGKS]]
 [[Lazy Lizzard Gang]]
 [[Asadjohn]]
 [[Fang]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2OWKwSvFRjB5eTTgalKK3Q
 
 **Related artists:**
 
-[[W. Hall]]
+[[producers/W. Hall]]
 [[Eko Fresh]]

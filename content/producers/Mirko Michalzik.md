@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0EPjb65Py1Gmvvvb03zRjt
 
 **Related artists:**
 
-[[Lothar Atwell]]
-[[Bo Heart]]
+[[producers/Lothar Atwell]]
+[[producers/Bo Heart]]
 [[Klaus Lage]]
 [[Peter Wölpl]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0YJ8GGZvu6iapnuscFmdZx
 
 **Related artists:**
 
-[[Deats]]
+[[producers/Deats]]
 [[Veysel]]
-[[Sizzy]]
+[[producers/Sizzy]]

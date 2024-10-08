@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/36ivkk9drQY8jOePmxJBze
 **Related artists:**
 
 [[Ryko-J]]
-[[Tom Hanke]]
+[[producers/Tom Hanke]]
 [[Juri]]
-[[Kai Baudach]]
+[[producers/Kai Baudach]]
 [[buildaroof]]

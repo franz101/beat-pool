@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/45t67pt0OLH8e6C7YdlHK4
 
 **Related artists:**
 
-[[Vaegud]]
+[[producers/Vaegud]]
 [[Kidd Azzurra]]

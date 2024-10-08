@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/0e7HJUEacc9EsGP7TshJpg
 [[KAAS]]
 [[Juvel]]
 [[Manuellsen]]
-[[Benny Bazzazian]]
+[[producers/Benny Bazzazian]]
 [[Farid Bang]]

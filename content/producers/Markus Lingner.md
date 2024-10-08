@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5yT65norSXs3vo21KGPJa6
 **Related artists:**
 
 [[Ohrbooten]]
-[[Jan Krouzilek]]
+[[producers/Jan Krouzilek]]

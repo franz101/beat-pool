@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/40JXMNCNK56P89ItF7Afpe
 
 **Related artists:**
 
-[[Tomasino]]
+[[producers/Tomasino]]
 [[No Angels]]

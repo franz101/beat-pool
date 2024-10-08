@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/1m1Z3TrGetTWWB8CiQN4S8
 
 [[ThankYouKid]]
 [[Sadiq]]
-[[Majido]]
+[[producers/Majido]]

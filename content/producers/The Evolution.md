@@ -19,4 +19,4 @@ url: https://open.spotify.com/artist/2ftzxbswATwIqZkHrbFOyo
 [[Mamadee]]
 [[Rafael Rodriguez]]
 [[Christopher Martin]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3DM1YYLcnawet7HpCqH1Tm
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[Tale & Dutch]]
 [[Dj Tht]]
 [[Adassa]]

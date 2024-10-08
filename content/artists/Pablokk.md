@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/6gVNS2RoHMQgAXlAxX5o0D
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebeec15ced2447a6cef9634009)
 **Related artists:**
 
-[[ThisisYT]]
-[[DTP]]
+[[producers/ThisisYT]]
+[[producers/DTP]]
 [[Hamzo 500]]
-[[Chekaa]]
-[[Deadeye]]
+[[producers/Chekaa]]
+[[producers/Deadeye]]
 [[Hemso]]
-[[Crook]]
+[[producers/Crook]]
 [[Dú Maroc]]
 [[Jason]]
 [[Undacava]]
 [[AK AUSSERKONTROLLE]]
-[[DINSKI]]
+[[producers/DINSKI]]

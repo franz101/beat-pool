@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/4EDDCFXwZEGRxe93N8r5am
 [[Nura]]
 [[Zugezogen Maskulin]]
 [[KAYEF]]
-[[Liam X]]
+[[producers/Liam X]]
 [[Carsten Chemnitz]]

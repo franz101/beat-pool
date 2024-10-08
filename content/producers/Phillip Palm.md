@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/6ejx9jWKqGPLvPh6VeLeW5
 
 [[Lukas Hilbert]]
 [[Pur]]
-[[Tony Bruno]]
-[[Philipp Palm]]
+[[producers/Tony Bruno]]
+[[producers/Philipp Palm]]
 [[Myssina]]
 [[Nena]]

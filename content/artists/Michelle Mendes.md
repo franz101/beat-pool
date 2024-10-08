@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2Oes53ft8Ff4Np0VHkSI6p
 ![Artist](https://i.scdn.co/image/ab67616d0000b27350203bc747cf5bb72b2ed02b)
 **Related artists:**
 
-[[Gorex]]
+[[producers/Gorex]]
 [[Kay One]]
 [[Stard Ova]]
 [[Al Gear]]

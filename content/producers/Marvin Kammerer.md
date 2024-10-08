@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/39MiYJJZsbpK9gcgvNH1Y8
 **Related artists:**
 
 [[Jean-Cyrille]]
-[[Jean-Cyrille Nama Djipie Wittmann]]
-[[Philipp Kwaku Banahene Monney]]
+[[producers/Jean-Cyrille Nama Djipie Wittmann]]
+[[producers/Philipp Kwaku Banahene Monney]]

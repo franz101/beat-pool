@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH
 **Related artists:**
 
 [[Janieck]]
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[Alle Farben]]
 [[Kelvin Jones]]
 [[Senex]]
-[[Tobias Bogdon]]
-[[Gregor Sahm]]
+[[producers/Tobias Bogdon]]
+[[producers/Gregor Sahm]]

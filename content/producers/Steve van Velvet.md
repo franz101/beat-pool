@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/67S0GbwUA2FuWJIfxJh8Ri
 
 **Related artists:**
 
-[[Yvonne Diessner]]
+[[producers/Yvonne Diessner]]
 [[Alexa Feser]]
 [[Die Prinzen]]

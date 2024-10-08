@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/609M8OPyvRpmDKPa7Tn3LF
 **Related artists:**
 
 [[Drama Kuba]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[Bärbel Rotzky]]
 [[Antilopen Gang]]
 [[K.I.Z]]

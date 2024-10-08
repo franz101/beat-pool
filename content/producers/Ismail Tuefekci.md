@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5J9U6r1gbNVweqdnzi7gty
 **Related artists:**
 
 [[Tom Gaebel]]
-[[Jens Moelle]]
+[[producers/Jens Moelle]]
 [[Die Fantastischen Vier]]
-[[Hitnapperz]]
+[[producers/Hitnapperz]]

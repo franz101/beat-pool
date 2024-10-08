@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9ffdb939c47a56017bc14371)
 **Related artists:**
 
-[[Jan Vetter]]
+[[producers/Jan Vetter]]
 [[Loki]]
 [[Pufuleti]]
 [[Ahzumjot]]
 [[Anthony Drawn]]
 [[Tufu]]
 [[Eloquent]]
-[[Boora]]
+[[producers/Boora]]
 [[Joe Space]]
 [[fLOwTEC]]
 [[Nepumuk]]

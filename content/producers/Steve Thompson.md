@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3mtbPZ67URxW9M8I9gH4uY
 **Related artists:**
 
 [[Cutting Crew]]
-[[Michael Barbiero]]
+[[producers/Michael Barbiero]]

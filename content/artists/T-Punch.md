@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6mqj5ouFMoladHQ5JbnjlO
 
 **Related artists:**
 
-[[Mohsen Arabasadi]]
+[[producers/Mohsen Arabasadi]]
 [[Persian Raver]]

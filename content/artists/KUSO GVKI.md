@@ -18,10 +18,10 @@ url: https://open.spotify.com/artist/2kHPYRgRjUw4IlwS2N6FsS
 
 [[Juse Ju]]
 [[Gianni Mae]]
-[[Jeremias Hammerstein]]
-[[Haku Nakagami]]
+[[producers/Jeremias Hammerstein]]
+[[producers/Haku Nakagami]]
 [[Casey]]
 [[Apfel Gee]]
 [[Jeremiah]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Dakota Matisha]]

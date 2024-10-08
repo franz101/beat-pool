@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1OCiK9eT2yZj5d1dDShz0Y
 
 **Related artists:**
 
-[[PVLACE]]
+[[producers/PVLACE]]
 [[Dardan]]
 [[Noah]]
-[[MENJU]]
+[[producers/MENJU]]

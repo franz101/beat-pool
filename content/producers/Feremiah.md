@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/4EFZIUUpfQc5ZwVu217l0l
 **Related artists:**
 
 [[Mike Singer]]
-[[Luca Starz]]
+[[producers/Luca Starz]]
 [[Minhtendo]]
-[[Jonathan David]]
-[[Beatzarre & Djorkaeff]]
+[[producers/Jonathan David]]
+[[producers/Beatzarre & Djorkaeff]]
 [[reezy]]
-[[Phil TheBeat]]
+[[producers/Phil TheBeat]]
 [[Samra]]
 [[RIN]]
-[[Neal & Alex]]
+[[producers/Neal & Alex]]

@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3X2M3VS0P1ahTp2305HK1N
 
 **Related artists:**
 
-[[DJ Gan-G]]
+[[producers/DJ Gan-G]]
 [[Dardan]]
 [[Minhtendo]]
 [[SEKOZAZA]]
-[[Pzy]]
-[[nocashfromparents]]
+[[producers/Pzy]]
+[[producers/nocashfromparents]]
 [[Darren Brown]]
-[[Leryk]]
-[[MENJU]]
+[[producers/Leryk]]
+[[producers/MENJU]]

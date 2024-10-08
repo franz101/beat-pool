@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4LmjMMv69tN9V7ggJpva6r
 **Related artists:**
 
 [[Schandmaul]]
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[MajorVoice]]
 [[Subway To Sally]]
 [[Saltatio Mortis]]
-[[Simon Michael Schmitt]]
+[[producers/Simon Michael Schmitt]]
 [[Feuerschwanz]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4yUuiPLpM0jviqL2DJf9M0
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Leo Schmidthals]]
+[[producers/Leo Schmidthals]]

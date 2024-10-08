@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/3SRk5s6X6rRIZVvyACWYdG
 [[WQLFF]]
 [[Okfella]]
 [[Karden]]
-[[beatsbyostin]]
+[[producers/beatsbyostin]]
 [[diemo]]

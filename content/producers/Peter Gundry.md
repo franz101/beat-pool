@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0HCkZtmMJLvUyWT5m0ojBX
 **Related artists:**
 
 [[METRICKZ]]
-[[X-Plosive]]
+[[producers/X-Plosive]]

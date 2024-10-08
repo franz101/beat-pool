@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2t1YVqm4E6w3CsEDw2Zasi
 **Related artists:**
 
 [[ICF Worship]]
-[[Nicolas Legler]]
-[[Dominik Laim]]
+[[producers/Nicolas Legler]]
+[[producers/Dominik Laim]]

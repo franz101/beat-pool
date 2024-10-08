@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/17qsh94KaUzWvWIJRSccch
 [[Brous One]]
 [[Sadat X]]
 [[Matiah Chinaski]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Damu The Fudgemunk]]

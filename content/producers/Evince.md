@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0crUByU3Dgd8ch7ttRjPvd
 
 **Related artists:**
 
-[[GMP Sound]]
+[[producers/GMP Sound]]
 [[MU$A386]]
-[[Feniko Beatz]]
+[[producers/Feniko Beatz]]

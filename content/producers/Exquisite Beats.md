@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2n92edZ7weHs3uqtuBcn1G
 
 [[Lil Zey]]
 [[Luciano]]
-[[Zel]]
+[[producers/Zel]]

@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/64FJnCf92hiDZ9y7AbW41N
 
 [[Joka]]
 [[KC Rebell]]
-[[Abaz]]
-[[2nd Roof]]
+[[producers/Abaz]]
+[[producers/2nd Roof]]
 [[Silla]]

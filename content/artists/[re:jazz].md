@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0j8gclZl8amrxyH2PORS7U
 
 **Related artists:**
 
-[[Heinz Hess]]
-[[Matthias Vogt]]
+[[producers/Heinz Hess]]
+[[producers/Matthias Vogt]]
 [[Stephan Remmler]]

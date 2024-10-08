@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN
 **Related artists:**
 
 [[Ufo361]]
-[[Tm88]]
+[[producers/Tm88]]

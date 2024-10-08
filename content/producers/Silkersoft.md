@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3p9Fq49y7SxKwa3QBeFK0V
 
 [[Zugezogen Maskulin]]
 [[Ahzumjot]]
-[[Funkvater Frank]]
+[[producers/Funkvater Frank]]
 [[Dexter]]

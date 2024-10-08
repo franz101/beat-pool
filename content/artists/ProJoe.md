@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6CYS3iBHeIYAJsGKb8BA23
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Albert Frey]]
+[[producers/Albert Frey]]

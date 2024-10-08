@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5XRVsiPuwxwM0EjcVTF3NI
 
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
+[[producers/Vincent von Schlippenbach]]
 [[Monchi]]
-[[Dirk Berger]]
-[[David Conen]]
+[[producers/Dirk Berger]]
+[[producers/David Conen]]
 [[Casper]]
 [[Marteria]]

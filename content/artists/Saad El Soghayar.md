@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP
 
 **Related artists:**
 
-[[Kingsize]]
-[[Aksit Ugurlu "DJ Sess"]]
+[[producers/Kingsize]]
+[[producers/Aksit Ugurlu "DJ Sess"]]
 [[Eko Fresh]]

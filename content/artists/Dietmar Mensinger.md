@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4j2o2EUlBsEwAFVLys7JSM
 **Related artists:**
 
 [[Saltatio Mortis]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

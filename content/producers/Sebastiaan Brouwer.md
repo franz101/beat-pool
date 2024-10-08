@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/21dulHMCIABLVAFOBB3Zqc
 
 **Related artists:**
 
-[[Noah Seelmann]]
+[[producers/Noah Seelmann]]
 [[Davina Michelle]]

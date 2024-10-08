@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7A9dd8M8iaCes8xKAI7mak
 
 **Related artists:**
 
-[[Dennis Lisk]]
+[[producers/Dennis Lisk]]
 [[Nina Hagen]]
 [[Beginner]]
 [[K.I.Z]]

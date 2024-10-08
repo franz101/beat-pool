@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3FndJn2fpE9WQmpP2hJEWa
 
 **Related artists:**
 
-[[Yannik Ernst]]
-[[Yannick Ernst]]
+[[producers/Yannik Ernst]]
+[[producers/Yannick Ernst]]
 [[Johannes Römer]]
 [[Julian le Play]]
 [[KYTES]]
-[[Alexander Teschauer]]
+[[producers/Alexander Teschauer]]

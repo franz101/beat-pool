@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1tLkcrDNqNfoJAj2mnwCPh
 
 **Related artists:**
 
-[[Oliver Floete]]
+[[producers/Oliver Floete]]
 [[Scotty]]

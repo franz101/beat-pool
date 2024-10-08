@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebedafd7696a977beade80ee8e)
 **Related artists:**
 
-[[Can "Stress" Canatan]]
+[[producers/Can "Stress" Canatan]]
 [[Kartellen]]
 [[Sebbe Staxx]]

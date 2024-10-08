@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/5H8FPmLAQZFiZr5Ztfuz3z
 **Related artists:**
 
 [[Richter]]
-[[Absolute Beatz]]
+[[producers/Absolute Beatz]]
 [[FACE]]
-[[Joezee]]
+[[producers/Joezee]]
 [[Bosca]]
 [[Timeless]]
 [[Karen]]
-[[Toxik Tyson]]
-[[Jot-Teh]]
+[[producers/Toxik Tyson]]
+[[producers/Jot-Teh]]

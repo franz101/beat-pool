@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0qPUDOVD0aYR2lmCilnscs
 
 **Related artists:**
 
-[[Eissfeldt 65]]
+[[producers/Eissfeldt 65]]
 [[Beginner]]
-[[Denyo 77]]
+[[producers/Denyo 77]]

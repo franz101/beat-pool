@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk
 **Related artists:**
 
 [[Helene Fischer]]
-[[Alex Christensen]]
+[[producers/Alex Christensen]]
 [[Royal Philharmonic Orchestra]]

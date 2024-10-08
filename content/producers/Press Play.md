@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5QGoEuMsdKHcLMgGZkHQbS
 **Related artists:**
 
 [[AL Kareem]]
-[[21]]
+[[producers/21]]

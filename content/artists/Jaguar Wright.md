@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7mlPu2ZX0vOFIBUEiXnIpn
 **Related artists:**
 
 [[Götz Gottschalk]]
-[[Matthijs Rook]]
+[[producers/Matthijs Rook]]
 [[Curse]]

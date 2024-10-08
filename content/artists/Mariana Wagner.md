@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/5NPZ0Y4vPNVEHWSafnEKpm
 [[Jasmin Shakeri]]
 [[Diane Weigmann]]
 [[Thorsten Brötzmann]]
-[[Alexander Freund]]
+[[producers/Alexander Freund]]
 [[Vasee]]

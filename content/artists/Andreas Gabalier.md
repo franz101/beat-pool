@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/4rp8rIXbwp93MnStnqDGQD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb69f20a57b888d7c745155358)
 **Related artists:**
 
-[[Mark Nissen]]
-[[Mathias Roska]]
-[[Klaus Bartelmuss]]
+[[producers/Mark Nissen]]
+[[producers/Mathias Roska]]
+[[producers/Klaus Bartelmuss]]
 [[Samu Haber]]
 [[Santiano]]
-[[Hartmut Krech]]
+[[producers/Hartmut Krech]]

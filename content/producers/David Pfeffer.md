@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0c0KqfLEQzdrsKZ7of4BpE
 
 **Related artists:**
 
-[[Stefan Zepp]]
+[[producers/Stefan Zepp]]
 [[Mo-Torres]]

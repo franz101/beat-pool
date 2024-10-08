@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1lVcN9NkhrE8kaecHSinMm
 
 **Related artists:**
 
-[[Panorama]]
+[[producers/Panorama]]
 [[Eloquent]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6rojc0KTm11RShM1VrxA9R
 
 **Related artists:**
 
-[[Benjamin Griffey]]
+[[producers/Benjamin Griffey]]
 [[Philipp Dittberner]]
 [[Antje Schomaker]]
-[[Robert Stephenson]]
+[[producers/Robert Stephenson]]
 [[Casper]]
 [[Stefanie Heinzmann]]
-[[Steffen Wilmking]]
+[[producers/Steffen Wilmking]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7eHrN1iBzrVARbLGVuh92K
 **Related artists:**
 
 [[Daddy Rings]]
-[[QP Laboratories]]
+[[producers/QP Laboratories]]

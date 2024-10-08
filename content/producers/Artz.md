@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2QU0UNvQvEZ2fuRUhkUNq4
 
 **Related artists:**
 
-[[Sonus03]]
-[[Bugy]]
+[[producers/Sonus03]]
+[[producers/Bugy]]
 [[Ezhel]]
 [[Sonus030]]
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Ufo361]]
 [[The Cratez]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/42WHzpVLTcpIsPQwfAThAq
 
 **Related artists:**
 
-[[Jannik Eilers]]
+[[producers/Jannik Eilers]]
 [[EnteTainment]]

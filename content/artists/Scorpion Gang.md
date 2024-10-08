@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4CD6drviDJ8wccEAZuc9y4
 
 [[geenaro]]
 [[BILLA JOE]]
-[[Ghana Beats]]
+[[producers/Ghana Beats]]
 [[Summer Cem]]

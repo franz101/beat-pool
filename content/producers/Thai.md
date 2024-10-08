@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5sSwEntOrCUU81fUoH204H
 **Related artists:**
 
 [[La-Honda]]
-[[Zero]]
+[[producers/Zero]]
 [[Eko Fresh]]

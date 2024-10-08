@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/14o7tLxFE838IccNPu7m5G
 **Related artists:**
 
 [[Neonschwarz]]
-[[Friedhelm Mund]]
+[[producers/Friedhelm Mund]]

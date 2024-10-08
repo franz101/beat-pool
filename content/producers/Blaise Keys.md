@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2N0gFSNXubM60NMWtY5vxq
 
 **Related artists:**
 
-[[Mounir Maarouf]]
+[[producers/Mounir Maarouf]]
 [[Kelvyn Colt]]
-[[Kelvyn Ajala]]
+[[producers/Kelvyn Ajala]]

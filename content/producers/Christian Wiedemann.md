@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6jrdz8dYapFynYfHFiay7e
 
 **Related artists:**
 
-[[Peter Steigenberger]]
+[[producers/Peter Steigenberger]]
 [[Mr. Knight]]
-[[Daniel Schreyer]]
-[[Stefan Luludes]]
+[[producers/Daniel Schreyer]]
+[[producers/Stefan Luludes]]
 [[Eko Fresh]]
-[[Christian Belej]]
+[[producers/Christian Belej]]

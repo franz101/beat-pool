@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0598ningdtDCxXo84hgcDX
 
 **Related artists:**
 
-[[Mark Liggett]]
+[[producers/Mark Liggett]]
 [[Robin Gibb]]
-[[Christopher Maynard Barbosa]]
-[[Robin Hugh Gibb]]
+[[producers/Christopher Maynard Barbosa]]
+[[producers/Robin Hugh Gibb]]

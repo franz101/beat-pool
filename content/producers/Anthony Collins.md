@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4kIlPTuKTUdnIZDi2G7Kqi
 
 **Related artists:**
 
-[[Francis Harris]]
+[[producers/Francis Harris]]
 [[Frank & Tony]]

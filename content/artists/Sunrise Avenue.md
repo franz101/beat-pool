@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/1osZFzamKEXNoYk7HzWbDe
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdedb489218089b5973fc6020)
 **Related artists:**
 
-[[Victor Thell]]
+[[producers/Victor Thell]]
 [[Helene Fischer]]
 [[Madizin]]
 [[Toni Kimpimäki]]
-[[Nicolas Rebscher]]
-[[Aku Sinivalo]]
+[[producers/Nicolas Rebscher]]
+[[producers/Aku Sinivalo]]
 [[Samu Haber]]
-[[MachoPsycho]]
-[[Jukka Immonen]]
-[[Jukka Backlund]]
+[[producers/MachoPsycho]]
+[[producers/Jukka Immonen]]
+[[producers/Jukka Backlund]]

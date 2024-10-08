@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2vHbMdwpX8tqnsBvqWRNoR
 **Related artists:**
 
 [[Kalazh44]]
-[[M6]]
-[[Mike Nolovemusic]]
+[[producers/M6]]
+[[producers/Mike Nolovemusic]]

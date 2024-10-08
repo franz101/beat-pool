@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0F8l1raRpXvRCsTrfSVocA
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[RDB]]
 [[Zola]]
 [[Farhad Darya]]

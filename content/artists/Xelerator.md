@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6dSQP4LNhfhYy3JD7ukfxU
 **Related artists:**
 
 [[Frank Bohnert]]
-[[B-way]]
-[[Marlon White]]
-[[Frank Kohnert]]
-[[Marlon Weiss]]
+[[producers/B-way]]
+[[producers/Marlon White]]
+[[producers/Frank Kohnert]]
+[[producers/Marlon Weiss]]

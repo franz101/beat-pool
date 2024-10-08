@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5S0etUqmeewaOW7XegcUfy
 **Related artists:**
 
 [[Eloquent]]
-[[Felix Diegritz]]
+[[producers/Felix Diegritz]]
 [[Dramadigs]]

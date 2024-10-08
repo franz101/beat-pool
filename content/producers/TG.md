@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0JK4SxjoYiiwJBQjOHkFhN
 
 **Related artists:**
 
-[[HNDRIX]]
+[[producers/HNDRIX]]
 [[Mortel]]
 [[Soufian]]
 [[SOTT]]
-[[BM]]
+[[producers/BM]]
 [[Reda Rwena]]
 [[Doezis]]
 [[Mois]]

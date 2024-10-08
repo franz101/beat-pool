@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3WbdT4vNK9V16QmQ20GBmK
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Tobi Worner]]
+[[producers/Tobi Worner]]
 [[Florence Joy]]
-[[Winnie Schweitzer]]
+[[producers/Winnie Schweitzer]]

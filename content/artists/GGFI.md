@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6VyeJs6GVs35g2EH5QhxAd
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd4be2f9433f76f9889e55631)
 **Related artists:**
 
-[[Benihana Boy]]
+[[producers/Benihana Boy]]
 [[basi]]
 [[Yung Vision]]
 [[Young Taylor]]

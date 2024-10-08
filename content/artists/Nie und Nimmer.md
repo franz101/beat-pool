@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5sF5Etprqoh9ufF3ap2eZY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4961213560b99f3f5a930c42)
 **Related artists:**
 
-[[Jan Listing]]
+[[producers/Jan Listing]]
 [[Gestört aber GeiL]]

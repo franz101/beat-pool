@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0xUyLGSseSGcIZxOPgENjQ
 **Related artists:**
 
 [[Sunrise Avenue]]
-[[Jukka Backlund]]
-[[Aku Sinivalo]]
+[[producers/Jukka Backlund]]
+[[producers/Aku Sinivalo]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/792vD8flH5Qo1sRZGeVE39
 **Related artists:**
 
 [[Zizi]]
-[[sezbeatz]]
+[[producers/sezbeatz]]

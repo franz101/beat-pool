@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0RtqkCjHtUuzL3djyHpc7O
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Thomas Kukuck]]
-[[Holger J. Magnussen]]
+[[producers/Thomas Kukuck]]
+[[producers/Holger J. Magnussen]]
 [[City]]
-[[Conny Plank]]
+[[producers/Conny Plank]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2e1TOkiYL0jikGXnEvDBr4
 **Related artists:**
 
 [[Pulsedriver]]
-[[Dirk Waldt]]
+[[producers/Dirk Waldt]]
 [[Brisby & Jingles]]
 [[Jörn Riebenstahl]]

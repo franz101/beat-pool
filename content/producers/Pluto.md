@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5hEja5GqdRvMxtIWpGdvYt
 
 **Related artists:**
 
-[[Lorentz]]
+[[producers/Lorentz]]
 [[OMG]]
-[[Quantich]]
+[[producers/Quantich]]

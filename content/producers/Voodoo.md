@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3TDANcQJHTGkXSkBKImn8w
 
 **Related artists:**
 
-[[Vendetta]]
+[[producers/Vendetta]]
 [[Kilomatik]]
 [[JULIEN BOSS]]
 [[EnteTainment]]
-[[AbsoluteBeatz]]
+[[producers/AbsoluteBeatz]]
 [[Vendetta Beats]]

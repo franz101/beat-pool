@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/3WqTfzk1xyJD9P6t2Kif4p
 
 [[Die Orsons]]
 [[Hagen Stoll]]
-[[Sven Gillert]]
-[[Matthias Mania]]
+[[producers/Sven Gillert]]
+[[producers/Matthias Mania]]
 [[Tua]]
 [[Haudegen]]
 [[Vega]]

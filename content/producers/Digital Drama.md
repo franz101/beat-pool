@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7gUNQ48EtwdAYgktJpSP0y
 
 [[Sami]]
 [[Sun Diego]]
-[[Jan van der Toorn]]
+[[producers/Jan van der Toorn]]
 [[Moe Phoenix]]
 [[Falco]]
 [[Kollegah]]

@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/17yaEzDmGndNSJUJzDEXjS
 [[Melissa Bonny]]
 [[Faey]]
 [[OOMPH!]]
-[[Fabio Trentini]]
+[[producers/Fabio Trentini]]
 [[Feuerschwanz]]

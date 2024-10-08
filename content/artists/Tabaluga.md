@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4M0PZyOPSvjzFEBRg3G8xA
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[Peter Maffay und Band]]
-[[Carl Carlton]]
-[[Peter Keller]]
+[[producers/Carl Carlton]]
+[[producers/Peter Keller]]
 [[Peter Maffay]]
 [[Gregor Rottschalk]]

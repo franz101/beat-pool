@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2S6bNoFLN4xiDSoEHlPE3s
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc833302eeae124e38a8c6f2a)
 **Related artists:**
 
-[[Othreeo]]
-[[Palaze]]
-[[southstar]]
-[[sebo]]
+[[producers/Othreeo]]
+[[producers/Palaze]]
+[[producers/southstar]]
+[[producers/sebo]]

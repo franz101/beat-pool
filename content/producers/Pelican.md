@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/0Gq06EJlfPumvCdMsnkJFp
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Dennis Bierbrodt]]
 [[Alle Farben]]
-[[Mushroom People]]
-[[Jurgen Dohr]]
+[[producers/Mushroom People]]
+[[producers/Jurgen Dohr]]
 [[James Blunt]]
-[[Stefan Dabruck]]
-[[Daniel Deimann]]
+[[producers/Stefan Dabruck]]
+[[producers/Daniel Deimann]]

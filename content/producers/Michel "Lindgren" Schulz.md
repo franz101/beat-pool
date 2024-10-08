@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0i43Mz6n1cKy1bOyIgfHxE
 
 **Related artists:**
 
-[[Melanie Joy Fontana]]
-[[Kai Fichtner]]
+[[producers/Melanie Joy Fontana]]
+[[producers/Kai Fichtner]]
 [[KAYEF]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7MAZYXIsL0JU6zKwkaIgh3
 
 **Related artists:**
 
-[[Andy Sedlmair]]
+[[producers/Andy Sedlmair]]
 [[Rosenstolz]]
 [[Tom Müller]]
 [[Peter Plate]]

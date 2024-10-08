@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/0TMWVOgDolYPS4qpZbImRH
 
 **Related artists:**
 
-[[Maegli]]
+[[producers/Maegli]]
 [[NOK1D]]
 [[Ahmad Amin]]
 [[JEEZA]]
 [[Camaeleon]]
 [[basi]]
-[[The Royals]]
+[[producers/The Royals]]
 [[Koushino]]
-[[Yungfuel]]
+[[producers/Yungfuel]]
 [[Bonez MC]]
 [[prodbytwelve]]
-[[DeeVoe]]
+[[producers/DeeVoe]]

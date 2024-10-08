@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3EeWnBUS4RJ18MHZbAnoKS
 
 **Related artists:**
 
-[[Sebastian Zang]]
+[[producers/Sebastian Zang]]
 [[Teamtrouble]]
 [[The Tronix]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4ruLs6dbmFBaK1J4lGsvFh
 [[Nikky Santoro]]
 [[Nate57]]
 [[Telly Tellz]]
-[[Tim Lindenschmidt]]
+[[producers/Tim Lindenschmidt]]
 [[Cahiips]]

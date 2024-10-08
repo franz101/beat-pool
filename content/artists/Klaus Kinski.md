@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/26RO1zqACPgq2i0y4rq2wX
 **Related artists:**
 
 [[Nikolai Kinski]]
-[[Steddy]]
+[[producers/Steddy]]
 [[Nisse]]

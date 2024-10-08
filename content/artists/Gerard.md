@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5bbTyX7qVkcYCrCfwGZw6N
 
 **Related artists:**
 
-[[Sven Ludwig]]
+[[producers/Sven Ludwig]]
 [[OK KID]]
 [[Montez]]
-[[Robot Koch]]
+[[producers/Robot Koch]]

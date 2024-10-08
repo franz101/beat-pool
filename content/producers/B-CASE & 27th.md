@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3xnjEfsbumc8Z3K8beQKiL
 
 **Related artists:**
 
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Farid Bang]]

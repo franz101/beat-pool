@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3J3Hpo7Yp81yfnEkgaJKV2
 
 [[Tom Gaebel]]
 [[Die Fantastischen Vier]]
-[[Hitnapperz]]
-[[Ismail Tuefekci]]
+[[producers/Hitnapperz]]
+[[producers/Ismail Tuefekci]]

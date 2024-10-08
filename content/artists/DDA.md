@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0bsCcMEjpaGDPfZkVqBbcJ
 **Related artists:**
 
 [[Pulsedriver]]
-[[Peer MV – Edition Gellina]]
-[[Copyright Control]]
+[[producers/Peer MV – Edition Gellina]]
+[[producers/Copyright Control]]
 [[Brooklyn Bounce]]

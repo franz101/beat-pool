@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1RnsEBBui3BTMWCBSFu8J6
 
 **Related artists:**
 
-[[Marcel Tutt]]
+[[producers/Marcel Tutt]]
 [[Nino de Angelo]]

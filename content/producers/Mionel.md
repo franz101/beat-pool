@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6gqiG2ohr29TB7x50Z2H60
 **Related artists:**
 
 [[Azan]]
-[[qdex]]
+[[producers/qdex]]

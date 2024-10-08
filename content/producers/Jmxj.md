@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/4I399M4Y46aio0sKU9Gc9m
 **Related artists:**
 
 [[Die P]]
-[[Kickphilip]]
+[[producers/Kickphilip]]
 [[Reeperbahn Kareem]]
 [[AchtVier]]
-[[TVL]]
+[[producers/TVL]]
 [[Kaisa Natron]]
-[[SOYiLL]]
+[[producers/SOYiLL]]
 [[Boz]]

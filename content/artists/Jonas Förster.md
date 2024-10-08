@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2uw8oOA4PeIVQGybBgIVd3
 **Related artists:**
 
 [[Jennifer Rostock]]
-[[Werner "Dr. Roc" Krumme - Christian Bader]]
+[[producers/Werner "Dr. Roc" Krumme - Christian Bader]]

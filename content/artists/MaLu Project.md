@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2kScHNJ4AdsEdU1FMPsNLM
 
 **Related artists:**
 
-[[Lucian Balinisteanu]]
+[[producers/Lucian Balinisteanu]]
 [[Tobias Böhm]]
-[[Hendrik Meyer]]
+[[producers/Hendrik Meyer]]
 [[Basslouder]]
 [[K Brown]]
 [[James Stefano]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4Lc8yTAghDea9jb2qdRyUq
 
 **Related artists:**
 
-[[Tay Keith]]
+[[producers/Tay Keith]]
 [[The Cratez]]
 [[Ufo361]]
-[[Ufuk Bayraktar]]
+[[producers/Ufuk Bayraktar]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5G2qlOMuqNVcufY8A8U0xP
 
 **Related artists:**
 
-[[Tamara Danz]]
+[[producers/Tamara Danz]]

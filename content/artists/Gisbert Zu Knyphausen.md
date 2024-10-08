@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/2tDVKS41XWT3vvy4A3ZbcV
 **Related artists:**
 
 [[Nils Koppruch]]
-[[Frenzy Suhr]]
-[[Gunnar Ennen]]
-[[Sebastian Deufel]]
-[[Tobias Levin]]
-[[Jean-Michel Tourette]]
-[[Jens Fricke]]
+[[producers/Frenzy Suhr]]
+[[producers/Gunnar Ennen]]
+[[producers/Sebastian Deufel]]
+[[producers/Tobias Levin]]
+[[producers/Jean-Michel Tourette]]
+[[producers/Jens Fricke]]
 [[Kid Kopphausen]]

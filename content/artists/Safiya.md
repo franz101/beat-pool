@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1qBZ9CRVbr8iJ4aWFxjXLJ
 
 **Related artists:**
 
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]
 [[Lars “Gollum” Böge]]

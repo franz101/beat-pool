@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5rPaTBxeD2bSZaTKFOojG6
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[JORIS]]
 [[Madeline Juno]]
 [[LOTTE]]
-[[Oliver Som]]
+[[producers/Oliver Som]]
 [[Mia.]]

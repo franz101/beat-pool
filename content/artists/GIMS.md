@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK
 **Related artists:**
 
 [[Shirin David]]
-[[FNSHRS]]
+[[producers/FNSHRS]]

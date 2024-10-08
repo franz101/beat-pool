@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0G2wM26ssThLCYn4kavubu
 
 **Related artists:**
 
-[[Dee B]]
+[[producers/Dee B]]
 [[Skeeniboi]]

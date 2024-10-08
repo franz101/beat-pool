@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/4nFH1RiszGH85kI3vB5lxd
 [[Mister Mex]]
 [[Platzpatron]]
 [[Lord Sesshomaru]]
-[[Modem56K]]
+[[producers/Modem56K]]
 [[Opti Mane]]
 [[Modem]]
 [[Nimo]]

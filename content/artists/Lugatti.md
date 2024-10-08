@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb42d95bfbc98c6779c485237f)
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[$OHO BANI]]
-[[SBM]]
+[[producers/SBM]]
 [[Holy Modee]]
 [[Blokkboy$]]
 [[marú]]
@@ -31,11 +31,11 @@ url: https://open.spotify.com/artist/4P5ooDKThRs2cx6MZ7cpFg
 [[Cgoon]]
 [[snice1]]
 [[Tom Hengst]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[flex53]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[Konz]]
 [[morten]]
-[[Traya]]
-[[Bobby San]]
+[[producers/Traya]]
+[[producers/Bobby San]]
 [[Carlifornia]]

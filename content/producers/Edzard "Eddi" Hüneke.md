@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/07c62bNaihEDn1QKxGxq4R
 
 [[Wise Guys]]
 [[Daniel "Dän" Dickopf]]
-[[Uwe Baltrusch]]
+[[producers/Uwe Baltrusch]]

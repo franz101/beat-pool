@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4GCIBiaoCGRCniUXDUKV7M
 
 **Related artists:**
 
-[[Hassbecker]]
-[[Grott]]
-[[Klick]]
-[[Barton]]
+[[producers/Hassbecker]]
+[[producers/Grott]]
+[[producers/Klick]]
+[[producers/Barton]]

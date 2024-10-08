@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3M9EMaTryR42e52Pz2HiV2
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebba6104d7130f39d894072366)
 **Related artists:**
 
-[[Unleaded]]
+[[producers/Unleaded]]
 [[Marcos G. Pérez]]
 [[Ardian Bujupi]]
 [[Farruko]]
-[[MB]]
+[[producers/MB]]
 [[Master HP]]

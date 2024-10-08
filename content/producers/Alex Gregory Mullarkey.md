@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/0dzg3DHA7CmkJCgi8L8OOZ
 **Related artists:**
 
 [[Bato]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
-[[Neal]]
-[[Chekaa]]
-[[Joshua Neel Pinter]]
-[[Perino]]
+[[producers/Neal]]
+[[producers/Chekaa]]
+[[producers/Joshua Neel Pinter]]
+[[producers/Perino]]
 [[Freshmaker]]
 [[NEALX]]
 [[Fero47]]

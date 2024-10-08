@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4urVbranJKYPQ2e2VWf98s
 
 **Related artists:**
 
-[[Maru]]
+[[producers/Maru]]
 [[JACE]]
 [[Haiyti]]

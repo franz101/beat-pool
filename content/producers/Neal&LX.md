@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5mGogJFNjojifk1DNHHVpB
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]
 [[Olexesh]]
 [[Grafh]]

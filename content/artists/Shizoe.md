@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/2msZIODTemsOSXZhoH9ZKq
 
 **Related artists:**
 
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Frauenarzt]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[B-Tight]]
 [[Megaloh]]
 [[Fler]]
-[[Montana Beats]]
+[[producers/Montana Beats]]
 [[Sido]]
-[[Therapy]]
+[[producers/Therapy]]
 [[B-Lash]]
 [[G-Hot]]
 [[Harris]]

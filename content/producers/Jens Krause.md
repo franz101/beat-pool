@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/00QU5tHqCcZaO9yySsb7El
 
 [[Fury In The Slaughterhouse]]
 [[Tobias Künzel]]
-[[Franz Plasa]]
+[[producers/Franz Plasa]]
 [[Die Prinzen]]
 [[Prez Brown]]
-[[Paul Grau]]
+[[producers/Paul Grau]]

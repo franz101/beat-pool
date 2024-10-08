@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6p0eFk6CWrdj52NxRdyqFa
 
 **Related artists:**
 
-[[DJ Vito]]
-[[Samy Sorge]]
+[[producers/DJ Vito]]
+[[producers/Samy Sorge]]
 [[Bengio]]
-[[Lev]]
+[[producers/Lev]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6f4xwtaaBmRQWLaDpViwCO
 **Related artists:**
 
 [[Jonas Monar]]
-[[Nisse Ingwersen]]
+[[producers/Nisse Ingwersen]]
 [[Matthias Schweighöfer]]
 [[Pur]]
-[[Alexander Knolle]]
-[[Severin von Sydow]]
+[[producers/Alexander Knolle]]
+[[producers/Severin von Sydow]]

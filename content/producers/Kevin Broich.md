@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3MMRmEEaBQgf9vReso4N6J
 **Related artists:**
 
 [[Yassin]]
-[[Majid Al-Habash]]
+[[producers/Majid Al-Habash]]
 [[Audio88]]
 [[Torky Tork]]

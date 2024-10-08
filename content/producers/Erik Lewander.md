@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2OzyKcsJKIDyXhV6w1F5rp
 
 **Related artists:**
 
-[[Rob Tyger]]
+[[producers/Rob Tyger]]
 [[Sarah Connor]]

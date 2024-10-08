@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG
 **Related artists:**
 
 [[Wencke Myhre]]
-[[Bobby Schmidt]]
+[[producers/Bobby Schmidt]]
 [[Fettes Brot]]

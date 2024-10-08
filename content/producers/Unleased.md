@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0jOpSph9oYF2UZjoZT1Fsu
 
 **Related artists:**
 
-[[Yam]]
+[[producers/Yam]]
 [[Ardian Bujupi]]

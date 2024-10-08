@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1woyKd2fxqiN8DZxXrEUoZ
 
 **Related artists:**
 
-[[Dustin Bremerich]]
+[[producers/Dustin Bremerich]]
 [[Alle Farben]]
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2ln8Kw23nf6N284UKoAHZM
 **Related artists:**
 
 [[Kid Cairo]]
-[[Sob Production]]
+[[producers/Sob Production]]
 [[Edo Saiya]]

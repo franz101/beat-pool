@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1wnlXNUPupIFpLruihl6bO
 
 **Related artists:**
 
-[[4) Lea Canere]]
-[[3) 7J]]
+[[producers/4) Lea Canere]]
+[[producers/3) 7J]]
 [[Kollegah]]

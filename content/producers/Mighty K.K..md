@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7mCRafm16bX2xAquCtkDiS
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Oliver Pinelli]]
-[[Derezon]]
+[[producers/Oliver Pinelli]]
+[[producers/Derezon]]
 [[Yvonne Catterfeld (Julia)]]

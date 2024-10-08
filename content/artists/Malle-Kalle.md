@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/05jMwd5CNqsK4c0bdACgRO
 
 **Related artists:**
 
-[[Mark Duran]]
-[[Thomas Spitzer]]
+[[producers/Mark Duran]]
+[[producers/Thomas Spitzer]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

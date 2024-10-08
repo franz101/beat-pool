@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1cNjLqZbwyZMUHdgiA15r5
 [[Jürgen Drews]]
 [[Judy Cheeks]]
 [[Die Deutsche Fußball Nationalmannschaft]]
-[[Peter Wagner]]
+[[producers/Peter Wagner]]

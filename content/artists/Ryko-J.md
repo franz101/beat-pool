@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/63f4rVs9TtEqpIrRpmnDRr
 **Related artists:**
 
 [[ESSENTIAL.WAV]]
-[[Tom Hanke]]
+[[producers/Tom Hanke]]
 [[Juri]]
-[[Kai Baudach]]
+[[producers/Kai Baudach]]
 [[buildaroof]]

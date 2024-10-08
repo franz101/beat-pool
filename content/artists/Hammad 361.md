@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/2rSMziK7ZDYg33trwUObd3
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5a871c0bafe1945022d1c0c5)
 **Related artists:**
 
-[[C55]]
+[[producers/C55]]
 [[Mosh36]]
 [[Brudi030]]
 [[NGEE]]
 [[B3S]]
 [[King Khalil]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/29m8JwrI2E7WWku2N2kbqM
 
 [[Asadjohn]]
 [[Haiyti]]
-[[Project X]]
+[[producers/Project X]]

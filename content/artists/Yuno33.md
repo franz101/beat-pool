@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5HPCwKlQP7FQEpj0GKLnrK
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1cf5b9d32bf8c7c501527ef5)
 **Related artists:**
 
-[[Bekenz Beats]]
+[[producers/Bekenz Beats]]
 [[Diamant]]

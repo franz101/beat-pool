@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4orE2vGs9nTBMF4Pued8uW
 **Related artists:**
 
 [[Daniel Wirtz]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[Gentleman]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

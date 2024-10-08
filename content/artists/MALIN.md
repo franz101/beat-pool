@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6UBcPgak1XnPIxPsce3Igb
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebda182f0342ac4b81f6241b65)
 **Related artists:**
 
-[[Hunes]]
+[[producers/Hunes]]
 [[Mosh36]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/0InkOCw890FU6laeFh56hi
 
 [[DJ P. F. Cuttinï]]
 [[Massive Töne]]
-[[Jean-Christoph Ritter]]
-[[Wasi Ntuanoglu]]
+[[producers/Jean-Christoph Ritter]]
+[[producers/Wasi Ntuanoglu]]

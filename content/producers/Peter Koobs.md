@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1pNHI8R1KTP9Jt24XlqP8M
 
 [[Howard Carpendale]]
 [[Heinz Rudolf Kunze]]
-[[Christian Lohr]]
-[[Jens Carstens]]
+[[producers/Christian Lohr]]
+[[producers/Jens Carstens]]

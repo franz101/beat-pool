@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2Hzk76wnEqXStI640wvN6q
 **Related artists:**
 
 [[C ARMA]]
-[[Junior A La Prod]]
+[[producers/Junior A La Prod]]

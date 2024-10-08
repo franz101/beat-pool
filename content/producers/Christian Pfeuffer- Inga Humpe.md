@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4Sqd3bGlDIvRnej1CvuP9Q
 
 [[2raumwohnung]]
 [[SIRS]]
-[[Tommi Eckart]]
-[[Daniel Klein]]
+[[producers/Tommi Eckart]]
+[[producers/Daniel Klein]]

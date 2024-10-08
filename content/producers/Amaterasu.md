@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3Lj7T96Qaf7S9xkdwEozdG
 
 **Related artists:**
 
-[[Philippe Heithier]]
+[[producers/Philippe Heithier]]
 [[Kay One]]
 [[Al Gear]]
 [[Dante Thomas]]

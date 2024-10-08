@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI
 **Related artists:**
 
 [[Ufo361]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

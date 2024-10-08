@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6DGx0hK3Has75rJ2f4LFmX
 
 **Related artists:**
 
-[[Wings]]
-[[Robin]]
-[[martn.beats]]
+[[producers/Wings]]
+[[producers/Robin]]
+[[producers/martn.beats]]
 [[LUIS]]
 [[Edo Saiya]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7kHNI3iSVN1cZf6GEkStEy
 **Related artists:**
 
 [[Deichkind]]
-[[DJ Phono]]
+[[producers/DJ Phono]]

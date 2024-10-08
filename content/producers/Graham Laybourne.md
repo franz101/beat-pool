@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6kHyXXTITBosmF2RH81lYz
 
 **Related artists:**
 
-[[Wolfgang Lenk]]
-[[Herbert Bohme]]
-[[Annette Humpe]]
+[[producers/Wolfgang Lenk]]
+[[producers/Herbert Bohme]]
+[[producers/Annette Humpe]]
 [[Tobias Künzel]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[Die Prinzen]]

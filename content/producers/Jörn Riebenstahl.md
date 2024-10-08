@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0nJGR0P4XXe8RCPzgONUW7
 **Related artists:**
 
 [[Pulsedriver]]
-[[Dirk Waldt]]
+[[producers/Dirk Waldt]]
 [[Selecta]]
 [[Brisby & Jingles]]

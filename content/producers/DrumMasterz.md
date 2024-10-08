@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1xC47F4fGd8FAKpLAFtKf7
 
 **Related artists:**
 
-[[Nick Unique]]
+[[producers/Nick Unique]]

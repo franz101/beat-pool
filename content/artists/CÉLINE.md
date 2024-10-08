@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA
 **Related artists:**
 
 [[Beatgees]]
-[[Suena]]
-[[Lucry]]
+[[producers/Suena]]
+[[producers/Lucry]]
 [[Yanek Stärk]]
-[[nvie motho]]
+[[producers/nvie motho]]

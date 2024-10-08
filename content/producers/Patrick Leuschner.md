@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1qUnHbbHdlttTqtLsHb0Qk
 
 **Related artists:**
 
-[[Daniel Meteo]]
+[[producers/Daniel Meteo]]
 [[Stephan Remmler]]

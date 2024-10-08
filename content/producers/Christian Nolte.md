@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/2Et3ygSR9NvlLszgKQJIth
 **Related artists:**
 
 [[Bizzy Montana]]
-[[David Alexi]]
+[[producers/David Alexi]]
 [[RAF Camora]]
 [[Timeless]]
 [[Bosca]]
 [[Liquit Walker]]
-[[Youri Havermans]]
+[[producers/Youri Havermans]]
 [[MoTrip]]
-[[Johnny Pepp]]
+[[producers/Johnny Pepp]]
 [[Vega]]

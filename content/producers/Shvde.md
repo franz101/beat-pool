@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4SW9Xx812CkocRWKnyXVfm
 [[Young Kira]]
 [[Manuellsen]]
 [[John on a Mission]]
-[[Thani]]
+[[producers/Thani]]
 [[mokuba]]

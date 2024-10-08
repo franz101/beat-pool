@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0BW6JR9SbthCPWNW2z0LNW
 **Related artists:**
 
 [[Christian Knollmüller]]
-[[Tobias Hamm]]
-[[Timo Knop]]
-[[Marc Duran]]
+[[producers/Tobias Hamm]]
+[[producers/Timo Knop]]
+[[producers/Marc Duran]]
 [[Christophe Thébaud]]
-[[Martin Neumayer]]
+[[producers/Martin Neumayer]]
 [[Jürgen Drews]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0KwVGVN1bZfDNQVOySxjsk
 
 **Related artists:**
 
-[[Steddy]]
+[[producers/Steddy]]
 [[Nisse]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/13hXW7KzB28hrRNLJJ0GBU
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
+[[producers/Shahabedin Azodifar]]
 [[Amu]]
 [[Kwam]]
 [[Nick Noname]]

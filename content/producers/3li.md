@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3tZpt0ERRgfATgkEJt3Wqv
 **Related artists:**
 
 [[IMMI]]
-[[Blurry]]
-[[Babyblue]]
-[[Bruferr Beatz]]
+[[producers/Blurry]]
+[[producers/Babyblue]]
+[[producers/Bruferr Beatz]]

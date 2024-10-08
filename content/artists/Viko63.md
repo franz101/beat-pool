@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/4ehP4q7oBt5xGv3Ep0O0MS
 [[Pa$ta Pat]]
 [[Melki808]]
 [[penglord]]
-[[Berko]]
+[[producers/Berko]]
 [[pasta p.a.t.]]

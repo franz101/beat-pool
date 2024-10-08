@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3cG39m0L4kPVqrGl3JZoHy
 **Related artists:**
 
 [[Gentleman]]
-[[Anthony Senior]]
+[[producers/Anthony Senior]]

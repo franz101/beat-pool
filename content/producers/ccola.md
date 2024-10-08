@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/46jBfLo4GoPUUaG3j3AEAY
 **Related artists:**
 
 [[Olson]]
-[[Stunner]]
+[[producers/Stunner]]
 [[Sin Davis]]
 [[RyoTheGhoul]]
-[[Dalton]]
+[[producers/Dalton]]
 [[Sierra Kidd]]
 [[Kidnfinity]]

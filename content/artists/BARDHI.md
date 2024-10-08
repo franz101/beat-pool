@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7aLbqaCIv1zAI6HCfPCMjI
 **Related artists:**
 
 [[EREN CAN]]
-[[Nurteel]]
+[[producers/Nurteel]]

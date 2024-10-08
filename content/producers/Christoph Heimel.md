@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6RwOLK1axfWIGET7rAt4rm
 **Related artists:**
 
 [[Kool Savas]]
-[[Tengobeatz]]
+[[producers/Tengobeatz]]

@@ -47,7 +47,7 @@ url: https://open.spotify.com/artist/3g5QiiBmEWt5a3WaW1zArB
 [[102 Boyz]]
 [[yani5000]]
 [[Robin Rozay]]
-[[YungSmoke030]]
+[[producers/YungSmoke030]]
 [[KASIMIR1441]]
 [[Nate Gordo]]
 [[J2LASTEU]]

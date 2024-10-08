@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3TEL2DJbZdLd1YzZ39lDvL
 
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]

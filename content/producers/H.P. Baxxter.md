@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5qzEnjFjEY9WFqEd0eFIZS
 
 **Related artists:**
 
-[[J. Thele]]
-[[Rick J. Jordan]]
-[[Michael Simon]]
-[[Jens Thele]]
+[[producers/J. Thele]]
+[[producers/Rick J. Jordan]]
+[[producers/Michael Simon]]
+[[producers/Jens Thele]]
 [[Scooter]]
-[[Axel Coon]]
+[[producers/Axel Coon]]

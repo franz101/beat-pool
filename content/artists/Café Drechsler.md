@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3Ixsm9IuhkuGdKFFA1fbvu
 **Related artists:**
 
 [[Stephan Remmler]]
-[[Alexdrum@Coldfusion Vienna]]
+[[producers/Alexdrum@Coldfusion Vienna]]

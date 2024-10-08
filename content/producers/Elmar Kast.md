@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/036pEas25y4MqcJxTD2nTo
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Dieter Weidenfeld]]
-[[H. -J. Horn-Bernges]]
-[[Hans-Joachim Horn-Bernges]]
-[[Elmer Kast]]
-[[Joachim Horn-Bernges]]
-[[H. - J. Und Kast, Elmar Horn - Bernges]]
+[[producers/Dieter Weidenfeld]]
+[[producers/H. -J. Horn-Bernges]]
+[[producers/Hans-Joachim Horn-Bernges]]
+[[producers/Elmer Kast]]
+[[producers/Joachim Horn-Bernges]]
+[[producers/H. - J. Und Kast, Elmar Horn - Bernges]]
 [[Nino de Angelo]]
 [[Stereoact]]

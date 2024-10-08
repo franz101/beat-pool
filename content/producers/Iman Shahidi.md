@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/73HB7hcFLZbpfrhYv69DpO
 
 **Related artists:**
 
-[[Jules]]
-[[I.L.L. Will]]
-[[SashliQ]]
+[[producers/Jules]]
+[[producers/I.L.L. Will]]
+[[producers/SashliQ]]
 [[Square One]]
 [[Curse]]

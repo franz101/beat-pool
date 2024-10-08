@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0QnFmI7SRBKRZIRfXj9wKP
 
 **Related artists:**
 
-[[Jean baptiste Gnakouri]]
+[[producers/Jean baptiste Gnakouri]]
 [[Bonaparte]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/10tcwYnyZnOf23uHE3F5Oo
 **Related artists:**
 
 [[Young Richie Rich]]
-[[Leryk]]
+[[producers/Leryk]]

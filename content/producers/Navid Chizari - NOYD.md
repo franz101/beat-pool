@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6NiNP8Iopsm5VHHVZ3UmX0
 
 **Related artists:**
 
-[[Hamid Chizari m³]]
+[[producers/Hamid Chizari m³]]
 [[Azad]]

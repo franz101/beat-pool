@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/4z6cTVgMEFTyB6ncV4LQNR
 
 **Related artists:**
 
-[[King Kuba]]
+[[producers/King Kuba]]

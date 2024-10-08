@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4dXLvZmkjIpTO8OGxoRFYf
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Nina]]
-[[C.L.A.S. Productions]]
+[[producers/C.L.A.S. Productions]]
 [[Deichkind]]
 [[Hamburg]]
 [[Philipp Grütering]]

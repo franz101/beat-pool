@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3YZCbwdW9Gy1sZXV39uf6B
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb31d762f645ef11d7feebea1b)
 **Related artists:**
 
-[[Henning Verlage]]
-[[Hubert Molander]]
+[[producers/Henning Verlage]]
+[[producers/Hubert Molander]]
 [[Stefan Pössnicker]]
-[[Armin Pertl]]
+[[producers/Armin Pertl]]
 [[Felix Gauder]]
 [[Bernhard Brink]]

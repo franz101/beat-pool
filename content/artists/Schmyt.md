@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7d1fb1d19289bd7a571b6ac3)
 **Related artists:**
 
-[[Andreas Huber]]
+[[producers/Andreas Huber]]
 [[Haftbefehl]]
 [[Minhtendo]]
-[[Marian Heim]]
+[[producers/Marian Heim]]
 [[Megaloh]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]
 [[Farhot]]
 [[Bazzazian]]
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]
 [[Bausa]]
-[[Jan Hammele]]
+[[producers/Jan Hammele]]
 [[RIN]]

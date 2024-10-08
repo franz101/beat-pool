@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/42upZMMkTDIL1FXKp6Gux0
 **Related artists:**
 
 [[Xavier Naidoo]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

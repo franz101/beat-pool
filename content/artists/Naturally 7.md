@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/769D3IwCDrdPospAd3Hlpi
 **Related artists:**
 
 [[Helene Fischer]]
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Xavier Naidoo]]
 [[Sarah Connor]]
-[[Rob Tyger]]
-[[Kay Denar]]
+[[producers/Rob Tyger]]
+[[producers/Kay Denar]]

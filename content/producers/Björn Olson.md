@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3C8tPoAyQOcVrZ9yvXjiHR
 
 [[LEA]]
 [[Franzi Harmsen]]
-[[Pascal 'Kalli' Reinhardt]]
+[[producers/Pascal 'Kalli' Reinhardt]]
 [[LUNA]]
-[[Kalli]]
+[[producers/Kalli]]

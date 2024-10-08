@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/24Dhd7LXGYe4PFjFD8ibtB
 **Related artists:**
 
 [[Clueso]]
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[Snaz]]
 [[Axel Hilgenstöhler]]

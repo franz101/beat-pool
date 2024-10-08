@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3CW9E4zbWJaS4xVUb0KPeW
 **Related artists:**
 
 [[Joje]]
-[[southstar]]
+[[producers/southstar]]

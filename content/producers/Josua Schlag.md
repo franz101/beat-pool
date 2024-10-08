@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6nEqmfZE7ycWwVPAPvGiiP
 
 **Related artists:**
 
-[[Maximilian Schepp]]
+[[producers/Maximilian Schepp]]
 [[MediMeister Münster]]

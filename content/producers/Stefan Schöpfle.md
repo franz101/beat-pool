@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/2x526BPE2kQt3H1EvrtCsZ
 [[Mia Friesen]]
 [[Outbreakband]]
 [[Benjamin Schumacher]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Mishka Mackova]]

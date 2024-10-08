@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5KKeO8E6mJ529VfwwS6J0o
 
 [[Cashmo]]
 [[Richter]]
-[[Smoove]]
+[[producers/Smoove]]
 [[Twin]]
 [[Remoe]]
 [[Bosca]]

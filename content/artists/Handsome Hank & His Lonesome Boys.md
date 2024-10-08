@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6GNFBOeou08lUKqIk6WU7c
 
 **Related artists:**
 
-[[Handsome Hank and the lonesome Boys]]
+[[producers/Handsome Hank and the lonesome Boys]]
 [[Stephan Remmler]]

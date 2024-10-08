@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5oekBQkJ881fLt6ravH2LX
 
 [[Ali Bumaye]]
 [[Bushido]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[B-Case]]
 [[Shindy]]

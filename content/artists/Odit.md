@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7kSBROGwAFpAnh2XC6gNbf
 **Related artists:**
 
 [[Arjey]]
-[[Madara]]
+[[producers/Madara]]

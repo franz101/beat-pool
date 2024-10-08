@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0614KVEmfJZWStUKHWhKIv
 **Related artists:**
 
 [[PeterLicht]]
-[[Proppe]]
-[[Boris Bontempi]]
+[[producers/Proppe]]
+[[producers/Boris Bontempi]]
 [[Erdmöbel]]
-[[Andreas Wodraschke]]
+[[producers/Andreas Wodraschke]]

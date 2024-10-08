@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/07T4hxaHdCsahxBjvBmuYk
 
 **Related artists:**
 
-[[MENJU]]
+[[producers/MENJU]]
 [[Peja]]
 [[Uzi]]
 [[Silla]]
-[[Chris Jarbee]]
+[[producers/Chris Jarbee]]
 [[Blokkmonsta]]
-[[Zh Beats]]
-[[Diavo]]
+[[producers/Zh Beats]]
+[[producers/Diavo]]

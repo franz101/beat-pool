@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6910eexcuTUkORUci5Z7OS
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]
-[[Stefan Lenkeit]]
+[[producers/Stefan Lenkeit]]

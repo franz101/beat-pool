@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/4u9mLb6exlbHuNehyJ11jq
 
 **Related artists:**
 
-[[Stephen Street]]
-[[Torsten Scholz]]
+[[producers/Stephen Street]]
+[[producers/Torsten Scholz]]
 [[Beatsteaks]]
 [[Chad Price]]
-[[Arnim Teutoburg-Weiß]]
+[[producers/Arnim Teutoburg-Weiß]]
 [[Farin Urlaub]]
-[[Moses Schneider]]
-[[Max Power]]
-[[Bernd Kurtzke]]
+[[producers/Moses Schneider]]
+[[producers/Max Power]]
+[[producers/Bernd Kurtzke]]
 [[Thomas Götz]]

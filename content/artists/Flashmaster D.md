@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2jJz9OMFl2YhmGKGWxUUWX
 
 [[Main Concept]]
 [[El Shadai]]
-[[Glammerlicious]]
+[[producers/Glammerlicious]]
 [[Armageddonman]]
 [[Mungo Dave]]

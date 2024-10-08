@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/08ZUPa8Y7TkIuLNfrsJ4dC
 [[SSIO]]
 [[Chakuza]]
 [[Manuellsen]]
-[[Navid Chizari]]
+[[producers/Navid Chizari]]
 [[Aslı]]
 [[KC Rebell]]
 [[Veysel]]

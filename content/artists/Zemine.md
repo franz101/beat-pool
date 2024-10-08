@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7zB3RuBgX3ssVdhKBQOEjJ
 
 [[Asche]]
 [[Manuellsen]]
-[[Gorex]]
+[[producers/Gorex]]
 [[Summer Cem]]
 [[Farid Bang]]

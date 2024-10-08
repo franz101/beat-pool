@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1kjCX0yyKVcY9hy36G2slY
 
 **Related artists:**
 
-[[Tom Cut aka Thomas Schauerte]]
+[[producers/Tom Cut aka Thomas Schauerte]]
 [[BoomTown]]
-[[Rico Bernasconi]]
+[[producers/Rico Bernasconi]]

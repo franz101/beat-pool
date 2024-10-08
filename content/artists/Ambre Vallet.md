@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/3XG0Fsu7FMHXU7ZWlg5NRF
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb414e42336e8929ea5792d816)
 **Related artists:**
 
-[[Patrick Liegl]]
-[[Wassily Gradovsky]]
-[[Dennis Schnichels]]
-[[Christopher Schlotmann]]
-[[Paul Falk]]
-[[Tobias Strauch]]
-[[Jona Selle]]
+[[producers/Patrick Liegl]]
+[[producers/Wassily Gradovsky]]
+[[producers/Dennis Schnichels]]
+[[producers/Christopher Schlotmann]]
+[[producers/Paul Falk]]
+[[producers/Tobias Strauch]]
+[[producers/Jona Selle]]

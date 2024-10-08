@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5o1RkQwPYE8s7Al2wfTxax
 
 **Related artists:**
 
-[[Bledbeats]]
+[[producers/Bledbeats]]
 [[EREN CAN]]
 [[Brudi030]]
 [[BATU]]

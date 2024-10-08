@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5ZIXBb32ot2DZRufy7JbZx
 
 **Related artists:**
 
-[[Jan "vd3" van der Toorn]]
+[[producers/Jan "vd3" van der Toorn]]
 [[Die Prinzen]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/2tKzZUEWNaNeSfSPdrisj2
 [[Jerp Walker]]
 [[YFG Pave]]
 [[Fae August]]
-[[Adrian Hugler - Beat]]
+[[producers/Adrian Hugler - Beat]]
 [[DanySero]]

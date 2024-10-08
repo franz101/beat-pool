@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1THjRh1sv6z4BG1d2GTJDH
 **Related artists:**
 
 [[Voyce]]
-[[Sinch]]
+[[producers/Sinch]]
 [[P.M.B.]]

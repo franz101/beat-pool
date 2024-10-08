@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0RCC2UeEGWhaoumNLDZr3e
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd3d16bd2b0a3d596a92dd6fb)
 **Related artists:**
 
-[[Julez]]
+[[producers/Julez]]
 [[Soulmade]]

@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/5M1OKuJrDiBrVe5ZbFGmN8
 **Related artists:**
 
 [[Juse Ju]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Mia Juni]]

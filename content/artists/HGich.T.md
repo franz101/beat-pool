@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0Mc1RdR7nqk1S2DHapXJhl
 
 **Related artists:**
 
-[[Raphael Schalz]]
-[[Jen Bender]]
-[[Chriz Falk]]
+[[producers/Raphael Schalz]]
+[[producers/Jen Bender]]
+[[producers/Chriz Falk]]
 [[Grossstadtgeflüster]]

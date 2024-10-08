@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc6f34297b283b473ccb844b2)
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Donots]]

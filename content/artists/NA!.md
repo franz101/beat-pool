@@ -20,5 +20,5 @@ url: https://open.spotify.com/artist/6gphWGtUb7jnTCR6zhJBtm
 [[HK]]
 [[Kalazh44]]
 [[Brudi030]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[YA]]

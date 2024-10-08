@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/3zmthfZYTZ17g6p9zp7DiN
 [[Maldo]]
 [[BlechBeppo]]
 [[Acaz]]
-[[Vecz]]
+[[producers/Vecz]]
 [[Joek2]]
 [[kolex]]
 [[Cone Gorilla]]

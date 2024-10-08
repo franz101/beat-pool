@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0SfBRJ5HiuwxQO86gqiH8u
 
 **Related artists:**
 
-[[Monsta]]
+[[producers/Monsta]]
 [[FACE]]

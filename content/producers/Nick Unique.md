@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/48GcW1nZqVZh65Y80rqmyB
 
 **Related artists:**
 
-[[DrumMasterz]]
+[[producers/DrumMasterz]]

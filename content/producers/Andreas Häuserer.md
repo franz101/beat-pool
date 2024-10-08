@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1wLgk2gsc6xuU0vx7bqVVa
 
 **Related artists:**
 
-[[Miriam Hufnagl]]
+[[producers/Miriam Hufnagl]]
 [[AVEC]]

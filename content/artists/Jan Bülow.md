@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3EqLZEPGrJ4MeUb97B0Cg9
 
 **Related artists:**
 
-[[Thomas Kukuck]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Thomas Kukuck]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

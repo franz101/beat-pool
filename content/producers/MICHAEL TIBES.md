@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/52Nf5FNn9JgU5ddDrxb3na
 
 **Related artists:**
 
-[[Christian Neander]]
+[[producers/Christian Neander]]
 [[Henning Wehland]]
 [[Pohlmann.]]
 [[Royal Republic]]

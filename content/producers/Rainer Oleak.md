@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/2MQmh4fkXTFTTByHpWprAF
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Ingo Politz]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Ingo Politz]]
+[[producers/Hardy Krech]]
 [[Puhdys]]
-[[Dieter Birr]]
-[[Dirk Schlag]]
+[[producers/Dieter Birr]]
+[[producers/Dirk Schlag]]
 [[Alexa Feser]]
 [[Berluc]]
 [[Curse]]

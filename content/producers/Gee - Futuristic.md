@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6qGPQlQVTYzOjytrRyzsu1
 **Related artists:**
 
 [[Battleboi Basti]]
-[[Joe Gehring]]
+[[producers/Joe Gehring]]

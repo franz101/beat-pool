@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Vuoxsp3ziqbSR7CjpD39B
 
 **Related artists:**
 
-[[Lothar Meid]]
+[[producers/Lothar Meid]]
 [[Westernhagen]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2lAsU6GMwwaA0WgSxkheBB
 
 **Related artists:**
 
-[[Michael Jackson]]
+[[producers/Michael Jackson]]
 [[Eunique]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/5Q2B21nO53AR2J3jg07Mq3
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Conny Plank]]
-[[Peter Miklis und Heinz Rudolf Kunze]]
+[[producers/Conny Plank]]
+[[producers/Peter Miklis und Heinz Rudolf Kunze]]
 [[Heinz Rudolf Kunze & Verstärkung]]
-[[Peter Miklis]]
-[[Joschi Kappl]]
-[[Leo Schmidthals]]
+[[producers/Peter Miklis]]
+[[producers/Joschi Kappl]]
+[[producers/Leo Schmidthals]]

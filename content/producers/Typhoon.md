@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/6kBlEsdNeNW2qnmW56xDhx
 
 **Related artists:**
 
-[[Victor Flowers]]
-[[Schnichels]]
-[[Artem]]
+[[producers/Victor Flowers]]
+[[producers/Schnichels]]
+[[producers/Artem]]
 [[Saiko]]
 [[TaiMO]]
 [[Noah]]
 [[Lil Lano]]
-[[Kimbo Beatz]]
-[[Sinch]]
+[[producers/Kimbo Beatz]]
+[[producers/Sinch]]
 [[Adesse]]
 [[Sido]]
 [[Estikay]]

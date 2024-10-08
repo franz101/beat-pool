@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2Kv9n3WgJ93KTLseiTtbSw
 **Related artists:**
 
 [[Ra'is]]
-[[Hekuran Maralushja]]
+[[producers/Hekuran Maralushja]]
 [[NGEE]]

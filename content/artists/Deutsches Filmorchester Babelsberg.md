@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3gGJa6qH96mfOdii1Wzuir
 **Related artists:**
 
 [[Terri Bjerre]]
-[[Axel Breitung]]
+[[producers/Axel Breitung]]
 [[Ströer Bros.]]
 [[Udo Lindenberg]]
 [[Horst Königstein]]

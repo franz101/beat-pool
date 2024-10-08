@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/526wuoMHJac56XdJa9QfB8
 
 **Related artists:**
 
-[[Absolute Beatz]]
+[[producers/Absolute Beatz]]
 [[Richter]]
-[[Toxik Tyson]]
+[[producers/Toxik Tyson]]

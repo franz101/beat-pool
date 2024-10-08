@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6i9KFEJuHq78nMsQxeB1vR
 
 **Related artists:**
 
-[[Miki Kekenj]]
+[[producers/Miki Kekenj]]
 [[Johannes Oerding]]

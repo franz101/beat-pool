@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0ZrPyHGPWRiOphFxml3rFO
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Baby Dooks]]
+[[producers/Baby Dooks]]

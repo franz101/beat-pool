@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0shjxUtYAWcc6ARlDd86Qe
 **Related artists:**
 
 [[Jennifer Weist]]
-[[Chriz Falk]]
-[[Raphael Schalz]]
+[[producers/Chriz Falk]]
+[[producers/Raphael Schalz]]
 [[Die Prinzen]]
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Grossstadtgeflüster]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

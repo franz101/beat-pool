@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3V9SYqjbqAIej0vfwf40lh
 
 [[The Gardener & The Tree]]
 [[Philippe Jüttner]]
-[[Daniel Fet]]
-[[Patrick Fet]]
-[[Manuel Felder]]
+[[producers/Daniel Fet]]
+[[producers/Patrick Fet]]
+[[producers/Manuel Felder]]

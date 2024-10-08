@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/2ke2MNKxAZ9y4wUCZEGV4D
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3d5bcdf5d11a7b46faa0cdb7)
 **Related artists:**
 
-[[Simon Vogt]]
-[[Thani]]
+[[producers/Simon Vogt]]
+[[producers/Thani]]
 [[John on a Mission]]
-[[Nathanael Bach]]
+[[producers/Nathanael Bach]]
 [[TJ_babybrain]]
 [[Young Kira]]

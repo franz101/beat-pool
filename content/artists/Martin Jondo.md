@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/0rjQs0BXlxtEniNqvD3zNQ
 
 **Related artists:**
 
-[[Pierre Bost]]
-[[Ben Bazzazian]]
+[[producers/Pierre Bost]]
+[[producers/Ben Bazzazian]]
 [[Gentleman]]
 [[Mellow Mark]]
-[[Krutsch]]
+[[producers/Krutsch]]
 [[Tamika]]
 [[Bugati]]
 [[Culcha Candela]]
-[[Pierre Brost]]
-[[Ingo "Pow Pow" Rheinbay]]
-[[J.P. Greve]]
+[[producers/Pierre Brost]]
+[[producers/Ingo "Pow Pow" Rheinbay]]
+[[producers/J.P. Greve]]

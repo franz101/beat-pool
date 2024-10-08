@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4PuPpIUAbxYA8wYkIRNSWq
 
 [[Pulsedriver]]
 [[Benjamin Zane]]
-[[M. Kornschober]]
-[[B. Zipperle]]
+[[producers/M. Kornschober]]
+[[producers/B. Zipperle]]

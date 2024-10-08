@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0aSE08JwzL6rWgQ0REF0vl
 **Related artists:**
 
 [[Tiavo]]
-[[Tim Schoon]]
+[[producers/Tim Schoon]]
 [[absent]]
 [[REEZA]]
 [[Edo Saiya]]
-[[David Turco]]
+[[producers/David Turco]]

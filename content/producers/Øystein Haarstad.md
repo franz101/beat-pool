@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1XqiSRxvvKiwuMhXIDYFBD
 
 **Related artists:**
 
-[[Markus Kretschmer]]
+[[producers/Markus Kretschmer]]
 [[Culcha Candela]]

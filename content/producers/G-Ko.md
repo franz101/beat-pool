@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/05PfClwFdEpe4Okw4NCPt5
 [[Young Wicked]]
 [[ZOMBIEZ]]
 [[Nord Nord Muzikk]]
-[[KVSV]]
+[[producers/KVSV]]

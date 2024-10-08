@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4MfgkC3YofebJOV01woafm
 **Related artists:**
 
 [[Luciano]]
-[[RILBEATS]]
+[[producers/RILBEATS]]

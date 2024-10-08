@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/62qdQ7T1K8aby7gQWH2gWg
 
 **Related artists:**
 
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Miksu]]
 [[Macloud]]
 [[KC Rebell]]

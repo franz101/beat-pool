@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/142MpuCxcFIzznSbr15y0g
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebab8a422159b4e3f4ceec165a)
 **Related artists:**
 
-[[Hotelgodlin]]
+[[producers/Hotelgodlin]]

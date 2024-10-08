@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6fDdCWG81isjTgiJsw5NOM
 
 **Related artists:**
 
-[[Sven Ludwig]]
+[[producers/Sven Ludwig]]
 [[OK KID]]

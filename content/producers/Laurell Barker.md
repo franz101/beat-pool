@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/3nLlTcNI19KzSipLtfR1LR
 [[Luca Hänni]]
 [[Lukas Hällgren]]
 [[Jon Hällgren]]
-[[Pele Loriano]]
+[[producers/Pele Loriano]]

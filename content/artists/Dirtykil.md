@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3G7HshabFS1PHBKGuzZXzK
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf164c9c53c8c1c64d27929ac)
 **Related artists:**
 
-[[Iggi Tarn]]
+[[producers/Iggi Tarn]]
 [[Okfella]]
 [[Purple Ace]]
 [[Jonta]]

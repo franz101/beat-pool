@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/2ZuJ3O0fOv3tkh6CFmyrf2
 
 [[Butrint Imeri]]
 [[Gjiko]]
-[[BIGBANG]]
+[[producers/BIGBANG]]

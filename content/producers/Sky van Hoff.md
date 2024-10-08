@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/7CHi1yEBWNaXQOP70reBIS
 **Related artists:**
 
 [[GHØSTKID]]
-[[Sebastian Biesler]]
+[[producers/Sebastian Biesler]]
 [[Mille Petrozza]]
-[[Phil Sunday]]
+[[producers/Phil Sunday]]
 [[Timi Hendrix]]
 [[Johnny 3 Tears]]
 [[Heaven Shall Burn]]

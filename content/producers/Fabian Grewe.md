@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5woJxyWJmPyn9hm4iKwAoQ
 **Related artists:**
 
 [[Remoe]]
-[[B-Cray-C]]
+[[producers/B-Cray-C]]
 [[Kool Savas]]
 [[KC Rebell]]
-[[Smoove]]
+[[producers/Smoove]]

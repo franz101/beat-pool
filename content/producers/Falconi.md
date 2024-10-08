@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/5NyJqmwS3ENSBLTFwokfxJ
 **Related artists:**
 
 [[Riccardo]]
-[[Jurij Gold]]
-[[Robin Pace]]
-[[Juri Gold]]
-[[Team Gold]]
+[[producers/Jurij Gold]]
+[[producers/Robin Pace]]
+[[producers/Juri Gold]]
+[[producers/Team Gold]]
 [[Jigzaw]]
 [[JAZN]]
 [[JIGGO]]

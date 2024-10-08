@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3IcUb6gpfExwNsWrW1G8Og
 
 **Related artists:**
 
-[[John Fischer]]
+[[producers/John Fischer]]
 [[Konstantin Wecker]]

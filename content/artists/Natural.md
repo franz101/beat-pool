@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7qGCw7TxbpSUpg0Bp5GtUx
 ![Artist](https://i.scdn.co/image/ab67616d0000b273ba5f4cdfbe8953a95c6f1057)
 **Related artists:**
 
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Sarah Connor]]
-[[Rob Tyger]]
-[[Kay Denar]]
+[[producers/Rob Tyger]]
+[[producers/Kay Denar]]

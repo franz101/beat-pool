@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/23xtaxCfjVqmOplE6lCEWf
 [[Pöbel MC]]
 [[Tiger104er]]
 [[Tiger]]
-[[Tis L]]
+[[producers/Tis L]]
 [[MC Bomber]]
 [[MC Shacke]]
 [[GGB]]

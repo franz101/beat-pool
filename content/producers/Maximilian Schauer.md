@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0g9FD5RFfBgK5KHMIX3Mbg
 
 **Related artists:**
 
-[[Noel Pix]]
+[[producers/Noel Pix]]
 [[Die Krupps]]
 [[Eisbrecher]]

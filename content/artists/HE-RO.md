@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1VD4AmUxf40MwFAzCM62V6
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2f4957e2d4caf316b7efc52b)
 **Related artists:**
 
-[[Mary]]
-[[Dienst&Schulter]]
+[[producers/Mary]]
+[[producers/Dienst&Schulter]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/1aEmlVUsELFecVCxatIeR6
 
 **Related artists:**
 
-[[John Eaton]]
+[[producers/John Eaton]]
 [[Münchener Freiheit]]
-[[Stefan Zauner]]
-[[Nik Hafemann]]
+[[producers/Stefan Zauner]]
+[[producers/Nik Hafemann]]
 [[Bro'Sis]]
-[[Marc Mozart]]
-[[Kurt Keinrath]]
+[[producers/Marc Mozart]]
+[[producers/Kurt Keinrath]]
 [[Gerald Kollek]]
 [[Mike Leon Grosch]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1PTDZNDHfTpbuKfFSrGIjj
 
 **Related artists:**
 
-[[Kostas]]
+[[producers/Kostas]]
 [[JIGGO]]

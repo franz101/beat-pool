@@ -17,13 +17,13 @@ url: https://open.spotify.com/artist/56y1oz5Z0MsTGHikC8DkqT
 **Related artists:**
 
 [[Private Paul]]
-[[G-Ko]]
+[[producers/G-Ko]]
 [[ZOMBIEZ]]
 [[Burgos]]
 [[Opti Mane]]
 [[Donvtello]]
-[[KVSV]]
+[[producers/KVSV]]
 [[John ODMGDIA]]
 [[Crystal F]]
 [[Duzoe]]
-[[Psassa]]
+[[producers/Psassa]]

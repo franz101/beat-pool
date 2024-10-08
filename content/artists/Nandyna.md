@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6IVazyZ7fz9BO4La0DyMRv
 
 **Related artists:**
 
-[[Indius]]
+[[producers/Indius]]
 [[Hypnotize]]

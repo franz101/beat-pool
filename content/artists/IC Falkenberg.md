@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4RUjNM2OUMf2K3NL7jQNXh
 
 **Related artists:**
 
-[[Anja Krabbe]]
+[[producers/Anja Krabbe]]
 [[Silly]]

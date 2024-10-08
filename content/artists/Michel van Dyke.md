@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0Nc9z2CbDJWbfuCHNRUurb
 **Related artists:**
 
 [[Revolverheld]]
-[[Lillo Scrimali]]
+[[producers/Lillo Scrimali]]

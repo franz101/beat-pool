@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/67RMKaBqgIqCZfGSDAYRrH
 
 **Related artists:**
 
-[[Mousse T.]]
+[[producers/Mousse T.]]
 [[Die Prinzen]]
-[[Stavros Ioannou]]
+[[producers/Stavros Ioannou]]
 [[Yvonne Catterfeld]]

@@ -18,10 +18,10 @@ url: https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E
 
 [[LX]]
 [[Olek]]
-[[Dio Mudara]]
+[[producers/Dio Mudara]]
 [[Peja]]
 [[Milonair]]
-[[Panorama]]
+[[producers/Panorama]]
 [[Jongmen]]
 [[Dj.Frodo]]
-[[DeeVoe]]
+[[producers/DeeVoe]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0cslAzbuXcgnpwfrzpZtB8
 
 **Related artists:**
 
-[[Konrad Betcher]]
+[[producers/Konrad Betcher]]
 [[Bosse]]
 [[Casper]]
 [[Doron Burstein]]
-[[Philipp Steinke]]
+[[producers/Philipp Steinke]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5tW5OOV1xoi75wLceLAGzR
 **Related artists:**
 
 [[FIL BO RIVA]]
-[[Filippo Bonamici]]
-[[Robert Stephenson]]
+[[producers/Filippo Bonamici]]
+[[producers/Robert Stephenson]]

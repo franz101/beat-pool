@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4mp6ypwuMpi80OEpFIVJNn
 **Related artists:**
 
 [[Sookee]]
-[[Willi Sieger]]
+[[producers/Willi Sieger]]
 [[Tristan Brusch]]
 [[Daniel Strohhäcker]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6NPAit70mG3MHreInB1pKa
 
 [[Frank White]]
 [[Bushido]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Fler]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/11gpWbDvFxw1lytBY1j6UT
 
 **Related artists:**
 
-[[Mighty K.K.]]
+[[producers/Mighty K.K.]]
 [[Yvonne Catterfeld]]
-[[Oliver Pinelli]]
+[[producers/Oliver Pinelli]]

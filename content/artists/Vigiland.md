@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds
 
 [[Topic]]
 [[Christopher]]
-[[Tobias Topic]]
-[[Alexander Tidebrink]]
+[[producers/Tobias Topic]]
+[[producers/Alexander Tidebrink]]

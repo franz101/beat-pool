@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/6i3Qwkpke4cirfDDfP1YEG
 [[Götz Alsmann]]
 [[Jörg Umbreit]]
 [[Johan Hegg]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Russkaja]]

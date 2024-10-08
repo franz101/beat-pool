@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/2SwVh6QyTGxJ4gCz9BGs7e
 [[Jaycee Madoxx]]
 [[Shaun Bate & Sam Walkertone]]
 [[Sam Walkertone]]
-[[Bangpool Studios Ballears]]
+[[producers/Bangpool Studios Ballears]]

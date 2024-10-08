@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl
 
 **Related artists:**
 
-[[Clay]]
+[[producers/Clay]]
 [[Gentleman]]
 [[Max Herre]]
 [[KAHEDI]]

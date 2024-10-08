@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4XShICvBDcw3yrOsTxQIDY
 
 [[Bugati]]
 [[Culcha Candela]]
-[[Boogieman]]
+[[producers/Boogieman]]
 [[Maliq]]
-[[Krutsch]]
+[[producers/Krutsch]]

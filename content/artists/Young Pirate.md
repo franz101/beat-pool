@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/42JXgGiu2LTDSipxPcxKtH
 **Related artists:**
 
 [[Greeny]]
-[[Karol Tip]]
-[[Broke Boys]]
+[[producers/Karol Tip]]
+[[producers/Broke Boys]]

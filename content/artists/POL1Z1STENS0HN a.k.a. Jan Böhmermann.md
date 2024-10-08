@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4yos94vHbPhhiNdyYO2uan
 ![Artist](https://i.scdn.co/image/ab67616d0000b27330f879a48ee42d066e862866)
 **Related artists:**
 
-[[SCORE SQUAD]]
+[[producers/SCORE SQUAD]]

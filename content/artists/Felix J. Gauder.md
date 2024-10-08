@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/35tK5vB1IJe7cXUrcwYW4F
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[and and]]
-[[Norbert Hamm]]
+[[producers/and and]]
+[[producers/Norbert Hamm]]
 [[Die Fantastischen Vier]]
 [[Andreas "Bear" Läsker]]

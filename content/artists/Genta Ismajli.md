@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1ilspVTrsMkslg3s50DT0w
 
 **Related artists:**
 
-[[Avaxus]]
-[[Dalool]]
+[[producers/Avaxus]]
+[[producers/Dalool]]
 [[Ardian Bujupi]]

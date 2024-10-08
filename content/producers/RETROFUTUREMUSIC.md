@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5HnF68CnW9oa7hEt0rLnhi
 **Related artists:**
 
 [[EULE]]
-[[Thomas Porzig]]
+[[producers/Thomas Porzig]]

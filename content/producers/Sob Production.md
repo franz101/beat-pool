@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2THfLOkJ7TKTurSNMpfHQq
 **Related artists:**
 
 [[Kid Cairo]]
-[[Beatsbyrima]]
+[[producers/Beatsbyrima]]
 [[Edo Saiya]]

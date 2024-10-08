@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4UEzaAPL9aK66321ydqLuj
 
 **Related artists:**
 
-[[Simes Branxons]]
+[[producers/Simes Branxons]]
 [[Fler]]

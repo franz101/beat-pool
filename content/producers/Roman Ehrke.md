@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0A8EQ5wXmY3QLJgZjGwEwj
 
 **Related artists:**
 
-[[Erik Westmann]]
+[[producers/Erik Westmann]]
 [[SDP]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Timi Hendrix]]

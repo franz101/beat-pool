@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2bVB2HcksiDkfNOUcAAegV
 **Related artists:**
 
 [[Noah]]
-[[Magestick]]
+[[producers/Magestick]]

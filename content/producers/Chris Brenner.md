@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/26X8pxbssxComHbL0fnmqh
 
 **Related artists:**
 
-[[Johannes Weber]]
+[[producers/Johannes Weber]]
 [[klea]]

@@ -18,7 +18,7 @@ jobs:
         uses: konstfish/quartz-build-action@v1
         with:
           source: content
-          page_title: "BEAT POOL PRODUCER MAP"
+          page_title: "BEAT-POOL PRODUCER MAP"
       - name: Free Up GitHub Actions Ubuntu Runner Disk Space 🔧
         uses: jlumbroso/free-disk-space@main
         with:

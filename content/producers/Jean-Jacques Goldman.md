@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2
 
 [[Moses Pelham]]
 [[Xavier Naidoo]]
-[[Roland Romanelli]]
-[[Martin Haas]]
+[[producers/Roland Romanelli]]
+[[producers/Martin Haas]]

@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/4Y7P8O5PNR7k7IvoLWfYTY
 **Related artists:**
 
 [[Nimo]]
-[[DTP]]
-[[Pzy]]
+[[producers/DTP]]
+[[producers/Pzy]]

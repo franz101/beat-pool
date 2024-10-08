@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/5tNMzKDeMdfth4SGiEu5z5
 
 **Related artists:**
 
-[[Torsten Scholz]]
+[[producers/Torsten Scholz]]
 [[Beatsteaks]]
 [[Chad Price]]
-[[Peter Baumann]]
-[[Arnim Teutoburg-Weiß]]
+[[producers/Peter Baumann]]
+[[producers/Arnim Teutoburg-Weiß]]
 [[Farin Urlaub]]
-[[Moses Schneider]]
-[[Bernd Kurtzke]]
+[[producers/Moses Schneider]]
+[[producers/Bernd Kurtzke]]
 [[Thomas Götz]]

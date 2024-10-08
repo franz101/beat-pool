@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7zaB0YtJI1Tub2RiT7VBnH
 
 [[Revolverheld]]
 [[Maximilian Diehn]]
-[[Simon Triebel]]
+[[producers/Simon Triebel]]
 [[Kontra K]]
 [[Yanek Stärk]]
 [[Falco]]

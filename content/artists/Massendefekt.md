@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/5dMzTUX22xeWjyW69R1zlc
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe7033a1bb7c93197bbf7bfe1)
 **Related artists:**
 
-[[Oliver Moschus]]
+[[producers/Oliver Moschus]]
 [[Henning Wehland]]
 [[Ferris MC]]
 [[B-Tight]]
 [[Blackout Problems]]
-[[Tim Schulte]]
+[[producers/Tim Schulte]]

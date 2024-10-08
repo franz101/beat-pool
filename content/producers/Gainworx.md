@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3yYDCcnY1NznpzBX4dnfY3
 **Related artists:**
 
 [[Thomas Petersen]]
-[[Mario Lopez]]
+[[producers/Mario Lopez]]

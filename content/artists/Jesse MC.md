@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4Fzzt7RTzAAEIasGiS45v9
 
 [[Vorkkkone]]
 [[Drama Kuba]]
-[[Philipp Hoppen]]
-[[Nico Seyfrid]]
+[[producers/Philipp Hoppen]]
+[[producers/Nico Seyfrid]]
 [[K.I.Z]]
 [[Kannibal Rob]]

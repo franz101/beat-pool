@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2FRu8vLcVjLLjsBNuvOAm0
 
 **Related artists:**
 
-[[Kent Base]]
+[[producers/Kent Base]]
 [[Toby Stuff]]
 [[Shaun Bate]]

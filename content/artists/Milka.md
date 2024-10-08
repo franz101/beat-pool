@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/35N3mSmoFeUOhGX4nZqvdo
 ![Artist](https://i.scdn.co/image/ab67616d0000b2734c24ee33a966229a3c878ec9)
 **Related artists:**
 
-[[Kay D.]]
-[[Florian Richter]]
+[[producers/Kay D.]]
+[[producers/Florian Richter]]
 [[band ohne namen]]

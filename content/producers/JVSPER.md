@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2TpUc6HfLyGkdX2y12RLKq
 
 **Related artists:**
 
-[[Bapsxx]]
+[[producers/Bapsxx]]
 [[loufre]]

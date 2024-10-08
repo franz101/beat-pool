@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6pg4S5KTCPiEBp0rSWsaI6
 
 **Related artists:**
 
-[[Joznez]]
+[[producers/Joznez]]
 [[Nazar]]
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]

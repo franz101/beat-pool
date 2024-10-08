@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6heRUfuGnAWiVerG4KiLoa
 
 [[Frank Bohnert]]
 [[Xelerator]]
-[[Frank Kohnert]]
+[[producers/Frank Kohnert]]

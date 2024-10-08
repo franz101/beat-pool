@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou
 
 **Related artists:**
 
-[[Andreas Huber]]
-[[Frans Zimmer]]
-[[Jan Hammele]]
+[[producers/Andreas Huber]]
+[[producers/Frans Zimmer]]
+[[producers/Jan Hammele]]
 [[Alle Farben]]

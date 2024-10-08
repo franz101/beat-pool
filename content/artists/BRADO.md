@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/0Mh0QuhaJ6WIW0qrJwzMmt
 **Related artists:**
 
 [[MERO]]
-[[E.M Beats]]
-[[Iceberg]]
-[[Adibeatz]]
+[[producers/E.M Beats]]
+[[producers/Iceberg]]
+[[producers/Adibeatz]]
 [[Doan]]

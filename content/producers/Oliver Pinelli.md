@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2WGfcCsM2jXRWOZTzFpS6z
 
 **Related artists:**
 
-[[Mighty K.K.]]
+[[producers/Mighty K.K.]]
 [[Yvonne Catterfeld]]
-[[Derezon]]
+[[producers/Derezon]]
 [[Yvonne Catterfeld (Julia)]]

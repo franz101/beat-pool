@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6Gaj6gutVsmbM5XyErgeSx
 [[PA Sports]]
 [[Ano]]
 [[Silla]]
-[[Soul534]]
-[[Chris Jarbee]]
+[[producers/Soul534]]
+[[producers/Chris Jarbee]]
 [[Boz]]

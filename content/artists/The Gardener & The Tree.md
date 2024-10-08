@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1GarejqGHyKM1adTFnB4NN
 **Related artists:**
 
 [[Philippe Jüttner]]
-[[Daniel Fet]]
-[[Patrick Fet]]
-[[Patrik Muggli]]
-[[Manuel Felder]]
+[[producers/Daniel Fet]]
+[[producers/Patrick Fet]]
+[[producers/Patrik Muggli]]
+[[producers/Manuel Felder]]

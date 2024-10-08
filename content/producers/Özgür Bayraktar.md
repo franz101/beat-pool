@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6lamHXK0TSx1qMxJH5SnPC
 
 **Related artists:**
 
-[[David Kraft]]
+[[producers/David Kraft]]
 [[Ufo361]]
 [[The Cratez]]
-[[Sam Salam]]
+[[producers/Sam Salam]]

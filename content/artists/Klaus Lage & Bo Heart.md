@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/24tDcGLNdpWeFs1KHgDMJn
 
 **Related artists:**
 
-[[Harald Kloser]]
+[[producers/Harald Kloser]]

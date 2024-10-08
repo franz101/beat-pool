@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3UeTlZGhh7Mq89esnfcWjH
 
 **Related artists:**
 
-[[DJ Illvibe]]
+[[producers/DJ Illvibe]]
 [[Miss Platnum]]
-[[Rudeboy]]
-[[Based]]
+[[producers/Rudeboy]]
+[[producers/Based]]
 [[CeeLo Green]]
 [[Seeed]]
-[[The Krauts]]
+[[producers/The Krauts]]

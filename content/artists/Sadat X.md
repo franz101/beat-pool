@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/7fDLDq2weBagiAFD2j17Al
 [[Brous One]]
 [[Flex Mathews]]
 [[Matiah Chinaski]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Damu The Fudgemunk]]

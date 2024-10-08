@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6xCpROdQDyjULgekyUtW3u
 
 **Related artists:**
 
-[[Armin van Buuren]]
-[[Benno De Goeij]]
+[[producers/Armin van Buuren]]
+[[producers/Benno De Goeij]]

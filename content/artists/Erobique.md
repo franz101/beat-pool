@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/21dHn8Rlrb1dJYuwHuxKvg
 **Related artists:**
 
 [[Die Sterne]]
-[[Jan Philipp Janzen]]
+[[producers/Jan Philipp Janzen]]
 [[The Düsseldorf Düsterboys]]
 [[Kaiser Quartett]]

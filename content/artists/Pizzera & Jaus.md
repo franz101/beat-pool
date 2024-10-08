@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/355ClqG0dW1RFLQ2kXloTp
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6596a8e70f621baccb1d259c)
 **Related artists:**
 
-[[Stefan Holoubek]]
-[[Erwin Bader]]
+[[producers/Stefan Holoubek]]
+[[producers/Erwin Bader]]

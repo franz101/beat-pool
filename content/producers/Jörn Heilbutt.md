@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1NJxJ5oL6AH4WAzVzPr7f8
 **Related artists:**
 
 [[Maite Kelly]]
-[[Martin Lingnau]]
-[[Frank Ramond]]
+[[producers/Martin Lingnau]]
+[[producers/Frank Ramond]]

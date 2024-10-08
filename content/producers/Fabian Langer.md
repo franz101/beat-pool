@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7pxGK5G8TL0l13BTWsR9tJ
 **Related artists:**
 
 [[Giant Rooks]]
-[[Dennis Borger]]
+[[producers/Dennis Borger]]
 [[AnnenMayKantereit]]
 [[Razz]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

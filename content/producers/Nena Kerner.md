@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5MEsDk3ibrTOmTjTHiYwnt
 
 **Related artists:**
 
-[[Reinhold Heil]]
-[[Uwe Fahrenkrog-Petersen]]
-[[Derek von Krogh]]
+[[producers/Reinhold Heil]]
+[[producers/Uwe Fahrenkrog-Petersen]]
+[[producers/Derek von Krogh]]
 [[Nena]]

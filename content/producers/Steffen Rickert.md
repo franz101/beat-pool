@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3F0o5sscSHMLnMP3bGIXf4
 
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
-[[Ben Burgwinkel]]
-[[David Conen]]
+[[producers/Vincent von Schlippenbach]]
+[[producers/Ben Burgwinkel]]
+[[producers/David Conen]]
 [[Casper]]
 [[The Friendly Ghost]]
 [[Marteria]]
-[[Dirk Berger]]
+[[producers/Dirk Berger]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

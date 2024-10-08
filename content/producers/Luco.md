@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/11fZdVXyU8LlF8lBeEAV1M
 
 **Related artists:**
 
-[[Amfree]]
+[[producers/Amfree]]
 [[Amfree&LuCo]]

@@ -19,4 +19,4 @@ url: https://open.spotify.com/artist/1i2HdFlSkR6lQ1ZdPAaekO
 [[In Extremo]]
 [[Hämatom]]
 [[Jörg Umbreit]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

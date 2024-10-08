@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1jBeBC1t80UkcBVbF7EDA0
 **Related artists:**
 
 [[Luca Hänni]]
-[[Jochem Fluitsma]]
-[[Mark Van Tijn]]
+[[producers/Jochem Fluitsma]]
+[[producers/Mark Van Tijn]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2lcaBr4OIAE8BYovXu9uWK
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]

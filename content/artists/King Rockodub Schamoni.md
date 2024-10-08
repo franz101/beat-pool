@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1O8UoOEPfbWalQXbyicf06
 **Related artists:**
 
 [[Jan Delay]]
-[[King Rockodub Schamoni & Jan Delay]]
+[[producers/King Rockodub Schamoni & Jan Delay]]

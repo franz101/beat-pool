@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1ECr9QMVPUC8QjOcvrk2lk
 **Related artists:**
 
 [[Ferris MC]]
-[[Tobi Tobsen]]
+[[producers/Tobi Tobsen]]

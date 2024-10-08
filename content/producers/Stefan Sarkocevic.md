@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4pkCu0wcS6zFTboptHUDnc
 
 **Related artists:**
 
-[[ONEDAH]]
-[[ROCKS]]
+[[producers/ONEDAH]]
+[[producers/ROCKS]]
 [[Delil]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4f9k6n60ZYQBJRlmb3ZyWa
 **Related artists:**
 
 [[H-Blockx]]
-[[Chris Wagner for Crossover Productions]]
+[[producers/Chris Wagner for Crossover Productions]]

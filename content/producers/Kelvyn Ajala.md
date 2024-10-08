@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6mfWd81fJ4USFeUkrXlApQ
 
 **Related artists:**
 
-[[Blaise Keys]]
-[[Mounir Maarouf]]
+[[producers/Blaise Keys]]
+[[producers/Mounir Maarouf]]
 [[Kelvyn Colt]]

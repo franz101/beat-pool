@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5sFZSaE1XGuSSxUK32bNv3
 
 [[Madsen]]
 [[Oli. P]]
-[[Big Smith]]
+[[producers/Big Smith]]
 [[Detlef Brockmann]]
 [[Johannes Oerding]]
-[[Mark Smith]]
+[[producers/Mark Smith]]

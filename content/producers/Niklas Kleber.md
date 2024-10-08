@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0UhaX3c6nD4QSe7BXrvP9Q
 **Related artists:**
 
 [[Celo & Abdi]]
-[[DTP]]
+[[producers/DTP]]
 [[KALIM]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]
 [[reezy]]
 [[Bonez MC]]

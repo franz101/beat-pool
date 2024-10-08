@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/53rNFu20cn9XWhehr6L3i0
 **Related artists:**
 
 [[Gergana Dimitrova]]
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Lord Of The Lost]]
 [[Nino de Angelo]]
 [[Eklipse]]

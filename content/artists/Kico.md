@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/77ipWvOUeKelML4Bitz44A
 
 **Related artists:**
 
-[[Oszi]]
+[[producers/Oszi]]
 [[Pimf]]

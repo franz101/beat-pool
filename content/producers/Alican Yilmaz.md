@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3rNGYy3yCwf1AVDC8W7otD
 [[Payman]]
 [[Paula Douglas]]
 [[Mikael]]
-[[Payman Habibzai]]
-[[Payman Habibzei]]
+[[producers/Payman Habibzai]]
+[[producers/Payman Habibzei]]

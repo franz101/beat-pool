@@ -22,4 +22,4 @@ url: https://open.spotify.com/artist/4PsR7zANINcNVP73DBen3T
 [[Yin Kalle]]
 [[Konz]]
 [[NARU]]
-[[Bally Ntahongendera]]
+[[producers/Bally Ntahongendera]]

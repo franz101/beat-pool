@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6YGykom9laEDXXMQ0nxRaM
 
 **Related artists:**
 
-[[Max Wanzki]]
+[[producers/Max Wanzki]]
 [[76er Boys]]

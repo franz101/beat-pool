@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/7cTfr9nU9kwlKrVxwghbxN
 
 [[Aslan Neter]]
 [[Defekt 36]]
-[[DJ Illegal]]
+[[producers/DJ Illegal]]
 [[Jinx]]
 [[QuestGott]]
 [[Sir-Viva]]

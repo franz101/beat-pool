@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4BbKyPwH7sTD22AbsobMMT
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
+[[producers/Shahabedin Azodifar]]
 [[Dramadigs]]
 [[Tsnd Mrk]]
 [[Relaén]]
-[[Felix Diegritz]]
+[[producers/Felix Diegritz]]
 [[Eloquent]]

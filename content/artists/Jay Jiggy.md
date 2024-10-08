@@ -19,6 +19,6 @@ url: https://open.spotify.com/artist/5FBdc4gwnj1x36cY9mlvUO
 [[Zabo]]
 [[Fear]]
 [[Herr Kuchen]]
-[[Larry Fricke]]
+[[producers/Larry Fricke]]
 [[RegenInMir]]
 [[EnteTainment]]

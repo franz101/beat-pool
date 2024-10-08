@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6td8tOBeQ98fwumleea5uA
 
 [[Michelle]]
 [[Nino de Angelo]]
-[[Matthias Stingl]]
+[[producers/Matthias Stingl]]

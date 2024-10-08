@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/2UAqB4ioHK26235YdkKo7M
 [[Blokkboy$]]
 [[Raresy]]
 [[OG Raijk]]
-[[Neco]]
+[[producers/Neco]]
 [[Keanu]]
 [[65Goonz]]
 [[Endzone]]

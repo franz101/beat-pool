@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4l6zoUu382k4wKpOn0If3K
 
 **Related artists:**
 
-[[dbbb]]
+[[producers/dbbb]]
 [[Fubu]]
 [[Ali Whales]]
 [[Fubu Whales]]
-[[b]]
+[[producers/b]]

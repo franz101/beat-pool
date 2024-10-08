@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2Kl7NU6UCFzS7gpOCsKW1J
 
 [[Jamule]]
 [[KALIM]]
-[[Bawer]]
-[[Timek]]
+[[producers/Bawer]]
+[[producers/Timek]]

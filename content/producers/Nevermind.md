@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3QPcpMC2OO7n7BlPVL07tl
 
 [[DJ Gollum]]
 [[Marc Korn]]
-[[Philipp Ray]]
+[[producers/Philipp Ray]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6NtaAGerS1mblEJLOVyplc
 
 **Related artists:**
 
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[Eno]]

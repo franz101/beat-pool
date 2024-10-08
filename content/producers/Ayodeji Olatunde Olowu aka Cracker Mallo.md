@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6R5qzxbn3JQoJaxuJC2LUf
 **Related artists:**
 
 [[YONII]]
-[[Isa Azier]]
+[[producers/Isa Azier]]

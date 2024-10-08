@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/47YlbKJ9aZM3HVa0lUXHZ0
 
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[Longus Mongus]]
 [[snice1]]

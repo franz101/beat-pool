@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7soaYZIez9uuzNRTSOpPaz
 **Related artists:**
 
 [[Clinton Sparks]]
-[[T. Pfund]]
+[[producers/T. Pfund]]
 [[DJ Pfund 500]]

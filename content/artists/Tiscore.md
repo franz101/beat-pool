@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI
 
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]
 [[Topmodelz]]
-[[Mark Becker]]
+[[producers/Mark Becker]]
 [[LIZOT]]
 [[Addie Nicole]]
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Maria Gold]]
 [[Pulsedriver]]
 [[Maria Dürrling]]
 [[Pinball]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

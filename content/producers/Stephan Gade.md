@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/51ToCjkP4OC1rpkbKHXK3Y
 
 **Related artists:**
 
-[[Justin Balk]]
+[[producers/Justin Balk]]
 [[Ina Müller]]
 [[Matthias Reim]]

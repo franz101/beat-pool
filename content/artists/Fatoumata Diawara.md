@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC
 
 [[Cédric Knavaro]]
 [[Bonaparte]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]

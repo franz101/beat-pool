@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4H5wBCPerSkeXDgW4J3LlZ
 **Related artists:**
 
 [[Pulsedriver]]
-[[Megastylez]]
+[[producers/Megastylez]]
 [[Megastylerz]]

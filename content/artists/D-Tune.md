@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/26P8hiVKDgo3V5CfdYwSWm
 
 **Related artists:**
 
-[[Philip Wiese]]
+[[producers/Philip Wiese]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6HFCjvQ0xC48IgO7j78JCq
 
 **Related artists:**
 
-[[Ki2la]]
+[[producers/Ki2la]]
 [[1312er]]

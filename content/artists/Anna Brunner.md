@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2bC7msCvmara3wc4rGoZ2L
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Hannes Braun]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Hannes Braun]]
+[[producers/Hardy Krech]]
 [[Santiano]]

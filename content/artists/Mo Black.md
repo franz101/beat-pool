@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/56QQN6lwC2Ca6IqmGt729q
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Willy Will]]
 [[Eunique]]

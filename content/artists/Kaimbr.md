@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/14Tj7VYTchrwNemBAcLZ6B
 
 **Related artists:**
 
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Brous One]]
 [[Damu The Fudgemunk]]

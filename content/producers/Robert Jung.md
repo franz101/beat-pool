@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0e9LqB5qNCVfovkbJYXmoa
 **Related artists:**
 
 [[Nicole]]
-[[Ralph Siegel]]
+[[producers/Ralph Siegel]]
 [[Stereoact]]

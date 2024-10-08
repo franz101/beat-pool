@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1GwxXgEc6oxCKQ5wykWXFs
 
 **Related artists:**
 
-[[Abaz]]
+[[producers/Abaz]]
 [[Hanybal]]
-[[Grasser Beats]]
+[[producers/Grasser Beats]]

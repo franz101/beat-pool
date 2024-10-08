@@ -28,7 +28,7 @@ url: https://open.spotify.com/artist/1smgEXf9Nxqi6KfWsqNZSJ
 [[Tarek Gee]]
 [[MC Basstard]]
 [[Hugo Nameless]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[Feind]]
 [[dop]]

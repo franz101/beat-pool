@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/0p8tedgLoNWb9x0HKoInoD
 
 [[Kay One]]
 [[Emory]]
-[[Amaterasu & Kay One]]
+[[producers/Amaterasu & Kay One]]
 [[DMX]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1UwMzRa2Ed9DqlA1izDsCC
 
 **Related artists:**
 
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Joachim Witt]]

@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3jCpkSg0NSdoBnSiomVQkD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb314ce54125d247e16e69ca45)
 **Related artists:**
 
-[[Peter Ries]]
-[[Nik Hafemann]]
-[[John Eaton]]
+[[producers/Peter Ries]]
+[[producers/Nik Hafemann]]
+[[producers/John Eaton]]
 [[Thorsten Brötzmann]]
-[[Marc Mozart]]
-[[D. Fact - N-Dee - Frank Lio]]
+[[producers/Marc Mozart]]
+[[producers/D. Fact - N-Dee - Frank Lio]]

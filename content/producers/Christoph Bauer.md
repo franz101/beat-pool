@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6q1XrwwPhKqErUpRQshzNS
 
 **Related artists:**
 
-[[Lars Wiedemann]]
+[[producers/Lars Wiedemann]]
 [[Xiara]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Noah]]

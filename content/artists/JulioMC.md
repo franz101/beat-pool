@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/4qN6EMGQDF1W3p4rY5wolV
 ![Artist](https://i.scdn.co/image/ab67616d0000b2737d73e6f8937e8359a0d8a272)
 **Related artists:**
 
-[[Bavic]]
+[[producers/Bavic]]
 [[Benni Bukkake]]
 [[Kilian437]]
 [[Obeez]]

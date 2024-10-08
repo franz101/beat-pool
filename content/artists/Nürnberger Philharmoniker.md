@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/594vvPuxtUATr1YkLhzhSA
 
 **Related artists:**
 
-[[Manfred Praeker]]
+[[producers/Manfred Praeker]]
 [[Extrabreit]]

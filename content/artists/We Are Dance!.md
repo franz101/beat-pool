@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/48zmlMLtdpMCxH3CPgJ6gf
 
 **Related artists:**
 
-[[Philipp Jahn]]
+[[producers/Philipp Jahn]]
 [[Dj Tht]]
-[[Enrico Cornelius Jurca]]
+[[producers/Enrico Cornelius Jurca]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5KsSPNO6NcRHxkVRaznxId
 
 **Related artists:**
 
-[[Heiner L?rig]]
+[[producers/Heiner L?rig]]
 [[Heinz Rudolf Kunze]]
-[[Heiner Lurig]]
+[[producers/Heiner Lurig]]

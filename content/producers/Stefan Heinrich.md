@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/52RP4TytelI5tac8cTM5sT
 
 **Related artists:**
 
-[[Tim Tautorat]]
+[[producers/Tim Tautorat]]
 [[KLAN]]
 [[Henrik Müller]]

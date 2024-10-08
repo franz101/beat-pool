@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3Zk03qhmFLepNYW2atWkmE
 
 **Related artists:**
 
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Udo Lindenberg]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

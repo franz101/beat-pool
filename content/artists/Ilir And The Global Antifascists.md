@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7ciVcJuKSN7dFgaGl6cAZx
 
 **Related artists:**
 
-[[Fritz Jerey]]
+[[producers/Fritz Jerey]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

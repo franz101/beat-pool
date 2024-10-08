@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/1e7X5YlxE4AYGEPmr0pxNH
 
 **Related artists:**
 
-[[Kai Pokall]]
+[[producers/Kai Pokall]]
 [[Pulsedriver]]
-[[Sascha "sem" Ebert]]
+[[producers/Sascha "sem" Ebert]]
 [[Crystal Lake]]
 [[Manox]]
-[[Sascha Hundertmark]]
+[[producers/Sascha Hundertmark]]
 [[Tomtrax]]
 [[Giorno]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/47pYzy7f7enDcrEoVSENqD
 
 **Related artists:**
 
-[[Ralph Suda]]
+[[producers/Ralph Suda]]
 [[Michelle]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/1Xq4d3xK8DewASFgmpx0Zh
 
 **Related artists:**
 
-[[Tay Keith]]
+[[producers/Tay Keith]]
 [[Sonus030]]
-[[Jimmy Torrio]]
-[[Michael Alber]]
+[[producers/Jimmy Torrio]]
+[[producers/Michael Alber]]
 [[Ufo361]]
 [[The Cratez]]
-[[JZgotKeys]]
+[[producers/JZgotKeys]]

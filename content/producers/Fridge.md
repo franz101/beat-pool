@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5g9s6dQAhse0qgjQOKQXHG
 
 **Related artists:**
 
-[[Walter]]
+[[producers/Walter]]
 [[Pulsedriver]]
-[[Mandrysch]]
-[[Hastik]]
+[[producers/Mandrysch]]
+[[producers/Hastik]]
 [[Redwing]]

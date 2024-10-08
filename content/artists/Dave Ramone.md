@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3yJEDITP6xPDElQZuJYnDi
 
 **Related artists:**
 
-[[R. Reis]]
+[[producers/R. Reis]]
 [[Jolie Noir]]
-[[F.Leidig]]
-[[K.Grunwald]]
+[[producers/F.Leidig]]
+[[producers/K.Grunwald]]

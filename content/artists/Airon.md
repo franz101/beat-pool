@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3pgLKnm3nE8Tb5RDCt4lh7
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4b794ce6618d753540c8f2c6)
 **Related artists:**
 
-[[Dan Abridge]]
-[[Bizzy Mo]]
+[[producers/Dan Abridge]]
+[[producers/Bizzy Mo]]

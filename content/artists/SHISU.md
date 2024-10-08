@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/72b8929STTnRLqOyqGmxDb
 ![Artist]()
 **Related artists:**
 
-[[Leon Bontus]]
-[[Dieter Dietrich]]
+[[producers/Leon Bontus]]
+[[producers/Dieter Dietrich]]
 [[DG]]
 [[Blokkboy$]]
 [[Dietrich]]

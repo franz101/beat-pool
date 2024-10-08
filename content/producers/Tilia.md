@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/7jHCm4tfk9BIriKkmYnX5k
 
 **Related artists:**
 
-[[Voddi 257]]
-[[Barsky]]
+[[producers/Voddi 257]]
+[[producers/Barsky]]
 [[Pedaz]]
 [[Mozzik]]
 [[Miksu - Macloud]]
 [[257ers]]
 [[Loredana]]
-[[Ninety8]]
+[[producers/Ninety8]]
 [[Antifuchs]]
 [[Alligatoah]]

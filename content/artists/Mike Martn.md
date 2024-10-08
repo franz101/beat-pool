@@ -13,10 +13,10 @@ url: https://open.spotify.com/artist/5gUKh2bWGxvJkJ0bFCeDXc
 
 [[PTK]]
 [[Nils Davis]]
-[[Provo]]
+[[producers/Provo]]
 [[Høyin]]
 [[Dawid DST]]
-[[Jonnywood]]
+[[producers/Jonnywood]]
 [[Tschappy]]
 [[Mach One]]
 [[Karmo Kaputto]]

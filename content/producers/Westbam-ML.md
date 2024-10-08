@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0bIvvfPnM3YeHeORD57sAE
 **Related artists:**
 
 [[2raumwohnung]]
-[[Klaus Jankuhn]]
+[[producers/Klaus Jankuhn]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]

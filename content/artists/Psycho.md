@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/27jKThZwn4qyoG1poMmu9t
 
 **Related artists:**
 
-[[Kwame]]
+[[producers/Kwame]]
 [[Blackstar]]
 [[Ron Miller]]
 [[Nate57]]

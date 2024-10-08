@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/0pECNoOEif0ADXv1uEiakb
 **Related artists:**
 
 [[Isi Glück]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Honk!]]
 [[Dominik De León]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]
 [[Ikke Hüftgold]]
-[[Dirk Fiebich]]
+[[producers/Dirk Fiebich]]
 [[Carolina]]
 [[Mike Leon Grosch]]
 [[Mallorca Allstars]]

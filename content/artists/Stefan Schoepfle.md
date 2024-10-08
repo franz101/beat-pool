@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3zCTM1GF6sGeiV09qju6ej
 [[Outbreakband]]
 [[Naycill]]
 [[Petteri Sainio]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Ruben Drescher]]

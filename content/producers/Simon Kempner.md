@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/30DdpMSoT7LEBCoaCrGul7
 
 [[reezy]]
 [[Afrob]]
-[[Klimperboy]]
+[[producers/Klimperboy]]
 [[KALIM]]
-[[Bawer]]
-[[Phon.o]]
+[[producers/Bawer]]
+[[producers/Phon.o]]

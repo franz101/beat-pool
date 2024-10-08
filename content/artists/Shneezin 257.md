@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/3eRYPqR0VuaDuhGDrEXE27
 
 [[Hollywood Hank]]
 [[Alligatoah]]
-[[Lukas Strobel]]
+[[producers/Lukas Strobel]]
 [[Favorite]]
 [[Timi Hendrix]]

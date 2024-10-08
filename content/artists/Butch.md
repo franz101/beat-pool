@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1ijjxJ3IpTn9mGLPol8Ghi
 
 **Related artists:**
 
-[[21]]
+[[producers/21]]
 [[Marvin Game]]
-[[PressPlay]]
+[[producers/PressPlay]]
 [[AL Kareem]]
 [[morten]]
 [[Wanja Janeva]]

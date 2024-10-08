@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5anKKcWVKNkyLTjjPWcoKg
 **Related artists:**
 
 [[LUIS]]
-[[prodbylaze]]
+[[producers/prodbylaze]]
 [[IND1GO]]
-[[rocky]]
-[[junbeats]]
+[[producers/rocky]]
+[[producers/junbeats]]

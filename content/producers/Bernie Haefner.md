@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2DGcobm17B6RGE06Gz5RSw
 
 **Related artists:**
 
-[[Frank Engel]]
-[[Live Legend Konzertagentur GmbH]]
+[[producers/Frank Engel]]
+[[producers/Live Legend Konzertagentur GmbH]]
 [[Pamela Bürger]]
 [[Adel Tawil]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/34GYZAVYQHol5AMCdSeo20
 
 **Related artists:**
 
-[[J.C. do Santos]]
+[[producers/J.C. do Santos]]
 [[Massive Töne]]
 [[DJ P. F. Cuttinï]]
-[[Joao dos Santos]]
-[[W. Ntuanoglu]]
-[[Wasi Ntuanoglu]]
+[[producers/Joao dos Santos]]
+[[producers/W. Ntuanoglu]]
+[[producers/Wasi Ntuanoglu]]

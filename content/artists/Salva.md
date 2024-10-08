@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0BIcGyWGJfFLMBYunHndSu
 ![Artist]()
 **Related artists:**
 
-[[AslanBeatz]]
+[[producers/AslanBeatz]]
 [[GENT]]

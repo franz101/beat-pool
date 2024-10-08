@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/55E3g7oUV2dhqCWao7kzm3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfabde0ad06638d1026bbb945)
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[Niklas Brüsewitz]]
-[[Nils Schedler]]
+[[producers/Nils Schedler]]
 [[Patrick Pöhl]]
 [[Harris & Ford]]
 [[HBz]]

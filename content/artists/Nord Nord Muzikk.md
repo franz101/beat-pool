@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/7dWtqGHC8nLsKJ0vxcJzqY
 **Related artists:**
 
 [[Defy]]
-[[Daniel "Danzo" Gast]]
+[[producers/Daniel "Danzo" Gast]]
 [[Tarek K.I.Z]]
-[[G-Ko]]
+[[producers/G-Ko]]
 [[ZOMBIEZ]]
 [[K.I.Z]]

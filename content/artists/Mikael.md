@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/5PLCJ2Wlc2BV0d4gCYdRTc
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb63ad99c7a79f9cb5cd750a90)
 **Related artists:**
 
-[[Dannyebtracks]]
-[[47 Shots]]
+[[producers/Dannyebtracks]]
+[[producers/47 Shots]]
 [[Jonesmann]]
-[[Bledbeats]]
+[[producers/Bledbeats]]
 [[Jigzaw]]
 [[Payman]]
-[[Alican Yilmaz]]
+[[producers/Alican Yilmaz]]
 [[Milano]]
-[[Kostas Karagiozidis]]
-[[Larkin]]
+[[producers/Kostas Karagiozidis]]
+[[producers/Larkin]]
 [[JIGGO]]

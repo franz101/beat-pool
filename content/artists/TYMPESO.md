@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5LI4dDA1ehiHezbSjK6Q97
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb484502a999dbf81b2c4ea25a)
 **Related artists:**
 
-[[BLOODY9INE]]
+[[producers/BLOODY9INE]]
 [[BRONKO BAMMER]]

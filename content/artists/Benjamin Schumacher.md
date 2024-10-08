@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5f1nVVd7EVo0Ugyjabp9fm
 
 [[Juri Friesen]]
 [[Outbreakband]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Stefan Schöpfle]]

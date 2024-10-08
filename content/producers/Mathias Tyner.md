@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2aiw3rc4a1mEUVbf3K3F4R
 **Related artists:**
 
 [[Data Luv]]
-[[DeeVoe]]
+[[producers/DeeVoe]]

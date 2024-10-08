@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6YNsuEyuyhWGyYc1ozCo4u
 **Related artists:**
 
 [[Kitty Kat]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]

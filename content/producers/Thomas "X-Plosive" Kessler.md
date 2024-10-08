@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/2m4WDVyaLScu1qT2R3euOP
 
 [[Rea Garvey]]
 [[Kelvyn Colt]]
-[[Imran "Abaz" Abbas]]
+[[producers/Imran "Abaz" Abbas]]
 [[Kool Savas]]
 [[Illy]]
 [[Nessi]]

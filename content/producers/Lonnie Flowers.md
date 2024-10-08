@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7cf4AFzsJL6geHimP70y9P
 **Related artists:**
 
 [[Veedel Kaztro]]
-[[Dienst&Schulter]]
+[[producers/Dienst&Schulter]]

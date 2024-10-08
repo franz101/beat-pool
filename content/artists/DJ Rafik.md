@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/2wdxwTbtJCaMNcHE4lR7YT
 [[Koljah]]
 [[Azad]]
 [[439]]
-[[Pzy]]
-[[Ersonic]]
+[[producers/Pzy]]
+[[producers/Ersonic]]
 [[Tone]]

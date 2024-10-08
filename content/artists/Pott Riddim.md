@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/0Gn9hviAnKzeSrsReTsDTC
 **Related artists:**
 
 [[Sondaschule]]
-[[Costa Cannabis]]
+[[producers/Costa Cannabis]]
 [[Swag Boy Alex]]
 [[Der Butterwegge]]

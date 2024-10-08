@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5osVxaR0iCsJJ8Lh8jqgmk
 
 **Related artists:**
 
-[[Klo]]
+[[producers/Klo]]
 [[GAMBINO 36]]

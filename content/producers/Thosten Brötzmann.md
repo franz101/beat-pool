@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0Z3G72WfL61ZN71hGWmgoe
 **Related artists:**
 
 [[Matthias Reim]]
-[[Ivo Moring]]
+[[producers/Ivo Moring]]

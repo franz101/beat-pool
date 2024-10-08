@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7i8hazloBF3tti2sg5vWjf
 **Related artists:**
 
 [[SNKY]]
-[[R.Rozay]]
+[[producers/R.Rozay]]
 [[MaazaKayo]]

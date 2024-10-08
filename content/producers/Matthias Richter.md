@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5k9ki9GFaHSIklV5diyetW
 **Related artists:**
 
 [[Sondaschule]]
-[[Hannes Kelch]]
-[[Tim Kleinrensing]]
+[[producers/Hannes Kelch]]
+[[producers/Tim Kleinrensing]]

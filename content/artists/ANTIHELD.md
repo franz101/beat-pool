@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4Njl3UZmpThiWHuLdHk1HF
 
 [[Robella]]
 [[Liquit Walker]]
-[[Marius Fimmel]]
-[[Ralf Christian Mayer]]
+[[producers/Marius Fimmel]]
+[[producers/Ralf Christian Mayer]]

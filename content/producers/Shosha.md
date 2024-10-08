@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1qnOsAhrwsQQJfcoouihkg
 
 **Related artists:**
 
-[[Frank One]]
+[[producers/Frank One]]
 [[Ramo]]

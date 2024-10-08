@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5UHIWgKzTOs7TKCREJrn17
 
 **Related artists:**
 
-[[Maxe]]
+[[producers/Maxe]]
 [[Dante YN]]

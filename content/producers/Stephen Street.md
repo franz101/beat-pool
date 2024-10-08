@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/5pmh5AcbKZIme0p4riO6Kb
 **Related artists:**
 
 [[Thomas Körbler]]
-[[Torsten Scholz]]
+[[producers/Torsten Scholz]]
 [[Beatsteaks]]
 [[Jamie T]]
-[[Peter Baumann]]
-[[Arnim Teutoburg-Weiß]]
-[[Bernd Kurtzke]]
+[[producers/Peter Baumann]]
+[[producers/Arnim Teutoburg-Weiß]]
+[[producers/Bernd Kurtzke]]
 [[Thomas Götz]]

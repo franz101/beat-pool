@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/07kyXqGQ4m7Km26KK2ai8N
 **Related artists:**
 
 [[Dardan]]
-[[Tinobeats]]
+[[producers/Tinobeats]]

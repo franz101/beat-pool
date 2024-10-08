@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3w3yVJJvdmaXYjp7MEQRSA
 
 **Related artists:**
 
-[[Tony Brown]]
+[[producers/Tony Brown]]
 [[Afrob]]
 [[Samy Deluxe]]
 [[Dean Dawson]]

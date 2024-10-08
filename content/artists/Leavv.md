@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE
 [[Nick Mitdemkopf]]
 [[B dom]]
 [[Philanthrope]]
-[[Malte Huck]]
+[[producers/Malte Huck]]
 [[Greco Murillo]]
 [[Fubu]]
 [[DISSY]]

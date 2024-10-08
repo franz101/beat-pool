@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1w1BMbmAcMDSzP9rQIK6we
 
 **Related artists:**
 
-[[Adam Grahn]]
+[[producers/Adam Grahn]]
 [[Hannes Irengård]]
 [[Jonas Almén]]
 [[Royal Republic]]

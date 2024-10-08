@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6NN68VI97lU4WQJ5GaYCeq
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[ISEE FRANKY]]
 [[Amo49]]
 [[Kwam.E]]

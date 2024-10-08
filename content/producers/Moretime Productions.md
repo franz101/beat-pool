@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2EbfUdSGcO4fy1c6kldlLm
 
 [[Battleboi Basti]]
 [[257ers]]
-[[James Loughrey]]
+[[producers/James Loughrey]]

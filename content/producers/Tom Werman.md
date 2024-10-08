@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5w3GFCNQceJJvxSFKIkUdz
 **Related artists:**
 
 [[Sarah Connor]]
-[[Mother's Finest]]
+[[producers/Mother's Finest]]

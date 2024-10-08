@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7CxCBrwyRiojzu5R0ZZ28b
 **Related artists:**
 
 [[G.G.B]]
-[[Lotuseffekt]]
+[[producers/Lotuseffekt]]
 [[Skew]]
 [[Kwam.E]]
 [[Tom Hengst]]

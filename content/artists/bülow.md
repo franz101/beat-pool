@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3a3d9526271bfce0bfa9e4d9)
 **Related artists:**
 
-[[Flo August]]
+[[producers/Flo August]]
 [[BLVTH]]

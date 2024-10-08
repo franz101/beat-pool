@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2ed9610affc41ce3b55fcc14)
 **Related artists:**
 
-[[Bronko Bammer]]
+[[producers/Bronko Bammer]]
 [[Eno]]

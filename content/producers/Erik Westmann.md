@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4cGJWax5X1nAGhU72CU7Xc
 **Related artists:**
 
 [[SDP]]
-[[Roman Ehrke]]
-[[Beatzarre]]
+[[producers/Roman Ehrke]]
+[[producers/Beatzarre]]
 [[Timi Hendrix]]

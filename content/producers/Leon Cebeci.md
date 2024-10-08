@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1wnhIrk4V3HxEgRDwVekM5
 
 [[Axel Jäger]]
 [[Alex Megane]]
-[[Andreas Bruhn]]
+[[producers/Andreas Bruhn]]

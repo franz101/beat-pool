@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3pONzjQKqFrh3zTQBTMeWd
 
 **Related artists:**
 
-[[Ghana Beats]]
+[[producers/Ghana Beats]]
 [[geenaro]]
 [[Nullzweizwei]]

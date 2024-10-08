@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo
 ![Artist](https://i.scdn.co/image/ab67616d0000b273d0739b2ef8c01985d9b1210a)
 **Related artists:**
 
-[[Bobby Schmidt]]
+[[producers/Bobby Schmidt]]
 [[James Last]]

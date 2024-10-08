@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3Zb6PlcoMshjeGpjcTzAA4
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Dieter Bohlen]]
+[[producers/Dieter Bohlen]]
 [[Helene Fischer]]
 [[Darius & Finlay]]
 [[Thorsten Brötzmann]]
@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/3Zb6PlcoMshjeGpjcTzAA4
 [[Kerstin Ott]]
 [[Matthias Reim]]
 [[DJ Shog]]
-[[Amfree]]
+[[producers/Amfree]]
 [[Ben Zucker]]
 [[Giovanni Zarrella]]
 [[Jürgen Drews]]

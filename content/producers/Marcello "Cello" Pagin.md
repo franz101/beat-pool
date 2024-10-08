@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1MSi9aQ5XNPwT20N5cITK3
 
 **Related artists:**
 
-[[Christian 'thefatrat' Buettner]]
+[[producers/Christian 'thefatrat' Buettner]]
 [[Monrose]]

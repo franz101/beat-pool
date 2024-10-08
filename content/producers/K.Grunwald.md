@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6CTvOxTskUA1F0khBAxKM7
 
 **Related artists:**
 
-[[R. Reis]]
+[[producers/R. Reis]]
 [[Jolie Noir]]
 [[Dave Ramone]]
-[[F.Leidig]]
+[[producers/F.Leidig]]

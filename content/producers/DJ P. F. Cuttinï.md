@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0BlYyFBH8ZNqopKogAp6lE
 **Related artists:**
 
 [[Massive Töne]]
-[[Joao dos Santos]]
-[[Jean-Christoph Ritter]]
-[[Wasi Ntuanoglu]]
+[[producers/Joao dos Santos]]
+[[producers/Jean-Christoph Ritter]]
+[[producers/Wasi Ntuanoglu]]

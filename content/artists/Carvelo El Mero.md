@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/14yEqykwfgzA48TSMRiWzh
 
 **Related artists:**
 
-[[Oster]]
+[[producers/Oster]]
 [[Sero El Mero]]

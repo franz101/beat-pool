@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1N58wYnyhq4jdQCuc35UhL
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Ninjaneer]]
+[[producers/Ninjaneer]]

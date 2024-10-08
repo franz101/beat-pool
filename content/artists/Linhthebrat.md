@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1brvzuvdvanrxlpOBht2Gk
 **Related artists:**
 
 [[Tommy]]
-[[MVrc]]
-[[PANDA]]
+[[producers/MVrc]]
+[[producers/PANDA]]

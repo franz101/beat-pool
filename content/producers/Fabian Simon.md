@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0KuVh0KrYlzbPLzGsEfPEU
 **Related artists:**
 
 [[Tristan Brusch]]
-[[Willi Sieger]]
+[[producers/Willi Sieger]]
 [[Daniel Strohhäcker]]

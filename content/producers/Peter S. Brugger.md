@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4dS2xMsqnFYlVr9xKQSMSP
 
 **Related artists:**
 
-[[Florian Weber]]
-[[Dave Anderson]]
-[[Peter Horsch]]
+[[producers/Florian Weber]]
+[[producers/Dave Anderson]]
+[[producers/Peter Horsch]]
 [[Sportfreunde Stiller]]
 [[Oliver Zülch]]
-[[Rudiger Linhof]]
+[[producers/Rudiger Linhof]]

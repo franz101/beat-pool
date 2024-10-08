@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0ecca0878bcc8d88ff901dea)
 **Related artists:**
 
-[[Matteo Schwanengel]]
+[[producers/Matteo Schwanengel]]
 [[Sero]]
 [[REEZA]]
 [[Yakama]]
 [[Esther Graf]]
 [[Edo Saiya]]
-[[David Turco]]
-[[Tim Schoon]]
+[[producers/David Turco]]
+[[producers/Tim Schoon]]
 [[Lary]]
-[[YUNG RVIDER]]
+[[producers/YUNG RVIDER]]
 [[Sierra Kidd]]
 [[Genetikk]]
 [[absent]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2LR109brOL4Xe1461UliQY
 **Related artists:**
 
 [[Josef Hader]]
-[[Lambert Windges]]
+[[producers/Lambert Windges]]
 [[Tristan Brusch]]
-[[Joe Joaquin]]
+[[producers/Joe Joaquin]]
 [[Maeckes]]

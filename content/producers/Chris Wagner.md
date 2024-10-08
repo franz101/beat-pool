@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6A6vqoIcwxX98hzLpxngwF
 
 **Related artists:**
 
-[[Unknown]]
-[[Ralph Quick]]
+[[producers/Unknown]]
+[[producers/Ralph Quick]]
 [[H-Blockx]]

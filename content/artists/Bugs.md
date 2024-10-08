@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0gzGQc3T8czip9olx4xCRE
 **Related artists:**
 
 [[Mosh36]]
-[[Saven]]
-[[DK]]
+[[producers/Saven]]
+[[producers/DK]]

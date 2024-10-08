@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/64lp8HRMhrs1LWfrVHIykQ
 **Related artists:**
 
 [[The Real Booty Babes]]
-[[Stephane Akenan]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
-[[Patrick Fasseau]]
+[[producers/Stephane Akenan]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
+[[producers/Patrick Fasseau]]

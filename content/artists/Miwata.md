@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/5RwRoCyyMD8TpyPaRAa0yr
 **Related artists:**
 
 [[KAAS]]
-[[Martin Baumgartner]]
+[[producers/Martin Baumgartner]]
 [[Patrice]]
 [[Nikitaman]]
-[[Santell]]
+[[producers/Santell]]
 [[jahmiel]]
 [[Uwe Kaa]]
 [[Jugglerz]]
 [[The Cratez]]
-[[Baumi]]
+[[producers/Baumi]]

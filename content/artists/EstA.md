@@ -26,6 +26,6 @@ url: https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG
 [[Nima]]
 [[Punch Arogunz]]
 [[JONA]]
-[[Eric Philippi]]
-[[Stefan Kiessling]]
+[[producers/Eric Philippi]]
+[[producers/Stefan Kiessling]]
 [[Moritz Garth]]

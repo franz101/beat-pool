@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1gxehupXVKw95i03TQKppC
 
 **Related artists:**
 
-[[Kevax]]
+[[producers/Kevax]]

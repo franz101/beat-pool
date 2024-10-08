@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebec84529ba7f63b0d00c8f2cc)
 **Related artists:**
 
-[[Jan Hubner]]
+[[producers/Jan Hubner]]

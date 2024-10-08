@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1yHqgdbtHjBHnyc1Qk0b1f
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

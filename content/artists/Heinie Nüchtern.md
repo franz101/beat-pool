@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/2K1MLDub1Hmby0NT2mznZi
 **Related artists:**
 
 [[Doktor Sterben]]
-[[Audyssey]]
+[[producers/Audyssey]]
 [[ogschlauch]]
 [[dusy]]
 [[Tighty]]
@@ -26,7 +26,7 @@ url: https://open.spotify.com/artist/2K1MLDub1Hmby0NT2mznZi
 [[Asadjohn]]
 [[wavphile]]
 [[Yung Vision]]
-[[Levin]]
+[[producers/Levin]]
 [[t-low]]
 [[Sevi Rin]]
 [[Young Taylor]]

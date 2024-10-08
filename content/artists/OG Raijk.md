@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/2H00tldHlKwQOWOWLqpwWA
 **Related artists:**
 
 [[OSAMA]]
-[[W]]
+[[producers/W]]
 [[Zekki & Adja]]
 [[Endzone]]
 [[65Goonz]]
-[[ATP]]
+[[producers/ATP]]
 [[Tarek & Zenci]]
 [[Polo65]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3MeoPoc3XfKxbyOgX8tnxJ
 **Related artists:**
 
 [[Tua]]
-[[Jonas Lang]]
+[[producers/Jonas Lang]]
 [[Die Orsons]]

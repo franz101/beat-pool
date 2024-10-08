@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4TUGuzQK7ApXgQxYeUY0Ca
 **Related artists:**
 
 [[GReeeN]]
-[[Syrix]]
+[[producers/Syrix]]

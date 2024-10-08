@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2DEWm9QVnjKCFtAJHbuwFF
 **Related artists:**
 
 [[SAMY]]
-[[Iceberg]]
+[[producers/Iceberg]]

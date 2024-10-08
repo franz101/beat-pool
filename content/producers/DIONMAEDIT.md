@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0qQ8mWcHV5wnCaRLkB7qe9
 
 **Related artists:**
 
-[[SLS]]
-[[Wylo]]
+[[producers/SLS]]
+[[producers/Wylo]]
 [[Nu51]]
 [[SAMY]]
-[[North]]
-[[Johnny Good]]
+[[producers/North]]
+[[producers/Johnny Good]]

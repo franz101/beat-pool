@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/63hzP7Pn48h9Gk35YqDltb
 
 **Related artists:**
 
-[[KK-47]]
-[[Zinobeatz]]
+[[producers/KK-47]]
+[[producers/Zinobeatz]]
 [[Olexesh]]

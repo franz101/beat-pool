@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1ECNiuh6UqhSEt3N2Y9lDu
 **Related artists:**
 
 [[Chaze Sharp]]
-[[Yottsu]]
+[[producers/Yottsu]]

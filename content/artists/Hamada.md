@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/52CkJDqRPUzzIePkvPcudU
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb040ad6d7ac18b17870f57450)
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[Bato]]
-[[Fade Beats]]
+[[producers/Fade Beats]]
 [[Hemso]]
 [[Play69]]
 [[Young Mesh]]
@@ -28,5 +28,5 @@ url: https://open.spotify.com/artist/52CkJDqRPUzzIePkvPcudU
 [[Dabbl]]
 [[Quantanamo]]
 [[Young Kira]]
-[[Kyree]]
-[[DINSKI]]
+[[producers/Kyree]]
+[[producers/DINSKI]]

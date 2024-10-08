@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1rRWW3wIGFUO7EcspsEDJS
 
 **Related artists:**
 
-[[Pedro De Cabra]]
+[[producers/Pedro De Cabra]]
 [[Dan Winter]]

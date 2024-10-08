@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6b0zhKR2SEvi6k02qTqT1f
 [[Kkuba102]]
 [[Duke102]]
 [[102 Boyz]]
-[[THEHASHCLIQUE]]
+[[producers/THEHASHCLIQUE]]
 [[Skoob102]]

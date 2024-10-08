@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6Bq5Ryr8EeN3BR0bRHxCaj
 **Related artists:**
 
 [[Jonas Monar]]
-[[Wassily Gradovsky]]
-[[Pascal 'Kalli' Reinhardt]]
-[[Ricardo Bettiol]]
-[[Marcus Brosch]]
+[[producers/Wassily Gradovsky]]
+[[producers/Pascal 'Kalli' Reinhardt]]
+[[producers/Ricardo Bettiol]]
+[[producers/Marcus Brosch]]
 [[Liquit Walker]]
-[[Pascal Reinhardt]]
+[[producers/Pascal Reinhardt]]

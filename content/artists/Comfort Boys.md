@@ -30,4 +30,4 @@ url: https://open.spotify.com/artist/5CzM8SBSrN9w68EZJ0gHhn
 [[Ezco 44]]
 [[NARU]]
 [[Monk]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

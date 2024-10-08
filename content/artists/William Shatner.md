@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2dPqql8xbby3nWuf98mAza
 
 **Related artists:**
 
-[[Ben Folds]]
+[[producers/Ben Folds]]

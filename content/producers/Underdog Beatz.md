@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6a0XUSs9xhmvbcMWOs3Zsy
 
 **Related artists:**
 
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[Battleboi Basti]]
 [[BOGA]]

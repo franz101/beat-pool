@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ
 
 **Related artists:**
 
-[[Dreilich]]
+[[producers/Dreilich]]
 [[Karat]]
-[[Kurzhals]]
+[[producers/Kurzhals]]

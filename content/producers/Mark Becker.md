@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/3RxIuvyarN7qdowV2GU4iy
 
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]
 [[LIZOT]]
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Tiscore]]
 [[Anstandslos & Durchgeknallt]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]
 [[Culcha Candela]]
 [[Maria Dürrling]]
-[[Nikolay Mohr]]
+[[producers/Nikolay Mohr]]
 [[Emi Flemming]]
-[[Oliver Kleissle]]
+[[producers/Oliver Kleissle]]
 [[VIZE]]
 [[Mark Forster]]
 [[Octavian]]

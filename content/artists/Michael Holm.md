@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/2XFJaC8sLcJaswyzw95WFo
 ![Artist](https://i.scdn.co/image/c8c96e2964b67a13e971131934096192253008ec)
 **Related artists:**
 
-[[Rainer Pietsch]]
+[[producers/Rainer Pietsch]]

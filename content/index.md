@@ -1,16 +1,16 @@
 ---
-title: BEAT POOL PRODUCER MAP
+title: BEAT-POOL PRODUCER MAP
 ---
 
-# BEAT POOL
+# BEAT-POOL
 
 Dive into the pool of our immaculate music producer network.
 You can find a small excerpt of the people we work with.
 
-![beatbpool](https://beat-pool.com/cdn/shop/files/photo_2021-06-17_17-13-59_1080x-1_540x.jpg?v=1624023822)
+![beat-pool logo](https://beat-pool.com/cdn/shop/files/photo_2021-06-17_17-13-59_1080x-1_540x.jpg?v=1624023822)
 
 Explore our professional music network now:
-[[SBM]]
+[[producers/SBM]]
 [[Mo$art]]
 [[Skew]]
 [[prodbypengg]]
@@ -19,17 +19,17 @@ Explore our professional music network now:
 [[twentyone]]
 [[Torky Tork]]
 [[vanta]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[Sirin]]
-[[Drupes]]
-[[Skool Boy]]
-[[Matt Mendo]]
-[[Bronko Bammer]]
-[[Basey]]
+[[producers/Drupes]]
+[[producers/Skool Boy]]
+[[producers/Matt Mendo]]
+[[producers/Bronko Bammer]]
+[[producers/Basey]]
 [[Carlifornia]]
-[[Bawer]]
-[[Traya]]
-[[Ciaga]]
-[[Korayzen]]
+[[producers/Bawer]]
+[[producers/Traya]]
+[[producers/Ciaga]]
+[[producers/Korayzen]]
 
 ... 

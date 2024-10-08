@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1k2HuCLXygduRq16nMK2PZ
 
 [[T»MB]]
 [[Falco]]
-[[Ferdinand Bolland]]
-[[Rob Bolland]]
+[[producers/Ferdinand Bolland]]
+[[producers/Rob Bolland]]

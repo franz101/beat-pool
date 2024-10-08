@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2mqIaYukHl8Zb7cvAHG0Y6
 **Related artists:**
 
 [[Re:Locate]]
-[[Armin van Buuren]]
+[[producers/Armin van Buuren]]
 [[Pulsedriver]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/13xePSUvH3iOSYSFHiGXee
 
 **Related artists:**
 
-[[Ren Tinner]]
+[[producers/Ren Tinner]]
 [[Trio]]
 [[Stephan Remmler]]
 [[Joachim Witt]]

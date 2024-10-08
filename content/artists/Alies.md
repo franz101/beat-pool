@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4
 
 [[Celo & Abdi]]
 [[Kelvyn Colt]]
-[[Supersonic]]
+[[producers/Supersonic]]
 [[Edo Saiya]]
 [[MoTrip]]
 [[Kool Savas]]

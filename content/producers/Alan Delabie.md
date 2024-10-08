@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2q4hTAMkw0MrBM5OHemWYO
 
 **Related artists:**
 
-[[Alan Frijns]]
+[[producers/Alan Frijns]]
 [[DJ RAVEN]]
 [[Thomas Petersen]]
 [[Soulcry]]

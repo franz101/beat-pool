@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7LqDQrlQSwZ2XAv3rEd98V
 
 **Related artists:**
 
-[[Oster]]
+[[producers/Oster]]
 [[AJÉ]]
 [[Shirin David]]
 [[Luciano]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6AKDBd8dDnM715jeUivRm1
 
 **Related artists:**
 
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Ufo361]]
 [[The Cratez]]
-[[Benito Benites]]
-[[John Virgo Garrett III]]
+[[producers/Benito Benites]]
+[[producers/John Virgo Garrett III]]

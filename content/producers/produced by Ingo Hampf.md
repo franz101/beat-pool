@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3aIOWQX01Vhcr9bEgJ0JN5
 
 **Related artists:**
 
-[[Ekkehard Strauhs]]
-[[Ronald Prent]]
+[[producers/Ekkehard Strauhs]]
+[[producers/Ronald Prent]]
 [[Subway To Sally]]

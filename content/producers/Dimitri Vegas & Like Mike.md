@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk
 
 **Related artists:**
 
-[[Like Mike]]
+[[producers/Like Mike]]
 [[Scooter]]
-[[Brennan Heart]]
+[[producers/Brennan Heart]]

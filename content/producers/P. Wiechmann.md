@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2F08dKJXZjFcMvUNdBmNsz
 **Related artists:**
 
 [[Jumper]]
-[[T.Fenske]]
+[[producers/T.Fenske]]
 [[ZIGGY X]]

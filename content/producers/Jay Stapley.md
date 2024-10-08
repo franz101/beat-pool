@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/42728r9710RFwe9w3MQ44E
 **Related artists:**
 
 [[Westernhagen]]
-[[Dieter Krauthausen]]
+[[producers/Dieter Krauthausen]]

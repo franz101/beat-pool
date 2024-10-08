@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6nUOrgkHVLMY7Zoe3IXQhJ
 **Related artists:**
 
 [[Thompson Twins]]
-[[Alex Sadkin]]
+[[producers/Alex Sadkin]]

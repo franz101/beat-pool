@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3R0hChHK4Fm0HrjbDOQ0e3
 **Related artists:**
 
 [[Blaikz]]
-[[Sven Blaikz Schwarz]]
+[[producers/Sven Blaikz Schwarz]]

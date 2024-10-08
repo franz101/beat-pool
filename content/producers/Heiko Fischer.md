@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2CgER0otPJft7KpDd03kOF
 **Related artists:**
 
 [[Stanfour]]
-[[Alex Rethwisch]]
+[[producers/Alex Rethwisch]]

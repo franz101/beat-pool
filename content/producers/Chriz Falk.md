@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/1CL2wUvd8q6kwZ7IHydOpv
 **Related artists:**
 
 [[HGich.T]]
-[[Jennifer Bender]]
-[[Jen Bender]]
+[[producers/Jennifer Bender]]
+[[producers/Jen Bender]]
 [[Jennifer Rostock]]
-[[Raphael Schalz]]
+[[producers/Raphael Schalz]]
 [[Danger Dan]]
-[[Ivan Georgiev]]
+[[producers/Ivan Georgiev]]
 [[Grossstadtgeflüster]]

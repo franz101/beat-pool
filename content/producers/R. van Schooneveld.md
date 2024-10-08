@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4dprz1qHoOh6mJ4aBcsauS
 **Related artists:**
 
 [[Rocco Vs. Bass-T]]
-[[N.de Vries]]
+[[producers/N.de Vries]]
 [[Niels Van Vries]]

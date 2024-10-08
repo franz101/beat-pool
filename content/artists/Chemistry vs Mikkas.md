@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2OBMDt4iqm3wZV0wQ4fsIA
 **Related artists:**
 
 [[Pulsedriver]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
-[[Kasper Smed Nielsen]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
+[[producers/Kasper Smed Nielsen]]

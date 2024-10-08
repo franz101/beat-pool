@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3S2c5igNtzdgCVz6S9FKIe
 **Related artists:**
 
 [[PA Sports]]
-[[Imran Abbas]]
+[[producers/Imran Abbas]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5WxbLwKrlgFQVjtcrP4T8d
 
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[Claudio Pagonis]]
+[[producers/Kiko Masbaum]]
+[[producers/Claudio Pagonis]]
 [[Stefanie Heinzmann]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4OFb1h3TCgegRGD71k5BML
 
 **Related artists:**
 
-[[Wolfgang Lenk]]
+[[producers/Wolfgang Lenk]]
 [[Die Prinzen]]

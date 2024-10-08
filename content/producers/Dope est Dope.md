@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3jsq3eWORgy076sJrRu51V
 
 **Related artists:**
 
-[[Friedhelm Mund]]
+[[producers/Friedhelm Mund]]
 [[Clueso]]
 [[DISSY]]
-[[Fynn]]
-[[Donkong]]
+[[producers/Fynn]]
+[[producers/Donkong]]
 [[Maeckes]]

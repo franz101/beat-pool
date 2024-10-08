@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/0Epl7kpJAmbXgF7s72GfWV
 [[Joy Denalane]]
 [[Gentleman]]
 [[Max Herre]]
-[[Tommy W.]]
+[[producers/Tommy W.]]
 [[Afrob]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]

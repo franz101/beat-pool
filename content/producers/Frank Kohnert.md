@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/04s64gWkbcOWRTnlFYnVjE
 **Related artists:**
 
 [[Frank Bohnert]]
-[[Marlon Weiss]]
+[[producers/Marlon Weiss]]
 [[Xelerator]]

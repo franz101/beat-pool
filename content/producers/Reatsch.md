@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/30qaNGbg7oApjhXONOHCq9
 [[Big Maxxx]]
 [[Silla]]
 [[Ha$$anfall]]
-[[RXON]]
-[[Diavo]]
+[[producers/RXON]]
+[[producers/Diavo]]

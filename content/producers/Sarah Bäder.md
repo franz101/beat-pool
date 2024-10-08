@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7DXNm13q8FefrDk7NO4osY
 
 **Related artists:**
 
-[[Artox]]
+[[producers/Artox]]
 [[LUNA]]
-[[Steffen Haussteiner]]
-[[KrisKraus]]
+[[producers/Steffen Haussteiner]]
+[[producers/KrisKraus]]

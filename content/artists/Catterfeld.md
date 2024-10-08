@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2bilkRshVssK8XO2P2uZWr
 
 **Related artists:**
 
-[[G. Mart]]
+[[producers/G. Mart]]

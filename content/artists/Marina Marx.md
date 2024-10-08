@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7vLw6ibN3Cqr39I95cSYEs
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb729a9bd6dc228becf9a580e2)
 **Related artists:**
 
-[[Achim Kleist]]
-[[Wolfgang von Webenau]]
+[[producers/Achim Kleist]]
+[[producers/Wolfgang von Webenau]]
 [[Karsten Walter]]
-[[Syndicate Musicproduction]]
+[[producers/Syndicate Musicproduction]]

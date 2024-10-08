@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3XtlCpJxY2tIKFW2FZVPLn
 **Related artists:**
 
 [[Nullzweizwei]]
-[[Sinch]]
+[[producers/Sinch]]
 [[Noah]]
-[[Typhoon]]
+[[producers/Typhoon]]
 [[Lil Lano]]

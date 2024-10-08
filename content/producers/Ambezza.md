@@ -12,13 +12,13 @@ url: https://open.spotify.com/artist/4aVb3hYeHvH9BSA1OPUdGz
 **Related artists:**
 
 [[Bozza]]
-[[Nikki 3k]]
-[[PressPlay]]
+[[producers/Nikki 3k]]
+[[producers/PressPlay]]
 [[Elias]]
-[[riico]]
+[[producers/riico]]
 [[Messaj]]
 [[Luciano]]
-[[Bass Charity]]
+[[producers/Bass Charity]]
 [[Musso]]
 [[Hiero]]
 [[Minhtendo]]
@@ -26,4 +26,4 @@ url: https://open.spotify.com/artist/4aVb3hYeHvH9BSA1OPUdGz
 [[reezy]]
 [[Bausa]]
 [[Rojas]]
-[[Okami]]
+[[producers/Okami]]

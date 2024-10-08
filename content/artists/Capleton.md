@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf
 
 [[Azad]]
 [[Gentleman]]
-[[Maurice Johnson a.k.a. Black Scorpio]]
+[[producers/Maurice Johnson a.k.a. Black Scorpio]]

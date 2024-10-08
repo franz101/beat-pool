@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3IbeMIk2Twe05dTJ2nGn3l
 
 [[Marlo]]
 [[Lunico]]
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[DLA]]
 [[Teflon030]]

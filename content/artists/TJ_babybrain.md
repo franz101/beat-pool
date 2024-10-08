@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/04YShsWDOCM5MORKCCtgdh
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb8110a890039af4c2baa69cb)
 **Related artists:**
 
-[[Daniel Tjarks]]
+[[producers/Daniel Tjarks]]
 [[wavvyboi]]
 [[TJ_beastboy]]
 [[lulu]]
 [[fliggsy]]
-[[Simon Vogt]]
-[[Manuel Marc Jungclaussen]]
+[[producers/Simon Vogt]]
+[[producers/Manuel Marc Jungclaussen]]
 [[Sierra Kidd]]

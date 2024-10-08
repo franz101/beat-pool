@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6rcLFa2UFpvR5BqZHML6cp
 
 **Related artists:**
 
-[[Oliver Heller]]
+[[producers/Oliver Heller]]
 [[Scotty]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1faxe25Wp3Nk43xVVxsdSB
 **Related artists:**
 
 [[Michelle Bradshaw]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU
 
 **Related artists:**
 
-[[James Carill]]
-[[Trish Keenan]]
+[[producers/James Carill]]
+[[producers/Trish Keenan]]

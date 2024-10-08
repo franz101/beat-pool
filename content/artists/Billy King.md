@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/0MK4DA7ZYGXUOUqyYH7daO
 [[MiMi]]
 [[Udo Lindenberg]]
 [[Lindiwe Suttle]]
-[[Kevin Bents]]
+[[producers/Kevin Bents]]

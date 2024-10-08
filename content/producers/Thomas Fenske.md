@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0LtZsyLEtrWGB10r0MiJVl
 **Related artists:**
 
 [[Pulsedriver]]
-[[Christopher Frahm]]
-[[Patrick Wiechmann]]
+[[producers/Christopher Frahm]]
+[[producers/Patrick Wiechmann]]
 [[ZIGGY X]]

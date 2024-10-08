@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1QlX6aYqIXWIG9mGSE405d
 **Related artists:**
 
 [[LUVRE47]]
-[[Che Pope]]
+[[producers/Che Pope]]
 [[Kelvyn Colt]]
 [[AOB]]
 [[Seko Zaza]]
@@ -27,7 +27,7 @@ url: https://open.spotify.com/artist/1QlX6aYqIXWIG9mGSE405d
 [[Said]]
 [[KKuba]]
 [[Bangs]]
-[[Heizenberg]]
+[[producers/Heizenberg]]
 [[Addikt]]
 [[Abiad]]
 [[Brown Eyez White-Boy]]
@@ -35,8 +35,8 @@ url: https://open.spotify.com/artist/1QlX6aYqIXWIG9mGSE405d
 [[Haze]]
 [[Hugo Nameless]]
 [[Almani]]
-[[Kyu Steed]]
+[[producers/Kyu Steed]]
 [[Skoob]]
 [[Haki]]
 [[Inoffiziell.Goldenboy]]
-[[Dienst&Schulter]]
+[[producers/Dienst&Schulter]]

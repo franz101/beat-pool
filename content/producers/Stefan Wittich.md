@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4DB1pXgMyXo6mw3eNvUUza
 
 **Related artists:**
 
-[[Patrick Reising]]
+[[producers/Patrick Reising]]
 [[Moritz Krämer]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0hntLxkad5ewz5qXFeARuM
 
 **Related artists:**
 
-[[Patrick Scholl]]
-[[Enrico Di Giorno]]
+[[producers/Patrick Scholl]]
+[[producers/Enrico Di Giorno]]
 [[Giorno]]

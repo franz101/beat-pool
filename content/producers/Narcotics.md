@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/21a9EKqNLj9OK3LyjkAezB
 **Related artists:**
 
 [[Seboib]]
-[[Prodby7J]]
+[[producers/Prodby7J]]
 [[VOLO]]
 [[Xidir]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/28yIUgPYZqgJoNZjeBvrHn
 ![Artist](https://i.scdn.co/image/ab67616d0000b27316beb08d2488a5d1043f3620)
 **Related artists:**
 
-[[Stephen Lipson]]
+[[producers/Stephen Lipson]]

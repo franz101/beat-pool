@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1sW5adZ5VrzGmAZMIY0VSG
 
 **Related artists:**
 
-[[Carsten Linde]]
+[[producers/Carsten Linde]]
 [[Hannes Wader]]

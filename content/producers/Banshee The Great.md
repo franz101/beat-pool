@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1XfXvzpKRpQhccg2BqlzNq
 
 **Related artists:**
 
-[[Minthendo]]
+[[producers/Minthendo]]
 [[Bausa]]

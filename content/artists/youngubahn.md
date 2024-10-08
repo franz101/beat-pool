@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/2eY7E6sD490vHXvJRBCEf3
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba6cdf44aee37738ebf6efa04)
 **Related artists:**
 
-[[HARUN]]
+[[producers/HARUN]]
 [[KIMON]]
 [[Yin Kalle]]
 [[skrt cobain]]
-[[Shinju]]
+[[producers/Shinju]]
 [[Fifteen]]
 [[EN6O]]
 [[TYM]]

@@ -24,4 +24,4 @@ url: https://open.spotify.com/artist/5IQZA1dxUd3Qv73mHNln59
 [[Jongmen]]
 [[Blokkmonsta]]
 [[Dj.Frodo]]
-[[Zh Beats]]
+[[producers/Zh Beats]]

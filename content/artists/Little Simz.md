@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI
 **Related artists:**
 
 [[Beatgees]]
-[[Richard "Biff" Stannard]]
-[[Ash Howes]]
+[[producers/Richard "Biff" Stannard]]
+[[producers/Ash Howes]]
 [[Lena]]
 [[Kat Vinter]]

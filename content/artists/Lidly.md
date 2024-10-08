@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5coiUHBKZQoIjCfndJEvfV
 
 **Related artists:**
 
-[[Kenta Taniyama]]
+[[producers/Kenta Taniyama]]
 [[Eloquent]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6NOyMjFizvhbGgSN04gQ6P
 
 **Related artists:**
 
-[[Denis Preston]]
+[[producers/Denis Preston]]
 [[Roger Whittaker]]

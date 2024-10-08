@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4fSShZ7BGBFwLt39PkLHxm
 **Related artists:**
 
 [[Massive Töne]]
-[[DJ P.F.Cuttin for Waxrippa Music BMI]]
+[[producers/DJ P.F.Cuttin for Waxrippa Music BMI]]

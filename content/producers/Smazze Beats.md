@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2vgzO4PQo1QsCiUlTk55BB
 **Related artists:**
 
 [[Silva]]
-[[Joznez]]
+[[producers/Joznez]]
 [[Majoe]]
 [[Farid Bang]]

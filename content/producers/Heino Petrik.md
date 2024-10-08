@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5yJcJ2pYX31f3CQamzEJ7O
 
 **Related artists:**
 
-[[Thomas Meisel]]
+[[producers/Thomas Meisel]]
 [[Roland Kaiser]]

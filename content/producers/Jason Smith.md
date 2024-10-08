@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6m1dX3kILtDZrJAMVlKqJp
 
 **Related artists:**
 
-[[Marvin P Jones III]]
+[[producers/Marvin P Jones III]]
 [[Strong Arm Steady]]
-[[Phonte Lyshod Coleman]]
-[[Otis Jackson Jr.]]
+[[producers/Phonte Lyshod Coleman]]
+[[producers/Otis Jackson Jr.]]

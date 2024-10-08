@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0
 **Related artists:**
 
 [[Goldfinger]]
-[[Yung Swisher]]
+[[producers/Yung Swisher]]
 [[Gringo]]

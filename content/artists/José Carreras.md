@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1ahGKezyX9Rl7GuEF2tc15
 
 **Related artists:**
 
-[[Carl Carlton]]
+[[producers/Carl Carlton]]
 [[Peter Maffay]]
-[[Bertram Engel]]
+[[producers/Bertram Engel]]

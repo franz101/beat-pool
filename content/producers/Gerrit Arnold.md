@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3zwXmY8dLDFy88YmxiAZf1
 **Related artists:**
 
 [[Jush]]
-[[Lorik Shaqiri]]
+[[producers/Lorik Shaqiri]]
 [[Jeje Lopes]]
 [[Momo Chahine]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/614dpAEqWggsKfLIyH1TGG
 
 **Related artists:**
 
-[[PAIX]]
+[[producers/PAIX]]
 [[Capo]]
 [[Farid Bang]]
 [[SOTT]]
 [[Azzi Memo]]
-[[Dosh]]
+[[producers/Dosh]]

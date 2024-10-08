@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6ctnl8GEjdQScV9Ya01Rh0
 
 **Related artists:**
 
-[[Tibration]]
+[[producers/Tibration]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0KMOFOCeINRbKabfIOhUel
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb676d80272ef5de8df8af1c89)
 **Related artists:**
 
-[[Doghen]]
+[[producers/Doghen]]

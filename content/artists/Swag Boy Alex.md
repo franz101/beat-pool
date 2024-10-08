@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/0WOoMNjOYEJG9D1WMrH9MZ
 
 [[Sondaschule]]
 [[Pott Riddim]]
-[[Costa Cannabis]]
+[[producers/Costa Cannabis]]
 [[Der Butterwegge]]

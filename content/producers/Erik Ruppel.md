@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0Lvg9wfFkAXm8wD0kAtiIr
 
 **Related artists:**
 
-[[Mario Petersen]]
-[[Leon Krol]]
+[[producers/Mario Petersen]]
+[[producers/Leon Krol]]
 [[Monet192]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

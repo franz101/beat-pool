@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6RnHYqSjd6YQ4flzFRdEWL
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebaed6e1f3d9a449f8189a0bd4)
 **Related artists:**
 
-[[Sj Beats]]
-[[Ambezza]]
+[[producers/Sj Beats]]
+[[producers/Ambezza]]
 [[Rojas]]

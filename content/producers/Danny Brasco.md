@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/05BlA7vN6o1m2dsGOgaODY
 
 **Related artists:**
 
-[[Jimmy Torrio]]
-[[Drupes]]
+[[producers/Jimmy Torrio]]
+[[producers/Drupes]]
 [[Eunique]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6xR2c2Ek9bTLgUM80sbHdN
 **Related artists:**
 
 [[Pulsedriver]]
-[[DJ Dean]]
-[[DJ Fait]]
+[[producers/DJ Dean]]
+[[producers/DJ Fait]]

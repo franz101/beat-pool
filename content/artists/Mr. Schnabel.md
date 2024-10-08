@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5JaMkkCgU1kSLevkJGTURx
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe8d716ecdacf1c14a89416e9)
 **Related artists:**
 
-[[C.L.A.S. Productions at Boogiepark Studios Hamburg]]
+[[producers/C.L.A.S. Productions at Boogiepark Studios Hamburg]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2V2STRTSsfaxMW4o4s3M5N
 
 **Related artists:**
 
-[[A. Tawil]]
-[[Annette Humpe]]
-[[S. Kirchner]]
-[[C. Zippel]]
+[[producers/A. Tawil]]
+[[producers/Annette Humpe]]
+[[producers/S. Kirchner]]
+[[producers/C. Zippel]]
 [[Ich + Ich]]

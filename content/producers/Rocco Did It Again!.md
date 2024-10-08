@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/56CTNeYFlGfJQBH7H9MBaB
 
 **Related artists:**
 
-[[Dr. Luke for Prescription Songs]]
+[[producers/Dr. Luke for Prescription Songs]]
 [[Doja Cat]]
 [[Saweetie]]
 [[Katja Krasavice]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0FJ6CzmaJOyGvuhUSqx4mT
 **Related artists:**
 
 [[Azet]]
-[[LOLO79]]
+[[producers/LOLO79]]
 [[Paix]]

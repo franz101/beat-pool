@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4v4xuH9VypORYabMnhPLt1
 
 **Related artists:**
 
-[[Lars Stalfors]]
-[[Alex Rethwisch]]
+[[producers/Lars Stalfors]]
+[[producers/Alex Rethwisch]]
 [[Udo Lindenberg]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Stanfour]]
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]

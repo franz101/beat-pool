@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5mWbSNctP1G3ZsXnKDqB5T
 
 **Related artists:**
 
-[[Reece]]
+[[producers/Reece]]
 [[M.I.K.I]]
 [[Freshmaker]]

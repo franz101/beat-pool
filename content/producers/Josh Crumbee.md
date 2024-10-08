@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6V14sfDpdwJviPdnskMz4C
 
 **Related artists:**
 
-[[AFSHEEN]]
-[[Richard "Biff" Stannard]]
-[[Ash Howes]]
+[[producers/AFSHEEN]]
+[[producers/Richard "Biff" Stannard]]
+[[producers/Ash Howes]]
 [[Lena]]

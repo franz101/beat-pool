@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/3TcUCxQHc1tB5yCqvFD05Z
 ![Artist](https://i.scdn.co/image/ab67616d0000b273fb304ead66b9090322c47980)
 **Related artists:**
 
-[[Simon Skew Quaas]]
-[[ISEE JULEZ]]
-[[Lotuseffekt]]
-[[Simon Gaudes]]
+[[producers/Simon Skew Quaas]]
+[[producers/ISEE JULEZ]]
+[[producers/Lotuseffekt]]
+[[producers/Simon Gaudes]]
 [[ISEE FRANKY]]
-[[Korayzen]]
-[[BXLE]]
-[[Isee Franky]]
+[[producers/Korayzen]]
+[[producers/BXLE]]
+[[producers/Isee Franky]]
 [[Kwam.E]]
-[[Youslaccin]]
-[[Tron]]
+[[producers/Youslaccin]]
+[[producers/Tron]]

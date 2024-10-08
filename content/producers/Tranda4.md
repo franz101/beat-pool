@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5ol6BbgKJ1OsTfVWPJqBJL
 **Related artists:**
 
 [[Luna Simao]]
-[[Frio]]
+[[producers/Frio]]

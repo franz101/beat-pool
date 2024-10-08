@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/7DcGRxTtG2j0Kp2SVHxDi5
 **Related artists:**
 
 [[Rosanna Perinic]]
-[[Dietmar Kawohl]]
+[[producers/Dietmar Kawohl]]
 [[Richard Clayderman]]
-[[Armand Volker]]
+[[producers/Armand Volker]]
 [[Mats Björklund]]
 [[Tom Astor]]
-[[Hans Singer]]
-[[Harald Steinhauer]]
-[[Harald Steinbauer]]
+[[producers/Hans Singer]]
+[[producers/Harald Steinhauer]]
+[[producers/Harald Steinbauer]]
 [[Nino de Angelo]]

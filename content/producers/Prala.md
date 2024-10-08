@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6UwLBC6sXz9u7Axnb8oeVC
 [[Bato]]
 [[Casar]]
 [[Lord JKO]]
-[[LTM]]
+[[producers/LTM]]
 [[CALO]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2A445ZRKgm4nAZsfwF98bW
 
 **Related artists:**
 
-[[Carter TwoFive]]
+[[producers/Carter TwoFive]]
 [[negatiiv OG]]

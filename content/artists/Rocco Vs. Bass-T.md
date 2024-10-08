@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/70zTE3sinBxEUny0LMpJ0p
 
 **Related artists:**
 
-[[R. van Schooneveld]]
-[[N.de Vries]]
+[[producers/R. van Schooneveld]]
+[[producers/N.de Vries]]
 [[Niels Van Vries]]

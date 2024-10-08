@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0fN17zOYpeC7vZEnwEIA88
 **Related artists:**
 
 [[Lady Saw]]
-[[David Conen]]
-[[Torsten Reibold]]
+[[producers/David Conen]]
+[[producers/Torsten Reibold]]
 [[Demba Nabé]]
-[[Based]]
+[[producers/Based]]
 [[Seeed]]
-[[Pete Fox]]
+[[producers/Pete Fox]]

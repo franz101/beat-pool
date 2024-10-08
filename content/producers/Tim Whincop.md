@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4UblTY90yMt1TAx9pnPgKK
 **Related artists:**
 
 [[Hillsong Auf Deutsch]]
-[[Steve McPherson]]
-[[Reuben Morgan]]
+[[producers/Steve McPherson]]
+[[producers/Reuben Morgan]]

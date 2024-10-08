@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/201SzHQ1mKBOe3GgRq9qrM
 
 **Related artists:**
 
-[[Awaline]]
+[[producers/Awaline]]
 [[Pulsedriver]]
-[[Rijkaard]]
-[[Gollers]]
+[[producers/Rijkaard]]
+[[producers/Gollers]]
 [[Ray Knox]]

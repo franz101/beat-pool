@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0H0OkFxp022WOyKlt3HmlA
 **Related artists:**
 
 [[Ra'is]]
-[[Chris Jarbee]]
+[[producers/Chris Jarbee]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/33cYrwzQFw5jsUzuAHaN4w
 
 **Related artists:**
 
-[[Lucian Balinisteanu]]
+[[producers/Lucian Balinisteanu]]
 [[MaLu Project]]
-[[Hendrik Meyer]]
+[[producers/Hendrik Meyer]]
 [[Basslouder]]
 [[K Brown]]
 [[James Stefano]]

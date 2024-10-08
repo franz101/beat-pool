@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3fMp0z9Nk0lpyPIvfQw1T6
 **Related artists:**
 
 [[Fame's - Macedonian Symphonic Orchestra]]
-[[Andreas Weizel]]
+[[producers/Andreas Weizel]]
 [[Frida Gold]]

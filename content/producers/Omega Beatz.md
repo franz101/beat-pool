@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4xO5mCyiC8pKRuCmejC4MP
 
 **Related artists:**
 
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[Kurdo]]

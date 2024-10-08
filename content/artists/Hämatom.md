@@ -21,4 +21,4 @@ url: https://open.spotify.com/artist/6vg9BW5gHSjidGbypXQku2
 [[MC Basstard]]
 [[Hansi Kursch]]
 [[Alex Wesselsky]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

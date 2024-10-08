@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6JYd7GWhn110KGoyTp1ecD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb73548b234a7f81e93eaf3993)
 **Related artists:**
 
-[[C55]]
+[[producers/C55]]
 [[KAY AY]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

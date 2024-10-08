@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Fv3LVZB4DFnI2x7IZIDO6
 
 **Related artists:**
 
-[[Eric Philippi]]
+[[producers/Eric Philippi]]
 [[Ruiny]]
 [[EstA]]

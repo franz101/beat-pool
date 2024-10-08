@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/5VTsHHmBFz9Drhj0fx4H83
 [[Luca Hänni]]
 [[Lukas Hällgren]]
 [[Jon Hällgren]]
-[[Laurell Barker]]
+[[producers/Laurell Barker]]

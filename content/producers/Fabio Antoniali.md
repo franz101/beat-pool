@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/06godi3mCrXymefxWablVX
 
 [[ThatGurlHanna]]
 [[Culcha Candela]]
-[[DJ Antoine]]
-[[H.anna M.ontana]]
+[[producers/DJ Antoine]]
+[[producers/H.anna M.ontana]]
 [[Julie Brown]]

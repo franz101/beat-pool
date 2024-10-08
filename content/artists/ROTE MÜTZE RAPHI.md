@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb15dae85baf9010b5095dcd8a)
 **Related artists:**
 
-[[Kevin Zaremba]]
-[[Matthias Kurpiers]]
+[[producers/Kevin Zaremba]]
+[[producers/Matthias Kurpiers]]
 [[Aylo]]
-[[KEZA]]
+[[producers/KEZA]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5GuyBgjj1FTuVmFBMGqygb
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Jens Sulik]]
-[[Mario Skakalo]]
-[[Tayfun Beytur]]
+[[producers/Jens Sulik]]
+[[producers/Mario Skakalo]]
+[[producers/Tayfun Beytur]]
 [[Timeless]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3o6NWUNmrkrwaO3CCjF6Ui
 
 **Related artists:**
 
-[[Iggi Tarn]]
+[[producers/Iggi Tarn]]
 [[Okfella]]
 [[Jonta]]

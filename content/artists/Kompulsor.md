@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/60b8EbuSG0duErCOoko6s5
 
 **Related artists:**
 
-[[Eugene Borodkin]]
+[[producers/Eugene Borodkin]]

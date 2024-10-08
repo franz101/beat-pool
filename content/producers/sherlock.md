@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1Neyaoxx9NLPHNdrHDVQs9
 
 [[Young Richie Rich]]
 [[GARA]]
-[[hagan]]
+[[producers/hagan]]

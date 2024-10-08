@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/0r4iVRQXF9yEmHjpPFIx4Z
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6ca154fecf748ac15984df36)
 **Related artists:**
 
-[[Peter Ries]]
-[[Ingo Politz]]
-[[Eric Sylaar]]
-[[Brix]]
-[[Sytros]]
-[[Dirk Fiebich]]
+[[producers/Peter Ries]]
+[[producers/Ingo Politz]]
+[[producers/Eric Sylaar]]
+[[producers/Brix]]
+[[producers/Sytros]]
+[[producers/Dirk Fiebich]]
 [[K-Fly]]
-[[Bernd Wendlandt]]
+[[producers/Bernd Wendlandt]]

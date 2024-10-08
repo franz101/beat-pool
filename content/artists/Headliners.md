@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/41ujAVn4sevkZRLhzp5dh0
 **Related artists:**
 
 [[Samy Deluxe]]
-[[DJ Rocky]]
+[[producers/DJ Rocky]]

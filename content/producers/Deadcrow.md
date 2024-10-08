@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4ufkY8hmhmYl4aCnzv3dLE
 **Related artists:**
 
 [[RIN]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

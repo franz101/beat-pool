@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/10LJP1XVyYXcaJwWoztKxn
 **Related artists:**
 
 [[Bustek]]
-[[Christoph Rehseburg]]
+[[producers/Christoph Rehseburg]]
 [[Panischer]]

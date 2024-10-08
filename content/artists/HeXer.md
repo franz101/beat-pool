@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/77LWQfycyAtBuKgn1kGPbm
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfc71cf821e507661b66ae533)
 **Related artists:**
 
-[[Iggi Tarn]]
+[[producers/Iggi Tarn]]
 [[Okfella]]
-[[Theskybeats]]
-[[DJ Eule]]
-[[Constantine Mineikis]]
+[[producers/Theskybeats]]
+[[producers/DJ Eule]]
+[[producers/Constantine Mineikis]]
 [[Freshmaker]]
 [[mRo]]
 [[Jonta]]

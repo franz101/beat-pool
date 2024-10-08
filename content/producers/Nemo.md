@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7mt2qihQ9TRdkBuwmtkM8A
 **Related artists:**
 
 [[PTK]]
-[[Jibba]]
+[[producers/Jibba]]

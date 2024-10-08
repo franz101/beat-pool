@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0afThwl3XMBmgB0MGjnKGJ
 **Related artists:**
 
 [[TaiMO]]
-[[DarkoBeats]]
+[[producers/DarkoBeats]]

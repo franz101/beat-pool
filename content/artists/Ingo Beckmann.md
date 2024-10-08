@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6DGqO0kVCPGAqhR54Q1Po3
 
 [[Feiert Jesus!]]
 [[Anja S. Lehmann]]
-[[Albert Frey]]
+[[producers/Albert Frey]]

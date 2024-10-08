@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2QeGYfc9W4HhtHKaBZQe4P
 **Related artists:**
 
 [[Philipp Dittberner]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[Marv]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

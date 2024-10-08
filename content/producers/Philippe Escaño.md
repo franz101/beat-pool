@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2caQIVpOkTb25zu3sUNdAP
 
 **Related artists:**
 
-[[Julian Reim]]
-[[Luis Rodriguez]]
-[[Louis Rodriguez]]
+[[producers/Julian Reim]]
+[[producers/Luis Rodriguez]]
+[[producers/Louis Rodriguez]]
 [[Matthias Reim]]
-[[Amadeus Crotti]]
+[[producers/Amadeus Crotti]]

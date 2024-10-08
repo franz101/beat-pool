@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4Olxvk3YQ7zdM1IeXJHY1C
 **Related artists:**
 
 [[Empyre One]]
-[[Bob Sandee]]
+[[producers/Bob Sandee]]
 [[Halliday]]

@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/60DyqM3ZxtTK7M5kIFUDbz
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Cem Tomak]]
-[[DTP]]
+[[producers/Cem Tomak]]
+[[producers/DTP]]
 [[CAZ]]
 [[Miksu]]
-[[Dosh]]
-[[DLS]]
+[[producers/Dosh]]
+[[producers/DLS]]
 [[Nimo]]
 [[Olexesh]]
 [[Krime]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3
 
 **Related artists:**
 
-[[Lin-Manuel Miranda]]
-[[Opetaia Foa'i]]
+[[producers/Lin-Manuel Miranda]]
+[[producers/Opetaia Foa'i]]
 [[Don Harper]]
 [[Andreas Bourani]]
-[[Chris Montan]]
+[[producers/Chris Montan]]

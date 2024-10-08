@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2M1mUDFIBC6xIEAcIHT85f
 **Related artists:**
 
 [[Oli. P]]
-[[Tyron Tyne]]
+[[producers/Tyron Tyne]]

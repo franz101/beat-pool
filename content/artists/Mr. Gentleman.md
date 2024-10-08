@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/30htSsGeQ465Ly7CIGLqTg
 [[Sékou]]
 [[Don Philippe]]
 [[Freundeskreis]]
-[[Tommy W.]]
+[[producers/Tommy W.]]
 [[Mellowbag]]

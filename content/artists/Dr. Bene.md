@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/21VgYxAlrfp0QKBgxmQE5p
 
 **Related artists:**
 
-[[Frainstrumentos]]
+[[producers/Frainstrumentos]]
 [[Vendetta Kingz]]
 [[Sello Personal]]

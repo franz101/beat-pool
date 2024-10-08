@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/69RuIPLD8cHiU999zrGPb4
 
 **Related artists:**
 
-[[Young Swae]]
+[[producers/Young Swae]]
 [[LOC 079]]
-[[Iceberg]]
+[[producers/Iceberg]]

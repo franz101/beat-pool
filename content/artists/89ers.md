@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs
 **Related artists:**
 
 [[DJ Tripple-O & Withard]]
-[[Paul Hutsch]]
+[[producers/Paul Hutsch]]

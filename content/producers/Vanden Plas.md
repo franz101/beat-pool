@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1ke5Q2ijh6Tm31kH2HELEe
 
 **Related artists:**
 
-[[Markus Teske]]
+[[producers/Markus Teske]]

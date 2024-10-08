@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/56WvfitLNDAXdBgI0iqgha
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3ddbc6b8c730a436b97d2174)
 **Related artists:**
 
-[[Timon Schaper]]
-[[Thomas Porzig]]
+[[producers/Timon Schaper]]
+[[producers/Thomas Porzig]]
 [[Anstandslos & Durchgeknallt]]
 [[Maria Dürrling]]
-[[Oliver Kleissle]]
-[[Vitali Zestovskih]]
+[[producers/Oliver Kleissle]]
+[[producers/Vitali Zestovskih]]

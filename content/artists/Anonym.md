@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Ls8924KHBhOQvLtgpaBqu
 
 **Related artists:**
 
-[[Freek Van Workum]]
+[[producers/Freek Van Workum]]
 [[The Cratez]]
 [[King Khalil]]

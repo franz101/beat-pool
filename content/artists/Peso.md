@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4HFS9q39NOa6jvib6urEcd
 **Related artists:**
 
 [[Loop]]
-[[Arpad]]
+[[producers/Arpad]]
 [[Meydo]]
 [[YAEL]]
-[[Chriskey]]
+[[producers/Chriskey]]
 [[essow]]

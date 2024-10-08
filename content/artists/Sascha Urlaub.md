@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5ddy8kDKrYr2u3k23Sr0er
 **Related artists:**
 
 [[Dennis Dies Das]]
-[[Traya]]
+[[producers/Traya]]
 [[Lugatti & 9ine]]

@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/5EWw3ZvIad4RS7mroDr71H
 
 [[Das Panik-Orchester]]
 [[Nathalie Dorra]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[Boo Boo]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

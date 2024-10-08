@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2lhqp6YUuAMukaLOmBTqu2
 
 **Related artists:**
 
-[[Klaus Peter Albrecht]]
+[[producers/Klaus Peter Albrecht]]
 [[Silly]]
-[[Micky Meuser]]
+[[producers/Micky Meuser]]

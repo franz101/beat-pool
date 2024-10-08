@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/0mTAcgBV656wqzn5Ga8LAv
 **Related artists:**
 
 [[Das Panik-Orchester]]
-[[Wolfgang Lenk]]
-[[Reinhard Schaub]]
+[[producers/Wolfgang Lenk]]
+[[producers/Reinhard Schaub]]
 [[Lena]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[Die Prinzen]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

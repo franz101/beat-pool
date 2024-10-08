@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4RlumfDYp4Idhc5h40Xc61
 
 [[Leif Bräutigam]]
 [[Tom Astor]]
-[[Klaus Lohmer]]
+[[producers/Klaus Lohmer]]

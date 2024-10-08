@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2jTjZAI90KnndVjChmECtD
 **Related artists:**
 
 [[DCVDNS]]
-[[Wolfgang H.]]
+[[producers/Wolfgang H.]]
 [[Hermann Weiss]]

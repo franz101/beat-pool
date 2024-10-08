@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5M4GfI3hzkCIof8KxtJk17
 
 **Related artists:**
 
-[[Stephan Gade]]
+[[producers/Stephan Gade]]
 [[Matthias Reim]]

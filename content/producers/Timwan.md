@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4VqKqGEKAdzuJevWa9uhT1
 
 **Related artists:**
 
-[[BRATHS]]
+[[producers/BRATHS]]
 [[RAPK]]

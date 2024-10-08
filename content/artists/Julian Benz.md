@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp
 
 **Related artists:**
 
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[Ikke Hüftgold]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]

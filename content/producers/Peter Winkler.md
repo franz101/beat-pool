@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4X3gUBLXcLd8Gg0IF1HvPQ
 **Related artists:**
 
 [[3Plusss]]
-[[Benjamin Schmidt]]
+[[producers/Benjamin Schmidt]]

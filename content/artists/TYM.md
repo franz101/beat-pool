@@ -25,7 +25,7 @@ url: https://open.spotify.com/artist/70Rt4lMiib6ya5azoVK51v
 [[YUN MUFASA]]
 [[Zimmer90]]
 [[badchieff]]
-[[Shinju]]
+[[producers/Shinju]]
 [[Gunboi]]
 [[Mahino]]
 [[jaynbeats]]

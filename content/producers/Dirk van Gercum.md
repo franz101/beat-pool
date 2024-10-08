@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4m6LdG4z992bWm5WVwaHQx
 **Related artists:**
 
 [[Bülent Aris]]
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Sarah Connor]]

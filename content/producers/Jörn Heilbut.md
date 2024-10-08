@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7eu1IFghyoz3r1X5xZmJxI
 
 **Related artists:**
 
-[[Frank Ramond]]
+[[producers/Frank Ramond]]
 [[Annett Louisan]]

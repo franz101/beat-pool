@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0HiVL3EqkpKBFdPE5LBaFn
 
 **Related artists:**
 
-[[Tobias Schlechtrimen]]
+[[producers/Tobias Schlechtrimen]]
 [[Tosh & Ventura]]

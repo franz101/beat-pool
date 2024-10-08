@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/0wWNPV2z7ty0dEB2DWQ7hb
 
 [[RAG]]
 [[Creutzfeld & Jakob]]
-[[Mr. Wiz]]
+[[producers/Mr. Wiz]]

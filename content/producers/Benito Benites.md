@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/57cYGmoM7m4R1RjLHwKx0J
 
 **Related artists:**
 
-[[Jimmy Torrio]]
-[[Niki Haris]]
+[[producers/Jimmy Torrio]]
+[[producers/Niki Haris]]
 [[Ufo361]]
 [[The Cratez]]
-[[John Virgo Garrett III]]
+[[producers/John Virgo Garrett III]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2BGMjDCR7kV5NXNIwQNPv1
 **Related artists:**
 
 [[Cutting Crew]]
-[[Steve Thompson]]
+[[producers/Steve Thompson]]

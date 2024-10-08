@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/1krJvMu9OkhIxX5cMoZGLb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb53343ff95c4c0f195def850e)
 **Related artists:**
 
-[[Rio]]
+[[producers/Rio]]
 [[Tubab]]
-[[Toby John]]
-[[Jakepot]]
+[[producers/Toby John]]
+[[producers/Jakepot]]
 [[OG Keemo]]
-[[Thelonius Coltrane]]
-[[Zeductive]]
-[[Funkvater Frank]]
+[[producers/Thelonius Coltrane]]
+[[producers/Zeductive]]
+[[producers/Funkvater Frank]]
 [[RIO]]
-[[MightyMarcsen]]
-[[Paul Bao]]
+[[producers/MightyMarcsen]]
+[[producers/Paul Bao]]

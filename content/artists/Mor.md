@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2znS3Ooaao1FurEOsyFWfd
 
 **Related artists:**
 
-[[Smoove]]
+[[producers/Smoove]]
 [[Kool Savas]]

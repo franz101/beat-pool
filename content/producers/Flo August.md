@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4ChxIG17LZf7AIVlUZFLnN
 
 [[BLVTH]]
 [[bülow]]
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]

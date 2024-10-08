@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/0u6VPwgcSE0PVJ97TRcnJv
 [[Lumidee]]
 [[Rooq]]
 [[Kool Savas]]
-[[DJ Nicon]]
+[[producers/DJ Nicon]]
 [[Moe Mitchell]]
 [[Caput]]

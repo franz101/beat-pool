@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1GmpyjgVhTleh8PBePdVg6
 **Related artists:**
 
 [[MU$A386]]
-[[Niko]]
+[[producers/Niko]]
 [[Yung Kafa & Kücük Efendi]]
-[[Shinobic]]
+[[producers/Shinobic]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/68BpyGDeX5eVWd1tdIamnV
 
 [[Osaka88]]
 [[Telly Tellz]]
-[[Kassim Beats]]
+[[producers/Kassim Beats]]

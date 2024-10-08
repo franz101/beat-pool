@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7jhzVtHnCCvmiaIokwnOse
 **Related artists:**
 
 [[Farid Bang]]
-[[Phil Fanatic]]
+[[producers/Phil Fanatic]]
 [[Kollegah]]
 [[Olexesh]]
 [[Seyed]]

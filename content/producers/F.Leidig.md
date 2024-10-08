@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6bAKP6Um64inbkQK5t3Tky
 
 **Related artists:**
 
-[[R. Reis]]
+[[producers/R. Reis]]
 [[Jolie Noir]]
 [[Dave Ramone]]
-[[K.Grunwald]]
+[[producers/K.Grunwald]]

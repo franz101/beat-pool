@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0Pk34SemSnkLighbTij4da
 **Related artists:**
 
 [[Fettes Brot]]
-[[Arne Diedrichson]]
-[[Taco Van Hettinga]]
+[[producers/Arne Diedrichson]]
+[[producers/Taco Van Hettinga]]

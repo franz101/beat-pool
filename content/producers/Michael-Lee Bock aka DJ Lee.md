@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/18dQSG8yHg3lEwktKSyuL0
 **Related artists:**
 
 [[Apollo]]
-[[Nils Karsten]]
+[[producers/Nils Karsten]]

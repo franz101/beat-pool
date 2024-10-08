@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7irKRAHvUBHzxiKqdfn56i
 
 **Related artists:**
 
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[Clueso]]
 [[Axel Hilgenstöhler]]

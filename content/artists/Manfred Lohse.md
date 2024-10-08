@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1yXbejJFb6YkLzIUpZk58k
 
 **Related artists:**
 
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Nino de Angelo]]
 [[Detlef Brockmann]]

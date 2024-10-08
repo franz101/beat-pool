@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3Vutds5HLKzT7bKRkzychF
 [[Trip]]
 [[Prinz Pi]]
 [[Tamas]]
-[[Wolfgang H.]]
+[[producers/Wolfgang H.]]
 [[Basstard]]

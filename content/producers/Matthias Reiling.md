@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5nl3Y5RMbB79XMj5PMldwU
 **Related artists:**
 
 [[Session Victim]]
-[[Hauke Freer]]
+[[producers/Hauke Freer]]
 [[DJ Koze]]

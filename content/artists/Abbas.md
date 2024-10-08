@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7fZ5gsvqWDxr8Fe5uyvi4T
 **Related artists:**
 
 [[Xidir]]
-[[mzet]]
+[[producers/mzet]]

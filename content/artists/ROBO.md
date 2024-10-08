@@ -16,17 +16,17 @@ url: https://open.spotify.com/artist/2hUwU7RJ1YYbTeehx3Sb5Q
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb885d582e95347d1e7ac4dccc)
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Holy Modee]]
 [[NUGAT]]
 [[Marvin Game]]
 [[Yxng Paper]]
 [[AL Kareem]]
 [[Carlifornia]]
-[[TIMER]]
+[[producers/TIMER]]
 [[Mavie Gagnoa]]
-[[Hze]]
-[[Palazzo]]
+[[producers/Hze]]
+[[producers/Palazzo]]
 [[YUN MUFASA]]
 [[TJay]]
 [[morten]]

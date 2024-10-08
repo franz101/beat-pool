@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2t9itTy5TM50ZijYYtCMaF
 **Related artists:**
 
 [[Rosanna Perinic]]
-[[Dietmar Kawohl]]
+[[producers/Dietmar Kawohl]]
 [[Juliane Werding]]
 [[Andreas Bärtels]]
-[[Hans Singer]]
+[[producers/Hans Singer]]
 [[Jürgen Drews]]
 [[Claudia Jung]]

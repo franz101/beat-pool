@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4g3wR5R5MVAbFbIU9EXZ57
 
 **Related artists:**
 
-[[T.Fenske]]
+[[producers/T.Fenske]]
 [[Pulsedriver]]
 [[Coon & ZX]]

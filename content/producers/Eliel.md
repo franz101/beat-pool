@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2KUszaYom4zjBQCHSQTGuV
 
 **Related artists:**
 
-[[Chekaa]]
+[[producers/Chekaa]]
 [[Fourty]]

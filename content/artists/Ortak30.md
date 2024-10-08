@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6mAeuPBCHCMyzgWPcyIaA7
 **Related artists:**
 
 [[Eazyono]]
-[[Kilo]]
+[[producers/Kilo]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO
 **Related artists:**
 
 [[Joy Denalane]]
-[[Roberto Di Gioia]]
+[[producers/Roberto Di Gioia]]

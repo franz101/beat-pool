@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5KgCVAqXQrl3ldLk7Pshwb
 **Related artists:**
 
 [[Samra]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]

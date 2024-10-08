@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4pGoPcumGf8pKetfLVq5yk
 
 **Related artists:**
 
-[[Jason Hits]]
+[[producers/Jason Hits]]
 [[Culcha Candela]]
-[[Johannes Arzberger]]
-[[Daniel Flamm]]
+[[producers/Johannes Arzberger]]
+[[producers/Daniel Flamm]]

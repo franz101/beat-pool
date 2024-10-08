@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1p380UVnYdAhoIBGM74DB0
 
 **Related artists:**
 
-[[Fait Albrecht]]
+[[producers/Fait Albrecht]]
 [[Kim Alex]]

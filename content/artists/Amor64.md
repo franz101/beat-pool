@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/3sDy2GbnNHHP9uV2pGnn0r
 
 [[Omik K]]
 [[Monro£]]
-[[64Fanatiks]]
+[[producers/64Fanatiks]]
 [[Maka.DD]]

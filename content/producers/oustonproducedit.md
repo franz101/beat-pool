@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6IB4atGo0lS9878SB5tVYZ
 **Related artists:**
 
 [[Ramo]]
-[[Tengo]]
-[[Liam Callen]]
-[[dylanyousob]]
+[[producers/Tengo]]
+[[producers/Liam Callen]]
+[[producers/dylanyousob]]

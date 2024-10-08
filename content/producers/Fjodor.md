@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/29P2wtfRMLGKkb9yS0tDTj
 
 **Related artists:**
 
-[[Dienst&Schulter]]
+[[producers/Dienst&Schulter]]
 [[Lugatti & 9ine]]
-[[Mary]]
-[[Traya]]
+[[producers/Mary]]
+[[producers/Traya]]
 [[snice1]]
 [[Konz]]

@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/1vYs5cjaIaquIZ4Ue0M6lR
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Dennis Bierbrodt]]
 [[ILIRA]]
 [[Alle Farben]]
-[[Mushroom People]]
-[[Pelican]]
-[[Jurgen Dohr]]
+[[producers/Mushroom People]]
+[[producers/Pelican]]
+[[producers/Jurgen Dohr]]
 [[James Blunt]]
-[[Kevin Zuber]]
-[[Stefan Dabruck]]
+[[producers/Kevin Zuber]]
+[[producers/Stefan Dabruck]]
 [[Vanessa Mai]]

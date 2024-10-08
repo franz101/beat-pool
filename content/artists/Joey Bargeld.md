@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/6fpcc1YopVYoJIXKIfvY4w
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba7faf417655402ab2a155a1a)
 **Related artists:**
 
-[[Darko Beats]]
+[[producers/Darko Beats]]
 [[John Known]]
-[[Darko]]
+[[producers/Darko]]
 [[102 Boyz]]
 [[Trettmann]]
 [[Megaloh]]
@@ -34,4 +34,4 @@ url: https://open.spotify.com/artist/6fpcc1YopVYoJIXKIfvY4w
 [[Asadjohn]]
 [[JACE]]
 [[Skoob]]
-[[Raw Flavour Clik]]
+[[producers/Raw Flavour Clik]]

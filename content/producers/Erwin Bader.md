@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/11sMbw79D6AGeXTzQl2RrP
 **Related artists:**
 
 [[Pizzera & Jaus]]
-[[Stefan Holoubek]]
+[[producers/Stefan Holoubek]]

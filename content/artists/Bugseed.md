@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6e698f22785928bf58f40f8c)
 **Related artists:**
 
-[[Yusuke Nakano]]
+[[producers/Yusuke Nakano]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0YUplo7sbo78o0VzeyYcBV
 **Related artists:**
 
 [[Monet192]]
-[[Maxe]]
-[[Alfo]]
+[[producers/Maxe]]
+[[producers/Alfo]]

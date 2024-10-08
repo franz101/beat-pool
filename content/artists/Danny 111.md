@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/2MCab0VCnGgmH9JtocWr5S
 **Related artists:**
 
 [[Cashmo]]
-[[g-Time]]
+[[producers/g-Time]]
 [[Stanley]]
 [[TaiMO]]
 [[AchtVier]]
 [[DUGGY 040]]
-[[Tash 08]]
+[[producers/Tash 08]]

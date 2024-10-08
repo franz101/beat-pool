@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6feZH59Dj4tl1bQ8D2gukz
 
 **Related artists:**
 
-[[Benjamin Veit Engelker]]
+[[producers/Benjamin Veit Engelker]]
 [[PA Sports]]
-[[Florian Hazini]]
+[[producers/Florian Hazini]]

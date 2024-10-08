@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd5789edc5c83446e611021e0)
 **Related artists:**
 
-[[Arxhend]]
-[[Felix Dommermuth]]
+[[producers/Arxhend]]
+[[producers/Felix Dommermuth]]

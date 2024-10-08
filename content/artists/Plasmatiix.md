@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/14GMjhVKcbpCqz8XkKeH0m
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe468b495bf024f6c9f3e64c8)
 **Related artists:**
 
-[[Tonicc]]
+[[producers/Tonicc]]

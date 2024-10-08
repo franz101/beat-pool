@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if
 
 **Related artists:**
 
-[[Chris Cummings]]
+[[producers/Chris Cummings]]

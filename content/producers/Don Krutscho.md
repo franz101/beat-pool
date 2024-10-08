@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/5aH3Tr6sVOxtmbPMTaRfqY
 **Related artists:**
 
 [[Albert N'sanda]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Curlyman]]
 [[Jürgen Drews]]
 [[Culcha Candela]]
 [[Roldan]]
 [[Sir Samuel]]
-[[Claus Capek]]
+[[producers/Claus Capek]]

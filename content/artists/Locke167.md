@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0v5eYP5LR5ulwJktkiKE3j
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf72c517a1cc2c4d58e2835a7)
 **Related artists:**
 
-[[Elevation Instrumentals]]
+[[producers/Elevation Instrumentals]]

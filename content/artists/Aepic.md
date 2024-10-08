@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6Mio4OSQIaCJXxl8HDEaVo
 
 **Related artists:**
 
-[[Panorama]]
+[[producers/Panorama]]
 [[dude26]]
 [[Eloquent]]

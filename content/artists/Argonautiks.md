@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/27Ky8zIC4b1zHCoQ1MP3CT
 **Related artists:**
 
 [[Frust]]
-[[Donnie Bombay]]
+[[producers/Donnie Bombay]]
 [[Greg Dhilla]]
 [[Kuchenmann]]
-[[Izaak Haze]]
+[[producers/Izaak Haze]]
 [[Koholik]]

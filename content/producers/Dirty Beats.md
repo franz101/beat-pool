@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1ae9PYwV7wmZBic5ZuDuUV
 **Related artists:**
 
 [[Mudi]]
-[[The Royals]]
+[[producers/The Royals]]
 [[Faydee]]

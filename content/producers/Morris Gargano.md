@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6JVY6kXdIvXl0tPeEAWon3
 **Related artists:**
 
 [[Silla]]
-[[Diavo]]
+[[producers/Diavo]]

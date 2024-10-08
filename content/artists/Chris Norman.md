@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2Pawr6MMX9VBIQ9oUHg7jc
 **Related artists:**
 
 [[Jon Kelly]]
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Nino de Angelo]]

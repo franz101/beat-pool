@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3WtvOpNIo18EWuS1HgCZFK
 **Related artists:**
 
 [[Olexesh]]
-[[Leopold Ferdinand Schuhmann]]
+[[producers/Leopold Ferdinand Schuhmann]]
 [[Karen]]
-[[Haschim Elobied]]
-[[Martin Peter Willumeit]]
+[[producers/Haschim Elobied]]
+[[producers/Martin Peter Willumeit]]

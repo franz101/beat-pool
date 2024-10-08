@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/3WObaov6kbV8qfePbz72y3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc2a8b986fb03faffe1f08fb6)
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[Paix]]
-[[Staticbeatz]]
-[[Nozad]]
+[[producers/Staticbeatz]]
+[[producers/Nozad]]
 [[Super Static]]
-[[Tan]]
+[[producers/Tan]]
 [[YAAAZ]]

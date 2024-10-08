@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/49mFfPM00IyTACpAzi4cdz
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Norbert Hamm]]
+[[producers/Norbert Hamm]]

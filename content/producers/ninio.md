@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3hsCAphpOwvOKe5fnK0gM0
 
 **Related artists:**
 
-[[LASTINGDAVE]]
+[[producers/LASTINGDAVE]]
 [[Ahzumjot]]

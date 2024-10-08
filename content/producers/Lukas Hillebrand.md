@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/0KJAccTylvb228qCnpu2Td
 [[Revolverheld]]
 [[Julian le Play]]
 [[Lemo]]
-[[Alex Pohn]]
+[[producers/Alex Pohn]]
 [[toksi]]
 [[Madeline Juno]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

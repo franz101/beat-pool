@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2aBg71fRB5gPzeoEUdUxv4
 
 **Related artists:**
 
-[[Fynn]]
-[[Friedhelm Mund]]
+[[producers/Fynn]]
+[[producers/Friedhelm Mund]]
 [[DISSY]]

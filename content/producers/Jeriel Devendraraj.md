@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3PUWvNTMOUHdclwsC8gtu4
 **Related artists:**
 
 [[YADA Worship]]
-[[Martin Wiegel]]
+[[producers/Martin Wiegel]]

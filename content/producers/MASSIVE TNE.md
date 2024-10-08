@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5j8PM04DGiZ4p7zTyNL4VS
 
 **Related artists:**
 
-[[Tommy Wittinger]]
+[[producers/Tommy Wittinger]]
 [[Massive Töne]]
 [[Dj Desue for Rah Rah Entertainment]]

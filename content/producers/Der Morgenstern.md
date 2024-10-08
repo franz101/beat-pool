@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/3oZP0pEoVXrP1GnWrZJhoO
 **Related artists:**
 
 [[In Extremo]]
-[[Yellow Pfeiffer]]
+[[producers/Yellow Pfeiffer]]
 [[Flex]]
 [[Jörg Umbreit]]
-[[Van Lange]]
-[[Vincent Sorg]]
-[[Dr. Pymonte]]
-[[Die Lutter]]
-[[Das letzte Einhorn]]
+[[producers/Van Lange]]
+[[producers/Vincent Sorg]]
+[[producers/Dr. Pymonte]]
+[[producers/Die Lutter]]
+[[producers/Das letzte Einhorn]]

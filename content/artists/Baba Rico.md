@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5yfCaOfhQVml8QHoKnEIPq
 **Related artists:**
 
 [[Sol93]]
-[[Pengg]]
+[[producers/Pengg]]
 [[BIBIZA]]
 [[Kwadi]]
 [[Middlez]]

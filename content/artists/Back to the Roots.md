@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4yMAEMXQiOV4rbTmuU5eEv
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Thorsten Brötzmann]]
-[[Werner Becker]]
+[[producers/Werner Becker]]

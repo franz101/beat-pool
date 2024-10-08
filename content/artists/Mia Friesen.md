@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/4g1FLzBRozS8cGIODfr0lF
 [[Juri Friesen]]
 [[Glaubenszentrum Live]]
 [[Outbreakband]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Stefan Schöpfle]]

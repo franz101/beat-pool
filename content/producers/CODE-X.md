@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6pX0ydH0Su6DKvz1XzE8tg
 **Related artists:**
 
 [[Fard]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[B-Case]]

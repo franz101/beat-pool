@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/4vf0SDvnW2Vto2JEe7K6QH
 
 [[Das Panik-Orchester]]
 [[Horst Königstein]]
-[[Karl Allaut]]
-[[Jim Voxx]]
+[[producers/Karl Allaut]]
+[[producers/Jim Voxx]]
 [[Udo Lindenberg]]
-[[Dave Und Udo Lindenberg Kink]]
+[[producers/Dave Und Udo Lindenberg Kink]]
 [[Leata Galloway]]

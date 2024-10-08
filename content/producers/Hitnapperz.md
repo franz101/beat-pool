@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/7oISFJ9F3KOBJARBpHptzw
 
 **Related artists:**
 
-[[Jens Moelle]]
+[[producers/Jens Moelle]]
 [[Clueso]]
 [[Dj Thomilla]]
-[[Conrad Hensel]]
+[[producers/Conrad Hensel]]
 [[Crystin Fawn]]
 [[SSIO]]
 [[Olexesh]]
 [[Eno]]
 [[Die Fantastischen Vier]]
-[[Ismail Tuefekci]]
+[[producers/Ismail Tuefekci]]
 [[Schwesta Ewa]]

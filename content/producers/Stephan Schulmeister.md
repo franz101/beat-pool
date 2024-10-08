@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/66jPEqMNJIQDxTN708Bpt1
 
 **Related artists:**
 
-[[Ingo Rheinbay]]
+[[producers/Ingo Rheinbay]]
 [[Jacob Hemphill]]
 [[Hellman Escorcia]]
 [[Gentleman]]
 [[Wine Selection]]
-[[Bobby "Digital" Dixon]]
-[[The Evolution]]
+[[producers/Bobby "Digital" Dixon]]
+[[producers/The Evolution]]
 [[Tamika]]
 [[Mamadee]]
 [[Rafael Rodriguez]]
 [[Christopher Martin]]
-[[Anthony Senior]]
-[[Richard Stephenson]]
+[[producers/Anthony Senior]]
+[[producers/Richard Stephenson]]

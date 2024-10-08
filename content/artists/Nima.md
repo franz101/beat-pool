@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3DsqV9JtCOfvqWyPl21IU6
 **Related artists:**
 
 [[Nico Suave]]
-[[Alexander Sprave]]
+[[producers/Alexander Sprave]]
 [[EstA]]

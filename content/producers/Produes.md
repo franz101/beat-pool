@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/2JMo12AVsdkYkhENFdS4zM
 **Related artists:**
 
 [[Animus]]
-[[MMinx]]
+[[producers/MMinx]]
 [[Moe Mitchell]]
 [[Silla]]
 [[Fler]]
-[[Marcus B]]
-[[Bo Diggler]]
+[[producers/Marcus B]]
+[[producers/Bo Diggler]]
 [[Jihad]]

@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb376ed5e5f5e4dc8859dff324)
 **Related artists:**
 
-[[Udo Niebergall]]
+[[producers/Udo Niebergall]]
 [[Cheeky Trax]]
 [[DJ Falk]]
 [[Ace da Brain]]
 [[257ers]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/36i7JF8zwaDupwb8Lbn3kd
 **Related artists:**
 
 [[Fiva]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]

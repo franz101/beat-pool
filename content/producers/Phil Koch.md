@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/3da2vEyC0lgt0vuvwb4aUf
 [[Lai Raw]]
 [[Tightill]]
 [[DISSY]]
-[[Torn Palk]]
+[[producers/Torn Palk]]
 [[Sixcube]]
 [[MOAT]]

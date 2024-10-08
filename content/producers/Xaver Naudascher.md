@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7qoHkTa8uO5AYDHWxYtQFv
 **Related artists:**
 
 [[Die Fantastischen Vier]]
-[[Paul Mogg]]
+[[producers/Paul Mogg]]

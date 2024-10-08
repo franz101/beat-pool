@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/21VV9fUe6whK3Zo2BPoHnd
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd98d37cbd9211d0444a10f7f)
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[ThankYouKid]]
-[[Sugaboy]]
-[[ApeTone]]
-[[George Fella]]
+[[producers/Sugaboy]]
+[[producers/ApeTone]]
+[[producers/George Fella]]

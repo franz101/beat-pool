@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2d7wl8nJCg3mBY3PQPzzsr
 
 **Related artists:**
 
-[[The Evolution]]
+[[producers/The Evolution]]
 [[Hellman Escorcia]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]

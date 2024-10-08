@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6B34uxnJnJpRjA3TrRrEHv
 
 **Related artists:**
 
-[[Silly Walks Movement]]
-[[David Paul Meyer]]
+[[producers/Silly Walks Movement]]
+[[producers/David Paul Meyer]]
 [[Dj Thomilla]]
 [[Blumentopf]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]
 [[Die Fantastischen Vier]]

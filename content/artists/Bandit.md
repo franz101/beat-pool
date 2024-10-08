@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5R2BQ5qsMVNVRdR84NTfHl
 **Related artists:**
 
 [[Bozza]]
-[[PressPlay]]
+[[producers/PressPlay]]

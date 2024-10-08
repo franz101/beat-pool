@@ -16,17 +16,17 @@ url: https://open.spotify.com/artist/6TuVQLhn2QGz4ro1RAzXyc
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb88750393803d4418c319969)
 **Related artists:**
 
-[[SMR]]
+[[producers/SMR]]
 [[RAPK]]
-[[Simon Gaudes]]
+[[producers/Simon Gaudes]]
 [[jaynbeats]]
 [[ninafromtheblockx]]
 [[Big Pat]]
 [[MiMi]]
 [[Kwam.E]]
-[[ASTRO]]
-[[Aside]]
+[[producers/ASTRO]]
+[[producers/Aside]]
 [[Slow OG]]
 [[Skew]]
-[[Maru]]
+[[producers/Maru]]
 [[Tom Hengst]]

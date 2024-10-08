@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/5r0ab3bcrUY6uixHCr28Xo
 
 **Related artists:**
 
-[[ToxikTyson]]
-[[Joznez]]
+[[producers/ToxikTyson]]
+[[producers/Joznez]]
 [[Silla]]
 [[Karen Firlej]]
 [[Fousy]]
-[[Sadikbeatz]]
-[[Johnny Illstrument]]
+[[producers/Sadikbeatz]]
+[[producers/Johnny Illstrument]]
 [[Kollegah]]
-[[Toxik Tyson]]
+[[producers/Toxik Tyson]]
 [[Farid Bang]]

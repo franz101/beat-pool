@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0jFDA19KKMmWHApbe5LnIe
 
 **Related artists:**
 
-[[Ningyuan Jiang]]
-[[Dino Radosevic]]
+[[producers/Ningyuan Jiang]]
+[[producers/Dino Radosevic]]
 [[W.O.C.]]
 [[Mr. Reedoo]]
 [[Benedikt Schöller]]
-[[Timothy Auld]]
+[[producers/Timothy Auld]]
 [[Culcha Candela]]
-[[Sam Dick]]
+[[producers/Sam Dick]]

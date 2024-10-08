@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/1PLDOxeE6ReWhYR5P4d6MW
 [[Herbert Dreilich]]
 [[Katrin Schröder]]
 [[Thomas Natschinski]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Petra Zieger]]

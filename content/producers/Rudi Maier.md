@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1SO29QYEzmbas7ifhPyoes
 **Related artists:**
 
 [[Thees Uhlmann]]
-[[Simon Frontzek]]
-[[Tobias Kuhn]]
+[[producers/Simon Frontzek]]
+[[producers/Tobias Kuhn]]

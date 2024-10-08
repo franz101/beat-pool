@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2vdsq66JslXgRVkdFAoBUR
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Kool Savas]]
-[[Face Error]]
-[[Ronald Mack Donald]]
+[[producers/Face Error]]
+[[producers/Ronald Mack Donald]]

@@ -18,9 +18,9 @@ url: https://open.spotify.com/artist/4pNFeSjAStnrtwDryt0Avr
 
 [[Mart n Jay]]
 [[Odit]]
-[[Diggy Mac Dirt]]
+[[producers/Diggy Mac Dirt]]
 [[Ogee]]
 [[Hypnotize]]
 [[Sensi]]
-[[Madara]]
-[[SkunkJunk]]
+[[producers/Madara]]
+[[producers/SkunkJunk]]

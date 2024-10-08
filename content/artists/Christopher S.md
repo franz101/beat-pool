@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/67NjOWzBhTArUArqFYnRUk
 
 [[Slin Project]]
 [[Luca Hänni]]
-[[Sascha Linde]]
+[[producers/Sascha Linde]]
 [[Mike Candys]]
 [[René De La Moné]]
 [[Crystal Rock]]

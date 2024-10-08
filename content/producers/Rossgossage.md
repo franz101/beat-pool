@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/01MUAmHWXfxKetSbjsPuvQ
 
 **Related artists:**
 
-[[Tsureal]]
+[[producers/Tsureal]]
 [[M.O.030]]

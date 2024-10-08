@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6RTBNXelzqQ2cQwIQ0iPN4
 
 **Related artists:**
 
-[[Frank One]]
-[[LA91]]
+[[producers/Frank One]]
+[[producers/LA91]]
 [[Marlo]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]

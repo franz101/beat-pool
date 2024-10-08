@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/1oGapG4ztRXmdW4mb5D2z1
 
 **Related artists:**
 
-[[Torsten Scholz]]
+[[producers/Torsten Scholz]]
 [[Beatsteaks]]
-[[Peter Baumann]]
-[[Arnim Teutoburg-Weiß]]
-[[Moses Schneider]]
-[[Max Power]]
-[[Bernd Kurtzke]]
+[[producers/Peter Baumann]]
+[[producers/Arnim Teutoburg-Weiß]]
+[[producers/Moses Schneider]]
+[[producers/Max Power]]
+[[producers/Bernd Kurtzke]]
 [[Thomas Götz]]

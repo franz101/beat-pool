@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0LtETNh2EDTpTTVolwAnby
 
 **Related artists:**
 
-[[DJ Emilio]]
+[[producers/DJ Emilio]]
 [[Massive Töne]]

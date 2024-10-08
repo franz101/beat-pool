@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0a0vDSBuI8PctkyyDy2DrT
 **Related artists:**
 
 [[Mickie Krause]]
-[[Jochen Konerding]]
+[[producers/Jochen Konerding]]
 [[Howard Carpendale]]
 [[Thomas Anders]]
 [[Bernhard Brink]]

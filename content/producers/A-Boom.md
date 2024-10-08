@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/6yZgfNMWBkolK5Xt8ciSE7
 
 **Related artists:**
 
-[[SLS]]
+[[producers/SLS]]
 [[Zuna]]
 [[Azet]]
 [[Mozzik]]
-[[North]]
-[[Lucry]]
+[[producers/North]]
+[[producers/Lucry]]
 [[KC Rebell]]
 [[Ufo361]]
 [[Jugglerz]]

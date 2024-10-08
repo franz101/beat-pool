@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1FiTPY0SNEhnAYVpiMazF8
 
 [[Addikt102]]
 [[Inoffiziell.Goldenboy]]
-[[Sboy]]
+[[producers/Sboy]]
 [[102 Boyz]]
 [[Chapo102]]
 [[Toni102]]
@@ -22,6 +22,6 @@ url: https://open.spotify.com/artist/1FiTPY0SNEhnAYVpiMazF8
 [[Kkuba102]]
 [[Duke102]]
 [[Herzog]]
-[[77]]
+[[producers/77]]
 [[Kobik]]
 [[Skoob102]]

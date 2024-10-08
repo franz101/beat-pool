@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/43Qk5qGfaxxz4aV1CSfftL
 **Related artists:**
 
 [[Sadiq]]
-[[Youknowgasca]]
+[[producers/Youknowgasca]]

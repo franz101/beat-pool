@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/3HBmytNNI4oWYLdUnWw15Y
 **Related artists:**
 
 [[Maite Kelly]]
-[[Achim Kleist]]
-[[Wolfgang von Webenau]]
-[[Peter Wagner]]
-[[Syndicate Musicproduction]]
+[[producers/Achim Kleist]]
+[[producers/Wolfgang von Webenau]]
+[[producers/Peter Wagner]]
+[[producers/Syndicate Musicproduction]]

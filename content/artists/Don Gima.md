@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/21Bb0NFqXQFEVDKpQHNXyO
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1c0ae686e1563cbad4f0e6f9)
 **Related artists:**
 
-[[Jermaine P. Stone]]
+[[producers/Jermaine P. Stone]]
 [[Azet]]
 [[S4MM]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]

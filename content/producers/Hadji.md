@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5ddbepUzpqYVuLmeGx178b
 
 **Related artists:**
 
-[[Dehm Reen]]
+[[producers/Dehm Reen]]
 [[Holy Modee]]
 [[morten]]

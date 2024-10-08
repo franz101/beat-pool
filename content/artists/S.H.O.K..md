@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1WIZoxnQolpr43LdfDt9pt
 
 **Related artists:**
 
-[[Jam Beatz]]
+[[producers/Jam Beatz]]
 [[Jaill]]

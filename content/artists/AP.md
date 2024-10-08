@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/17CJ3QuIU66tFkktPrTIzN
 **Related artists:**
 
 [[Gstar348_]]
-[[C55]]
-[[B.o. Beatz]]
+[[producers/C55]]
+[[producers/B.o. Beatz]]
 [[BETO]]
 [[Karaz]]
 [[KAY AY]]
 [[King Khalil]]
-[[Aside]]
-[[Isy Beatz]]
+[[producers/Aside]]
+[[producers/Isy Beatz]]

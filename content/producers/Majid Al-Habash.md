@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6MYSnjOGXai0Js0JrVennu
 **Related artists:**
 
 [[Nizi]]
-[[Kevin Broich]]
+[[producers/Kevin Broich]]
 [[Yassin]]
 [[Big Toe]]
 [[Audio88]]

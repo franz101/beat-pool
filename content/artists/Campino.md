@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4URwBrjUZk4M2L1bSfJCIs
 
 [[Antilopen Gang]]
 [[Gentleman]]
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Ky-Mani Marley]]
 [[Marteria]]

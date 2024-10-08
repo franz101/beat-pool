@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1MLtUNz3KPYaWbvYgLOOlA
 
 **Related artists:**
 
-[[Dennis Atuahene "Ghana Beats" Opoku]]
+[[producers/Dennis Atuahene "Ghana Beats" Opoku]]
 [[Summer Cem]]
 [[Scorpion Gang]]
 [[reezy]]

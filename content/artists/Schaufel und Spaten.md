@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1BHevWP0agExbpGtTWyCkw
 
 **Related artists:**
 
-[[Jay Spaten]]
+[[producers/Jay Spaten]]
 [[Sonne Ra]]
 [[Dramadigs]]

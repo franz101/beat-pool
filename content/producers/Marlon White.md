@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0EH9yENzHMzqXf2j7vbdfn
 **Related artists:**
 
 [[Pulsedriver]]
-[[B-way]]
+[[producers/B-way]]
 [[Xelerator]]
 [[Xelerator & BrainShock]]

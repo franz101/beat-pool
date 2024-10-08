@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/0Bc8nt0oNumzNCcsehEd8N
 **Related artists:**
 
 [[Outbreakband]]
-[[Dominik Laim]]
+[[producers/Dominik Laim]]
 [[ICF Worship]]
 [[H!ERO]]

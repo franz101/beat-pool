@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6pUwC7KlRcbKFWBVSnzF29
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Frank Hassas]]
+[[producers/Frank Hassas]]

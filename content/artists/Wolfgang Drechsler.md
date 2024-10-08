@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2loJhOTCdgpglvMkOuOZf5
 
 **Related artists:**
 
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Juliane Werding]]
 [[German Pops Orchestra]]

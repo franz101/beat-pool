@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6THuFE5Ap1DL3coJnPy7q1
 
 **Related artists:**
 
-[[NEGO]]
+[[producers/NEGO]]
 [[2Ton]]
 [[King Khalil]]

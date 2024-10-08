@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1gd7aiRlwzvy5Hj929uf8O
 **Related artists:**
 
 [[Crazy & Corza]]
-[[Linus Karlsson]]
+[[producers/Linus Karlsson]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3gToxmSxuAo27Aa0wD8Yul
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8c613a810562d47f1ebaa079)
 **Related artists:**
 
-[[Joakim Sveningsson]]
+[[producers/Joakim Sveningsson]]
 [[Mangrove Ol-Tech]]
 [[Will Travel]]
-[[Daniel Johansson]]
+[[producers/Daniel Johansson]]
 [[Jasper TX]]

@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/46vxVl4Z0GpJbr6I9jRjyS
 [[Kida Ramadan]]
 [[OG Boobie Black]]
 [[Frederick Lau]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[Eko Fresh]]
 [[Veysel]]
 [[Gringo]]

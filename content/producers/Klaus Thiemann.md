@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/78nzyNHGDsUjnYisBy8P0w
 
 **Related artists:**
 
-[[Marcus Waibel]]
+[[producers/Marcus Waibel]]
 [[Joy Denalane]]
 [[Tocotronic]]
 [[Monchi Fromm]]

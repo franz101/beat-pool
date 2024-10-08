@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/02jkPxmytH0Jj7qtp1qooI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb29f981ae3b723b8c08e00869)
 **Related artists:**
 
-[[Jens Schneider]]
-[[Kai Oliver Krug]]
+[[producers/Jens Schneider]]
+[[producers/Kai Oliver Krug]]
 [[Das Philharmonische Orchester des Staatstheaters Cottbus]]
 [[Joel Brandenstein]]
-[[Alex Knolle]]
-[[Jules Kalmbacher]]
+[[producers/Alex Knolle]]
+[[producers/Jules Kalmbacher]]
 [[Stereoact]]
 [[David Jürgens]]

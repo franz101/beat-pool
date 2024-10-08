@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/63v0v0fNAIYkAJ2Q6QHXRI
 
 [[Prezident]]
 [[Hiob]]
-[[Erik Insbruck]]
-[[DJ Eule]]
+[[producers/Erik Insbruck]]
+[[producers/DJ Eule]]
 [[Defekt 36]]
 [[Morlockk Dilemma]]
 [[Snowgoons]]

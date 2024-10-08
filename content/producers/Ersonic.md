@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/45Bi5CLuGIMfVhYzrEOiWe
 [[Celo & Abdi]]
 [[DJ Rafik]]
 [[SINAN]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]
 [[Krime]]
 [[Mois]]

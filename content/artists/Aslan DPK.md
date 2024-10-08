@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1VqQRRNXKWXFgndZHAzsyZ
 
 **Related artists:**
 
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Kontra K]]
-[[Beatbaron]]
+[[producers/Beatbaron]]
 [[Bonez MC]]
-[[BombenProdukt]]
+[[producers/BombenProdukt]]

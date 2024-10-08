@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4vK3YLA0j7wx49i5eCjjuc
 **Related artists:**
 
 [[Die P]]
-[[Raz-One]]
+[[producers/Raz-One]]

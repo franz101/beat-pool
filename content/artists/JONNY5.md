@@ -25,6 +25,6 @@ url: https://open.spotify.com/artist/2zBfaKlnvbJ6RwumLQm4Uf
 [[Pakkal78]]
 [[PISLIK88]]
 [[SWEETBOYBLONDEY]]
-[[Mistersir]]
+[[producers/Mistersir]]
 [[Spartakdakar]]
 [[Fergy53]]

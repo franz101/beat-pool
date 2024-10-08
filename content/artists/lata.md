@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3byOSKkPHTLvtTbWGfVM6X
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf79ac5df7f9d84b58bf1e74f)
 **Related artists:**
 
-[[Jelle Grubert]]
+[[producers/Jelle Grubert]]
 [[Prism]]

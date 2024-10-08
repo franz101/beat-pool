@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/4728jywhQoCC2jT06FrDDD
 [[Heinz Rudolf Kunze]]
 [[Dietmar Bär]]
 [[Höhner]]
-[[Leo Schmidthals]]
+[[producers/Leo Schmidthals]]

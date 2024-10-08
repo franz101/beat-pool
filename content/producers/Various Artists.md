@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of
 
 **Related artists:**
 
-[[3ckz]]
-[[Kiko Masbaum]]
-[[The Royals]]
+[[producers/3ckz]]
+[[producers/Kiko Masbaum]]
+[[producers/The Royals]]
 [[Eisblume]]
 [[MC Bilal]]

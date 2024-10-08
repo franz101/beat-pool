@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6w2IgUhZQo2EFdEnW6O7NF
 
 **Related artists:**
 
-[[Snoddy]]
-[[OM]]
+[[producers/Snoddy]]
+[[producers/OM]]
 [[CKK]]

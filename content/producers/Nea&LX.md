@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3sadsFz7UrJiULWZXpQT8u
 **Related artists:**
 
 [[Eli Preiss]]
-[[DJ DeeVoe]]
-[[Daniel Twintower]]
+[[producers/DJ DeeVoe]]
+[[producers/Daniel Twintower]]
 [[Jalil]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7hFRI8VICqVkJAHi7WZQO1
 
 **Related artists:**
 
-[[Nonhitproducers]]
+[[producers/Nonhitproducers]]
 [[Maeckes]]

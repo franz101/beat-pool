@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo
 **Related artists:**
 
 [[Haftbefehl]]
-[[Die Achse]]
+[[producers/Die Achse]]

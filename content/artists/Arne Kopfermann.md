@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5g133QIo8yreAc097FNB1q
 **Related artists:**
 
 [[Andreas Volz]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Margarete Kosse]]
 [[Sarah Kaiser]]

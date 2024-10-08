@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb70ecc3aaeb4fefe46da1ee62)
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[Samra]]
-[[YUNG MOJI]]
+[[producers/YUNG MOJI]]

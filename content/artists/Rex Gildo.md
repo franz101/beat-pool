@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/1bgbFPzGjOOXdvg9XKWe39
 ![Artist](https://i.scdn.co/image/ab67616d0000b2737991fdde0d44442e380479c9)
 **Related artists:**
 
-[[Ralph Siegel]]
+[[producers/Ralph Siegel]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1zI4yaIirqzCa8dve8Qc1t
 
 **Related artists:**
 
-[[Matthias Gehrmann]]
-[[Dom Toulon]]
-[[Cary August]]
+[[producers/Matthias Gehrmann]]
+[[producers/Dom Toulon]]
+[[producers/Cary August]]

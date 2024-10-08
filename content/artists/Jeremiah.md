@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2H1mefeTwSaTWxcfU2WJ2Z
 
 **Related artists:**
 
-[[Jeremias Hammerstein]]
-[[Haku Nakagami]]
+[[producers/Jeremias Hammerstein]]
+[[producers/Haku Nakagami]]
 [[KUSO GVKI]]

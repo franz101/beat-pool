@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4OB7KV6LqCyU7dmuSUXTjD
 
 **Related artists:**
 
-[[BenzMuzik]]
+[[producers/BenzMuzik]]
 [[Luciano]]

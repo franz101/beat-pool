@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/2IrLYfX88e1iK5oTtmblVu
 **Related artists:**
 
 [[Greeny]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[DJ Razé]]

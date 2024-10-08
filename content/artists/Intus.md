@@ -19,6 +19,6 @@ url: https://open.spotify.com/artist/0gJOsuRFL4P4MQerBek4Sx
 [[Nizi19]]
 [[Omar101]]
 [[Karamel19]]
-[[nocashfromparents]]
+[[producers/nocashfromparents]]
 [[Japo]]
 [[Lucio101]]

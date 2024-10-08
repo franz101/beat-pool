@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0Gp5WC6UWnNJSdYGUdFYOU
 
 **Related artists:**
 
-[[Steffen Graef]]
+[[producers/Steffen Graef]]
 [[Max Giesinger]]

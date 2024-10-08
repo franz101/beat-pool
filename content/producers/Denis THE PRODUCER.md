@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/1GiorFmMPU1aLwDfdVoQu8
 [[Nimo]]
 [[SOTT]]
 [[KALIM]]
-[[Bawer]]
+[[producers/Bawer]]
 [[Azzi Memo]]

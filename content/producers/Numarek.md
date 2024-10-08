@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2rkMOGzQih5J1j8wKUkAwp
 
 **Related artists:**
 
-[[Paul NZA]]
-[[Claud]]
+[[producers/Paul NZA]]
+[[producers/Claud]]
 [[Westernhagen]]
 [[Götz Gottschalk]]
 [[Curse]]

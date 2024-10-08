@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb4435845acb9da6f206af96c)
 **Related artists:**
 
-[[White Armor]]
+[[producers/White Armor]]

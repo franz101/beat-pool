@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/2faK3GWeHSq6jXqoSsXYso
 
 [[Peter Hoff]]
 [[Beatgees]]
-[[Beathoavenz]]
+[[producers/Beathoavenz]]
 [[Dj Thomilla]]
-[[And.Ypsilon]]
-[[Kraans de Lutin]]
+[[producers/And.Ypsilon]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]
 [[Die Fantastischen Vier]]

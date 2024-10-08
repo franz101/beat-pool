@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2TZvEDDXvmcV0GQl5ODLK9
 **Related artists:**
 
 [[Omik K]]
-[[Defekto]]
+[[producers/Defekto]]

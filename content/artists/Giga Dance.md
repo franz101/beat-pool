@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/78L6JikpNu3iRD8VoQL5vt
 **Related artists:**
 
 [[Rainy]]
-[[Denis Lehmann]]
-[[Dennis Logemann]]
+[[producers/Denis Lehmann]]
+[[producers/Dennis Logemann]]

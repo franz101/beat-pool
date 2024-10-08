@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/2qXe9nDyQBHyMLduqEwQZb
 [[Charlotte Brandi]]
 [[Form]]
 [[Pyro One]]
-[[Dog Young]]
+[[producers/Dog Young]]
 [[KAFVKA]]
 [[Amewu]]
 [[Badkat]]

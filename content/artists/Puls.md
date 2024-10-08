@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/4YViFbS6GmZClkbUMLx1EW
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc902eba5c4830ceee9d93f85)
 **Related artists:**
 
-[[C55]]
-[[Goldfinger030]]
+[[producers/C55]]
+[[producers/Goldfinger030]]
 [[Gringo]]
 [[Kontra K]]
 [[Smoky]]
 [[SDP]]
 [[Blokkmonsta]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

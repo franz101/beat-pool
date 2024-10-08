@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0iBOqkoNcePQDtYh6dPvVI
 
 **Related artists:**
 
-[[Call Me G]]
+[[producers/Call Me G]]
 [[Fero47]]

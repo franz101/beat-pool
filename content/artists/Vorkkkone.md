@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/793nBeyCPSGuPgmmPDiESh
 
 [[Jesse MC]]
 [[Drama Kuba]]
-[[Philipp Hoppen]]
-[[Nico Seyfrid]]
+[[producers/Philipp Hoppen]]
+[[producers/Nico Seyfrid]]
 [[K.I.Z]]
 [[Kannibal Rob]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/03e8hdTs7dZIu7V89Uobfc
 **Related artists:**
 
 [[YONII]]
-[[Isa Azier]]
+[[producers/Isa Azier]]
 [[Seri Gnonegnon Cédric Aimé aka Knavaro]]

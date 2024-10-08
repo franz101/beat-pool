@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4LqXqd68BBoEk9RDYeS0ls
 
 **Related artists:**
 
-[[Fonty]]
+[[producers/Fonty]]
 [[Lumidee]]
 [[Ardian Bujupi]]
-[[DJ Mase]]
+[[producers/DJ Mase]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7e8uRkRJX3zA7sAFzDjO13
 
 **Related artists:**
 
-[[Kamikazes]]
+[[producers/Kamikazes]]
 [[Prezident]]
-[[Epic Infantry]]
+[[producers/Epic Infantry]]

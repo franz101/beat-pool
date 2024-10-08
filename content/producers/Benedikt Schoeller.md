@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6pznsvlNE6tQlMtLkIMv7F
 **Related artists:**
 
 [[Emilio]]
-[[Timothy Auld]]
+[[producers/Timothy Auld]]

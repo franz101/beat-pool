@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4rkXtfTZ5F1z9En48cgLBG
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
-[[I.L.L. Will]]
+[[producers/Shahabedin Azodifar]]
+[[producers/I.L.L. Will]]
 [[Morlockk Dilemma]]
 [[Eloquent]]

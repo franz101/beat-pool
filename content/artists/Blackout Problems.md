@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/22P5BkhcPUCtDGC9laXpDM
 **Related artists:**
 
 [[Massendefekt]]
-[[Tim Schulte]]
+[[producers/Tim Schulte]]

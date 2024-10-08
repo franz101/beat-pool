@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4bnuLks1tmv9A7Gq4Q9mUz
 
 **Related artists:**
 
-[[Waajeed]]
-[[Sebastian "Bazee" Wohlgemuth]]
+[[producers/Waajeed]]
+[[producers/Sebastian "Bazee" Wohlgemuth]]
 [[Afrob]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/76owQSw33ptig0rVYZhxQ9
 
 **Related artists:**
 
-[[Christiaan Van Der Laan]]
+[[producers/Christiaan Van Der Laan]]
 [[remme]]

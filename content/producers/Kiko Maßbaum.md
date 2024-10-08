@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/64QVI1Skp27lfkAtQtExZQ
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Unheilig]]
 [[Xavier Naidoo]]
 [[Markus Tombült]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6RhPwYx99aVM3TpYPb2G8E
 **Related artists:**
 
 [[Pulsedriver]]
-[[Fait Albrecht]]
-[[by Mike Nero]]
-[[DJ Fait]]
-[[Andy Jay Powell]]
+[[producers/Fait Albrecht]]
+[[producers/by Mike Nero]]
+[[producers/DJ Fait]]
+[[producers/Andy Jay Powell]]
 [[Calderone Inc.]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS
 **Related artists:**
 
 [[Alle Farben]]
-[[Frans Zimmer]]
-[[Junkx]]
+[[producers/Frans Zimmer]]
+[[producers/Junkx]]

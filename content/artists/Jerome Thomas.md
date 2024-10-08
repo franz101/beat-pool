@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3w3vmT2hRskRBwDZdjUlAp
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9b5d22d5c8720eff5f1247fc)
 **Related artists:**
 
-[[ROHO]]
+[[producers/ROHO]]
 [[Bluestaeb]]
 [[Uno Hype]]

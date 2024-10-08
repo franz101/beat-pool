@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3pW3RSgLBxQmVXDUgyyHPP
 **Related artists:**
 
 [[Emmms]]
-[[Bezimenimusic]]
+[[producers/Bezimenimusic]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0Jft1HaOZtiDav5f9TriQb
 **Related artists:**
 
 [[Juli]]
-[[O.L.A.F. Opal]]
+[[producers/O.L.A.F. Opal]]
 [[Enno Bunger]]
 [[Berge]]
-[[Rocco Horn]]
+[[producers/Rocco Horn]]

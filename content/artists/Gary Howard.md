@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4kikNKCsh6ymZVoRx9M2ek
 
 **Related artists:**
 
-[[Gerrit Wessendorf]]
-[[Leon Tiepold]]
+[[producers/Gerrit Wessendorf]]
+[[producers/Leon Tiepold]]
 [[Nazar]]

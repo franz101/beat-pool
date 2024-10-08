@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/0TNgTmgXTJGOpZzO4sy7GX
 [[Sékou]]
 [[Don Philippe]]
 [[Freundeskreis]]
-[[Tommy W.]]
+[[producers/Tommy W.]]
 [[Mr. Gentleman]]

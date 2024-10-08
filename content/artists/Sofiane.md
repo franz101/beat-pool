@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6qFt3TjvxMt77YGsktWG8Z
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4d63230bd8fcbc83851c678f)
 **Related artists:**
 
-[[Ariya Rahimianpour]]
+[[producers/Ariya Rahimianpour]]
 [[RAF Camora]]
 [[AriBeatz]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5abOGlntuwP894FlbYhvl3
 
 **Related artists:**
 
-[[Gee Futuristic]]
+[[producers/Gee Futuristic]]
 [[SSIO]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5iirpMJ7d7PJe4MuJbwZ3i
 
 **Related artists:**
 
-[[Lothar Atwell]]
-[[Mirko Michalzik]]
-[[Bo Heart]]
+[[producers/Lothar Atwell]]
+[[producers/Mirko Michalzik]]
+[[producers/Bo Heart]]
 [[Klaus Lage]]

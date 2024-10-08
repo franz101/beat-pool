@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2OMf3m4kTHy2JdzhGDPssO
 
 **Related artists:**
 
-[[Thai]]
+[[producers/Thai]]
 [[Gangsta Lu]]
 [[La-Honda]]
 [[Eko Fresh]]

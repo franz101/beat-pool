@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6amn2y3Ybe6oL9vyfNSTqB
 
 **Related artists:**
 
-[[Elzbieta Steinmetz (ela.)]]
+[[producers/Elzbieta Steinmetz (ela.)]]
 [[ela.]]

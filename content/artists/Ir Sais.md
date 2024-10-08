@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcffad198078fcc92545468a7)
 **Related artists:**
 
-[[Chaz Mishan]]
-[[Gabox]]
+[[producers/Chaz Mishan]]
+[[producers/Gabox]]
 [[Ivana Santacruz]]

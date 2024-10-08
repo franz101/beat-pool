@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/17akKq438kfzmHyzwhGD0y
 
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[SILVERJAM]]
+[[producers/Kiko Masbaum]]
+[[producers/SILVERJAM]]
 [[Helene Fischer]]
-[[Ali Zuckowski]]
+[[producers/Ali Zuckowski]]
 [[Budapest Film Orchestra]]
 [[Thorsten Brötzmann]]
-[[Robin Grubert]]
-[[Martin Fliegenschmidt]]
+[[producers/Robin Grubert]]
+[[producers/Martin Fliegenschmidt]]
 [[Stefan Schrupp]]

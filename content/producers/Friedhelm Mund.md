@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/7Hglj3ZcgRBEir36LAYRpn
 
 **Related artists:**
 
-[[Andrei Vesa]]
+[[producers/Andrei Vesa]]
 [[Clueso]]
-[[Fynn]]
-[[Donkong]]
+[[producers/Fynn]]
+[[producers/Donkong]]
 [[Jakob Heisig]]
 [[MOAT]]
-[[Kabuki]]
+[[producers/Kabuki]]
 [[DISSY]]
-[[Dope est Dope]]
+[[producers/Dope est Dope]]
 [[Neonschwarz]]
 [[Maeckes]]

@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/2j8Zjmn4tSEb71SVkPOYIj
 [[Wolfgang Petry]]
 [[Agnetha Bräutigam]]
 [[Tom Astor]]
-[[Klaus Lohmer]]
+[[producers/Klaus Lohmer]]

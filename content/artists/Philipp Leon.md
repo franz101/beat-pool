@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2dRgyS3NBSUuKiLgPgmSCm
 
 **Related artists:**
 
-[[Ilan Schulz]]
+[[producers/Ilan Schulz]]
 [[Bass Sultan Hengzt]]

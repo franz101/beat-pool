@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6prQPe9bjw5E7CeJshNfDS
 
 **Related artists:**
 
-[[Delmundo]]
+[[producers/Delmundo]]
 [[Vengaboys]]

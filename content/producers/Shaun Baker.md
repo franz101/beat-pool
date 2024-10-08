@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/7qVzI20Li7Utd9XAa8VHLj
 
 **Related artists:**
 
-[[Matthias Brocke]]
+[[producers/Matthias Brocke]]
 [[M-Traxx]]
-[[Michael “Money-G” Bein]]
+[[producers/Michael “Money-G” Bein]]
 [[Skiddaw]]
-[[Markus Kornschober]]
+[[producers/Markus Kornschober]]
 [[Money-G]]
 [[Darius & Finlay]]

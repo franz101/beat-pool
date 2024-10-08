@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5xr7NsbwQJjvIeFmvCWYF4
 
 **Related artists:**
 
-[[Modha]]
+[[producers/Modha]]
 [[JuJu Rogers]]
-[[Crada]]
+[[producers/Crada]]

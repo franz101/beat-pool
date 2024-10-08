@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1e73dGesilD6kiIzTVpdx9
 
 **Related artists:**
 
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Bushido]]
 [[Ayas Kapli]]
 [[Saad El Soghayar]]

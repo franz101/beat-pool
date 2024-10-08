@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/39zOHJaB0v65zFnCYDCHH3
 **Related artists:**
 
 [[Prezident]]
-[[Epic Infantry]]
+[[producers/Epic Infantry]]

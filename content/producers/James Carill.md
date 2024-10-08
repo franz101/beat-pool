@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2HKcqwqOkm9Bq8LF5WwVg2
 **Related artists:**
 
 [[Broadcast]]
-[[Trish Keenan]]
+[[producers/Trish Keenan]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3wsmd7bAAyaXKqQC8wQ7AD
 
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[THOVI]]
-[[Nils Schedler]]
+[[producers/Nils Schedler]]
 [[Patrick Pöhl]]
 [[Harris & Ford]]
 [[HBz]]

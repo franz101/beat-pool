@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5OtrO7QbN6BGwu5tUL5izH
 
 [[Empyre One]]
 [[Sub Sonik]]
-[[Christian Beneken]]
+[[producers/Christian Beneken]]
 [[DJ Gollum]]
 [[Scarlet]]

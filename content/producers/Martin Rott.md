@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2qhPgYIoY3Shygka4euB1J
 **Related artists:**
 
 [[L'aupaire]]
-[[Robert Laupert]]
+[[producers/Robert Laupert]]

@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/21QkjpNW8rrW1JZ2QbEHHB
 [[Wir Sind Helden]]
 [[Marc Almond]]
 [[Nina Hagen]]
-[[Ulf Sommer]]
+[[producers/Ulf Sommer]]
 [[Drangsal]]
 [[Peter Plate]]

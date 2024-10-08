@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/69eqQ76YKV103Z4CNPnnPw
 
 [[Junior Reid]]
 [[Beginner]]
-[[Denyo 77]]
+[[producers/Denyo 77]]

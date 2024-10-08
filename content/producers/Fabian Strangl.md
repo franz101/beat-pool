@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3Y1PgjpxGb3RmXvmeDRhCM
 
 **Related artists:**
 
-[[Philipp Thimm]]
-[[Kevin Zaremba]]
+[[producers/Philipp Thimm]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]
-[[Mirko Schaffer]]
-[[Jens Dreesen]]
+[[producers/Mirko Schaffer]]
+[[producers/Jens Dreesen]]
 [[Max Prosa]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

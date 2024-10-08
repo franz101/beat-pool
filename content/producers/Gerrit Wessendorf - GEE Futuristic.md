@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5dRZbXTE5NqPKj9jQg1Yf7
 **Related artists:**
 
 [[Azad]]
-[[Marcus Yeboah Yeebrass]]
+[[producers/Marcus Yeboah Yeebrass]]

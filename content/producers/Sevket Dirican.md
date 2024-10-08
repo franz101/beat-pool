@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7rBz9L81CMhEEUPSZbtQfB
 **Related artists:**
 
 [[Chefket]]
-[[7apes]]
+[[producers/7apes]]
 [[Nobodys Face]]

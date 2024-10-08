@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7nrHiaXriTEevK1tOGjTHZ
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Joachim Horn-Bernges]]
-[[Oliver Statz]]
-[[Hans-Joachim Horn-Bernges]]
+[[producers/Joachim Horn-Bernges]]
+[[producers/Oliver Statz]]
+[[producers/Hans-Joachim Horn-Bernges]]

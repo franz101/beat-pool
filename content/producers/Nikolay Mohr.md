@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/0Xol2tDxRWDfdjz96rhRwN
 
 **Related artists:**
 
-[[Elzbieta Steinmetz]]
-[[Mark Becker]]
-[[Oliver Kleissle]]
+[[producers/Elzbieta Steinmetz]]
+[[producers/Mark Becker]]
+[[producers/Oliver Kleissle]]
 [[Octavian]]
-[[Steffen Graef]]
-[[Vitali Zestovskih]]
+[[producers/Steffen Graef]]
+[[producers/Vitali Zestovskih]]
 [[Anstandslos & Durchgeknallt]]
 [[Maria Dürrling]]
 [[Sarah Lombardi]]

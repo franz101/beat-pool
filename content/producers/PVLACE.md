@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/175zaIzUkhnD7j3NbYTRDk
 
 [[Gunboi]]
 [[Dardan]]
-[[SkipOnDaBeat]]
-[[Synthax]]
-[[MENJU]]
+[[producers/SkipOnDaBeat]]
+[[producers/Synthax]]
+[[producers/MENJU]]

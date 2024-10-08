@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/2ooWmQC4NQUQZ3z00mZQyK
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8b2ffd9838a159fc2fdd6c77)
 **Related artists:**
 
-[[Sebastian Biesler]]
+[[producers/Sebastian Biesler]]
 [[Mille Petrozza]]
 [[ZOMBIEZ]]
-[[Sky van Hoff]]
-[[Phil Sunday]]
+[[producers/Sky van Hoff]]
+[[producers/Phil Sunday]]
 [[Heaven Shall Burn]]
 [[Timi Hendrix]]
 [[Johnny 3 Tears]]
-[[Bolverk]]
+[[producers/Bolverk]]

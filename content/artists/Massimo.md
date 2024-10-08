@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/46uphg1gkRzSckzfFR9HFa
 
 **Related artists:**
 
-[[Grzegorz Olszowka]]
-[[Nico Seyfrid]]
+[[producers/Grzegorz Olszowka]]
+[[producers/Nico Seyfrid]]
 [[Samo104]]
 [[Tarek]]
-[[Coombeats]]
+[[producers/Coombeats]]
 [[K.I.Z]]
 [[Blokkmonsta]]

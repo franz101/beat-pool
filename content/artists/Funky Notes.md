@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb61c283b18cb80cb038083617)
 **Related artists:**
 
-[[Lukas Schmidiger]]
+[[producers/Lukas Schmidiger]]

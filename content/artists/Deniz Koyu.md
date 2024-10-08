@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6
 [[Beatgees]]
 [[Culcha Candela]]
 [[Vincent Thomas]]
-[[Krutsch]]
+[[producers/Krutsch]]

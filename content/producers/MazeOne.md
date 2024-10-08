@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/07wSOZWPmSLTq6zRMpo0Ta
 **Related artists:**
 
 [[JoJo]]
-[[Friedrich VanZandt]]
+[[producers/Friedrich VanZandt]]
 [[Weekend]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6otOwIjBnrZKiiMpBwKsNq
 
 **Related artists:**
 
-[[Dave Kelly]]
+[[producers/Dave Kelly]]
 [[Sigi Di Collin]]
 [[Genial]]

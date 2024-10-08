@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5EYeTWe2SCZJzNwXIVIm7Y
 
 **Related artists:**
 
-[[Alex Knoll]]
+[[producers/Alex Knoll]]
 [[Chris Cronauer]]
 [[Stereoact]]

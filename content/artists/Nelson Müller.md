@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/4WoA5MvD2CPC4Ekm5nij04
 [[Peter Freudenthaler]]
 [[Pur]]
 [[Götz von Sydow]]
-[[Hartmut Engler]]
-[[Martin Ansel]]
+[[producers/Hartmut Engler]]
+[[producers/Martin Ansel]]
 [[Peppa]]

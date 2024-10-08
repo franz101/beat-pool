@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/59QdJy846FAaNXcztOegY5
 **Related artists:**
 
 [[Jumpa]]
-[[Lea Canere]]
-[[AbsoluteBeatz]]
+[[producers/Lea Canere]]
+[[producers/AbsoluteBeatz]]
 [[Vega]]
 [[Efe]]

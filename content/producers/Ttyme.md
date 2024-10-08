@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/76bjgTSgZRj0Cbmvgwmfs4
 
 **Related artists:**
 
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]
 [[Kollegah]]

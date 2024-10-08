@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/5tfGWI8xQ33fxhcMq3GufB
 **Related artists:**
 
 [[Frederic Todenhöfer]]
-[[Ingo Politz]]
-[[Hubertus Dahlem]]
+[[producers/Ingo Politz]]
+[[producers/Hubertus Dahlem]]

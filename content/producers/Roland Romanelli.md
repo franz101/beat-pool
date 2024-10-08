@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2W98kajUtTWh6oFZn4z85Q
 
 [[Moses Pelham]]
 [[Xavier Naidoo]]
-[[Jean-Jacques Goldman]]
-[[Martin Haas]]
+[[producers/Jean-Jacques Goldman]]
+[[producers/Martin Haas]]

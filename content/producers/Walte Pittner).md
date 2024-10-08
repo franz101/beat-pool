@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/5rag0uAR8pduFlgQnkCghK
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Deichkind]]
 [[DEICHKIND (Philipp Grütering]]
 [[Philipp Grütering]]

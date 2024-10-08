@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1JxEDb3ubwhzP4few0AJ0b
 
 **Related artists:**
 
-[[Haz3]]
+[[producers/Haz3]]
 [[Samy Deluxe]]
-[[DJ Vito]]
+[[producers/DJ Vito]]

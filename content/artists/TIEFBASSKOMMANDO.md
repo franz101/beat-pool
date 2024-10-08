@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/6vvfXl49IXEHQjOrmckVo3
 **Related artists:**
 
 [[Schwarzarbeiter]]
-[[Uncle F]]
+[[producers/Uncle F]]
 [[Obeez]]
 [[2Malle]]
 [[102 Boyz]]

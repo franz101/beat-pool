@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/0YcKbZwjx2BEoKLzfqlmgH
 ![Artist](https://i.scdn.co/image/ab67616d0000b273fed415b074542658ea29568c)
 **Related artists:**
 
-[[Boys Noize]]
-[[Udo Arndt]]
-[[Unknown]]
+[[producers/Boys Noize]]
+[[producers/Udo Arndt]]
+[[producers/Unknown]]
 [[Ralph Möbius]]
-[[Annette Humpe]]
-[[Cymo]]
-[[Mathias Grosch]]
-[[Von Den Kuhjaus]]
-[[Jules Kalmbacher]]
-[[Samon Kawamura]]
+[[producers/Annette Humpe]]
+[[producers/Cymo]]
+[[producers/Mathias Grosch]]
+[[producers/Von Den Kuhjaus]]
+[[producers/Jules Kalmbacher]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

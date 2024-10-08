@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5VcFQLT1y2Rje5zoiWKC2w
 **Related artists:**
 
 [[The 2 Bears]]
-[[The 2 Bears | Hi-Tek for Hi-Tek Productions]]
+[[producers/The 2 Bears | Hi-Tek for Hi-Tek Productions]]
 [[Hi-Tek]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1wLdelhIvDUZsjWZUI5SBs
 **Related artists:**
 
 [[IMMI]]
-[[3li]]
+[[producers/3li]]
 [[AYLIVA]]
-[[Babyblue]]
+[[producers/Babyblue]]
 [[Noah]]
-[[Bruferr Beatz]]
+[[producers/Bruferr Beatz]]

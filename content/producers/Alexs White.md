@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0rpafCxa2n8bXURLsfyF6B
 
 **Related artists:**
 
-[[Klaus Jaeger]]
+[[producers/Klaus Jaeger]]
 [[Andrea Berg]]
-[[Al King]]
+[[producers/Al King]]
 [[Nino de Angelo]]
-[[Alexander Strasser]]
+[[producers/Alexander Strasser]]
 [[René Baumann]]

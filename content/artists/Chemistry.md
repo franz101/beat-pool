@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0YESSMkOVatLKOy27GjkX7
 
 [[Pulsedriver]]
 [[DJ Lee]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
 [[Megara]]

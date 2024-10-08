@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/5kArcgdTU0MMFUF42UfhKV
 
 **Related artists:**
 
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[Michael Schulte]]
 [[Alle Farben]]
 [[Mogli]]
-[[Tobias Bogdon]]
+[[producers/Tobias Bogdon]]
 [[Perttu]]
-[[Gregor Sahm]]
+[[producers/Gregor Sahm]]

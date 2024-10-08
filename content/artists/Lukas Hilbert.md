@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/3aOuyPt2dSwb4r34EIw6d7
 
 **Related artists:**
 
-[[den Prinzen]]
-[[Tony Bruno]]
+[[producers/den Prinzen]]
+[[producers/Tony Bruno]]
 [[Yvonne Catterfeld]]
 [[Nena]]
-[[Alex Christensen]]
-[[Phillip Palm]]
+[[producers/Alex Christensen]]
+[[producers/Phillip Palm]]
 [[Peter Maffay]]
 [[Arn Schlürmann]]
 [[Udo Lindenberg]]
 [[Ströer Bros.]]
 [[Die Prinzen]]
-[[Philipp Palm]]
+[[producers/Philipp Palm]]

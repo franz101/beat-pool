@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3CLdnhzY95MNFjtscbbdQ2
 
 **Related artists:**
 
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[SDP]]

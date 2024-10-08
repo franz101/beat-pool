@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/6fLC1enYbmxp2iAWmMgpCB
 
 **Related artists:**
 
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
 [[Freshmaker]]
-[[stanTuned]]
-[[YenoBeatz]]
+[[producers/stanTuned]]
+[[producers/YenoBeatz]]
 [[Kollegah]]
-[[Rennoc]]
-[[NEO]]
+[[producers/Rennoc]]
+[[producers/NEO]]

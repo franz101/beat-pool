@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/6CIluhaO4AdLA5bgsmVXsq
 
 **Related artists:**
 
-[[Dirty Dasmo]]
-[[Lennard Oestmann]]
+[[producers/Dirty Dasmo]]
+[[producers/Lennard Oestmann]]
 [[Hagen Stoll]]
 [[Pedaz]]
-[[Daniel Grossmann]]
-[[Sven Gillert]]
-[[Matthias Mania]]
+[[producers/Daniel Grossmann]]
+[[producers/Sven Gillert]]
+[[producers/Matthias Mania]]
 [[Liquit Walker]]
 [[Kontra K]]
 [[Manuellsen]]
-[[Pascal Reinhardt]]
+[[producers/Pascal Reinhardt]]
 [[Vega]]
 [[Juh-Dee]]

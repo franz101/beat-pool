@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3UOj3lJ8vdKD7flSH9VH27
 
 **Related artists:**
 
-[[Sammy Naja]]
+[[producers/Sammy Naja]]
 [[TEAM 5ÜNF]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6f0MyfoXALr0oSjn7C8rNb
 **Related artists:**
 
 [[76er Boys]]
-[[Julian Sieg'l]]
+[[producers/Julian Sieg'l]]

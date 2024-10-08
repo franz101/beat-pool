@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4YJuEdhgSOMc1CS9cKfczE
 **Related artists:**
 
 [[Kitty Kat]]
-[[Crada]]
+[[producers/Crada]]
 [[Azad]]
 [[Xavier Naidoo]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]
 [[Kool Savas]]

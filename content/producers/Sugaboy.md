@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5aykeQ8Q29e6tPU2a86uah
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Celo Minati]]

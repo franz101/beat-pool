@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0lpNbOMneGilFuhWFZRLKs
 **Related artists:**
 
 [[Jan Delay]]
-[[Thomas Stolle]]
+[[producers/Thomas Stolle]]
 [[Silbermond]]
-[[Matthias Arfmann]]
+[[producers/Matthias Arfmann]]

@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/0SpGXn4jdcfPFjD3slUVQt
 **Related artists:**
 
 [[Rainhard Fendrich]]
-[[Bertram Engel]]
-[[Peter Keller]]
-[[Carl Carlton]]
-[[Tato Gomez]]
+[[producers/Bertram Engel]]
+[[producers/Peter Keller]]
+[[producers/Carl Carlton]]
+[[producers/Tato Gomez]]
 [[Peter Maffay]]
-[[Pascal Kravetz]]
+[[producers/Pascal Kravetz]]
 [[Peter Maffay und Band]]

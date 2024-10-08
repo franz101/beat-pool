@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1M8ek7Pej21tvWRDm9hIFV
 
 **Related artists:**
 
-[[Jens Herbst]]
+[[producers/Jens Herbst]]
 [[Speaker Freaks]]

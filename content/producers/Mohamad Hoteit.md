@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2QxM1kYjPVqNVP19cnEMTf
 
 **Related artists:**
 
-[[3ckz]]
+[[producers/3ckz]]
 [[Prinz Pi]]
 [[Mudi]]
 [[PA Sports]]

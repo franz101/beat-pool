@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3dxn4h4u4ELvrYlq2DDRgV
 **Related artists:**
 
 [[loufre]]
-[[Sogimura]]
+[[producers/Sogimura]]

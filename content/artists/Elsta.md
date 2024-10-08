@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/23X9zZGSQpauvlqgIypG27
 **Related artists:**
 
 [[Prezident]]
-[[Kamikazes]]
+[[producers/Kamikazes]]
 [[Degenhardt]]
 [[Flip Ferocious]]
-[[Erik Insbruck]]
+[[producers/Erik Insbruck]]

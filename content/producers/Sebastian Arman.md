@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1BE8MTOYE1xMpY2mIaczRY
 
 [[Stefanie Heinzmann]]
 [[Rea Garvey]]
-[[Johan Alkenas]]
-[[Joacim Persson]]
-[[Tobias Topic]]
-[[Decco]]
+[[producers/Johan Alkenas]]
+[[producers/Joacim Persson]]
+[[producers/Tobias Topic]]
+[[producers/Decco]]

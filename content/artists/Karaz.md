@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/5AJqTEmjmhzE50PbPvbDah
 **Related artists:**
 
 [[Gstar348_]]
-[[C55]]
+[[producers/C55]]
 [[Barré]]
 [[BETO]]
 [[Stacks102]]
 [[KAY AY]]
 [[King Khalil]]
 [[AP]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6bIApc0KzplwU0neDbpPGz
 
 **Related artists:**
 
-[[T.Weitzel]]
-[[T. Schleh]]
+[[producers/T.Weitzel]]
+[[producers/T. Schleh]]
 [[Movetown]]

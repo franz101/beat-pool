@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/47eeIEMEp6v5oDKifNZEXu
 
 [[Tsunami]]
 [[Animus]]
-[[MMinx]]
+[[producers/MMinx]]
 [[Alpa Gun]]
-[[M. Minx]]
+[[producers/M. Minx]]
 [[G-Hot]]
 [[Moe Mitchell]]
 [[Silla]]

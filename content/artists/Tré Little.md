@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3CtSDqpgm5K1nxOYErAaC3
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Royce Da 5'9"]]
 [[Kool Savas]]

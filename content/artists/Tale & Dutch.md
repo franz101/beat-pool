@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5rYZzBRu7Tgu80K7bVM6u5
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[Dj Tht]]
 [[Henrik Münchow]]
 [[Adassa]]

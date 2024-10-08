@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/1sclrEW74md167ZqOpeiuk
 [[Cashmo]]
 [[Kay One]]
 [[Emory]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Twin]]

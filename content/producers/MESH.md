@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2NCOyxreb0E3Yg6SMIJno4
 **Related artists:**
 
 [[Farid Bang]]
-[[Joshimixu]]
+[[producers/Joshimixu]]
 [[The Game]]
 [[Kollegah]]
 [[Musiye]]

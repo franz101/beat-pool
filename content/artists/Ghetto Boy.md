@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5gztxlbwQ2Gamz2hWaNIrA
 
 **Related artists:**
 
-[[Oster]]
-[[Malice]]
+[[producers/Oster]]
+[[producers/Malice]]
 [[AJÉ]]

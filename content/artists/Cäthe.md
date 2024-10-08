@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5sYAD1eimqznzNEh1mYoD1
 
 **Related artists:**
 
-[[Udo Rinklin]]
+[[producers/Udo Rinklin]]
 [[Laith Al-Deen]]

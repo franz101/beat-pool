@@ -29,7 +29,7 @@ url: https://open.spotify.com/artist/3skHroVodZvLppvJAt30rJ
 [[Rufmord3000]]
 [[Mach One]]
 [[Sven]]
-[[MCKS]]
+[[producers/MCKS]]
 [[Maeckes]]
 [[Peter Maffya]]
 [[Mek]]

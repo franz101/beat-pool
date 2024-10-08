@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/73hjJH2JKNl0MfQlY6KlpB
 **Related artists:**
 
 [[Ramo]]
-[[Tengo]]
-[[dylanyousob]]
-[[oustonproducedit]]
+[[producers/Tengo]]
+[[producers/dylanyousob]]
+[[producers/oustonproducedit]]

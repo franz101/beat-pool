@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/019eFx7ArVriovagnPgYJM
 **Related artists:**
 
 [[Massiv]]
-[[Patrick Faubert]]
-[[Dannyebtracks]]
+[[producers/Patrick Faubert]]
+[[producers/Dannyebtracks]]
 [[Casar]]
 [[Ramo]]
-[[Lennart Voigt]]
-[[mvxionthebeat]]
-[[Future Moguls]]
+[[producers/Lennart Voigt]]
+[[producers/mvxionthebeat]]
+[[producers/Future Moguls]]
 [[Hemso]]
-[[Zero Beatz]]
+[[producers/Zero Beatz]]

@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/5rBUMBV7L6zPsEKnlgiOm9
 [[Şanışer]]
 [[Dr. Fuchs]]
 [[Tepki]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[Sirdav]]
 [[Defkhan]]
 [[Canbay]]

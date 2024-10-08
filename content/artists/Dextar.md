@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/66T51B9z0cRuLB2hJ3tY2g
 **Related artists:**
 
 [[Plusmacher]]
-[[Marcus B]]
+[[producers/Marcus B]]
 [[doZ9]]
-[[Jay Spaten]]
+[[producers/Jay Spaten]]
 [[Fresh Face]]
-[[Pierre Sonality]]
+[[producers/Pierre Sonality]]

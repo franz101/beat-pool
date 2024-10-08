@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6CmQQU53xhjYbpUuG899Xk
 
 **Related artists:**
 
-[[Philippe Heithier]]
+[[producers/Philippe Heithier]]
 [[Sarah Lombardi]]
 [[Pietro Lombardi]]

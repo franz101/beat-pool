@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/4sw6eUwydxMxeCoKlsd41e
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
+[[producers/Bartosch Jeznach]]
 [[Nico Suave]]
-[[Boogieman]]
-[[Sebastian Hackert]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
 [[Blumentopf]]
-[[Malte Pittner]]
+[[producers/Malte Pittner]]
 [[Deichkind]]
 [[Curse]]
 [[Bintia]]
-[[Iman Shahidi]]
+[[producers/Iman Shahidi]]
 [[Philipp Grütering]]
 [[Dendemann]]
-[[The Krauts]]
+[[producers/The Krauts]]

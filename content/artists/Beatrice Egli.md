@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7J8A1bNBCuikXoOOetFCKz
 
 **Related artists:**
 
-[[Achim Radloff]]
-[[Joachim Wolf]]
+[[producers/Achim Radloff]]
+[[producers/Joachim Wolf]]

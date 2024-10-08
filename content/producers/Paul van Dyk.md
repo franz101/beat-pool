@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Alexander Mieling]]
-[[Tommi Eckart]]
+[[producers/Alexander Mieling]]
+[[producers/Tommi Eckart]]

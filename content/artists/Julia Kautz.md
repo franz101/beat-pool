@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/2ZRvgPsxO6YYc6z6zwOXB8
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb374bada248f19a2383d584f6)
 **Related artists:**
 
-[[Ludvic]]
+[[producers/Ludvic]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7KWRolqMMEtXCc0jEu7ecE
 
 **Related artists:**
 
-[[Max Mostley]]
+[[producers/Max Mostley]]
 [[Marc Acardipane]]
 [[Chakuza]]
 [[Scooter]]

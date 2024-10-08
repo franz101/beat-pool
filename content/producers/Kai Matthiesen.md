@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4pwBVVWJCftE3DhfMHZNfR
 **Related artists:**
 
 [[Münchener Freiheit]]
-[[Stefan Zauner]]
+[[producers/Stefan Zauner]]

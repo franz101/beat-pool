@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba
 
 **Related artists:**
 
-[[Chris Hammerl]]
+[[producers/Chris Hammerl]]
 [[Barbara Schöneberger]]
-[[Tom Albrecht]]
+[[producers/Tom Albrecht]]

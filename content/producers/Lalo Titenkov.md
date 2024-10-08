@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0WmxlfNJq09CR7ye73663z
 **Related artists:**
 
 [[Frank Bartels]]
-[[Jeo]]
-[[Christoph Papendieck]]
+[[producers/Jeo]]
+[[producers/Christoph Papendieck]]
 [[Yvonne Catterfeld]]
-[[Christoph Leis-Bendorff]]
+[[producers/Christoph Leis-Bendorff]]
 [[Michelle]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0O5eyRR4itzF7KmiP0suN9
 **Related artists:**
 
 [[Cr7z]]
-[[Screwaholic]]
+[[producers/Screwaholic]]

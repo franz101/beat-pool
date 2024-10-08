@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/31HO9Fvw0jI7bszSpiEXNB
 
 **Related artists:**
 
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Nino de Angelo]]

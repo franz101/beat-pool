@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7r6ecbXzdLsw5DDrE6fSt9
 
 [[WavyKaen]]
 [[65Goonz]]
-[[R.Rozay]]
+[[producers/R.Rozay]]
 [[MaazaKayo]]

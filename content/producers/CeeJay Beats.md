@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/2WWSfNfRvps0qMqKIJlElK
 [[G-Style]]
 [[Billy 13]]
 [[Eko Fresh]]
-[[Prodycem]]
+[[producers/Prodycem]]
 [[Jasko]]
 [[Capkekz]]
 [[Hakan Abi]]

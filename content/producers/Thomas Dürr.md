@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4Apb4lBrOqVc8Q74td44IR
 
 **Related artists:**
 
-[[Bertil Mark]]
+[[producers/Bertil Mark]]
 [[Stephan Remmler]]
 [[Thomas D]]

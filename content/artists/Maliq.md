@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/2PBBPc8oQ5Tf1Em1x14OSb
 [[SDP]]
 [[Culcha Candela]]
 [[Tiger Hifi]]
-[[Krutsch]]
+[[producers/Krutsch]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6jr3MdyQrjjnNCUmh52Q1n
 
 **Related artists:**
 
-[[Phat Crispy]]
+[[producers/Phat Crispy]]
 [[Kollegah]]
-[[Mayjuran Ragunathan]]
+[[producers/Mayjuran Ragunathan]]
 [[Majoe]]
 [[Seyed]]
 [[Summer Cem]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0G3t6thYSVNoWfn8M6l4xX
 
 **Related artists:**
 
-[[Neno]]
+[[producers/Neno]]
 [[Terence Chill]]
 [[Cr7z]]

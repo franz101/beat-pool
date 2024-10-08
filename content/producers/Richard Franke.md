@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5QmmflL9PDXDBsvifnTEXl
 
 **Related artists:**
 
-[[Sam Schlatow]]
-[[Andreas Huber]]
-[[Frans Zimmer]]
+[[producers/Sam Schlatow]]
+[[producers/Andreas Huber]]
+[[producers/Frans Zimmer]]
 [[Sway Clarke]]
 [[Alle Farben]]
 [[Lydmor]]

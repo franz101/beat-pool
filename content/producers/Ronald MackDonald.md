@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4DeeQV4ERyJT5RuO7BhAIo
 
 **Related artists:**
 
-[[Youssef exclusive]]
+[[producers/Youssef exclusive]]
 [[Kool Savas]]
 [[BOUNTY & COCOA]]
 [[K.I.Z]]

@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/4AhSXhHjT8wczTqerdcxpV
 
 [[ZOMBIEZ]]
 [[C. Ray]]
-[[G-Ko]]
+[[producers/G-Ko]]

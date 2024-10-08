@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4PP74UpGV1hiDT2tP4BCaG
 
 **Related artists:**
 
-[[Harald Hanisch]]
+[[producers/Harald Hanisch]]
 [[Christina Stürmer]]

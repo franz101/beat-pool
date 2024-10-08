@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0fEjafSlsVwqTwz5LLIxxg
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb3bc80f7f3ab65550a3d29f1)
 **Related artists:**
 
-[[Truva]]
-[[Patrick Liegl]]
+[[producers/Truva]]
+[[producers/Patrick Liegl]]

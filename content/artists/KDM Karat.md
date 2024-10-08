@@ -28,7 +28,7 @@ url: https://open.spotify.com/artist/2eCOmLXCBTdgGW2VguwCdd
 [[Pre$$ Brixxx]]
 [[Nils Davis]]
 [[Hugo Nameless]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[dop]]
 [[Rico Recklezz]]

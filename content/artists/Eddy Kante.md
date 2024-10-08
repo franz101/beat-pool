@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/35Y2dU7D0EG0JMZV7r1QCe
 
 **Related artists:**
 
-[[Siggi Bemm]]
+[[producers/Siggi Bemm]]
 [[Udo Lindenberg]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5wZ17mpMrX7esoRS80ow2M
 ![Artist](https://i.scdn.co/image/ab67616d0000b273053f31037066a51064d4321e)
 **Related artists:**
 
-[[BigBadBeats]]
+[[producers/BigBadBeats]]

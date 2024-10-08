@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2PDWSccvFPWCdFFFqWqrqh
 **Related artists:**
 
 [[2raumwohnung]]
-[[Hanno Hinkelbein]]
+[[producers/Hanno Hinkelbein]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]

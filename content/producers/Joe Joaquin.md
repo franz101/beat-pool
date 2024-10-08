@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/4SKONHaNY6IglKlVMVc5M9
 
 [[Tristan Brusch]]
 [[Daniel Strohhäcker]]
-[[Marlon Tubach]]
-[[Nonhitproducers]]
-[[Willi Sieger]]
+[[producers/Marlon Tubach]]
+[[producers/Nonhitproducers]]
+[[producers/Willi Sieger]]
 [[Äh, Dings]]
 [[Maeckes]]

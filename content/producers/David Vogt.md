@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1JA5yLNerJH0FMrkh3yLjQ
 **Related artists:**
 
 [[Hannes Büscher]]
-[[Sipho Sililo]]
+[[producers/Sipho Sililo]]
 [[KAYEF]]
-[[Kai Fichtner]]
+[[producers/Kai Fichtner]]
 [[Philip Böllhoff]]
 [[Yanek Stärk]]

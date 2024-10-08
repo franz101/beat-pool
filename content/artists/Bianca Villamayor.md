@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/14UK4PU2fJUjKudaiOhyt1
 
 [[Feiert Jesus!]]
 [[Carlos Arce]]
-[[Dennis Thielmann]]
+[[producers/Dennis Thielmann]]
 [[Karin Thielmann]]

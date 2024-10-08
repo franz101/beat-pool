@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2NvfBjzS7E2b4sX5QN5vlr
 
 [[the intern]]
 [[MC Rene]]
-[[Classic Der Dicke]]
+[[producers/Classic Der Dicke]]

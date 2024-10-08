@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6kqhDlXra0oUUdfTEgbuEE
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd0a9195d58a2cc6fed1db4df)
 **Related artists:**
 
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]
 [[Zemine]]

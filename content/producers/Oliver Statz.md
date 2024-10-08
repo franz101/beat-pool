@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/2QQ1tqbUnu0e2TvEGKYUBu
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Alexander Seidl]]
+[[producers/Alexander Seidl]]
 [[Matthias Reim]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Kim Harding]]
-[[Hans-Joachim Horn-Bernges]]
-[[Basic Team]]
-[[Joachim Horn-Bernges]]
+[[producers/Hans-Joachim Horn-Bernges]]
+[[producers/Basic Team]]
+[[producers/Joachim Horn-Bernges]]

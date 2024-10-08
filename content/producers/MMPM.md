@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/742mmqQEAuhpaNqUQ7ie4n
 
 [[SXTEEN]]
 [[Mert]]
-[[Zurich]]
+[[producers/Zurich]]

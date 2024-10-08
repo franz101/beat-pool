@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1ofWvdVcnMBJEiIKdCNBmA
 
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Beatgees]]
 [[Culcha Candela]]
 [[Micha Moor]]

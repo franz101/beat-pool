@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6rhXJVV92LMhYZkFysNrjW
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Tobi Worner]]
+[[producers/Tobi Worner]]
 [[Thomas Enns]]
 [[Outbreakband]]
-[[Winnie Schweitzer]]
+[[producers/Winnie Schweitzer]]
 [[Jonathan Enns]]

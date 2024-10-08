@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1KrFD8M1dOfOZLz8qrQQiW
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb63444b992f76c9196c639186)
 **Related artists:**
 
-[[Sammy Naja]]
-[[Jay Khan]]
+[[producers/Sammy Naja]]
+[[producers/Jay Khan]]

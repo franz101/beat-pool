@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2bz2N5B6im3Onwv4jzfwvJ
 **Related artists:**
 
 [[DJ Yanny]]
-[[Cary August]]
+[[producers/Cary August]]
 [[Pulsedriver]]
 [[DJ Analyzer]]
-[[Marshall Mc Luhen]]
+[[producers/Marshall Mc Luhen]]
 [[Tunnel Allstars]]
-[[Dom Toulon]]
+[[producers/Dom Toulon]]

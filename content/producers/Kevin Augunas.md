@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1iA1jYwhJxlV5Y2UGwY9I2
 **Related artists:**
 
 [[Milow]]
-[[Gavin Paddock]]
-[[Johnathan Rice]]
-[[Jo Francken]]
+[[producers/Gavin Paddock]]
+[[producers/Johnathan Rice]]
+[[producers/Jo Francken]]

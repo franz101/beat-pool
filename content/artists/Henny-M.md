@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2NCw8tG2CyJHJxKeQDh4NA
 
 **Related artists:**
 
-[[Lucian Balinisteanu]]
+[[producers/Lucian Balinisteanu]]
 [[MaLu Project]]
 [[Tobias Böhm]]
-[[Hendrik Meyer]]
+[[producers/Hendrik Meyer]]
 [[Basslouder]]
 [[K Brown]]
 [[James Stefano]]

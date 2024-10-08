@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6YKOHZLUI5HShFvTTY7C5O
 
 **Related artists:**
 
-[[Kurt Stolle]]
+[[producers/Kurt Stolle]]
 [[Pur]]

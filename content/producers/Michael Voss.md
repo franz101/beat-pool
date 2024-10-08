@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4bdyPDaS5MyHc1Ykqsj2wH
 
 [[Mickie Krause]]
 [[Crazy Duke]]
-[[Claudio Di Carlo]]
-[[Smiley Jay]]
+[[producers/Claudio Di Carlo]]
+[[producers/Smiley Jay]]

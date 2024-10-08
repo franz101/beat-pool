@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/20hzWMq2OLMNAhYpukVgG2
 
 **Related artists:**
 
-[[Bo Tobias Martin Gustafsson]]
+[[producers/Bo Tobias Martin Gustafsson]]
 [[Twin]]
 [[No Angels]]

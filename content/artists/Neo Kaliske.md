@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/72X4QYOHfoMmTdPkcE5XZt
 **Related artists:**
 
 [[Plusmacher]]
-[[Marcus B]]
+[[producers/Marcus B]]

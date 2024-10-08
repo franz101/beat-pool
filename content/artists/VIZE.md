@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0
 
 [[Non]]
 [[Philipp Dittberner]]
-[[Mark Becker]]
+[[producers/Mark Becker]]
 [[Rea Garvey]]
 [[Mark Forster]]
-[[ALOTT]]
-[[Vitali Zestovskih]]
+[[producers/ALOTT]]
+[[producers/Vitali Zestovskih]]

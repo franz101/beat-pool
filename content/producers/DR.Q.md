@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4PiPvxTerUknb2PXJTZNgS
 
 **Related artists:**
 
-[[SIXam]]
-[[Berky]]
+[[producers/SIXam]]
+[[producers/Berky]]
 [[Faroon]]
-[[Ciaga]]
-[[YUNG MOJI]]
+[[producers/Ciaga]]
+[[producers/YUNG MOJI]]

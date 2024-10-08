@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/1pPWAweVqMBxqTvvWEVtQc
 ![Artist](https://i.scdn.co/image/ab67616d0000b273b9538c674dafc8e97d55a13d)
 **Related artists:**
 
-[[Themba Rebbe]]
+[[producers/Themba Rebbe]]
 [[Sami]]
 [[SAMY]]
 [[ROON36]]
-[[AP Supreme]]
+[[producers/AP Supreme]]
 [[Longus Mongus]]
 [[Dead Dawg]]
 [[RAPK]]
@@ -29,8 +29,8 @@ url: https://open.spotify.com/artist/1pPWAweVqMBxqTvvWEVtQc
 [[Big Pat]]
 [[XAVER]]
 [[Zeki Aram]]
-[[THEMBA]]
+[[producers/THEMBA]]
 [[Mista Meta]]
 [[Savvy]]
-[[Jaynu Vega]]
+[[producers/Jaynu Vega]]
 [[Monk]]

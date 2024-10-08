@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4jNDAf7BY6sHmVaAzsZTlf
 
 **Related artists:**
 
-[[LCS]]
-[[Niko]]
+[[producers/LCS]]
+[[producers/Niko]]
 [[MU$A386]]

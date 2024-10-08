@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/05ewZp9sfmuQmR7XxPX7qW
 
 **Related artists:**
 
-[[Moula020]]
+[[producers/Moula020]]
 [[MaazaKayo]]

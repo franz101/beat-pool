@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1Rv6I8kvTUuGLzjDqJSsYY
 
 **Related artists:**
 
-[[Wim Treuner]]
+[[producers/Wim Treuner]]
 [[Rea Garvey]]
-[[Vincent Stein]]
-[[X-Plosive]]
-[[Biztram]]
-[[Abaz]]
+[[producers/Vincent Stein]]
+[[producers/X-Plosive]]
+[[producers/Biztram]]
+[[producers/Abaz]]

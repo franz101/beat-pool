@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/45mlUIduF9TO6JDe3zQSgA
 **Related artists:**
 
 [[AchtVier]]
-[[Jambeatz]]
+[[producers/Jambeatz]]

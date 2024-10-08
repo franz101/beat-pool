@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3TiyEX77D6OFTvSfx5WDEE
 
 [[Pulsedriver]]
 [[DJ Lee]]
-[[Nils van der Karsten]]
-[[N.Karsten]]
+[[producers/Nils van der Karsten]]
+[[producers/N.Karsten]]

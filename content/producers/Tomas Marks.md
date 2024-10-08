@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/4VTC2vfsYu9WagcERS19bD
 
 **Related artists:**
 
-[[Jan Van Bass-10]]
+[[producers/Jan Van Bass-10]]

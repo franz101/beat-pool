@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5dXjaKbt889VCY3s5tLZAA
 **Related artists:**
 
 [[Emek]]
-[[Rick Ski]]
+[[producers/Rick Ski]]
 [[Lakman]]
 [[Pachel]]
 [[Die Firma]]

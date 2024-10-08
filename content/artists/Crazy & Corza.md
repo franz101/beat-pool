@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/34rCED1jkw2OGc3XDI1OmW
 
 **Related artists:**
 
-[[Linus Karlsson]]
-[[Ferenc Karsai]]
+[[producers/Linus Karlsson]]
+[[producers/Ferenc Karsai]]

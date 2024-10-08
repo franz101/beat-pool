@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/0V9oHfk0CZIiedKP4TSTBL
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2b8e7af258cdc6f78e91c16a)
 **Related artists:**
 
-[[Michael Ludes]]
+[[producers/Michael Ludes]]
 [[Chapeau Claque]]
 [[Jennifer Weist]]
 [[Ferris MC]]
-[[Sascha Eigner]]
-[[Timo Xanke]]
-[[O.L.A.F. Opal]]
+[[producers/Sascha Eigner]]
+[[producers/Timo Xanke]]
+[[producers/O.L.A.F. Opal]]
 [[Jörkk Mechenbier]]
-[[Wolfgang Stach]]
-[[ARKADI]]
+[[producers/Wolfgang Stach]]
+[[producers/ARKADI]]

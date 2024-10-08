@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3pTGFfv4bHpC2MO7LS9S6W
 
 **Related artists:**
 
-[[Anthony Collins]]
+[[producers/Anthony Collins]]
 [[Frank & Tony]]

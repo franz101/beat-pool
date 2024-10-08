@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/5VPYnNQTAKQ2NenikLGAxT
 [[Sin Davis]]
 [[Yung Kafa & Kücük Efendi]]
 [[negatiiv OG]]
-[[Rayd Beats]]
+[[producers/Rayd Beats]]
 [[Skeeniboi]]
-[[Lexnour Beats]]
+[[producers/Lexnour Beats]]

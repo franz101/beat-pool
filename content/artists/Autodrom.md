@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3bAMkbmC9eUMEyfvyQpJh3
 
 **Related artists:**
 
-[[Marco Kleebauer]]
+[[producers/Marco Kleebauer]]
 [[Yukno]]
 [[Oehl]]

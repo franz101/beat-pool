@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6x9oLvoMpIUvJWPHOhRJ78
 
 [[Alexander Schröder]]
 [[RainDropz!]]
-[[Dennis Logemann]]
+[[producers/Dennis Logemann]]
 [[DANCE DEALERS]]

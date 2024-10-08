@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/61E2xYVqIEC0P2tysh8CpL
 **Related artists:**
 
 [[Sierra Kidd]]
-[[LC]]
-[[Consent2K]]
+[[producers/LC]]
+[[producers/Consent2K]]

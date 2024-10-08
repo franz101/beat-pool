@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6k8lpuxfxManDe2rvHx6jZ
 **Related artists:**
 
 [[Dietz]]
-[[Dietmar Tinhof]]
+[[producers/Dietmar Tinhof]]
 [[Falco]]
-[[Thomas Rabitsch]]
+[[producers/Thomas Rabitsch]]

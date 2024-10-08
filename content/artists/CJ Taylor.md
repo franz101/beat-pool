@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/6W1WXL4LttNdItCDqSTlh3
 
 [[Massiv]]
 [[Dú Maroc]]
-[[Phat Crispy]]
-[[Markus Simon]]
+[[producers/Phat Crispy]]
+[[producers/Markus Simon]]
 [[Eko Fresh]]
 [[Kurdo]]

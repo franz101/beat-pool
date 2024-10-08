@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/5B5A66ePBh1rHxaiFwuQIf
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebce08b6882fcae56f59fafec8)
 **Related artists:**
 
-[[Eson Part]]
-[[Exis777]]
+[[producers/Eson Part]]
+[[producers/Exis777]]
 [[Cashisclay]]
 [[Beat Brücke]]

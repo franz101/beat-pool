@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2
 
 **Related artists:**
 
-[[DLS]]
-[[riico]]
-[[Enndot]]
+[[producers/DLS]]
+[[producers/riico]]
+[[producers/Enndot]]
 [[Lucio101]]
-[[Akxen]]
+[[producers/Akxen]]
 [[Luciano]]

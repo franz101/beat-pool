@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/10njwMWTVLnRwZURfBQLwg
 **Related artists:**
 
 [[Miss Platnum]]
-[[Nikolai Potthoff]]
+[[producers/Nikolai Potthoff]]

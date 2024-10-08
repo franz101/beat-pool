@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5CZYHkrU9xVhkw9ZlccB1n
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Frederic Todenhöfer]]
 [[Marie Bothmer]]

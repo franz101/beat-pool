@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/78ueR01kUDebF1MoJj6QgJ
 
 **Related artists:**
 
-[[DJ Sweap]]
+[[producers/DJ Sweap]]
 [[Khalil]]
 [[Kool Savas]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7MWZKLA2fGUJyYpbm3Q1Mt
 
 [[Little Simz]]
 [[Beatgees]]
-[[Richard "Biff" Stannard]]
-[[Ash Howes]]
+[[producers/Richard "Biff" Stannard]]
+[[producers/Ash Howes]]
 [[Lena]]

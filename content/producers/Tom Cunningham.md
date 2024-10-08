@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0O8qK5Lj2Z2m6VRHyl7IPF
 
 **Related artists:**
 
-[[Klaus Peter Albrecht]]
+[[producers/Klaus Peter Albrecht]]
 [[City]]

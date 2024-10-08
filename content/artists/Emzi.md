@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7jEVRp4nWi7ZkBXOV9Q97U
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Micel O.]]
 [[Christ Paka]]
 [[Eunique]]

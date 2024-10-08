@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6MRcxLFkzoFQj3KzTmwFzL
 
 **Related artists:**
 
-[[DJ Ray Knox]]
+[[producers/DJ Ray Knox]]
 [[Ray Knox]]
 [[Ti-Mo]]

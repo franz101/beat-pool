@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1rSvKIEPvF2fQZM0VnCAES
 **Related artists:**
 
 [[Ideal]]
-[[Conny Plank]]
+[[producers/Conny Plank]]

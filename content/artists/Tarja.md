@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc
 **Related artists:**
 
 [[Schandmaul]]
-[[Thomas Heimann-Trosien]]
+[[producers/Thomas Heimann-Trosien]]

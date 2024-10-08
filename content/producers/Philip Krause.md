@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2oiYatECS13iG5gosr2Fi7
 **Related artists:**
 
 [[Elen]]
-[[Jan Listing]]
-[[Elias Hadjeus]]
-[[Frederik Sauer]]
+[[producers/Jan Listing]]
+[[producers/Elias Hadjeus]]
+[[producers/Frederik Sauer]]

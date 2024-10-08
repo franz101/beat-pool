@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8
 
 **Related artists:**
 
-[[Stefan Kozalla]]
+[[producers/Stefan Kozalla]]
 [[DJ Koze]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2iGv2wUTcr00zlf0WYsK05
 
 **Related artists:**
 
-[[Michael Mainx]]
+[[producers/Michael Mainx]]
 [[Böhse Onkelz]]

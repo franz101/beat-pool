@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/78cKpwHfvadTnUdLKeN7LP
 
 **Related artists:**
 
-[[DTP]]
+[[producers/DTP]]
 [[Azzi Memo]]

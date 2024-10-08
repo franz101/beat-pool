@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1aSYmYUy4JUNAQl5NRqJ8W
 **Related artists:**
 
 [[Mickie Krause]]
-[[Dirk Fiebich]]
+[[producers/Dirk Fiebich]]
 [[Hartmut Wessling]]
 [[Mike Rötgens]]
-[[Hartmut Weßling]]
+[[producers/Hartmut Weßling]]

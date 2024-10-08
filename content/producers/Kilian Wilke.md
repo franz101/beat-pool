@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6CDPPQKu8xHVWlyyZleKmj
 
 [[Glasperlenspiel]]
 [[MAJAN]]
-[[Johannes Burger]]
+[[producers/Johannes Burger]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/7B6Uk58O2DVfg1xZPKEp4n
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9044927443b8d1a59a1d9a88)
 **Related artists:**
 
-[[Robin Karow]]
+[[producers/Robin Karow]]
 [[Björn Steiner]]
-[[Pascal 'Kalli' Reinhardt]]
+[[producers/Pascal 'Kalli' Reinhardt]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5fWotWPGV3ppMrA9SvMfL7
 
 **Related artists:**
 
-[[Johnny Illstrument]]
-[[Mayjuran Ragunathan]]
-[[Joznez]]
+[[producers/Johnny Illstrument]]
+[[producers/Mayjuran Ragunathan]]
+[[producers/Joznez]]
 [[Majoe]]

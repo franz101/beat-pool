@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3eDw5jLEmbOsdH8Z8BTdIt
 ![Artist](https://i.scdn.co/image/ab67616d0000b2735a15c6086d9da9d26d58997d)
 **Related artists:**
 
-[[Zinobeatz]]
-[[Johnny Illstrument]]
+[[producers/Zinobeatz]]
+[[producers/Johnny Illstrument]]

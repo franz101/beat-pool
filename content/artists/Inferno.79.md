@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7jP2Mhxx7Jj9sr2Mk2vB8r
 **Related artists:**
 
 [[Lakmann]]
-[[Pure Doze]]
+[[producers/Pure Doze]]
 [[Aphroe]]
 [[2Seiten]]
 [[Terence Chill]]
@@ -20,4 +20,4 @@ url: https://open.spotify.com/artist/7jP2Mhxx7Jj9sr2Mk2vB8r
 [[DJ DSD]]
 [[ABS]]
 [[Donato]]
-[[Screwaholic]]
+[[producers/Screwaholic]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6SO92jA2ieqwcCAIH81AYh
 
 **Related artists:**
 
-[[Gennie Rim]]
-[[Peilin Chou]]
-[[Marjorie Duffield]]
-[[Christopher Curtis]]
+[[producers/Gennie Rim]]
+[[producers/Peilin Chou]]
+[[producers/Marjorie Duffield]]
+[[producers/Christopher Curtis]]
 [[Vanessa Mai]]
-[[Helen Park]]
+[[producers/Helen Park]]

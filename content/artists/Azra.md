@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/7yvHtuNexUtCcH3gz9yjVw
 
 [[German Dream Allstars]]
 [[Resul Barini]]
-[[Aksit Ugurlu]]
+[[producers/Aksit Ugurlu]]
 [[Eko Fresh]]
-[[Kingsize]]
-[[DJ Rocky]]
-[[Benny Bazzazian]]
+[[producers/Kingsize]]
+[[producers/DJ Rocky]]
+[[producers/Benny Bazzazian]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5ANfVOCkQw3Hm5wpem6EmY
 
 **Related artists:**
 
-[[Kingsize]]
-[[Benny Bazzazian]]
-[[Aksit Ugurlu]]
+[[producers/Kingsize]]
+[[producers/Benny Bazzazian]]
+[[producers/Aksit Ugurlu]]
 [[Azra]]
 [[Eko Fresh]]

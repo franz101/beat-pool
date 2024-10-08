@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/2IO1m6rq9YFrIkqG7pXvP7
 
 **Related artists:**
 
-[[Johnny Bertl]]
-[[Klaus Biedermann]]
-[[Kurt Keinrath]]
-[[Klaus Eberhartinger]]
+[[producers/Johnny Bertl]]
+[[producers/Klaus Biedermann]]
+[[producers/Kurt Keinrath]]
+[[producers/Klaus Eberhartinger]]
 [[Peter Müller]]
-[[Thomas Spitzer]]
-[[Elmar Peinelt]]
+[[producers/Thomas Spitzer]]
+[[producers/Elmar Peinelt]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

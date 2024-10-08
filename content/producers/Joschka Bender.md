@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2OtuJEKRahql3PQvWjMEv7
 
 [[Revelle]]
 [[Benne]]
-[[Wim Treuner]]
-[[Jan Listing]]
+[[producers/Wim Treuner]]
+[[producers/Jan Listing]]
 [[Madeline Juno]]

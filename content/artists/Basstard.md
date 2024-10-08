@@ -48,6 +48,6 @@ url: https://open.spotify.com/artist/63QHHXgYMlVJSIas0Ksjt8
 [[Prinz Pi]]
 [[MC Bogy]]
 [[Smoky]]
-[[Stalka Beatz]]
-[[Wolfgang H.]]
+[[producers/Stalka Beatz]]
+[[producers/Wolfgang H.]]
 [[Vero One]]

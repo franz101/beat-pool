@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/2TbqH9WAXItYqEBRL0MReO
 **Related artists:**
 
 [[Macloud]]
-[[Jimmy Torrio]]
-[[Joshimixu]]
+[[producers/Jimmy Torrio]]
+[[producers/Joshimixu]]
 [[Doezis]]
 [[BEKA]]
 [[Pedaz]]

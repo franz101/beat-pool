@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/1bnxrGpNXaVSzgbwEFL0qj
 [[2raumwohnung]]
 [[Inga Humpe]]
 [[Roman Flügel]]
-[[Tommi Eckart]]
-[[Jorn Elling Wuttke]]
+[[producers/Tommi Eckart]]
+[[producers/Jorn Elling Wuttke]]

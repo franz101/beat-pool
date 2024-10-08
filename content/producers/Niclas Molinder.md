@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/63dCP0GFG27lsRGbKqzam1
 **Related artists:**
 
 [[No Angels]]
-[[Joacim Persson]]
+[[producers/Joacim Persson]]

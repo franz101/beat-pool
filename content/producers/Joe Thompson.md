@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2N4YZhN0XpTNCxDJTidwS6
 
 **Related artists:**
 
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Pit Bailay]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2tgisVMpd3aPzkJ3V74hFL
 
 **Related artists:**
 
-[[Jan Phillip Eissfeldt]]
+[[producers/Jan Phillip Eissfeldt]]
 [[Nina Hagen]]
 [[Beginner]]
 [[Max Herre]]

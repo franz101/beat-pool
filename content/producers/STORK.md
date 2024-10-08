@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4JZoWHf2Vn0QeetVHAZiGS
 **Related artists:**
 
 [[Capital Bra]]
-[[Frizzo]]
+[[producers/Frizzo]]
 [[Dardan]]

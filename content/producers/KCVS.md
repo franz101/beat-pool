@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6N5i8korDgwF4l2huxfjYw
 
 **Related artists:**
 
-[[Ikarus]]
+[[producers/Ikarus]]
 [[Duzoe]]
 [[Crystal F]]

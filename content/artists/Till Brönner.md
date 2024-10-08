@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3Q4xYZ2ZuFaAsZZyjPIfc8
 
 **Related artists:**
 
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
-[[Peter "Jem" Seifert]]
-[[Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
 [[Stefanie Heinzmann]]

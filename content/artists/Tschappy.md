@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6lbMVbl5eHNwWhACCNpedt
 
 **Related artists:**
 
-[[Sansimo]]
+[[producers/Sansimo]]
 [[Nils Davis]]
-[[Provo]]
-[[Belarus]]
+[[producers/Provo]]
+[[producers/Belarus]]
 [[Mike Martn]]
 [[Høyin]]
 [[Dawid DST]]

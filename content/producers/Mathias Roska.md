@@ -12,14 +12,14 @@ url: https://open.spotify.com/artist/45pEI8pJYTPb23l21uWDg5
 **Related artists:**
 
 [[Mitch Keller]]
-[[Jeo Koba]]
-[[Kristina Bach]]
+[[producers/Jeo Koba]]
+[[producers/Kristina Bach]]
 [[Andreas Gabalier]]
 [[Thorsten Brötzmann]]
 [[Andreas Bärtels]]
-[[Klaus Bartelmuss]]
+[[producers/Klaus Bartelmuss]]
 [[Samu Haber]]
-[[Florian Richter]]
+[[producers/Florian Richter]]
 [[Nik P.]]
 [[Michelle]]
 [[DJ Ötzi]]

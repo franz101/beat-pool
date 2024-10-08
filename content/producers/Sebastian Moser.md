@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1scoV4JdeeFtHktPRRJrlb
 **Related artists:**
 
 [[Hägi]]
-[[Adulis Ghebreyesus]]
-[[Daniel Finke]]
+[[producers/Adulis Ghebreyesus]]
+[[producers/Daniel Finke]]
 [[Bovann]]
 [[ThatGurlHanna]]
 [[CE$]]

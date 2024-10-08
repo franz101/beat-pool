@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7rUBXoQv2hz6lmltqJ9nbh
 **Related artists:**
 
 [[DISSY]]
-[[Friedhelm Mund]]
-[[Fynn]]
-[[Donkong]]
+[[producers/Friedhelm Mund]]
+[[producers/Fynn]]
+[[producers/Donkong]]
 [[MOAT]]

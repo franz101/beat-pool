@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/61XP4489T7YpH2FNw2q3eM
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd4a84792edf6fc8f408e3e5d)
 **Related artists:**
 
-[[Tom Gorgas]]
+[[producers/Tom Gorgas]]
 [[badchieff]]

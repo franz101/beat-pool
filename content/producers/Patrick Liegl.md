@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/32scmNHDrppgw6VNfLcMmy
 **Related artists:**
 
 [[Oh Brother]]
-[[Christopher Schlotmann]]
+[[producers/Christopher Schlotmann]]
 [[Ambre Vallet]]

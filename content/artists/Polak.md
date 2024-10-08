@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3FhAIZA0oqS9l01lfF0S1Y
 
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[Lugatti & 9ine]]

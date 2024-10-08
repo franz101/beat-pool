@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/62ruDb7cl561A0zh8WenTt
 
 **Related artists:**
 
-[[Jan Philipp Bednorz]]
+[[producers/Jan Philipp Bednorz]]
 [[Mike Singer]]
 [[Jalle]]
 [[Felikz]]

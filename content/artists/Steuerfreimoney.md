@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/1049zy9Oxwj2CowBUtWSVY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb69c454d244da51195934b79d)
 **Related artists:**
 
-[[Supreme.Frost]]
+[[producers/Supreme.Frost]]
 [[G-Time]]
-[[Liquid & Carlo]]
+[[producers/Liquid & Carlo]]
 [[Stanley]]
 [[TaiMO]]
 [[Freshmaker]]
 [[AchtVier]]
-[[Zmy DaBeat]]
-[[Asic Beats]]
+[[producers/Zmy DaBeat]]
+[[producers/Asic Beats]]
 [[Haze]]
-[[Mr. Gees]]
+[[producers/Mr. Gees]]

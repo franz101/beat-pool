@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5XOBCPTjJiAU4MPn0NYhZt
 **Related artists:**
 
 [[Sascha Bühren]]
-[[Iman Shahidi]]
+[[producers/Iman Shahidi]]
 [[Curse]]

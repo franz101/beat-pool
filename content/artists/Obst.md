@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Q020I0fAvBK72GE0m1QBT
 
 **Related artists:**
 
-[[Tis L]]
+[[producers/Tis L]]
 [[MC Bomber]]

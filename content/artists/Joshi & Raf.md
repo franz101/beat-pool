@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3VVbhprZfSmPZa6XUWALTb
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Beatlefield]]
+[[producers/Beatlefield]]
 [[Chakuza]]

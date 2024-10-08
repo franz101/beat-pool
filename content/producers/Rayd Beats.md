@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1MvvFzmLAXzbVVvag5UFqI
 **Related artists:**
 
 [[Skeeniboi]]
-[[Drago]]
+[[producers/Drago]]

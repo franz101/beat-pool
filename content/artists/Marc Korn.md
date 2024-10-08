@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/2ds47hSr82tLZR2kS5aNdt
 **Related artists:**
 
 [[Zkydriver]]
-[[Nevermind]]
+[[producers/Nevermind]]
 [[Empyre One]]
 [[Standy]]
 [[E-Partment]]
 [[Jaycee Madoxx]]
-[[Philipp Ray]]
-[[Markus Kornschober]]
+[[producers/Philipp Ray]]
+[[producers/Markus Kornschober]]
 [[DJ Gollum]]
-[[Bangpool Studios Ballears]]
+[[producers/Bangpool Studios Ballears]]

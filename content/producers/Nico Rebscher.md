@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5bz3tGzUYtfPHd7i9MyZMO
 
 **Related artists:**
 
-[[Stefan Heinrich Lenk]]
+[[producers/Stefan Heinrich Lenk]]
 [[KLAN]]

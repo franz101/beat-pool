@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6gzjT55WpNM32cRrMMkNld
 
 **Related artists:**
 
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Valezka]]
 [[Eko Fresh]]
-[[Hakan Yalcin]]
+[[producers/Hakan Yalcin]]

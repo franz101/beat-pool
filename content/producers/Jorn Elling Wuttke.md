@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/5OKl4GgpInznnkjRsAdyIo
 [[2raumwohnung]]
 [[Inga Humpe]]
 [[Roman Flügel]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]
 [[Alter Ego]]

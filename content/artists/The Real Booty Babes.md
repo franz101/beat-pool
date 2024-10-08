@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4G8JJlPdhQp96RQ58u6P0Y
 
 [[Pulsedriver]]
 [[U.S. Test]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
 [[Apollo vs. Mackenzie]]

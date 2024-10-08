@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Qxqu0sa8zZaqRg50JD0Ut
 
 **Related artists:**
 
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]

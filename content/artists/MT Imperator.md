@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2kyFLDpBd6l8MtZZeGMMIy
 
 **Related artists:**
 
-[[Trvpyyy]]
+[[producers/Trvpyyy]]
 [[Skeeniboi]]
-[[Scooby Pack]]
+[[producers/Scooby Pack]]

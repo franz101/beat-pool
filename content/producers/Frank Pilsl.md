@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5p3pXaugVBAMWGdYGPAfw4
 **Related artists:**
 
 [[Tonbandgerät]]
-[[Udo Rinklin]]
+[[producers/Udo Rinklin]]
 [[Alin Coen]]
 [[Matthias Schweighöfer]]
 [[Lina Maly]]

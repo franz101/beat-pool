@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1jnjonzFQAlaWkr9zXmzNb
 
 **Related artists:**
 
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
 [[Apollo vs. Mackenzie]]
-[[Patrick Fasseau]]
+[[producers/Patrick Fasseau]]

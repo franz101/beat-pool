@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/3Sgl8H0Mj2T1SWcbOapEat
 [[Emotebeatz]]
 [[Zate]]
 [[Acaz]]
-[[Vecz]]
+[[producers/Vecz]]
 [[Raptor]]

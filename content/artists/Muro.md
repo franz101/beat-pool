@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/48jpYs6wAY58ebsX1VC8fg
 
 **Related artists:**
 
-[[The Alchemist]]
+[[producers/The Alchemist]]

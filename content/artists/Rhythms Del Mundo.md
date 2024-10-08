@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7kXpvrS3xtr0nGzNFGuuQq
 **Related artists:**
 
 [[Culcha Candela]]
-[[Beathoavenz]]
-[[Boogieman]]
+[[producers/Beathoavenz]]
+[[producers/Boogieman]]

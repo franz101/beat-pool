@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2FZdOerbwGrere2lzYbjgW
 **Related artists:**
 
 [[Azad]]
-[[Gerrit Wessendorf - GEE Futuristic]]
+[[producers/Gerrit Wessendorf - GEE Futuristic]]

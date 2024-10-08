@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83
 
 **Related artists:**
 
-[[Patrick Wiechmann]]
+[[producers/Patrick Wiechmann]]
 [[Jumper]]
-[[P. Wiechmann]]
+[[producers/P. Wiechmann]]
 [[Pulsedriver]]
-[[Christopher Frahm]]
+[[producers/Christopher Frahm]]
 [[Alex M.]]
-[[Thomas Fenske]]
+[[producers/Thomas Fenske]]
 [[Mar van Damme]]
-[[T.Fenske]]
-[[Axel Coon]]
+[[producers/T.Fenske]]
+[[producers/Axel Coon]]

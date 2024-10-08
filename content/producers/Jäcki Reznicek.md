@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0VIIDrJeRXALxG7suRCupn
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Silly]]
 [[Anna Loos]]
-[[Uwe Hassbecker]]
-[[Bernd Wendlandt]]
-[[Moritz Enders]]
-[[Ritchie Barton]]
-[[Alexander Freund]]
+[[producers/Uwe Hassbecker]]
+[[producers/Bernd Wendlandt]]
+[[producers/Moritz Enders]]
+[[producers/Ritchie Barton]]
+[[producers/Alexander Freund]]

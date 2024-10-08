@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z
 
 **Related artists:**
 
-[[Nathaniel]]
+[[producers/Nathaniel]]
 [[Luciano]]

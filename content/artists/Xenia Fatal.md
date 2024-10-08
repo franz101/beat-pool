@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/44Y6whN6T1txAhlway9J5a
 **Related artists:**
 
 [[Manuellsen]]
-[[Gorex]]
+[[producers/Gorex]]

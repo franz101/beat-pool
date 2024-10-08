@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe
 **Related artists:**
 
 [[Nico Santos]]
-[[Pascal Reinhardt]]
-[[Beatzarre]]
-[[Jonny Coffer]]
+[[producers/Pascal Reinhardt]]
+[[producers/Beatzarre]]
+[[producers/Jonny Coffer]]

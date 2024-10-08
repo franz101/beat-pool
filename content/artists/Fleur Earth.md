@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5567zwb8s9daKKdCxxUZ7u
 
 **Related artists:**
 
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Brous One]]

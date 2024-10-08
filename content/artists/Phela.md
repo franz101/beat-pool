@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4RdpPeOQsSPTOvBXleAp0O
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6f9ee3099333d14b8b45005f)
 **Related artists:**
 
-[[Paul NZA]]
+[[producers/Paul NZA]]
 [[Moritz Krämer]]
 [[Alin Coen]]
-[[Marek Pompetzki]]
-[[Cecil Remmler]]
+[[producers/Marek Pompetzki]]
+[[producers/Cecil Remmler]]

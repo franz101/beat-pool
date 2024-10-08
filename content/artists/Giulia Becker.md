@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0P9YNoWWReJws2PaX7fT6h
 ![Artist](https://i.scdn.co/image/ab67616d0000b273871043260eb151a88b96e0eb)
 **Related artists:**
 
-[[Marcus Wuest]]
+[[producers/Marcus Wuest]]
 [[Mine]]

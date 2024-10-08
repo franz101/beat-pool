@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7G1vWMrBReGf7zlFAxMPyI
 **Related artists:**
 
 [[FiNCH]]
-[[Mania Music]]
+[[producers/Mania Music]]

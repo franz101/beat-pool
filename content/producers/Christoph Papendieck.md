@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7eg7Y7rCwPo84DlOjodY1P
 
 **Related artists:**
 
-[[Roland Spremberg]]
+[[producers/Roland Spremberg]]
 [[Helene Fischer]]
 [[Gregor Meyle]]
 [[Tom Jones]]
@@ -19,6 +19,6 @@ url: https://open.spotify.com/artist/7eg7Y7rCwPo84DlOjodY1P
 [[The Kelly Family]]
 [[Semino Rossi]]
 [[Celine Tam]]
-[[Lalo Titenkov]]
+[[producers/Lalo Titenkov]]
 [[Michelle]]
 [[Gregory Porter]]

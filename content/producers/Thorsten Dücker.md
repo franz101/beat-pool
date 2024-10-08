@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/72q9NopUW8wNOngS2mewEz
 
 **Related artists:**
 
-[[Dennis Bohn]]
-[[Matthias Menck]]
+[[producers/Dennis Bohn]]
+[[producers/Matthias Menck]]
 [[Brooklyn Bounce]]
-[[Dennis Horstmann]]
+[[producers/Dennis Horstmann]]

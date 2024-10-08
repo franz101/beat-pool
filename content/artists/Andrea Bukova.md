@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4SsjfuJBhPDs5K2suGEcqi
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Benjamin Malgo]]
+[[producers/Benjamin Malgo]]
 [[Mick Kaluzny]]

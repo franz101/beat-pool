@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/72dgVaIpOQXNb0kPaSij9W
 **Related artists:**
 
 [[René Tinner]]
-[[David Bronner]]
-[[Wolfgang "Stackman" Stach]]
+[[producers/David Bronner]]
+[[producers/Wolfgang "Stackman" Stach]]
 [[BAP]]
 [[Hubert von Goisern und die Alpinkatzen]]
-[[Wolfgang Spannberger]]
+[[producers/Wolfgang Spannberger]]

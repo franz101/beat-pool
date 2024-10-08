@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0o81NDyBMbKLnIoGanej53
 ![Artist](https://i.scdn.co/image/ab67616d0000b273de1c197781919190429265d3)
 **Related artists:**
 
-[[Kay D.]]
+[[producers/Kay D.]]
 [[Milka]]
-[[Florian Richter]]
+[[producers/Florian Richter]]

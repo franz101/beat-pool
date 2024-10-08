@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/0wQM9GSSF8xpKemeyuLSGn
 **Related artists:**
 
 [[John Minnis]]
-[[Joe Granda]]
+[[producers/Joe Granda]]

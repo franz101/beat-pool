@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6DZ6LHSCGxaiNo3x8xAwLb
 **Related artists:**
 
 [[Remoe]]
-[[HAYSON HILL]]
+[[producers/HAYSON HILL]]

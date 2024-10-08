@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0nJ4Q4UEsV42MqnMcYKim2
 
 **Related artists:**
 
-[[CeeJay Beats]]
+[[producers/CeeJay Beats]]
 [[Farid Bang]]

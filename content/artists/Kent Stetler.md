@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7tUpqoqgr0D9Tde2sJMxvJ
 **Related artists:**
 
 [[Dorothea Lorene]]
-[[Peter Wagner]]
+[[producers/Peter Wagner]]
 [[Udo Jürgens]]

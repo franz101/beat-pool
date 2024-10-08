@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6Tf1BqAZld8wh5xiufptP9
 
 [[Pulsedriver]]
 [[Empyre One]]
-[[T. Schleh]]
-[[T.Weitzel]]
-[[A .Heck]]
+[[producers/T. Schleh]]
+[[producers/T.Weitzel]]
+[[producers/A .Heck]]

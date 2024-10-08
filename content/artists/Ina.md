@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7h2ASUH51ZyxzneakGhtnV
 **Related artists:**
 
 [[Fard]]
-[[DAWQS]]
+[[producers/DAWQS]]

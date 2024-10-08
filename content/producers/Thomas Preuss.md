@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4hTHSae9JnZ2uAPLMncqa4
 
 **Related artists:**
 
-[[Andreas Wendorf]]
+[[producers/Andreas Wendorf]]
 [[Alex M.]]
 [[Akustikrausch]]
 [[DJ Gollum]]

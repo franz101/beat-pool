@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/3KDXwiofB7zLKg8JFmDTWa
 **Related artists:**
 
 [[GGFI]]
-[[Kushbringer]]
+[[producers/Kushbringer]]
 [[NOK1D]]
 [[JEEZA]]
 [[dusy]]
 [[Yung Vision]]
-[[Yungfuel]]
+[[producers/Yungfuel]]
 [[prodbytwelve]]
 [[Sevi Rin]]

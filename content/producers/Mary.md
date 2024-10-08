@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/1lqXV3UkLGGY3eqM8WL8mN
 **Related artists:**
 
 [[Lugatti & 9ine]]
-[[Fjodor]]
+[[producers/Fjodor]]
 [[Konz]]
 [[HE-RO]]
-[[Traya]]
+[[producers/Traya]]
 [[snice1]]
-[[Dienst&Schulter]]
+[[producers/Dienst&Schulter]]

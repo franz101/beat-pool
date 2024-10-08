@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4qPWJzFUFZi2OeqvLyTmyk
 **Related artists:**
 
 [[Rian Lüttich]]
-[[Tom Huber]]
+[[producers/Tom Huber]]
 [[Yvonne Catterfeld]]

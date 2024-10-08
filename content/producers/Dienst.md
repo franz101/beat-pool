@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4jKnwdRDmjJIHwgqZQ502B
 [[Yassin]]
 [[Casper]]
 [[Audio88]]
-[[Schulter]]
-[[Konrad Betcher]]
+[[producers/Schulter]]
+[[producers/Konrad Betcher]]

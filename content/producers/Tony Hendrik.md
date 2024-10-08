@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/29bJFOFCZWdU4VCrwqOgn3
 
 **Related artists:**
 
-[[Karin Hartmann]]
+[[producers/Karin Hartmann]]
 [[TOBI PFLUG]]
 [[Juliane Werding]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1I2OjZSaDXkoKbCk1nk6Mj
 
 **Related artists:**
 
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]
 [[Glasperlenspiel]]
-[[Yoad Nevo]]
+[[producers/Yoad Nevo]]

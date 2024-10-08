@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/77apEgrE2WEYvH8nwxxVwW
 **Related artists:**
 
 [[Udo Lindenberg]]
-[[Andreas Herbig]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Andreas Herbig]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

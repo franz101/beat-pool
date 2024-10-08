@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2gNbgRJeCgOHet4gqNwWhF
 
 **Related artists:**
 
-[[Ruck P]]
+[[producers/Ruck P]]
 [[Cro]]
-[[Christoph Bauss]]
+[[producers/Christoph Bauss]]

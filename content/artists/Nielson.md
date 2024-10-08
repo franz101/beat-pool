@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4816662ef8a702b5f9cca143)
 **Related artists:**
 
-[[L.O. Martens]]
+[[producers/L.O. Martens]]

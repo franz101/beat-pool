@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0kKS0whiw5jmj1A7qYLOko
 
 **Related artists:**
 
-[[David Bronner]]
+[[producers/David Bronner]]
 [[Falco]]
 [[Udo Jürgens]]

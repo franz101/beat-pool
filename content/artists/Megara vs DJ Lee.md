@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2OkJp4gNSXYicLkBBGhcDd
 
 **Related artists:**
 
-[[Nils Karsten]]
+[[producers/Nils Karsten]]
 [[Pulsedriver]]
-[[Michael-Lee Bock]]
+[[producers/Michael-Lee Bock]]

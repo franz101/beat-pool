@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6NMLSnPOEieGOp4QgF4HrP
 **Related artists:**
 
 [[Stefanie Heinzmann]]
-[[John Gordon]]
+[[producers/John Gordon]]

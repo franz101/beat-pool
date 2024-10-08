@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3y1ei4tw8WnwuefWn6juGS
 
 [[ELI]]
 [[Teo Runsjö]]
-[[Martin Wave]]
+[[producers/Martin Wave]]

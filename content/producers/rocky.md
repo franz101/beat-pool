@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2M9BOIL9Keaeyd7OAaExnS
 **Related artists:**
 
 [[LUIS]]
-[[junbeats]]
-[[Prodbytwelve]]
+[[producers/junbeats]]
+[[producers/Prodbytwelve]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2wDyNgvTytERQWCTamDKI9
 **Related artists:**
 
 [[Jonas Monar]]
-[[Tom Deininger]]
-[[Pascal Reinhardt]]
+[[producers/Tom Deininger]]
+[[producers/Pascal Reinhardt]]

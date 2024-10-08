@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7tO16bMbeIh36zp0KbmdWJ
 
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
+[[producers/Patrick Pyke Salmy]]
 [[MoTrip]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Adel Tawil]]
-[[Marek Pompetzki]]
-[[Cecil Remmler]]
+[[producers/Marek Pompetzki]]
+[[producers/Cecil Remmler]]

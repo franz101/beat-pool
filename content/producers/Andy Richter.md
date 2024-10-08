@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/10gFQ4damiyGxXrMrOiZwi
 **Related artists:**
 
 [[Special D.]]
-[[Andy Judge]]
-[[Dennis Horstmann]]
+[[producers/Andy Judge]]
+[[producers/Dennis Horstmann]]

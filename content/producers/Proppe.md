@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3TP9BITBu7YArtf8Z0F8uJ
 
 **Related artists:**
 
-[[Ekimas]]
+[[producers/Ekimas]]
 [[PeterLicht]]

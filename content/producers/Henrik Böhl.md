@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4nIU9AC5yAKW0Dn9YrVXqD
 **Related artists:**
 
 [[Mike Singer]]
-[[Joshimixu]]
-[[PhiltheBeat]]
+[[producers/Joshimixu]]
+[[producers/PhiltheBeat]]
 [[Juh-Dee]]
 [[Fabian F.R. Römer]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3LI2VKO4G6D2yHpPYWi2kp
 
 **Related artists:**
 
-[[Christoph Schreiner]]
+[[producers/Christoph Schreiner]]
 [[Raffael Kühle]]
-[[Tim Tautorat]]
+[[producers/Tim Tautorat]]
 [[OK KID]]

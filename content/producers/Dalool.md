@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6qfr4lLtEgRWlUGz23JkYT
 
 [[Ardian Bujupi]]
 [[Genta Ismajli]]
-[[Avaxus]]
+[[producers/Avaxus]]
 [[Mark Hardy]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Et9HRfitI1mpXhuxpXM1F
 
 **Related artists:**
 
-[[Joshimixu]]
-[[Phil TheBeat]]
+[[producers/Joshimixu]]
+[[producers/Phil TheBeat]]
 [[Mike Singer]]

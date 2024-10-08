@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/7EoLE2mFjMKROqvIpRgi6K
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4e5d75b824f60be300d1a101)
 **Related artists:**
 
-[[IAMEMVRE]]
+[[producers/IAMEMVRE]]

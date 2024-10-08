@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5EMda8yroEYgcVtXrHcfJ1
 
 [[Feiert Jesus!]]
 [[Bianca Villamayor]]
-[[Dennis Thielmann]]
+[[producers/Dennis Thielmann]]
 [[Karin Thielmann]]

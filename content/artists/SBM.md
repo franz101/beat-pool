@@ -2,6 +2,7 @@
 id: 3DpoXdpklDZ8prWYDdKiDu
 type: artist
 url: https://open.spotify.com/artist/3DpoXdpklDZ8prWYDdKiDu
+alias: SBM
 ---
 # SBM
 
@@ -11,6 +12,6 @@ url: https://open.spotify.com/artist/3DpoXdpklDZ8prWYDdKiDu
 
 **Related artists:**
 
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[marú]]
 [[Holy Modee]]

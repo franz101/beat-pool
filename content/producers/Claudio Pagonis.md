@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/7dH95xmO7MShPRKy85Zt6R
 
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[Martin "Fly" Fliegenschmidt]]
+[[producers/Kiko Masbaum]]
+[[producers/Martin "Fly" Fliegenschmidt]]
 [[Stefanie Heinzmann]]
-[[Martin Fliegenschmidt]]
-[[Henrik Kersten]]
+[[producers/Martin Fliegenschmidt]]
+[[producers/Henrik Kersten]]
 [[Maite Kelly]]
 [[F.A.M.E.'S. Macedonian Radio Symphonic Orchestra]]
 [[Michelle]]

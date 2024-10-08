@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6b0472dd39283a06e76e55ff)
 **Related artists:**
 
-[[Simon Michael]]
+[[producers/Simon Michael]]
 [[Feuerschwanz]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW
 **Related artists:**
 
 [[Waldoe]]
-[[Donnie Bombay]]
+[[producers/Donnie Bombay]]
 [[Felix Göppel]]
 [[Kwam.E]]
 [[Eloquent]]

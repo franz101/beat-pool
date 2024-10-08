@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/08rIgKDL0NFgZOsMNmhIHT
 
 **Related artists:**
 
-[[Dasaesch]]
+[[producers/Dasaesch]]
 [[Eazyono]]
 [[Buddha]]
 [[Sinan49]]

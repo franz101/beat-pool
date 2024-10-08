@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0bNLucpOnFMIuXh899agRJ
 
 **Related artists:**
 
-[[Moritz Enders]]
+[[producers/Moritz Enders]]
 [[Bakkushan]]

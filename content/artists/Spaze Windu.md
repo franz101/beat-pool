@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0yAQ48yJ94zWFTs0YUIdcE
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe2e5324f3daf27dc19e9153b)
 **Related artists:**
 
-[[Paul Fuhrmann]]
+[[producers/Paul Fuhrmann]]
 [[Ali Whales]]
 [[Nowakkowitsch]]
 [[Repete23]]

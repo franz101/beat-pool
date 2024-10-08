@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6FxUh7kAOXwovisA4fI2jZ
 **Related artists:**
 
 [[$OHO BANI]]
-[[Melle]]
+[[producers/Melle]]
 [[Chapo102]]
-[[Melle Beats]]
+[[producers/Melle Beats]]
 [[KASIMIR1441]]
 [[Monk]]
 [[Inoffiziell.Goldenboy]]

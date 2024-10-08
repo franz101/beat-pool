@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0Oi5OPm65RBPIP5oYLDQXL
 
 **Related artists:**
 
-[[Danny Fervent]]
+[[producers/Danny Fervent]]

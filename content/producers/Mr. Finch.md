@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/4tcYsnWrPGq7hQTINxPCji
 
 **Related artists:**
 
-[[Benjamin Glass]]
+[[producers/Benjamin Glass]]
 [[Aylo]]
 [[Miksu - Macloud]]
 [[Loredana]]
-[[Uwe Melzer]]
+[[producers/Uwe Melzer]]
 [[Gökhan Güler]]
 [[Lostboi Lino]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6axW0t8WKPKy0uGPBod7kD
 **Related artists:**
 
 [[Glasperlenspiel]]
-[[Daniel Grunenberg]]
-[[Mikko Tamminen]]
+[[producers/Daniel Grunenberg]]
+[[producers/Mikko Tamminen]]

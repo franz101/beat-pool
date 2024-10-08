@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/3wuUNgccgeJHjP3bn91Tnp
 **Related artists:**
 
 [[Lai Raw]]
-[[kidney paradise]]
+[[producers/kidney paradise]]
 [[LUVRE47]]
 [[DISSY]]
-[[Torn Palk]]
-[[Fynn]]
+[[producers/Torn Palk]]
+[[producers/Fynn]]

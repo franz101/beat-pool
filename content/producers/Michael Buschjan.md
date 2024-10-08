@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7dzMa0Vw3gPchRNNQ0amAz
 
 **Related artists:**
 
-[[Andreas Martin]]
+[[producers/Andreas Martin]]
 [[Bernhard Brink]]

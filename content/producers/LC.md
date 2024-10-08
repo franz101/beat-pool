@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2c1TJCbT6wl9C5YHkSbb66
 
 **Related artists:**
 
-[[Nashi]]
+[[producers/Nashi]]
 [[Sierra Kidd]]
-[[Consent2K]]
+[[producers/Consent2K]]

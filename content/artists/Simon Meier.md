@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5vRgIbeiy1e05YGPZbkSa2
 
 **Related artists:**
 
-[[Malte Huck]]
+[[producers/Malte Huck]]
 [[Leavv]]
 [[Lord Folter]]

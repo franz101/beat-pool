@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0CmzwU6uibzA5qohaDZCkg
 **Related artists:**
 
 [[Sezai]]
-[[Bobby Ross Avila]]
+[[producers/Bobby Ross Avila]]
 [[Ebony Prince]]
 [[Azad]]
 [[Real Jay]]

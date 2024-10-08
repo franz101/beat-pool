@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/3bSVjl8rnzZlz4CuAeuoWi
 [[Defi]]
 [[MC Basstard]]
 [[Orgasmus]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[Tony D]]
 [[Said]]
 [[Kalusha]]

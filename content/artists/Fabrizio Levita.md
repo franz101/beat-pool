@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/0sgym9Jb9b1jkxKxMttSwg
 **Related artists:**
 
 [[Gestört aber GeiL]]
-[[Kevin Bleibaum]]
-[[Nico Wendel]]
+[[producers/Kevin Bleibaum]]
+[[producers/Nico Wendel]]

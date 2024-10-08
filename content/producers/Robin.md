@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3IKCD8VHU9aFr2vEa1cByo
 
 **Related artists:**
 
-[[Montana]]
+[[producers/Montana]]
 [[Asadjohn]]
 [[LUIS]]
-[[Montanaonthetrack]]
+[[producers/Montanaonthetrack]]
 [[Edo Saiya]]

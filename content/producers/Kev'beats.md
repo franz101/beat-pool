@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/1JBWvmK7cJOOu0FL5dAyk4
 
 **Related artists:**
 
-[[Benny Blanco]]
+[[producers/Benny Blanco]]
 [[Sefo]]
 [[Yassin]]
-[[Nico Seyfrid]]
-[[Gee Futuristic]]
+[[producers/Nico Seyfrid]]
+[[producers/Gee Futuristic]]
 [[Henning May]]
 [[Manny Marc]]
 [[Audio88]]
 [[K.I.Z]]
-[[Moses Schneider]]
-[[Grzegorz Olszowka]]
+[[producers/Moses Schneider]]
+[[producers/Grzegorz Olszowka]]
 [[Dendemann]]
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Torky Tork]]

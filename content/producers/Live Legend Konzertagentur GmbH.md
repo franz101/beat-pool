@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5EblML5bH8boYABpSdptvM
 
 **Related artists:**
 
-[[Frank Engel]]
+[[producers/Frank Engel]]
 [[Pamela Bürger]]
-[[Bernie Haefner]]
+[[producers/Bernie Haefner]]
 [[Adel Tawil]]

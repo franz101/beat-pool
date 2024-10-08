@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/5ufLs0SljNXQQ00865HBYG
 **Related artists:**
 
 [[Pronto]]
-[[Senyo Mensah]]
+[[producers/Senyo Mensah]]

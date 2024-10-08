@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5P8ox6u3Oq20H56RyOkWyj
 
 [[Pulsedriver]]
 [[André Pietschmann]]
-[[Dennis Kramme]]
+[[producers/Dennis Kramme]]
 [[Tube Tonic]]
-[[Thomas Rother]]
+[[producers/Thomas Rother]]

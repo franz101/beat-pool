@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/64j9KtZkLKSMOoovUKWkGj
 **Related artists:**
 
 [[Kidd Azzurra]]
-[[RAN]]
+[[producers/RAN]]

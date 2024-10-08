@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6U4GPi6wFxar7uipuQdlYZ
 
 [[Dawid DST]]
 [[Tschappy]]
-[[Belarus]]
+[[producers/Belarus]]
 [[Karmo Kaputto]]
 [[Crystal F]]

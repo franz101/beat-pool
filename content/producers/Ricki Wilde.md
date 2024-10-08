@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/255GRW5Fx37Z5cs1PPqEa9
 
 **Related artists:**
 
-[[Tony Swain]]
+[[producers/Tony Swain]]
 [[Kim Wilde]]

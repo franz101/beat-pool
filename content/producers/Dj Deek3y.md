@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0iNm7yE8RGEFTUXzfpFzTc
 **Related artists:**
 
 [[Albi]]
-[[Lucry]]
+[[producers/Lucry]]
 [[Azet]]
-[[Suena]]
+[[producers/Suena]]

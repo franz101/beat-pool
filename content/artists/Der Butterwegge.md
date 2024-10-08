@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/354NaNKVwFQMQjwnx14AeR
 
 [[Sondaschule]]
 [[Pott Riddim]]
-[[Costa Cannabis]]
+[[producers/Costa Cannabis]]
 [[Swag Boy Alex]]

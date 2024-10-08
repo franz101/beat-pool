@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4cI6Hwb6uZrLuRsh2trd40
 
 **Related artists:**
 
-[[Cecil Remmler]]
+[[producers/Cecil Remmler]]
 [[Stephan Remmler]]

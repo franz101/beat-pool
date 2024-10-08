@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3REmHpa4e7LvuK6sWbybH2
 
 **Related artists:**
 
-[[Leon Bontus]]
+[[producers/Leon Bontus]]
 [[Blokkboy$]]
 [[Dietrich]]
 [[SHISU]]

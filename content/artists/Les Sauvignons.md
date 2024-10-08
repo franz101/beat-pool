@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5eL8xJa0lmtSHf4UW5m1iv
 **Related artists:**
 
 [[Henning Wehland]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

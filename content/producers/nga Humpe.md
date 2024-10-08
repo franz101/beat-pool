@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7GHNlsePqXvb67JRLUseEo
 **Related artists:**
 
 [[2raumwohnung]]
-[[Robert Helms]]
+[[producers/Robert Helms]]
 [[Umami]]
-[[Tommi Eckart]]
-[[Sam Lidmann]]
-[[Dan Caster]]
+[[producers/Tommi Eckart]]
+[[producers/Sam Lidmann]]
+[[producers/Dan Caster]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/005V48OTAzE3ZhMxGTh0qR
 
 **Related artists:**
 
-[[Sikk-da-kid]]
-[[Samon Kawamura]]
+[[producers/Sikk-da-kid]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

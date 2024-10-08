@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/1kypN5clIZstHZvZnD2V2b
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb2c27aa4b7867b885f07bdde)
 **Related artists:**
 
-[[Mzumplakativ]]
-[[dbbb]]
+[[producers/Mzumplakativ]]
+[[producers/dbbb]]
 [[Nick Mitdemkopf]]
-[[Maddai]]
-[[b]]
+[[producers/Maddai]]
+[[producers/b]]
 [[Jiyan]]
 [[Leavv]]
 [[b & dbbb]]
 [[Lord Folter]]
-[[Paul Fuhrmann]]
+[[producers/Paul Fuhrmann]]
 [[JakeGHNM]]
 [[Spaze Windu]]
 [[Flughand]]
@@ -37,4 +37,4 @@ url: https://open.spotify.com/artist/1kypN5clIZstHZvZnD2V2b
 [[Yustus Malick]]
 [[Fubu Whales]]
 [[Florian Döring]]
-[[Smoke Trees]]
+[[producers/Smoke Trees]]

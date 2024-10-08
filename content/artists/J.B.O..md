@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/6xyJPaGMOPyGyVlqAU2GqE
 **Related artists:**
 
 [[Tom Angelripper]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Fast Eddie Clarke]]
 [[Die Nürnberger Symphoniker]]

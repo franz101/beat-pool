@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0ORSrxjodmIsC8OQ5HEKTt
 
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[Hemso]]

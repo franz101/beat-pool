@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4jhsu280urTL4OtW2lIS0g
 **Related artists:**
 
 [[Peter Maffay]]
-[[Peter Wagner]]
+[[producers/Peter Wagner]]

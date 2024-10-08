@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7h7R6r2BnzNdDAQceUr6G3
 
 [[Manuellsen]]
 [[Sugar MMFK]]
-[[Zimzala]]
+[[producers/Zimzala]]

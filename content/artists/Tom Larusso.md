@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3tLwcDbsBu7bcyXyz4F901
 
 **Related artists:**
 
-[[Dual Playaz]]
+[[producers/Dual Playaz]]
 [[Pit Bailay]]

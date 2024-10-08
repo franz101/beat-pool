@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0fhN4mWZkmaZ7GwlVgYTOB
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Achim Welsch]]
-[[Youri Havermans]]
-[[Johnny Pepp]]
+[[producers/Achim Welsch]]
+[[producers/Youri Havermans]]
+[[producers/Johnny Pepp]]

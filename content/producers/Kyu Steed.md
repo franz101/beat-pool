@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7KDgQWTOnYMsPqI61gxVUy
 **Related artists:**
 
 [[Kelvyn Colt]]
-[[Heizenberg]]
+[[producers/Heizenberg]]
 [[Haze]]
 [[Chapo]]

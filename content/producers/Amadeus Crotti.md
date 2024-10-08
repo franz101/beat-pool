@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0ykK0CaxXvBtFZ5gcQENCA
 
 **Related artists:**
 
-[[Dieter Weidenfeld]]
-[[Luis Rodriguez]]
-[[Louis Rodriguez]]
+[[producers/Dieter Weidenfeld]]
+[[producers/Luis Rodriguez]]
+[[producers/Louis Rodriguez]]
 [[Matthias Reim]]
 [[Azuquita]]
 [[Philippe Escaño]]

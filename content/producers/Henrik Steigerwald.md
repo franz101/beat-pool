@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/32GYfrWU5MRn3wxQHqNAcl
 
 **Related artists:**
 
-[[Thomas Eifert]]
+[[producers/Thomas Eifert]]
 [[Henry And The Waiter]]

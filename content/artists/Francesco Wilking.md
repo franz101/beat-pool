@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV
 **Related artists:**
 
 [[Max Prosa]]
-[[Pascal El Sauaf]]
+[[producers/Pascal El Sauaf]]
 [[Dota Kehr]]

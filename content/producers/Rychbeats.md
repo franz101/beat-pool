@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0AHDgux39PICHpE50nccTW
 
 **Related artists:**
 
-[[BM]]
+[[producers/BM]]
 [[Mosenu]]

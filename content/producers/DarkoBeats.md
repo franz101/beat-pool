@@ -19,7 +19,7 @@ url: https://open.spotify.com/artist/1Bsu06NUgpXzkDkenOe5pc
 [[AchtVier]]
 [[Hoyx!]]
 [[Dzela111]]
-[[2RED]]
+[[producers/2RED]]
 [[Mosh36]]
 [[Nura]]
 [[Herzog]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/23KzSdPt6LxI13U0QCUkoV
 **Related artists:**
 
 [[Julian le Play]]
-[[Matthias Oldofredi]]
-[[Alexander Teschauer]]
+[[producers/Matthias Oldofredi]]
+[[producers/Alexander Teschauer]]
 [[toksi]]
 [[Madeline Juno]]
-[[Lukas Hillebrand]]
+[[producers/Lukas Hillebrand]]
 [[Tina Naderer]]

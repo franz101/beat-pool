@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3IeFE90rvzmHB9uQjh6sbg
 
 **Related artists:**
 
-[[Sascha "sem" Ebert]]
+[[producers/Sascha "sem" Ebert]]
 [[Sunset Project]]

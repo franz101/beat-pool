@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC
 
 **Related artists:**
 
-[[Michael Guy Chislett]]
+[[producers/Michael Guy Chislett]]
 [[Hillsong Auf Deutsch]]

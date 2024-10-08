@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG
 **Related artists:**
 
 [[Helene Fischer]]
-[[SILVERJAM]]
-[[Mauricio Rengifo]]
+[[producers/SILVERJAM]]
+[[producers/Mauricio Rengifo]]
 [[Andrés Torres]]

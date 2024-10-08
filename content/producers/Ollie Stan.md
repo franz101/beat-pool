@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/03UHwqZLD4UzbPYPkPg4X4
 
 **Related artists:**
 
-[[Peter Hoffmann]]
+[[producers/Peter Hoffmann]]
 [[Emilia]]
 [[Oli. P]]

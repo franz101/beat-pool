@@ -25,7 +25,7 @@ url: https://open.spotify.com/artist/5UlDCWTGjqPBxet2ds7hVD
 [[wavphile]]
 [[Heinie Nüchtern]]
 [[Yung Vision]]
-[[ProofOnTheTrack]]
+[[producers/ProofOnTheTrack]]
 [[KDM Shey]]
 [[Young Taylor]]
 [[Sevi Rin]]

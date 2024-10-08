@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/3BzUfSoup1ImJB2ygPnG12
 [[Özgür Bayraktar]]
 [[Ufo361]]
 [[The Cratez]]
-[[Sam Salam]]
+[[producers/Sam Salam]]

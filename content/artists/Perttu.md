@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/1letzwegdFBTvoyJFSu8zK
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Perttu Kurttila]]
+[[producers/Frans Zimmer]]
+[[producers/Perttu Kurttila]]
 [[Michael Schulte]]
 [[Alle Farben]]
 [[Mogli]]
-[[Tobias Bogdon]]
-[[Gregor Sahm]]
+[[producers/Tobias Bogdon]]
+[[producers/Gregor Sahm]]

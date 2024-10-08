@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2gMDF8TEtJlMKIjns6dV69
 
 [[Pulsedriver]]
 [[Topmodelz]]
-[[DJ Fait]]
+[[producers/DJ Fait]]
 [[Clubbticket]]

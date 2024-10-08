@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0BpxwvCZKlCMu4nIyaHpWz
 
 [[Woodwinds Amsterdam Session Orchestra]]
 [[Sarah Connor]]
-[[Rob Tyger]]
+[[producers/Rob Tyger]]
 [[Horn Amsterdam Sesion Orchestra]]
-[[Kay Denar]]
+[[producers/Kay Denar]]

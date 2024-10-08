@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/0CJy1okHn7yKPFmNjt4WOJ
 
 [[DJ P. F. Cuttinï]]
 [[Massive Töne]]
-[[Joao dos Santos]]
-[[Jean-Christoph Ritter]]
+[[producers/Joao dos Santos]]
+[[producers/Jean-Christoph Ritter]]

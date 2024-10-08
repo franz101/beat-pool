@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/38Z0CvwwlKWZZ0Bl5fzUHI
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Felix Jaehn]]
+[[producers/Felix Jaehn]]

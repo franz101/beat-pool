@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/2TiXt00aPsggbxZxL1RaG7
 
 [[BLVTH]]
 [[KeKe]]
-[[ZORRO]]
+[[producers/ZORRO]]
 [[Drunken Masters]]
-[[Steffen Israel]]
+[[producers/Steffen Israel]]
 [[Max Raabe]]
 [[LGoony]]

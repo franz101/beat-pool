@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1akll7SRGZblDrbCF5eqYW
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2c83fc870c2d011738f4f614)
 **Related artists:**
 
-[[7EVEN BEATS]]
+[[producers/7EVEN BEATS]]
 [[Kilomatik]]

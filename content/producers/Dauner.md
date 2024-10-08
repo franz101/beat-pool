@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb
 
 **Related artists:**
 
-[[Berky]]
+[[producers/Berky]]
 [[Zachi]]
 [[Gustav]]
-[[Sizzy]]
-[[Lucry]]
-[[Djorkaeff]]
+[[producers/Sizzy]]
+[[producers/Lucry]]
+[[producers/Djorkaeff]]
 [[Paul]]
 [[01099]]

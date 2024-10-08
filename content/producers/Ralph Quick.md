@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/0GxsFS7dImH03iznJ4oaPG
 
 **Related artists:**
 
-[[Boogieman]]
-[[Chris Wagner]]
+[[producers/Boogieman]]
+[[producers/Chris Wagner]]
 [[Subway To Sally]]
 [[Donots]]
-[[Unknown]]
-[[Aino Laos]]
+[[producers/Unknown]]
+[[producers/Aino Laos]]
 [[H-Blockx]]

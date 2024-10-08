@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4PJgooJR5I1cMaVlvSrVS3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb155350bc78af4d9686a3209)
 **Related artists:**
 
-[[Arzel]]
+[[producers/Arzel]]
 [[CedMusic]]
 [[Thomas Glenz]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6qkIx05yQ4mLH8LE5gb82B
 
 **Related artists:**
 
-[[Anton Krogmann]]
+[[producers/Anton Krogmann]]
 [[Schorl3]]

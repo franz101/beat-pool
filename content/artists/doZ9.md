@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/6W42l5MayitzTssyUEVHo4
 **Related artists:**
 
 [[Lakmann]]
-[[HTN]]
+[[producers/HTN]]
 [[Wandl]]
 [[Yassin]]
 [[Dramadigs]]
@@ -29,7 +29,7 @@ url: https://open.spotify.com/artist/6W42l5MayitzTssyUEVHo4
 [[Jamin]]
 [[Eloquent]]
 [[MF Saje]]
-[[Marcus B]]
+[[producers/Marcus B]]
 [[Sonne Ra]]
 [[Scarf Face]]
 [[T9]]

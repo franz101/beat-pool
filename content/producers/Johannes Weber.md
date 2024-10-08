@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Z2NI874Tk9DX2sK2odGV3
 
 **Related artists:**
 
-[[Chris Brenner]]
+[[producers/Chris Brenner]]
 [[klea]]

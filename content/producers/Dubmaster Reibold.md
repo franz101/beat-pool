@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6ZG5gEr9ZxOZa9M8bzvt4w
 
 **Related artists:**
 
-[[Tobias Cordes]]
+[[producers/Tobias Cordes]]
 [[Demba Nabé]]
 [[Maya dela Gwada]]
 [[Seeed]]

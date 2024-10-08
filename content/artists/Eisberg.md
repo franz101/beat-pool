@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/2IjP5j9lDn74NHhDi9mfSt
 **Related artists:**
 
 [[Kkuba102]]
-[[Uncle F]]
+[[producers/Uncle F]]
 [[Chapo102]]
 [[102 Boyz]]
 [[TIEFBASSKOMMANDO]]

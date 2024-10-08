@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2OSgBmFHoJTPivguiQKqAO
 
 **Related artists:**
 
-[[Sven Greiner]]
-[[Philipp Franecki]]
-[[Achim Hox]]
+[[producers/Sven Greiner]]
+[[producers/Philipp Franecki]]
+[[producers/Achim Hox]]

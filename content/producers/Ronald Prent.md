@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3wDwwUVHcCKJtsZyx6IWCw
 
 **Related artists:**
 
-[[produced by Ingo Hampf]]
-[[Ekkehard Strauhs]]
+[[producers/produced by Ingo Hampf]]
+[[producers/Ekkehard Strauhs]]
 [[Subway To Sally]]

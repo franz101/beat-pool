@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/274z8pCV6dkPr2cCNPvZMa
 
 **Related artists:**
 
-[[Jeff Hoeppner]]
+[[producers/Jeff Hoeppner]]
 [[Sarah Connor]]

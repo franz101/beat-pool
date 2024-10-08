@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2WWgApevZoNwxCbP2uh1jP
 
 **Related artists:**
 
-[[Ollie Stan]]
+[[producers/Ollie Stan]]
 [[Emilia]]
-[[David Bonk]]
+[[producers/David Bonk]]
 [[Oli. P]]
 [[Nino de Angelo]]
 [[LaFee]]

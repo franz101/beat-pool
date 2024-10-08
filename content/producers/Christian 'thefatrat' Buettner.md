@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Ad3OYTvubvDu4lME972Ui
 
 **Related artists:**
 
-[[Marcello "Cello" Pagin]]
+[[producers/Marcello "Cello" Pagin]]
 [[Monrose]]

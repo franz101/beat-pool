@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/04TVl73jdMj07GtCM4UFi6
 
 **Related artists:**
 
-[[Michael “Money-G” Bein]]
-[[Shaun Baker]]
-[[Matthias Brocke]]
+[[producers/Michael “Money-G” Bein]]
+[[producers/Shaun Baker]]
+[[producers/Matthias Brocke]]
 [[Money-G]]

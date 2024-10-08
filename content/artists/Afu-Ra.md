@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6SWohEYYTym0RIBxvoh6wt
 **Related artists:**
 
 [[Gentleman]]
-[[DJ Kemo]]
+[[producers/DJ Kemo]]

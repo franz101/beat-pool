@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0r8Bh4zJgtYWdJtWRgWu3L
 **Related artists:**
 
 [[Battleboi Basti]]
-[[Underdog Beatz]]
+[[producers/Underdog Beatz]]

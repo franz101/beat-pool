@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Sp9Pu6BuXN2hAs0tGxLE8
 
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
-[[Andreas Herbig]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Andreas Herbig]]
 [[Adel Tawil]]

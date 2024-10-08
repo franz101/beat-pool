@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/76LT1zhDz5oUDEwc8RQmBm
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf90a6673128316f13e71cd2d)
 **Related artists:**
 
-[[MKO]]
+[[producers/MKO]]
 [[Sugar MMFK]]
-[[BM]]
-[[Trippinbeatz]]
+[[producers/BM]]
+[[producers/Trippinbeatz]]
 [[Mufasa069]]
 [[Jstaarjay]]
-[[MWR]]
-[[Swerve]]
+[[producers/MWR]]
+[[producers/Swerve]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2AUlXw0dZq9oxJVdyg2uhk
 **Related artists:**
 
 [[Sero]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/77WaD1tJ6BRK7GkMmPXjcf
 
 [[Azet]]
 [[Payy]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Don Gima]]
 [[Miami Yacine]]

@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/6WstExSBTwNAfUY7j6wPii
 [[Kid Cairo]]
 [[Edo Saiya]]
 [[Sin Davis]]
-[[ccola]]
+[[producers/ccola]]
 [[Kidnfinity]]

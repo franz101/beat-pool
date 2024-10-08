@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1CcZqKHquVwaBj8bnp6vHX
 
 **Related artists:**
 
-[[Gorex]]
+[[producers/Gorex]]
 [[Kay One]]

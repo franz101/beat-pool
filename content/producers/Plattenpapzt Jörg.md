@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3EQQJJ6Jtw1TogKDsB5OSb
 
 **Related artists:**
 
-[[Thomas Ibrahim]]
+[[producers/Thomas Ibrahim]]
 [[Die Fantastischen Vier]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]

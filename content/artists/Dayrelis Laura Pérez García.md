@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7df6PByXbsOQLdtcapIAQX
 
 [[Peter Maffay]]
 [[LaBrassBanda]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Otto Waalkes]]

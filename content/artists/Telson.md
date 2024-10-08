@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6OkSq5EqTYfuDW06gu8hnz
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Eunique]]
 [[Micel O.]]
 [[Elias]]
-[[Johannes Da Coster]]
+[[producers/Johannes Da Coster]]

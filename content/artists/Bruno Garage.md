@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5RcAr1HrzPY9IKLRGoHtAO
 **Related artists:**
 
 [[Flo Mega]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]

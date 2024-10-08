@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4HhvwnllJMoo7vhY9IfIVG
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
-[[Michael Mirell]]
+[[producers/Max Kleinschmidt]]
+[[producers/Michael Mirell]]
 [[Bymia]]
 [[LIZOT]]
 [[Bodybangers]]

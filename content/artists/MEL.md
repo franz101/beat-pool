@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/6FlJleUXbFb19c0U2BocbM
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2be2188079da9668151ac890)
 **Related artists:**
 
-[[Joost Jellema]]
+[[producers/Joost Jellema]]
 [[Kool Savas]]
-[[LIA]]
+[[producers/LIA]]
 [[Umut Timur]]
-[[Kemelion]]
+[[producers/Kemelion]]
 [[Menju]]

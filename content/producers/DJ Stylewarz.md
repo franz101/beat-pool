@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4irA9Z3TzMllKGILRREP82
 
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Ferris MC]]
 [[Flo Mega]]
-[[Dj Kaoz]]
+[[producers/Dj Kaoz]]

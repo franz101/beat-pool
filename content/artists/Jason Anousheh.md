@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7fyvTBltl99vVvX2qDQjwC
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Fard]]
 [[LIZOT]]

@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/7jfE3DT9ihNZhvcSMwIlzW
 
 **Related artists:**
 
-[[Ulrich Pexa]]
-[[Mark Nissen]]
+[[producers/Ulrich Pexa]]
+[[producers/Mark Nissen]]
 [[Gregor Meyle]]
-[[Ingo Politz]]
-[[Fritz Puppel]]
+[[producers/Ingo Politz]]
+[[producers/Fritz Puppel]]
 [[Udo Sandmann for off beat music production]]
 [[Matthias Reim]]
 [[Yvonne Catterfeld]]
 [[Karat]]
-[[Hardy Krech]]
+[[producers/Hardy Krech]]
 [[Puhdys]]
 [[City]]
-[[Dieter Birr]]
+[[producers/Dieter Birr]]
 [[Ute Freudenberg]]

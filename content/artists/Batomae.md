@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5IvPWE7TWcBbsr45jpSgxL
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3e7c456cd9259c27df264a4e)
 **Related artists:**
 
-[[Johannes Herbst]]
+[[producers/Johannes Herbst]]

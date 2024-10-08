@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3jbvmKi0gH0sSXt3p33fUC
 
 **Related artists:**
 
-[[Keanu Kon Han]]
+[[producers/Keanu Kon Han]]
 [[Dead Dawg]]
 [[BABYJOY]]

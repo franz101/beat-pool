@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/66lLpnD7kwhTZZLjqFPvv7
 **Related artists:**
 
 [[Ferris MC]]
-[[Larsmellow]]
+[[producers/Larsmellow]]

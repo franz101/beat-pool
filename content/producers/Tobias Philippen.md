@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0uuiNgnrrFYNMyFP2ANcfX
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]

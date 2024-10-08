@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7Fy0nkaHufhM6BEHe0Ovei
 
 **Related artists:**
 
-[[Anna Rainer-Josko]]
+[[producers/Anna Rainer-Josko]]
 [[Pulsedriver]]
 [[C-BooL]]

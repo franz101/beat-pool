@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7gmgOwZCLQ8a5jBjMm7AJ1
 **Related artists:**
 
 [[Emmms]]
-[[K1nay]]
+[[producers/K1nay]]

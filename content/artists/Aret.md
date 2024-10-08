@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5m7KeBTnAQr7ZwWFEnE8ne
 
 **Related artists:**
 
-[[Nico Seyfrid]]
-[[Grzegorz Olszowka]]
+[[producers/Nico Seyfrid]]
+[[producers/Grzegorz Olszowka]]
 [[K.I.Z]]

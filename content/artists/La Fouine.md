@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd
 
 **Related artists:**
 
-[[Shootdown]]
-[[Robert Nesta Nyawade]]
+[[producers/Shootdown]]
+[[producers/Robert Nesta Nyawade]]
 [[Olexesh]]
 [[Farid Bang]]
 [[CALO]]

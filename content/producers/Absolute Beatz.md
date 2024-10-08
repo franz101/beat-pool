@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3zEMiYxp6GoaBA49dsQmIU
 **Related artists:**
 
 [[Richter]]
-[[SQMER]]
-[[Toxik Tyson]]
-[[Makayzi]]
+[[producers/SQMER]]
+[[producers/Toxik Tyson]]
+[[producers/Makayzi]]
 [[Timeless]]

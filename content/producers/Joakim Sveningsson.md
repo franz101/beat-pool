@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0DAIZIXImtKYNxePwLrqo9
 **Related artists:**
 
 [[Friska Viljor]]
-[[Daniel Johansson]]
+[[producers/Daniel Johansson]]

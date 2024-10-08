@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6lwpdFRA3Swuw8Swa2UBBA
 **Related artists:**
 
 [[Micel O.]]
-[[Johannes Da Coster]]
+[[producers/Johannes Da Coster]]

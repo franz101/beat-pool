@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2ueskPXoVHydnrJ6TN7XaK
 
 **Related artists:**
 
-[[Benjamin Veit Engelker]]
+[[producers/Benjamin Veit Engelker]]
 [[PA Sports]]
 [[Donell Lewis]]

@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/3oAR78K7iKHGZJEqPLihbb
 
 [[Nura]]
 [[Zugezogen Maskulin]]
-[[Moritz Pirker]]
+[[producers/Moritz Pirker]]

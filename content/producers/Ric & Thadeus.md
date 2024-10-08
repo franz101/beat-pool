@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6wAc085drunUorgcnSJqmt
 **Related artists:**
 
 [[Nu51]]
-[[Mj Nichols]]
+[[producers/Mj Nichols]]
 [[XATAR]]
 [[Maestro]]

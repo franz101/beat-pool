@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2T3XrdRiywxJDlO2MTTGmB
 **Related artists:**
 
 [[Sofia Session Orchestra]]
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]

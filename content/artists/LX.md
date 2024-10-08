@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/1SWIJTtSgdE1EYiIBN6pn1
 ![Artist](https://i.scdn.co/image/ab67616d0000b273918c1f4bf206937a9f4f6707)
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Gzuz]]
-[[Neal.]]
+[[producers/Neal.]]

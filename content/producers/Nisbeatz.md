@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/1h3qmteeeHcBekTM6lW31U
 **Related artists:**
 
 [[AK 33]]
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[SOTT]]
-[[Frio]]
+[[producers/Frio]]
 [[Reda Rwena]]
 [[SIL3A]]
 [[18 Karat]]
-[[Kyree]]
+[[producers/Kyree]]
 [[Sipo]]

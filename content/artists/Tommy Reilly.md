@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0kyE7fHW9SrqZj7VkUq7zi
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Tobias Bogdon]]
+[[producers/Frans Zimmer]]
+[[producers/Tobias Bogdon]]
 [[Alle Farben]]
-[[Gregor Sahm]]
+[[producers/Gregor Sahm]]

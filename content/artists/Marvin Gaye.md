@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA
 
 **Related artists:**
 
-[[Philip Niessen]]
-[[George Glueck]]
+[[producers/Philip Niessen]]
+[[producers/George Glueck]]
 [[Sarah Connor]]
-[[Rob Tyger]]
-[[Kay Denar]]
+[[producers/Rob Tyger]]
+[[producers/Kay Denar]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/36KmVBr4QSgnpF5WJaYkzv
 **Related artists:**
 
 [[Maestro]]
-[[TG]]
+[[producers/TG]]
 [[Mois]]

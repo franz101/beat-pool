@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb32739ad7b546de9426f29175)
 **Related artists:**
 
-[[Frio]]
-[[Tranda4]]
+[[producers/Frio]]
+[[producers/Tranda4]]

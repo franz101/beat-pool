@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/0TC05pDtAm8wKPxSkFVIqh
 
 [[Bizzy Montana]]
 [[Nazar]]
-[[DJ Stickle]]
+[[producers/DJ Stickle]]
 [[D-Bo]]
 [[Chakuza]]
 [[RAF Camora]]

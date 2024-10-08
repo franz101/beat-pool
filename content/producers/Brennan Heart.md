@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC
 
 **Related artists:**
 
-[[Like Mike]]
-[[Dimitri Vegas & Like Mike]]
+[[producers/Like Mike]]
+[[producers/Dimitri Vegas & Like Mike]]
 [[Scooter]]

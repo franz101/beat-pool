@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5nkB6GEbHINTSqmi5XMSoa
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[RDB]]
 [[Zola]]
 [[Shantel]]

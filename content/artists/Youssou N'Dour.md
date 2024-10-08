@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/77zlytAFjPFjUKda8TNIDY
 
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
-[[Andreas Herbig]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Andreas Herbig]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Mohamed Mounir]]
 [[Adel Tawil]]

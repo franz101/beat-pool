@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/3FIAuAgYWxGj5eJWMK2MQ2
 
 [[Ratok]]
 [[Sagath]]
-[[Babylon Mayne]]
+[[producers/Babylon Mayne]]
 [[Der Zirkel]]
 [[ZOMBIEZ]]
-[[Pink Flex]]
+[[producers/Pink Flex]]

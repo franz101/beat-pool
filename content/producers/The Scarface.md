@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3iuAkwASsIyPjqSWINHrTK
 
 **Related artists:**
 
-[[VenomX]]
+[[producers/VenomX]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1HpGxJFxnJcHSNQqIDnngI
 **Related artists:**
 
 [[Souly]]
-[[Pjack]]
+[[producers/Pjack]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3NYlfEKe4rThaSby08G35f
 **Related artists:**
 
 [[Manuellsen]]
-[[Bjet]]
+[[producers/Bjet]]
 [[PA Sports]]
-[[WhoBang]]
+[[producers/WhoBang]]

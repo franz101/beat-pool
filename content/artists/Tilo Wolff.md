@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1emgNeDaD4pbuLblTnE2tp
 
 **Related artists:**
 
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Mono Inc.]]
 [[Joachim Witt]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5iwLVxdLzgm1cLrZunXzWR
 
 **Related artists:**
 
-[[Richard "Biff" Stannard]]
-[[Ash Howes]]
+[[producers/Richard "Biff" Stannard]]
+[[producers/Ash Howes]]
 [[Lena]]
-[[Josh Crumbee]]
+[[producers/Josh Crumbee]]

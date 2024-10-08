@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb
 
 **Related artists:**
 
-[[Madlib]]
+[[producers/Madlib]]

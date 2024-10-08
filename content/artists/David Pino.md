@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/54vWxZnuuyrxviJI96wzUH
 
 **Related artists:**
 
-[[Sti]]
-[[Lennard Oestmann]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Sti]]
+[[producers/Lennard Oestmann]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Silla]]
 [[Vega]]

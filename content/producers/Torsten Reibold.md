@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3TssmRiiOfOcXLPXvPMF0e
 **Related artists:**
 
 [[Lady Saw]]
-[[DJ Illvibe]]
+[[producers/DJ Illvibe]]
 [[Demba Nabé]]
 [[Seeed]]

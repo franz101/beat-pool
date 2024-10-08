@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4SIOX94wEECMgUfA2fJEYq
 
 **Related artists:**
 
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Achim Köllner]]
 [[Katrin Schröder]]

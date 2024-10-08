@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5LBrk5A6AMlgeECbmkUeVM
 **Related artists:**
 
 [[Tiavo]]
-[[Tim Schoon]]
-[[Matteo Schwanengel]]
+[[producers/Tim Schoon]]
+[[producers/Matteo Schwanengel]]
 [[absent]]
 [[REEZA]]
 [[Edo Saiya]]

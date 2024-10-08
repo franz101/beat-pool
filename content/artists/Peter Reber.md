@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6zyqeEDJC5qQuAPdOxrSaf
 **Related artists:**
 
 [[Hardy & Mark]]
-[[Dirk Schlag]]
+[[producers/Dirk Schlag]]
 [[Santiano]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2op7s3fAdkY0abM4JfxlBd
 **Related artists:**
 
 [[Oli. P]]
-[[Mark van Klark]]
-[[Tyron Tyne]]
+[[producers/Mark van Klark]]
+[[producers/Tyron Tyne]]

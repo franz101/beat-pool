@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/3xUqeSgtn2cUtOf9MZrhud
 **Related artists:**
 
 [[Sonus030]]
-[[Sam Salam]]
-[[YUNG MOJI]]
-[[Saven Musiq]]
+[[producers/Sam Salam]]
+[[producers/YUNG MOJI]]
+[[producers/Saven Musiq]]
 [[Kontra K]]
 [[Faroon]]
 [[MORR]]
-[[Fire On Black]]
+[[producers/Fire On Black]]
 [[AK AUSSERKONTROLLE]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

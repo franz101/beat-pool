@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/6gbecromNBYQjIkH6QCSCG
 
 [[Sqmer]]
 [[Richter]]
-[[ToxikTyson]]
-[[MI8]]
-[[Mi8Beats]]
+[[producers/ToxikTyson]]
+[[producers/MI8]]
+[[producers/Mi8Beats]]
 [[Jigzaw]]
 [[GENT]]
-[[Toxik Tyson]]
+[[producers/Toxik Tyson]]

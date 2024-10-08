@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5dUDO7a9yr2ZtALNavdLiv
 
 **Related artists:**
 
-[[Acid Flash]]
+[[producers/Acid Flash]]

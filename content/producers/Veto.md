@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3bS7RtDegN4Ez8sfJUewzc
 **Related artists:**
 
 [[Element Of Crime]]
-[[Uwe Bauer]]
+[[producers/Uwe Bauer]]

@@ -27,6 +27,6 @@ url: https://open.spotify.com/artist/79MnzirnIKwfI0UHbMHTBV
 [[Mista Meta]]
 [[Skinny Finsta]]
 [[Al Majeed]]
-[[stickle]]
+[[producers/stickle]]
 [[O.G. Pezo]]
 [[jaynbeats]]

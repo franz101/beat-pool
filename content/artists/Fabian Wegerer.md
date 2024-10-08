@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3O6oippEBKDR0OJDo6O1cZ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7532cf3f4c4593c9ea0e580a)
 **Related artists:**
 
-[[Kevin Zaremba]]
-[[Achtabahn]]
+[[producers/Kevin Zaremba]]
+[[producers/Achtabahn]]

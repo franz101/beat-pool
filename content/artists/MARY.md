@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/1bBXTjVXcdpmS2XrRuG9Ev
 **Related artists:**
 
 [[Asadjohn]]
-[[Jan Feuerstein]]
+[[producers/Jan Feuerstein]]
 [[SOTT]]
-[[Prosp3ct]]
+[[producers/Prosp3ct]]
 [[LGoony]]
 [[Young Kira]]

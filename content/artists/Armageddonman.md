@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/05RWsDFxbavydhmwfpDtrd
 [[Main Concept]]
 [[El Shadai]]
 [[Flashmaster D]]
-[[Glammerlicious]]
+[[producers/Glammerlicious]]
 [[Mungo Dave]]

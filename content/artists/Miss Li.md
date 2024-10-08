@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7
 
 **Related artists:**
 
-[[Sonny Gustafsson]]
+[[producers/Sonny Gustafsson]]
 [[Lena]]

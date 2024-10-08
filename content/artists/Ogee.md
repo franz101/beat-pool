@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/2ukQHH2YHStMmDv8cbVSWs
 
 **Related artists:**
 
-[[Nalim]]
+[[producers/Nalim]]
 [[Skunk]]
 [[Arjey]]
-[[Diggy Mac Dirt]]
+[[producers/Diggy Mac Dirt]]
 [[Hypnotize]]
 [[Dextar]]
 [[Rzuma]]
-[[Indius]]
-[[SkunkJunk]]
+[[producers/Indius]]
+[[producers/SkunkJunk]]

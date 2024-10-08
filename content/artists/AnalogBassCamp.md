@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5RhJbkSshhzRkAuXwFG9Dq
 
 **Related artists:**
 
-[[Umberto Echo]]
+[[producers/Umberto Echo]]
 [[Sara Lugo]]
 [[Jamaram]]
 [[Mellow Mark]]

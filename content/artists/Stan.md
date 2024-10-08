@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0ZPwpTZr4x5Og0jU21GC5Y
 
 **Related artists:**
 
-[[2RED]]
+[[producers/2RED]]
 [[TaiMO]]

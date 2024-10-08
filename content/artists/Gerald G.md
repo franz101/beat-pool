@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0Qm9RjqZbwFYQ2RFGzBrO4
 
 **Related artists:**
 
-[[Max K.]]
+[[producers/Max K.]]

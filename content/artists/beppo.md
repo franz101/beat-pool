@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5NFCejmmv6Mq3lKoU6vIlz
 
 [[AzudemSK]]
 [[Mighty Maigl]]
-[[Shubangi Beppo]]
+[[producers/Shubangi Beppo]]
 [[Shubangi]]

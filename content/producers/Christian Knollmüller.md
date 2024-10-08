@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/5qIHc2dghkA6MUwJu2lz5Q
 
 **Related artists:**
 
-[[Tobias Hamm]]
-[[Timo Knop]]
-[[Marc Duran]]
+[[producers/Tobias Hamm]]
+[[producers/Timo Knop]]
+[[producers/Marc Duran]]
 [[Christophe Thébaud]]
-[[Martin Neumayer]]
+[[producers/Martin Neumayer]]
 [[Jürgen Drews]]
 [[G.G. Merkel]]

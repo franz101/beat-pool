@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1Yc7Ki5bi7Jfqqihld2LkT
 ![Artist]()
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Eunique]]

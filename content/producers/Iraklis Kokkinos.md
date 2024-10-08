@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7tP4EWqxmD1X5OsBKkT27p
 
 **Related artists:**
 
-[[Daniel Milojkovic]]
+[[producers/Daniel Milojkovic]]
 [[Bosca]]
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Vega]]

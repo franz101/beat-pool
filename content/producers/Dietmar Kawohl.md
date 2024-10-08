@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0a9piQ4uOT3bbll5OG3MQC
 
 **Related artists:**
 
-[[Hans Singer]]
+[[producers/Hans Singer]]
 [[Rosanna Perinic]]
 [[Claudia Jung]]
 [[Mats Björklund]]

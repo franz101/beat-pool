@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/0QRszfaSqu0BYizMT7eTUq
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb08dc0fc480065c27dd2296fe)
 **Related artists:**
 
-[[Jan Vetter]]
+[[producers/Jan Vetter]]
 [[Loki]]
-[[HTN]]
+[[producers/HTN]]
 [[Knowsum]]
 [[Luk&Fil]]
 [[Wun Two]]

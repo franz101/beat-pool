@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/4qyAhMiyws5PFIV7QNSflE
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
-[[Dennis Kattau]]
+[[producers/Shahabedin Azodifar]]
+[[producers/Dennis Kattau]]
 [[Dramadigs]]
-[[Dennis Kattan]]
+[[producers/Dennis Kattan]]
 [[Eloquent]]
 [[Tsnd Mrk]]
 [[Relaén]]

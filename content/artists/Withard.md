@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5ZuSArM7XZsg76J6aDu2ZH
 
 **Related artists:**
 
-[[Timster]]
+[[producers/Timster]]
 [[Euphorizon]]
-[[Central Stage of Music]]
+[[producers/Central Stage of Music]]

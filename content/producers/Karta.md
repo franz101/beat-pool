@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/12hcUxT5qep3EYnYufED1I
 
 **Related artists:**
 
-[[Rayin]]
+[[producers/Rayin]]
 [[XATAR]]
 [[SSIO]]
 [[FGUN $HAKI]]

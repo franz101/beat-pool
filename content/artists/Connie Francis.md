@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q
 **Related artists:**
 
 [[Stereoact]]
-[[Gerhard Mendelson]]
+[[producers/Gerhard Mendelson]]

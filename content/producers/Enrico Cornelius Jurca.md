@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6IxroiCFIEnY8flhiJXEiX
 
 **Related artists:**
 
-[[Philipp Jahn]]
+[[producers/Philipp Jahn]]
 [[We Are Dance!]]
 [[Dj Tht]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/7vMEmC9kg4tCa7Toc2190T
 
 **Related artists:**
 
-[[Stefania Vento]]
+[[producers/Stefania Vento]]
 [[Ced Tecknoboy]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Crystal Lake]]
 [[Dj Tht]]
 [[Sean Finn]]
 [[Pit Bailay]]
-[[Andreas Beiderwieden]]
+[[producers/Andreas Beiderwieden]]

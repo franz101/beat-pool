@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/2xQOke70NVyjb6lWxnNhSG
 [[Thorsten Brötzmann]]
 [[Tua]]
 [[Mariana Wagner]]
-[[Alexander Freund]]
+[[producers/Alexander Freund]]
 [[Jasmin Shakeri]]

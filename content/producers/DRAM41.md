@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/79V9TCuVjBJEpzgsjqMOWF
 
 **Related artists:**
 
-[[Yekta]]
-[[Youssef exclusive]]
+[[producers/Yekta]]
+[[producers/Youssef exclusive]]
 [[BOUNTY & COCOA]]

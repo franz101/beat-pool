@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0yJcIdq4U8a6wUK7KqY5Zj
 **Related artists:**
 
 [[KAFVKA]]
-[[Fabian Jung]]
+[[producers/Fabian Jung]]

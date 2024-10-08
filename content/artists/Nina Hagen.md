@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/7xZHrltZh8zIRvjimgABvj
 
 **Related artists:**
 
-[[Dennis Lisk]]
-[[Jan Phillip Eissfeldt]]
+[[producers/Dennis Lisk]]
+[[producers/Jan Phillip Eissfeldt]]
 [[Ulf Leo Sommer]]
 [[Rosenstolz]]
-[[Patrik Majer]]
+[[producers/Patrik Majer]]
 [[BAP]]
-[[Hendrik Schaper]]
-[[Klaus Heuser]]
+[[producers/Hendrik Schaper]]
+[[producers/Klaus Heuser]]
 [[Brings]]
 [[Udo Lindenberg]]
 [[Peter Plate]]

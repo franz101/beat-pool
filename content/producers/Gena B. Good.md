@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3hNQ2pJ2Lrmx46POc3krgZ
 
 **Related artists:**
 
-[[Rob Tyger]]
+[[producers/Rob Tyger]]
 [[Superfly]]
-[[Kay Denar]]
+[[producers/Kay Denar]]
 [[Geby]]
 [[Oli. P]]
 [[Sarah Connor]]

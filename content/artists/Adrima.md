@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/4iJdtmwIpYRwwJd4QTL1ut
 
 [[DJ Shog]]
 [[Pulsedriver]]
-[[Sven Greiner]]
+[[producers/Sven Greiner]]
 [[Makro]]
-[[DJ Fait]]
+[[producers/DJ Fait]]
 [[CJ Stone]]
 [[Hazel]]

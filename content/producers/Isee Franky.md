@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7o6Rd0CXeKDwaqRcH8jEDc
 **Related artists:**
 
 [[RAPK]]
-[[ISEE JULEZ]]
-[[BXLE]]
+[[producers/ISEE JULEZ]]
+[[producers/BXLE]]
 [[Kwam.E]]
 [[Skew]]
 [[NARU]]

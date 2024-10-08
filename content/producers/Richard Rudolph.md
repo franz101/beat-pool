@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5WO7nLwyo6vX2VDtrM9SdV
 **Related artists:**
 
 [[Marsimoto]]
-[[Gordian Gleiss]]
+[[producers/Gordian Gleiss]]
 [[Deichkind]]

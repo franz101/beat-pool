@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/1B5536vTK24HpzcOOkXsRa
 
 [[Helmuth Rüssmann]]
 [[Brings]]
-[[Harry Alfter]]
+[[producers/Harry Alfter]]

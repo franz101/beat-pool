@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5IhDJ8QX7ATF4wKFJmSGhj
 **Related artists:**
 
 [[ERRdeKa]]
-[[Danny Drama]]
+[[producers/Danny Drama]]

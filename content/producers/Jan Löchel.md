@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1RZgPjb6Pch03O95WjX6HK
 
 [[Henning Wehland]]
 [[Pohlmann.]]
-[[MICHAEL TIBES]]
-[[Christian Neander]]
+[[producers/MICHAEL TIBES]]
+[[producers/Christian Neander]]

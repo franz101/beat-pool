@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6EreJfCMMlrIXdigllfaYW
 **Related artists:**
 
 [[Massive Töne]]
-[[MASSIVE TNE]]
+[[producers/MASSIVE TNE]]

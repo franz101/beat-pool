@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5AXfuoL9FwRhoS3oPNnEEO
 
 **Related artists:**
 
-[[Scorpio Prodz]]
+[[producers/Scorpio Prodz]]
 [[Sadiq]]

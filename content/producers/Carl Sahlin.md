@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1wbTua8c3vxrKGGHSFRJkC
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Peter Ledin]]
+[[producers/Peter Ledin]]
 [[Peter Modén]]

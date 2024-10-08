@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/7GptaEPiZgRi49gxszWHAt
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb88db37dfbff862f07fd2263f)
 **Related artists:**
 
-[[DEEN-O]]
+[[producers/DEEN-O]]
 [[Bato]]
 [[geenaro]]

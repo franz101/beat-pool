@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6DFLc5QqAw2mxhMEoLXIdj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb88a5ccc694d32f37450b8c76)
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Kontra K]]
 [[The Cratez]]
-[[Neal & Alex]]
+[[producers/Neal & Alex]]

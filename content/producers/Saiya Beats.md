@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2Awd9fDgHDH4QxRexInZ1F
 
 **Related artists:**
 
-[[Yungbrooke]]
+[[producers/Yungbrooke]]
 [[Kianush]]

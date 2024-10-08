@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1Q5sHMaELij3vfxK4DpMOa
 
 **Related artists:**
 
-[[Tobi Schneider]]
+[[producers/Tobi Schneider]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2nuu4oKUs0XOF3p1M4RqUL
 **Related artists:**
 
 [[Pulsedriver]]
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]
 [[Diamond]]
 [[Angel]]

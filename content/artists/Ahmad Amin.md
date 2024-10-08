@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4SZSRsSh4xJx9o5V1uDE1o
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb881a848f8b7e33a2e1191d2a)
 **Related artists:**
 
-[[The Royals]]
-[[Kushbringer]]
-[[DeeVoe]]
+[[producers/The Royals]]
+[[producers/Kushbringer]]
+[[producers/DeeVoe]]
 [[The Cratez]]
 [[RAF Camora]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6xaa5lj4Qtrs6QQADJQIKJ
 **Related artists:**
 
 [[Azad]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Snaga]]

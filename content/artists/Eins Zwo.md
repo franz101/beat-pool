@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4byqpmksBCBZSzvyvtqzX0
 
 **Related artists:**
 
-[[C.L.A.S. Productions]]
+[[producers/C.L.A.S. Productions]]
 [[Fettes Brot]]
 [[Deichkind]]
 [[Stereo Total]]
 [[DJ Rabauke]]
-[[Cem Oral]]
+[[producers/Cem Oral]]

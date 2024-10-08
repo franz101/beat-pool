@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4wgSWyLRig3njW5fWEMkP7
 
 **Related artists:**
 
-[[Daniel Grossmann]]
+[[producers/Daniel Grossmann]]
 [[Kontra K]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

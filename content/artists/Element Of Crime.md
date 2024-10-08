@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3FweAJRBCbUOGR6jULfaRi
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba7a31f2fa5f6a0a382d20c08)
 **Related artists:**
 
-[[Dave Young]]
-[[Uwe Bauer]]
-[[David Young]]
-[[John Cale]]
-[[Veto]]
+[[producers/Dave Young]]
+[[producers/Uwe Bauer]]
+[[producers/David Young]]
+[[producers/John Cale]]
+[[producers/Veto]]

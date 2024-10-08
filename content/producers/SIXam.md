@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/13ePQrlsDqjho82tksu9Zt
 
 **Related artists:**
 
-[[SMR]]
+[[producers/SMR]]
 [[BHZ]]
 [[Ion Miles]]
-[[YUNG MOJI]]
+[[producers/YUNG MOJI]]
 [[Faroon]]
-[[DR.Q]]
+[[producers/DR.Q]]
 [[Dead Dawg]]

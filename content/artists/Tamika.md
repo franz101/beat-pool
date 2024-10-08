@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4HYE8t9so19f5Fx5ZgLUvb
 
 **Related artists:**
 
-[[The Evolution]]
+[[producers/The Evolution]]
 [[Martin Jondo]]
-[[Pierre Brost]]
+[[producers/Pierre Brost]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
-[[J.P. Greve]]
+[[producers/Stephan Schulmeister]]
+[[producers/J.P. Greve]]

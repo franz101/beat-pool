@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2NFeNBVDb7eHaA1bgKS0Lt
 
 **Related artists:**
 
-[[Jay Maas]]
+[[producers/Jay Maas]]
 [[Jennifer Rostock]]

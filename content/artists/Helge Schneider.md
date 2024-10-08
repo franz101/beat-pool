@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/05OMHvPpkWnblSy9Kl7e9l
 
 **Related artists:**
 
-[[Paul NZA]]
-[[Marek Pompetzki]]
-[[Andreas Herbig]]
+[[producers/Paul NZA]]
+[[producers/Marek Pompetzki]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
-[[Cecil Remmler]]
-[[Henrik Menzel]]
+[[producers/Cecil Remmler]]
+[[producers/Henrik Menzel]]
 [[Sido]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

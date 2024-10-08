@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5APRXASmdCKDr3l8ZlrBhu
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6966f855c6976c28c9946ad4)
 **Related artists:**
 
-[[Skaala Music]]
+[[producers/Skaala Music]]

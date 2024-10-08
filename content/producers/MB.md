@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3Qc2bGmABzJzWhElcX3VEZ
 
 **Related artists:**
 
-[[Unleaded]]
+[[producers/Unleaded]]
 [[Ardian Bujupi]]
 [[Xhensila]]
 [[Aylo]]

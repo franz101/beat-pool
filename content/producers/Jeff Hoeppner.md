@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1lgncdEgNi3hyGiWPA0Sgu
 
 **Related artists:**
 
-[[Alex Cantrall]]
+[[producers/Alex Cantrall]]
 [[Sarah Connor]]

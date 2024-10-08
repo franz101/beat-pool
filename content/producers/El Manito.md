@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5fBol3Rk7MM49Isf7vW7kp
 **Related artists:**
 
 [[Mista Meta]]
-[[Eneygriega]]
+[[producers/Eneygriega]]

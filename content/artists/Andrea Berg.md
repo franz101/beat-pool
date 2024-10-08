@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/5dXbkgq9goxRAwCFoNU9Dp
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb31ee562a5f419024edeb93b6)
 **Related artists:**
 
-[[Dieter Bohlen]]
-[[Syndicate Musicproduction]]
-[[Al King]]
+[[producers/Dieter Bohlen]]
+[[producers/Syndicate Musicproduction]]
+[[producers/Al King]]
 [[Felix Gauder]]
 [[Eugen Römer]]
 [[Semino Rossi]]
 [[Stefan Pössnicker]]
-[[Alexs White]]
-[[Alexander Strasser]]
+[[producers/Alexs White]]
+[[producers/Alexander Strasser]]
 [[René Baumann]]

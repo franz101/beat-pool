@@ -18,9 +18,9 @@ url: https://open.spotify.com/artist/4ol4AQkp02j1FQuQ4uGH1k
 
 [[Mach One]]
 [[Jope]]
-[[Nikki 3k]]
+[[producers/Nikki 3k]]
 [[King Orgasmus One]]
-[[Philipp Philsen Hoppen]]
+[[producers/Philipp Philsen Hoppen]]
 [[Tarek K.I.Z]]
 [[Nico K.I.Z]]
 [[Drunken Masters]]

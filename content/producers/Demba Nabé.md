@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/7iadSt1nnoz5N5yY0iLnOe
 **Related artists:**
 
 [[Lady Saw]]
-[[Tobias Cordes]]
-[[DJ Illvibe]]
+[[producers/Tobias Cordes]]
+[[producers/DJ Illvibe]]
 [[Maya dela Gwada]]
-[[David Conen]]
-[[Charles Matuschewski]]
-[[Dubmaster Reibold]]
+[[producers/David Conen]]
+[[producers/Charles Matuschewski]]
+[[producers/Dubmaster Reibold]]
 [[Seeed]]
-[[Torsten Reibold]]
+[[producers/Torsten Reibold]]

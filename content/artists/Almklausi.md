@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK
 **Related artists:**
 
 [[Isi Glück]]
-[[Eric Sylaar]]
-[[Matthias Distel]]
+[[producers/Eric Sylaar]]
+[[producers/Matthias Distel]]
 [[Honk!]]
 [[Dominik De León]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]
 [[Ikke Hüftgold]]
 [[Carolina]]
 [[Mallorca Allstars]]

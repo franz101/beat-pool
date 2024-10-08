@@ -18,10 +18,10 @@ url: https://open.spotify.com/artist/6VEgyN5EAhLjuuUE4E8vJn
 
 [[zero-zero]]
 [[Nils Davis]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[Kex Kuhl]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[John ODMGDIA]]
 [[ODMGDIA]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]
 [[Crystal F]]

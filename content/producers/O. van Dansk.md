@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7gF7sHTAAZCI4rl1yP8Fr8
 **Related artists:**
 
 [[Ole Van Dansk]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]

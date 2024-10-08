@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb02510ec48e711baaa157abd0)
 **Related artists:**
 
-[[beatsbyroki - Hubert Rokosz]]
-[[bzad]]
-[[Angelcentral]]
-[[Gerreaux]]
+[[producers/beatsbyroki - Hubert Rokosz]]
+[[producers/bzad]]
+[[producers/Angelcentral]]
+[[producers/Gerreaux]]

@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/46Hvx4Wg5ugm4zqK8eZQ4X
 **Related artists:**
 
 [[Pronto]]
-[[SBM]]
+[[producers/SBM]]
 [[Holy Modee]]
-[[Palazzo]]
+[[producers/Palazzo]]
 [[marú]]
 [[Marvin Game]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[AL Kareem]]
 [[Opti Mane]]
 [[morten]]

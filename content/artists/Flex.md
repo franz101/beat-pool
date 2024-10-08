@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/7L5zBzOWUk0AfNfEh1n9ZJ
 
 **Related artists:**
 
-[[Yellow Pfeiffer]]
+[[producers/Yellow Pfeiffer]]
 [[Jörg Umbreit]]
-[[Das letzte Einhorn]]
-[[Van Lange]]
-[[Vincent Sorg]]
-[[Der Morgenstern]]
-[[Dr. Pymonte]]
-[[Die Lutter]]
+[[producers/Das letzte Einhorn]]
+[[producers/Van Lange]]
+[[producers/Vincent Sorg]]
+[[producers/Der Morgenstern]]
+[[producers/Dr. Pymonte]]
+[[producers/Die Lutter]]
 [[Money Boy]]

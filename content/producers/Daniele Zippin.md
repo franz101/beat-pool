@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/065qxmrGEWl8tWNDd0dEJy
 
 **Related artists:**
 
-[[Daniele Zipin]]
+[[producers/Daniele Zipin]]
 [[Kontra K]]
-[[Andreas Tausch]]
+[[producers/Andreas Tausch]]
 [[Skepsis]]
 [[The Cratez]]
 [[JANAGA]]

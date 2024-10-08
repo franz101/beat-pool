@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/11HaVj0xPSZMffLO6J0Zt6
 
 **Related artists:**
 
-[[Jay Maas]]
+[[producers/Jay Maas]]
 [[Jennifer Rostock]]
-[[Broke Boys]]
+[[producers/Broke Boys]]

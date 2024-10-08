@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5xa1j6OkbhWJXY2MRCYmvW
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb946b058c9723dccfe0700689)
 **Related artists:**
 
-[[BLOODY9INE]]
+[[producers/BLOODY9INE]]
 [[TYMPESO]]

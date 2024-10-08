@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn
 
 **Related artists:**
 
-[[Steve Milo]]
+[[producers/Steve Milo]]
 [[Helene Fischer]]

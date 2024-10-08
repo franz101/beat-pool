@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5NdJfSkC7khL7EISRY5CV1
 
 **Related artists:**
 
-[[Fabian Langer]]
+[[producers/Fabian Langer]]
 [[Razz]]

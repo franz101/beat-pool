@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/29v2aU3GWICaFKxRxBWunk
 **Related artists:**
 
 [[Rea Garvey]]
-[[Sebastian Arman]]
-[[Decco]]
+[[producers/Sebastian Arman]]
+[[producers/Decco]]
 [[Stefanie Heinzmann]]
-[[Niclas Molinder]]
-[[Johan Alkenas]]
+[[producers/Niclas Molinder]]
+[[producers/Johan Alkenas]]
 [[No Angels]]
-[[Tobias Topic]]
+[[producers/Tobias Topic]]

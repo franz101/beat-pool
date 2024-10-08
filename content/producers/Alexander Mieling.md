@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7xPuFj8GObUfa75lA17su4
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
-[[Paul van Dyk]]
+[[producers/Tommi Eckart]]
+[[producers/Paul van Dyk]]

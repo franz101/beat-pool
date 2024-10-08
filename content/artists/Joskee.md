@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/3RYRpBasDNjmTI9WXpO2qu
 
 [[Bosca]]
 [[Efe]]
-[[QD]]
-[[Chekaa]]
+[[producers/QD]]
+[[producers/Chekaa]]
 [[Vega]]
 [[Takt32]]

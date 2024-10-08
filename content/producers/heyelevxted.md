@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1bNUvI5WNHa6rDx9CZSZzf
 **Related artists:**
 
 [[Murcy]]
-[[puncho]]
+[[producers/puncho]]

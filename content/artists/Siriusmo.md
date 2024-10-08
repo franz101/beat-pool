@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8210d0a1164f432682c28880)
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
-[[Dirk Berger]]
+[[producers/Vincent von Schlippenbach]]
+[[producers/Dirk Berger]]
 [[Bonaparte]]
-[[David Conen]]
+[[producers/David Conen]]
 [[Marteria]]

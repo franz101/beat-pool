@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs
 **Related artists:**
 
 [[Juse Ju]]
-[[ROHO]]
+[[producers/ROHO]]
 [[Regis Molina]]
 [[Jerome Thomas]]
 [[Ivan Ave]]

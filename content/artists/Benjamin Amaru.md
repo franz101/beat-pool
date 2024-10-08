@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb05e7cdfecd17ae7671def700)
 **Related artists:**
 
-[[Joe Actill]]
+[[producers/Joe Actill]]
 [[SAINT WKND]]

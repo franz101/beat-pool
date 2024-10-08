@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1pkK1FMJKvg16Q3IdEHAal
 **Related artists:**
 
 [[Omik K]]
-[[Phatal Beatz]]
+[[producers/Phatal Beatz]]

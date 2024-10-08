@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3g0xQOWRWsQvjSERxjThlY
 
 **Related artists:**
 
-[[LA91]]
+[[producers/LA91]]
 [[Alpa Gun]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
-[[Shosha]]
+[[producers/Shosha]]
 [[Marlo]]
-[[Shosha44]]
+[[producers/Shosha44]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3MXV3cns2XjBZJu0stuPod
 **Related artists:**
 
 [[basi]]
-[[Kushbringer]]
+[[producers/Kushbringer]]
 [[NOK1D]]
-[[Yungfuel]]
+[[producers/Yungfuel]]
 [[prodbytwelve]]

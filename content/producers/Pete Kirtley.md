@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6uR3yOcwZPU4sDfavTR2Oo
 **Related artists:**
 
 [[Queensberry]]
-[[Kid Crazy]]
+[[producers/Kid Crazy]]

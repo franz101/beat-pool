@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6PvvvrIaT4y4PNMJWCXmlv
 
 **Related artists:**
 
-[[Peter Pangerl]]
+[[producers/Peter Pangerl]]
 [[Max Wählen]]
 [[Chakuza]]
-[[Jan Bruschke]]
+[[producers/Jan Bruschke]]

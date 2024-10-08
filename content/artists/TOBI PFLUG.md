@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0nWBrwCcviiNUz70QpkX6Z
 
 **Related artists:**
 
-[[Karin Hartmann]]
-[[Tony Hendrik]]
+[[producers/Karin Hartmann]]
+[[producers/Tony Hendrik]]
 [[Juliane Werding]]

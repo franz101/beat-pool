@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1SvfeNkvucJo4It2u4UzcY
 
 **Related artists:**
 
-[[Bugy]]
-[[Jimmy Torrio]]
-[[Artz]]
+[[producers/Bugy]]
+[[producers/Jimmy Torrio]]
+[[producers/Artz]]
 [[Ezhel]]
 [[Ufo361]]
 [[The Cratez]]

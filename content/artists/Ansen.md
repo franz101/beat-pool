@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/55g4Ics2dkqpAcGsvjyJOf
 **Related artists:**
 
 [[Silla]]
-[[Chris Jarbee]]
+[[producers/Chris Jarbee]]

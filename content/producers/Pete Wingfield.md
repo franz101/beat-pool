@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb
 
 **Related artists:**
 
-[[Marius M. Westernhagen]]
+[[producers/Marius M. Westernhagen]]
 [[Westernhagen]]

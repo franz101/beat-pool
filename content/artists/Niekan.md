@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2soZguLbznw2tYRh4XAr3c
 
 **Related artists:**
 
-[[Czientist]]
-[[Goldfinger Beatz]]
+[[producers/Czientist]]
+[[producers/Goldfinger Beatz]]
 [[Cedric]]
 [[Kianush]]
 [[OG Tipecial]]
-[[Chrizmatic]]
+[[producers/Chrizmatic]]

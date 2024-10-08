@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Agg2ShtiW9SEt6FboM9zQ
 
 **Related artists:**
 
-[[Farhang Ganji Dastjerdeh]]
+[[producers/Farhang Ganji Dastjerdeh]]
 [[Silla]]
-[[MENJU]]
+[[producers/MENJU]]

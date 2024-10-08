@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3NHyeANUouBlp0EGi3tdCJ
 
 **Related artists:**
 
-[[Tommy D]]
+[[producers/Tommy D]]
 [[Ulf Leo Sommer]]
-[[Bistram]]
-[[Djorkaeff]]
+[[producers/Bistram]]
+[[producers/Djorkaeff]]
 [[Sarah Connor]]
 [[Peter Plate]]
-[[Daniel Faust]]
-[[Peter Tomasso]]
+[[producers/Daniel Faust]]
+[[producers/Peter Tomasso]]

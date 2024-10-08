@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4t0zKtlLf4k0nlL54sOyJo
 
 **Related artists:**
 
-[[Steffen Wilmking]]
+[[producers/Steffen Wilmking]]
 [[Casper]]
-[[Daniel Schaub]]
+[[producers/Daniel Schaub]]

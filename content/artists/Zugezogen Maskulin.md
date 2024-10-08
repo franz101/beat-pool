@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/1yrJYfMWNHZWIGWM2Cb4gF
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc4eb788ce9031716df95cd99)
 **Related artists:**
 
-[[Moritz Pirker]]
+[[producers/Moritz Pirker]]
 [[Ahzumjot]]
-[[Kenji,Simon]]
+[[producers/Kenji,Simon]]
 [[Carsten Chemnitz]]
 [[Nura]]
-[[Nikolai Potthoff]]
+[[producers/Nikolai Potthoff]]
 [[Falco]]
-[[Silkersoft]]
-[[Lev Zubkov]]
-[[Tom Schley]]
-[[Markus Ganter]]
+[[producers/Silkersoft]]
+[[producers/Lev Zubkov]]
+[[producers/Tom Schley]]
+[[producers/Markus Ganter]]

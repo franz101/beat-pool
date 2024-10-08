@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/2n0Qz7ZvKS6kwjPuj9sW4H
 
 [[Janieck]]
 [[Younotus]]
-[[Tobias Bogdon]]
-[[Gregor Sahm]]
+[[producers/Tobias Bogdon]]
+[[producers/Gregor Sahm]]

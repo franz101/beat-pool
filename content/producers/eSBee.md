@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4T2Qp7vgOO3cda3dShBXFD
 **Related artists:**
 
 [[EnteTainment]]
-[[Janko]]
+[[producers/Janko]]

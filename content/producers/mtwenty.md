@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1d7gTCkaqz9ZXYdaOP1wkT
 
 [[negatiiv OG]]
 [[Sierra Kidd]]
-[[Consent2K]]
+[[producers/Consent2K]]

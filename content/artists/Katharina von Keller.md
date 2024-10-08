@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1GzPQER4nQ0rbeSVXulWin
 
 **Related artists:**
 
-[[Axel Kroell]]
+[[producers/Axel Kroell]]
 [[Nena]]

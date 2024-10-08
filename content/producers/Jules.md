@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7c9jXutMNEnAXakVv5E4IJ
 
 **Related artists:**
 
-[[Saschliq]]
-[[Iman Shahidi]]
-[[SashliQ]]
+[[producers/Saschliq]]
+[[producers/Iman Shahidi]]
+[[producers/SashliQ]]
 [[Gentleman]]
 [[Curse]]

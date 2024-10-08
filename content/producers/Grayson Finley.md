@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/22QwzhopoPhFTC8HkC37J5
 **Related artists:**
 
 [[Michael Patrick Kelly]]
-[[Robin Tadic]]
+[[producers/Robin Tadic]]

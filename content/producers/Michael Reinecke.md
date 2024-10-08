@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6R3ef6cuqdR025HxSgd2L6
 
 **Related artists:**
 
-[[Mende Guenter-Candy De Rouge]]
+[[producers/Mende Guenter-Candy De Rouge]]
 [[Nino de Angelo]]

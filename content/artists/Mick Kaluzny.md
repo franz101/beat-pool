@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0tURHlILLuKXe1tcTDOl02
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Benjamin Malgo]]
+[[producers/Benjamin Malgo]]
 [[Andrea Bukova]]

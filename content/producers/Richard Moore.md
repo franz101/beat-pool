@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4ceVbjTpev4CfyvKM4b6wQ
 
 **Related artists:**
 
-[[Hassan Annouri]]
+[[producers/Hassan Annouri]]
 [[Joy Denalane]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0a63ibJwG5TRXeYuAIVZvz
 
 **Related artists:**
 
-[[Hartmut Engler]]
-[[Martin Ansel]]
+[[producers/Hartmut Engler]]
+[[producers/Martin Ansel]]
 [[Pur]]

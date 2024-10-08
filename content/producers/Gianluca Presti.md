@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1mQqGvNVLRcwoIIcLaURTr
 **Related artists:**
 
 [[Milow]]
-[[Marius de Vries]]
-[[Joe Chiccarelli]]
+[[producers/Marius de Vries]]
+[[producers/Joe Chiccarelli]]

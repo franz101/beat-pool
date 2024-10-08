@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7BOI7fetZ2yzDpBUiCMyYy
 **Related artists:**
 
 [[Get Well Soon]]
-[[Marcus Wuest]]
-[[Konstantin Gropper]]
+[[producers/Marcus Wuest]]
+[[producers/Konstantin Gropper]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebad9cd38425e373f1a2487718)
 **Related artists:**
 
-[[Martin Rott]]
-[[Hannes Butzer]]
-[[Robert Laupert]]
+[[producers/Martin Rott]]
+[[producers/Hannes Butzer]]
+[[producers/Robert Laupert]]
 [[BOKEH]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

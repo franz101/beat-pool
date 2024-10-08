@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4qrOzg4GJfrAsGyu7riAX0
 
 **Related artists:**
 
-[[Leon Tiepold]]
+[[producers/Leon Tiepold]]
 [[Nazar]]
 [[Gary Howard]]

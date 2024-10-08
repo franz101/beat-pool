@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1SLdoA5sGSQnCy8M8OfW3G
 **Related artists:**
 
 [[Kaaris]]
-[[Therapy 2093]]
+[[producers/Therapy 2093]]
 [[Haftbefehl]]

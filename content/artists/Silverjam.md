@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6plCSLMgEOdiBXV6WT4xNN
 **Related artists:**
 
 [[Helene Fischer]]
-[[Kimmig Entertainment GmbH]]
+[[producers/Kimmig Entertainment GmbH]]
 [[Stefan Pössnicker]]
 [[Vanessa Mai]]

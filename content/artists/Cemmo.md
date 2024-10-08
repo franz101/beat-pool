@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0ANv1E51y3oUZGHditFNHi
 
 **Related artists:**
 
-[[Pzy]]
+[[producers/Pzy]]

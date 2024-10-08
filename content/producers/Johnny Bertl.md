@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/07CfhCnsg8jHpa43XNfNhw
 
 **Related artists:**
 
-[[Klaus Eberhartinger]]
+[[producers/Klaus Eberhartinger]]
 [[Peter Müller]]
-[[Thomas Spitzer]]
-[[Kurt Keinrath]]
-[[Gernot Resch]]
+[[producers/Thomas Spitzer]]
+[[producers/Kurt Keinrath]]
+[[producers/Gernot Resch]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

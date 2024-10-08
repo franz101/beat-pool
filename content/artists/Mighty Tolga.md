@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/34VOw0awJKZJOgNvYjDQM4
 **Related artists:**
 
 [[Freundeskreis]]
-[[Marcus Meyn]]
+[[producers/Marcus Meyn]]
 [[Gentleman]]
 [[Richie Stephens]]

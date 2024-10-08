@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/13MJa1eti3NhwyhYqMA7Nt
 [[LEO]]
 [[MC Ko]]
 [[Ulysse]]
-[[Dasaesch]]
+[[producers/Dasaesch]]
 [[Can]]
 [[Telly Tellz]]
 [[Eazyono]]

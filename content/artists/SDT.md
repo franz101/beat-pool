@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7bEC2bbtfYDKsDIrJ5pe9m
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Cha Lee]]
 [[JACE]]

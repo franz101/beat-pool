@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0EflPg89OcQqA7G256Ghvj
 
 **Related artists:**
 
-[[Martin Mass (Caid)]]
+[[producers/Martin Mass (Caid)]]
 [[Hava]]

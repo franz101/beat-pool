@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/7Jq2zrzmAAQe0FwxYn5QVz
 **Related artists:**
 
 [[Massiv]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Fler]]
 [[Marteria]]
 [[King Orgasmus One]]

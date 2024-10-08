@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2ucOtBJ70kKBUH9ueNmpBP
 
 [[Bozza]]
 [[Amar]]
-[[Dasaesch]]
+[[producers/Dasaesch]]
 [[Haze]]
-[[Dannemann]]
+[[producers/Dannemann]]

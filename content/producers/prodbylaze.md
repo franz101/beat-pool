@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/37gMFsgMZ6e5DqkgXWRwcY
 **Related artists:**
 
 [[LUIS]]
-[[Prodbytwelve]]
+[[producers/Prodbytwelve]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/02EVANzKGRlR3TTTiaGAoA
 **Related artists:**
 
 [[Benne]]
-[[Thomas Porzig]]
+[[producers/Thomas Porzig]]
 [[Lupid]]
-[[Paul Falk]]
-[[Joschka Bender]]
+[[producers/Paul Falk]]
+[[producers/Joschka Bender]]

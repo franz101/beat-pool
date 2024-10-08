@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/31sjxysT4lUJQCZLt9cMne
 **Related artists:**
 
 [[Sero El Mero]]
-[[Cxdy]]
+[[producers/Cxdy]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6ze4UFVKCRUaxVt6xisAZV
 **Related artists:**
 
 [[Alpa Gun]]
-[[KOB-Beatz]]
+[[producers/KOB-Beatz]]

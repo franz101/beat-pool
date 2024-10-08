@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7i0YTa8DfJh00WvwGS7MUc
 
 [[Beatrice Egli]]
 [[Michelle]]
-[[Joachim Wolf]]
+[[producers/Joachim Wolf]]

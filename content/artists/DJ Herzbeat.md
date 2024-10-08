@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0fvGBclVqAPzR4SxHhtgt4
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1112cd0b602cd71535d3ad98)
 **Related artists:**
 
-[[SILVERJAM]]
+[[producers/SILVERJAM]]
 [[Roger Whittaker]]
 [[Axel Fischer]]

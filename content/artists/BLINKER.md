@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/3rUnbTGm63Ervd7ZqAroJZ
 [[Philipp Dittberner]]
 [[Daniel Großmann]]
 [[Disarstar]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

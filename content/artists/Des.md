@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/74rrdc9h8enZI0681hjxeJ
 **Related artists:**
 
 [[G-Mac]]
-[[Abija]]
+[[producers/Abija]]
 [[Nu51]]
 [[Sugar MMFK]]
-[[Zane98]]
-[[Nulitobeats]]
+[[producers/Zane98]]
+[[producers/Nulitobeats]]
 [[Aliou]]
-[[Emmo]]
+[[producers/Emmo]]
 [[Milonair]]
-[[Kesto]]
+[[producers/Kesto]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4HwAT5MwP6W9lq2VzLq889
 
 **Related artists:**
 
-[[Enaka]]
+[[producers/Enaka]]
 [[Erabi]]

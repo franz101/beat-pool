@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4VNsL4efp8FrWShXOu0MSs
 **Related artists:**
 
 [[Capo]]
-[[Ben Bazzazian]]
+[[producers/Ben Bazzazian]]
 [[Haftbefehl]]
 [[Diar]]
 [[Hanybal]]

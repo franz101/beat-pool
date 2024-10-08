@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5T57wvnkPbnYN74cd3B0Sz
 **Related artists:**
 
 [[Rocco Vs. Bass-T]]
-[[R. van Schooneveld]]
-[[N.de Vries]]
+[[producers/R. van Schooneveld]]
+[[producers/N.de Vries]]

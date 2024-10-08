@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/73BVpeLY9j5PxHFfBqyofZ
 **Related artists:**
 
 [[Majoe]]
-[[Mayjuran Ragunathan]]
+[[producers/Mayjuran Ragunathan]]
 [[Juh-Dee]]

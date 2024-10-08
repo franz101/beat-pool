@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/39uhWBA4dvhWJ5Kyqk30u4
 
 **Related artists:**
 
-[[B-way]]
-[[Marlon White]]
+[[producers/B-way]]
+[[producers/Marlon White]]

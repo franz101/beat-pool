@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/00dnhkoqJGnkuDkDyCHrHA
 
 [[Peter Fox]]
 [[Vanessa Mason]]
-[[Illvibe]]
-[[llvibe]]
+[[producers/Illvibe]]
+[[producers/llvibe]]

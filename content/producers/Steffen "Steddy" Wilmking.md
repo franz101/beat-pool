@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4bIgrcc8nW2d9Imi8hpx6t
 
 **Related artists:**
 
-[[DJ Stickle]]
-[[Jack Beauregard]]
-[[Sebastian Madsen]]
+[[producers/DJ Stickle]]
+[[producers/Jack Beauregard]]
+[[producers/Sebastian Madsen]]
 [[Chakuza]]

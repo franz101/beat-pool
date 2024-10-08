@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1jdeEJihHyd5FJlJtdbkob
 
 **Related artists:**
 
-[[RUDY VALENTINO]]
-[[Tsunami Band]]
+[[producers/RUDY VALENTINO]]
+[[producers/Tsunami Band]]
 [[Samy Deluxe]]
-[[Van Der Zorn]]
-[[Nigel Asher]]
+[[producers/Van Der Zorn]]
+[[producers/Nigel Asher]]

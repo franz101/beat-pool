@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0OriBLX6b2sPWwUcLP9d5q
 
 **Related artists:**
 
-[[Moritz Rech]]
+[[producers/Moritz Rech]]
 [[Raffael Kühle]]
 [[OK KID]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG
 
 **Related artists:**
 
-[[Scoop Deville]]
+[[producers/Scoop Deville]]
 [[Samy Deluxe]]

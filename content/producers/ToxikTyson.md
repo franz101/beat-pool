@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/515PmYjgQkv2NPHwhaCMl1
 
 **Related artists:**
 
-[[MI8]]
-[[Joznez]]
+[[producers/MI8]]
+[[producers/Joznez]]
 [[Silla]]
 [[Karen Firlej]]
-[[Reflectionz]]
-[[Johnny Illstrument]]
-[[Phily Asap]]
+[[producers/Reflectionz]]
+[[producers/Johnny Illstrument]]
+[[producers/Phily Asap]]
 [[Jigzaw]]

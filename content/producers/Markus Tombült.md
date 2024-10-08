@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5UrtvzKpNdnkt4t9vSRLj9
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Unheilig]]
-[[Der Graf]]
+[[producers/Der Graf]]
 [[Michael Kokott]]
-[[Kiko Maßbaum]]
+[[producers/Kiko Maßbaum]]

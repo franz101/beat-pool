@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/0DPtDYGuGtx5GVNONt9HYv
 [[Toni Kimpimäki]]
 [[Sunrise Avenue]]
 [[Samu Haber]]
-[[Aku Sinivalo]]
+[[producers/Aku Sinivalo]]

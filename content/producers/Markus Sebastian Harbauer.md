@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/44KoSadFq6rYum1ZrfuMHq
 
 **Related artists:**
 
-[[Thomas Eifert]]
-[[Tobias Hundt]]
+[[producers/Thomas Eifert]]
+[[producers/Tobias Hundt]]
 [[Lupid]]

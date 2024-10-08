@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5V3EGT9CHErg9zEi55Jijl
 
 **Related artists:**
 
-[[Marcel Heym]]
-[[Derek von Krogh]]
+[[producers/Marcel Heym]]
+[[producers/Derek von Krogh]]
 [[Nena]]

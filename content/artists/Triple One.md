@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/686zrKch7tQIpoOpdSIpTo
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1389e263c9e1b63ce8f2d417)
 **Related artists:**
 
-[[Billy Gunns]]
+[[producers/Billy Gunns]]
 [[LiL Lotus]]
 [[BOONK]]
 [[Goude]]

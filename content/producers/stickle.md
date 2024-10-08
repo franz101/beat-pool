@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo
 [[Olson]]
 [[Juju]]
 [[KALIM]]
-[[Okan Frei]]
+[[producers/Okan Frei]]
 [[Apache 207]]
 [[nikan]]
 [[Bausa]]

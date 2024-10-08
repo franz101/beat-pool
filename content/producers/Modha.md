@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/123kR1ynWcuuQC9hc2pglK
 
 **Related artists:**
 
-[[Skye Chai]]
-[[Crada]]
+[[producers/Skye Chai]]
+[[producers/Crada]]
 [[JuJu Rogers]]
 [[Sampa the Great]]
-[[the Kii]]
+[[producers/the Kii]]
 [[Jennifer Allendörfer]]

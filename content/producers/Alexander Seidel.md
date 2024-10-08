@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7DwYLBh2pU6aYoUJpCE0fm
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Jan Kirchner]]
-[[Dieter Weidenfeld]]
+[[producers/Jan Kirchner]]
+[[producers/Dieter Weidenfeld]]

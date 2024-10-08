@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2FFYQHjAiEPglBsChE1BLh
 **Related artists:**
 
 [[Rene Mühlberger]]
-[[David Conen]]
-[[Peter Horazdovsky]]
-[[Philipp Scheibl]]
+[[producers/David Conen]]
+[[producers/Peter Horazdovsky]]
+[[producers/Philipp Scheibl]]
 [[Bilderbuch]]
-[[Zebo Adam]]
-[[Michael Krammer]]
+[[producers/Zebo Adam]]
+[[producers/Michael Krammer]]

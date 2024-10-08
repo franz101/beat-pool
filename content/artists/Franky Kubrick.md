@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1viMnP74OfZ5Jf1cNCbwJA
 
 **Related artists:**
 
-[[PH7]]
+[[producers/PH7]]
 [[KAAS]]
 [[Fiva MC]]
 [[Laas Unltd.]]
@@ -40,7 +40,7 @@ url: https://open.spotify.com/artist/1viMnP74OfZ5Jf1cNCbwJA
 [[Amar]]
 [[P.M.B.]]
 [[Tua]]
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Amaris]]
 [[DJ Katch]]
 [[Vega]]

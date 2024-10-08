@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/72WC8xxy0d9pz5L1O3BmJg
 **Related artists:**
 
 [[XATAR]]
-[[Zimzala]]
+[[producers/Zimzala]]
 [[MoeWavy]]
 [[Maestro]]
-[[CHEK Beatz]]
+[[producers/CHEK Beatz]]

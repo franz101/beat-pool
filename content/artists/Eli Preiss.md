@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8239b3b117e4e269f95048aa)
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[CAN MIT ME$$R]]
-[[Daniel Twintower]]
+[[producers/Daniel Twintower]]
 [[Jalil]]
 [[grabsteyn]]
-[[Nea&LX]]
+[[producers/Nea&LX]]

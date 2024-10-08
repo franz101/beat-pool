@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2IGq1KPzwUnjCKU80jbDZ4
 
 [[Malik Harris]]
 [[Antje Schomaker]]
-[[Pascal 'Kalli' Reinhardt]]
+[[producers/Pascal 'Kalli' Reinhardt]]
 [[Björn Steiner]]
-[[Kilian Reischl]]
+[[producers/Kilian Reischl]]

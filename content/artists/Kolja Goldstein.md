@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2q14rWJfAll6wlEzlagNgn
 ![Artist]()
 **Related artists:**
 
-[[SOYiLL]]
+[[producers/SOYiLL]]
 [[Kaisa Natron]]

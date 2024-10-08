@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/6vJcl9Obo3AKxosH1ckqrM
 [[Erco]]
 [[MAKIL]]
 [[Latscho Duo]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Tamas]]
 [[The Belgian Stallion]]
 [[KDM Shey]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4PncD9bBhDRJc81QUSq1Zb
 
 [[AchtVier]]
 [[Kolja Goldstein]]
-[[Jmxj]]
+[[producers/Jmxj]]
 [[Kaisa Natron]]

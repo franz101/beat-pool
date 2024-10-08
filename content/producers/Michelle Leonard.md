@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0BOzLe8tEnULAif410uuta
 
 **Related artists:**
 
-[[Jaakko Salovaara]]
+[[producers/Jaakko Salovaara]]
 [[Sarah Connor]]
-[[Nalle Ahlstedt]]
+[[producers/Nalle Ahlstedt]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/7HlZDFQ9kYvDqbm7Vu1IL5
 
 **Related artists:**
 
-[[DJ Eternity]]
+[[producers/DJ Eternity]]

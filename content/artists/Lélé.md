@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/71awvpNTodNScyQQYMELrl
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebaa33eeb1d40a80d5de206380)
 **Related artists:**
 
-[[Young Ravn]]
-[[Mistersir]]
+[[producers/Young Ravn]]
+[[producers/Mistersir]]
 [[Fergy53]]

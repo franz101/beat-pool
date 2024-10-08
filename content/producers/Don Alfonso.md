@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/6OlT5IaxUf1NiVMX0yjUo5
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[LX]]
-[[Corey Cail]]
+[[producers/Corey Cail]]
 [[Maxwell]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Kurdo]]
 [[Olexesh]]
 [[Jalil]]
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[Bonez MC]]
 [[Sido]]
 [[Estikay]]

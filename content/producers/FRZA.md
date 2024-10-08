@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4rlChVG4qawuje5kSwKrlE
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Miami Yacine]]

@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/7r4nwt4zevicgSJ47kWyJ1
 [[SXTN]]
 [[Lumaraa]]
 [[Frauenarzt]]
-[[Krutsch]]
+[[producers/Krutsch]]

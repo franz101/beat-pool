@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3nsZbpEsXAjnXQKz7gqrQS
 
 [[Casar]]
 [[Lord JKO]]
-[[Prala]]
+[[producers/Prala]]
 [[CALO]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/7CCMbDB7ncyxDJ3aNX51n3
 [[Bushido]]
 [[Saad]]
 [[Al Gear]]
-[[CeeJay Beats]]
+[[producers/CeeJay Beats]]
 [[Farid Bang]]

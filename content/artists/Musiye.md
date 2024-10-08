@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2Pu1ZgpObhujxMXG3S8Myw
 [[Play69]]
 [[Kollegah]]
 [[Mukobeatz]]
-[[MESH]]
+[[producers/MESH]]
 [[Farid Bang]]
 [[Mesh]]

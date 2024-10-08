@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/1wVJevv12s35ZWBftMtd5w
 **Related artists:**
 
 [[Lakmann]]
-[[Neno]]
+[[producers/Neno]]
 [[Inferno.79]]
-[[Pure Doze]]
+[[producers/Pure Doze]]
 [[Aphroe]]
 [[2Seiten]]
 [[TomTom]]

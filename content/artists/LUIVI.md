@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2V2gL76MiKRTyz1mACMe81
 
 **Related artists:**
 
-[[Dieter Dietrich]]
+[[producers/Dieter Dietrich]]
 [[Brown-Eyes White Boy]]
 [[Dietrich]]
 [[YGT]]

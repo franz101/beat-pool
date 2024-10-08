@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/4MNNzNqrnzVqKrhknqOZYc
 [[Kelvyn Colt]]
 [[Kool Savas]]
 [[Illy]]
-[[Thomas "X-Plosive" Kessler]]
+[[producers/Thomas "X-Plosive" Kessler]]
 [[Nessi]]

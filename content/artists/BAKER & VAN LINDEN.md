@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5Fi8ERndNUVOEItvFfkenA
 
 **Related artists:**
 
-[[Marc Van Linden]]
+[[producers/Marc Van Linden]]

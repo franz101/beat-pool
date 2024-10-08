@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2UQaGEb3EMAa01ibiQaEsh
 **Related artists:**
 
 [[Mal Élevé]]
-[[Tobias von Kitzing]]
+[[producers/Tobias von Kitzing]]
 [[RodStarz]]

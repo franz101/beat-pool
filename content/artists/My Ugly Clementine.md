@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcd184316048e2aac1bf4523e)
 **Related artists:**
 
-[[Sophie Lindinger]]
-[[Marco Kleebauer]]
+[[producers/Sophie Lindinger]]
+[[producers/Marco Kleebauer]]

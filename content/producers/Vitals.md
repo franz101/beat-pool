@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4Ymku7FaoSTWvrdihbRGKw
 
 [[Young Mesh]]
 [[MERO]]
-[[Frio]]
+[[producers/Frio]]
 [[ELIF]]
 [[Juh-Dee]]

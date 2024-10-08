@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3D76kKIcZ9XCDv1DvC6Jen
 
 [[Jan Delay]]
 [[Udo Lindenberg]]
-[[Andreas Herbig]]
-[[Henrik Menzel]]
+[[producers/Andreas Herbig]]
+[[producers/Henrik Menzel]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4slKvD85HOFma4spFqlNUy
 **Related artists:**
 
 [[TheDoDo]]
-[[Berky]]
-[[Palazzo]]
+[[producers/Berky]]
+[[producers/Palazzo]]

@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/4igMCp4BHX3kVO8dNGUPfa
 
 [[Hanybal]]
 [[Lia]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Fler]]
 [[Prodigy]]
 [[Jalil]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]
 [[Schwesta Ewa]]

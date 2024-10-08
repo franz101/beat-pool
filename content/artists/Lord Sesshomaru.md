@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/6oEIqFhL7YeeHLQGwBHLd1
 ![Artist](https://i.scdn.co/image/ab67616d0000b2739c6b048790ae272f6129879c)
 **Related artists:**
 
-[[Quentin Krug]]
+[[producers/Quentin Krug]]
 [[Mister Mex]]
 [[Master Niggel]]
 [[marú]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[Opti Mane]]
 [[JACE]]
 [[Lex Lugner]]

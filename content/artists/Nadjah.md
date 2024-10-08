@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/58hmHwOgccvwRDE86t8zWa
 
 **Related artists:**
 
-[[Frio]]
+[[producers/Frio]]
 [[Manuellsen]]

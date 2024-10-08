@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1TBWWvhaT8b4ItnaIPrVNH
 **Related artists:**
 
 [[MAJAN]]
-[[Sven Gazic]]
-[[Maxe]]
+[[producers/Sven Gazic]]
+[[producers/Maxe]]
 [[Monet192]]
 [[badchieff]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcb5745cb3f5c00eac47f884f)
 **Related artists:**
 
-[[HTN]]
+[[producers/HTN]]
 [[Retrogott]]
 [[Anthony Drawn]]
 [[Tufu]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1no82nMd4e9PUUZh8d2s6V
 
 [[Pulsedriver]]
 [[The Real Booty Babes]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]

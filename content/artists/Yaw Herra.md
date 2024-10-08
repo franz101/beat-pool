@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/0fXGcMbfHhutkOn5CFtD97
 
 [[Monzy De]]
 [[Dawid DST]]
-[[Jrmentals]]
+[[producers/Jrmentals]]
 [[Karmo Kaputto]]
 [[B-Tight]]
 [[Crystal F]]

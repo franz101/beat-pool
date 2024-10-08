@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3va2D2kx7TUYbBt1em6OUt
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Tissy Thiers]]
-[[Achim Jannsen]]
+[[producers/Tissy Thiers]]
+[[producers/Achim Jannsen]]

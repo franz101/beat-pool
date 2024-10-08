@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/11ihLp7YhK2vFmlkDHeF3u
 [[Nina Hagen]]
 [[NUMINOS]]
 [[BAP]]
-[[Phil Delire]]
+[[producers/Phil Delire]]
 [[Boris Polonski]]

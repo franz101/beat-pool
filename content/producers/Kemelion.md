@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/5BgAmArRHqXxwXKFgRHvap
 
 **Related artists:**
 
-[[DJ Gan-G]]
-[[Lovus]]
+[[producers/DJ Gan-G]]
+[[producers/Lovus]]
 [[Dardan]]
 [[Menju]]
 [[Apache 207]]
-[[Maxe]]
-[[LIA]]
+[[producers/Maxe]]
+[[producers/LIA]]
 [[Monet192]]
 [[MEL]]
-[[Worstbeatz]]
-[[MENJU]]
+[[producers/Worstbeatz]]
+[[producers/MENJU]]

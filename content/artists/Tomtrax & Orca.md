@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2Ncp7AZguf4STBxAx1OzVT
 
 **Related artists:**
 
-[[Dual Playaz]]
+[[producers/Dual Playaz]]

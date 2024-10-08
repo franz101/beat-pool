@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2gIIywG1Ugs01H3Buj0bdP
 
 **Related artists:**
 
-[[Phlack]]
+[[producers/Phlack]]
 [[Kay One]]

@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/1HORQCHE3Q4m0tAKiRsIAB
 [[Bela B]]
 [[Fatoni]]
 [[Peter Hein]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Jan Windmeier]]
 [[Schorsch Kamerun]]
 [[Juse Ju]]

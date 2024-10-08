@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/2VTqmf8ZEe2Y4cKztXkr9D
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]
 [[Yassin]]
-[[Jan Philipp Janzen]]
+[[producers/Jan Philipp Janzen]]
 [[Ingmar Süberkrüb]]
 [[Stefanie Heinzmann]]
 [[Die Sterne]]
-[[Stefan Lenkeit]]
+[[producers/Stefan Lenkeit]]
 [[Erobique]]

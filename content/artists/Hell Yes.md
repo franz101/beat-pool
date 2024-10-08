@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3aIp7H1YPzCy4rvdi5Q7ez
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb28df809cd8ba5a795e902300)
 **Related artists:**
 
-[[Adal White]]
+[[producers/Adal White]]
 [[Joker Bra]]
 [[Olexesh]]
-[[efro]]
-[[Ciaga]]
+[[producers/efro]]
+[[producers/Ciaga]]

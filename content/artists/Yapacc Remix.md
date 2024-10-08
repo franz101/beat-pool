@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/58hPvAp838MnAi7RvP7V5D
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]
 [[Good Groove]]

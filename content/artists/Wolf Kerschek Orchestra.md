@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7LEpNcAM0iFkyt0BR1FUtE
 
 [[Wolf Kerschek]]
 [[Helene Fischer]]
-[[Jean Frankfurter]]
+[[producers/Jean Frankfurter]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU
 **Related artists:**
 
 [[Monet192]]
-[[Maxe]]
+[[producers/Maxe]]

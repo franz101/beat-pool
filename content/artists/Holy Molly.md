@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf32fb4de8c5adbfeaa7d06c0)
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[LIZOT]]
-[[Marius Dia]]
+[[producers/Marius Dia]]
 [[Alex Parker]]

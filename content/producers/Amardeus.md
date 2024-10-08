@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1ZEeHOvzQ614P3Pe5gpfYR
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Kool Savas]]

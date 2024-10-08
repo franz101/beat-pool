@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/29QbBR0oTzA7A0kiOzrbbr
 **Related artists:**
 
 [[Bow Anderson]]
-[[Jonny Coffer]]
+[[producers/Jonny Coffer]]

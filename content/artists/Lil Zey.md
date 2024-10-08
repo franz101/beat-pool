@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7
 **Related artists:**
 
 [[Luciano]]
-[[Zel]]
-[[Exquisite Beats]]
+[[producers/Zel]]
+[[producers/Exquisite Beats]]

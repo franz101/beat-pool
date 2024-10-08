@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/0ynmZSNG8v2oquEk1bJJWy
 **Related artists:**
 
 [[LX]]
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Bato]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Jalil]]
 [[Delil]]
 [[King Khalil]]
-[[ROCKS]]
-[[Stefan Sarkocevic]]
+[[producers/ROCKS]]
+[[producers/Stefan Sarkocevic]]
 [[1312er]]

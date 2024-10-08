@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1PTHZXzzv8AsiUeO0vRyIQ
 **Related artists:**
 
 [[Haudegen]]
-[[Dirty Dasmo]]
+[[producers/Dirty Dasmo]]
 [[Hagen Stoll]]
 [[Vega]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

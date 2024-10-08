@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2vA3r2WMQmOUUULyKkbXVZ
 
 **Related artists:**
 
-[[Joznez]]
-[[Johnny Illstrument]]
+[[producers/Joznez]]
+[[producers/Johnny Illstrument]]
 [[257ers]]

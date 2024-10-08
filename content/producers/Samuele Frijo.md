@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3YmF1LtBo2vwlFn8y1iMGr
 
 **Related artists:**
 
-[[Kai Kotucz]]
-[[Marcel "Juh-Dee" Uhde]]
+[[producers/Kai Kotucz]]
+[[producers/Marcel "Juh-Dee" Uhde]]
 [[Ali471]]
 [[Juh-Dee]]
 [[Fler]]

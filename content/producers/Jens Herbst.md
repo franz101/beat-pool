@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1QEov3XmvzOsk8d5wE4Bo8
 
 **Related artists:**
 
-[[Berndt Jasenko]]
+[[producers/Berndt Jasenko]]
 [[Speaker Freaks]]

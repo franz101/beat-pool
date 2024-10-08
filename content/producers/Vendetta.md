@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1vWIjt4ela65u53t9g6NJl
 
 **Related artists:**
 
-[[Voodoo]]
+[[producers/Voodoo]]
 [[JULIEN BOSS]]

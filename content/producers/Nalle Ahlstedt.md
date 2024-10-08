@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0ogVrTySGgJeXRcyXx1uw9
 
 **Related artists:**
 
-[[Jaakko Salovaara]]
-[[Michelle Leonard]]
+[[producers/Jaakko Salovaara]]
+[[producers/Michelle Leonard]]
 [[Sarah Connor]]

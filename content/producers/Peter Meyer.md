@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0FDadYJsgCA78iNRsoICre
 **Related artists:**
 
 [[Puhdys]]
-[[Dieter Birr]]
+[[producers/Dieter Birr]]

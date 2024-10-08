@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/2QTKAuYMhj4BZkP7b4lTrT
 **Related artists:**
 
 [[Defi]]
-[[Philipp Hoppen]]
-[[Nico Seyfrid]]
+[[producers/Philipp Hoppen]]
+[[producers/Nico Seyfrid]]
 [[Said]]
 [[Mach One]]
 [[K.I.Z]]

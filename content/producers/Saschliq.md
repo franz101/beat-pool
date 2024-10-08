@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6QJQ2GMOhWqG0eI0YOGZjA
 **Related artists:**
 
 [[Governor]]
-[[Jules]]
+[[producers/Jules]]
 [[Joy Denalane]]
 [[Gentleman]]
 [[Curse]]

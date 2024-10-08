@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7pELnvDg6D4gFKuIrOCOpP
 
 **Related artists:**
 
-[[X-Cess!]]
+[[producers/X-Cess!]]
 [[Skiddaw]]
 [[RainDropz!]]
-[[Shaun Baker]]
+[[producers/Shaun Baker]]
 [[Marc Korn]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/77fvzAqv3cI7ny27EvUUPM
 
 [[beslik meister]]
 [[Holy Modee]]
-[[SMGEBEATS]]
+[[producers/SMGEBEATS]]
 [[Skeeniboi]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6x7NPjubWGu7CsXR4ztknI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb50c76622aedd639b64b2c4ed)
 **Related artists:**
 
-[[3ckz]]
+[[producers/3ckz]]
 [[Aidy]]
 [[Prism]]
 [[Dia]]
@@ -24,8 +24,8 @@ url: https://open.spotify.com/artist/6x7NPjubWGu7CsXR4ztknI
 [[REEZA]]
 [[Niro]]
 [[Lamatrii]]
-[[Relik]]
+[[producers/Relik]]
 [[WEEN]]
-[[Vue]]
+[[producers/Vue]]
 [[Haribo Hannes]]
 [[loufre]]

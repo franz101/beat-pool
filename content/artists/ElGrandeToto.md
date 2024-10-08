@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx
 **Related artists:**
 
 [[Macloud]]
-[[Timm Lindemann]]
+[[producers/Timm Lindemann]]
 [[Veysel]]
 [[Miksu]]

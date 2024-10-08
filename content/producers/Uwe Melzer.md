@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2VEaygW2zhbvwO5WLwBf3w
 
 **Related artists:**
 
-[[Benjamin Glass]]
-[[Mr. Finch]]
+[[producers/Benjamin Glass]]
+[[producers/Mr. Finch]]
 [[Gökhan Güler]]
 [[Lostboi Lino]]

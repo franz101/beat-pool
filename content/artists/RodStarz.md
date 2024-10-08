@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1YE46TInpMfRuQ1YOTqQPi
 **Related artists:**
 
 [[Mal Élevé]]
-[[Tobias von Kitzing]]
+[[producers/Tobias von Kitzing]]
 [[KT Gorique]]

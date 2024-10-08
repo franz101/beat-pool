@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2gQFgrXkfSy1Vn9nTTMrek
 **Related artists:**
 
 [[Culcha Candela]]
-[[Krutsch]]
+[[producers/Krutsch]]

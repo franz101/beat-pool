@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5eQ3kp6zLSueOxDs2TdPa9
 
 **Related artists:**
 
-[[Unknown]]
+[[producers/Unknown]]
 [[The BossHoss]]
 [[Juliane Werding]]

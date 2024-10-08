@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5DHPUOV0dp1WE6P8k3Sj1O
 
 **Related artists:**
 
-[[Simon Liecht]]
-[[Zinobeatz]]
+[[producers/Simon Liecht]]
+[[producers/Zinobeatz]]
 [[Kurdo]]

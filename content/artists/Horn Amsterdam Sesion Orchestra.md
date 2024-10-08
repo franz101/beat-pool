@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/4U7lBs4uH91HZdGWO9DScv
 [[Woodwinds Amsterdam Session Orchestra]]
 [[Sarah Connor]]
 [[Fietje van Haag]]
-[[Rob Tyger]]
-[[Kay Denar]]
+[[producers/Rob Tyger]]
+[[producers/Kay Denar]]

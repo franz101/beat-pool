@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/12NihrzOJf6YDnkpXrurH7
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Jintae Ko]]
-[[Quarterhead]]
-[[Junkx]]
+[[producers/Frans Zimmer]]
+[[producers/Jintae Ko]]
+[[producers/Quarterhead]]
+[[producers/Junkx]]
 [[Alle Farben]]

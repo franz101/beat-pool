@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4AtLmFgWuy5AxEY4fIgewm
 
 [[Kurdo]]
 [[Bass Sultan Hengzt]]
-[[Shokii]]
+[[producers/Shokii]]
 [[Fousy]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]

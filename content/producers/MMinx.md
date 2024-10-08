@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2vYnNqZIBt5ImJrp2efLRE
 **Related artists:**
 
 [[Animus]]
-[[Produes]]
+[[producers/Produes]]
 [[Alpa Gun]]
 [[G-Hot]]
 [[Moe Mitchell]]
@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/2vYnNqZIBt5ImJrp2efLRE
 [[Fler]]
 [[French Montana]]
 [[Kool Savas]]
-[[Bo Diggler]]
+[[producers/Bo Diggler]]
 [[Julian Williams]]
-[[Ilan]]
+[[producers/Ilan]]
 [[Jihad]]

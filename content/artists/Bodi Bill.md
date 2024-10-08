@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/59gwvK7CZtQKvVp0gWtILy
 
 **Related artists:**
 
-[[Swen Meyer]]
+[[producers/Swen Meyer]]
 [[Tim Bendzko]]

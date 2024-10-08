@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6Tg8Bb2MSlFqXCvYRtf8gy
 
 **Related artists:**
 
-[[DJ Eule]]
+[[producers/DJ Eule]]
 [[Klimas]]
 [[Cr7z]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7sn4p2ENk9UcN3QdnXAsN2
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
-[[Amfree]]
+[[producers/Max Kleinschmidt]]
+[[producers/Amfree]]
 [[LIZOT]]

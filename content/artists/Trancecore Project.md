@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/4wFIVC5yYjN2zelRDm47dT
 
 **Related artists:**
 
-[[S.Petrovic jr.]]
+[[producers/S.Petrovic jr.]]

@@ -16,17 +16,17 @@ url: https://open.spotify.com/artist/7l8dcABCTyZKrkskt53Z2u
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebafd4973113d7d98762ee78fd)
 **Related artists:**
 
-[[Daniel Tjarks]]
+[[producers/Daniel Tjarks]]
 [[Whitey en vogue]]
 [[Navy Westghost]]
-[[Nathanael Bach]]
+[[producers/Nathanael Bach]]
 [[Young Kira]]
 [[TJ_babybrain]]
-[[Shvde]]
+[[producers/Shvde]]
 [[gibbon don]]
 [[fliggsy]]
 [[Mary Man]]
-[[Thani]]
+[[producers/Thani]]
 [[John on a Mission]]
 [[Sierra Kidd]]
 [[mokuba]]

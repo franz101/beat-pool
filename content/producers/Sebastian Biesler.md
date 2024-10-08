@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/6iG2B7wr6z2wXK55lnsQBJ
 
 [[GHØSTKID]]
 [[Mille Petrozza]]
-[[Sky van Hoff]]
-[[Phil Sunday]]
+[[producers/Sky van Hoff]]
+[[producers/Phil Sunday]]
 [[Timi Hendrix]]
 [[Johnny 3 Tears]]
 [[Heaven Shall Burn]]

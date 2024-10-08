@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/5CbCf86F6Ecw5oXkzlnDF2
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4dacf97404efc22f4b6d89a8)
 **Related artists:**
 
-[[Manuel Stix, Norbert Endlich]]
+[[producers/Manuel Stix, Norbert Endlich]]
 [[Florian Silbereisen]]
 [[Cremildo]]
 [[Felix Gauder]]
-[[Norbert Endlich]]
+[[producers/Norbert Endlich]]
 [[Jagun]]
-[[Manuel Stix (orchestra)]]
-[[Thomas Schwab]]
-[[Florian Richter]]
-[[JMC Music]]
+[[producers/Manuel Stix (orchestra)]]
+[[producers/Thomas Schwab]]
+[[producers/Florian Richter]]
+[[producers/JMC Music]]
 [[Basti Becks]]
 [[Patrizio Buanne]]

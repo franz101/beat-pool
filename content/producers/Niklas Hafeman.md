@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6JZXzNQCss8DyEJWLKqepc
 
 **Related artists:**
 
-[[KRISS K & IVAR]]
+[[producers/KRISS K & IVAR]]
 [[No Angels]]

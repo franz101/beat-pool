@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl
 
 **Related artists:**
 
-[[Djorkaeff]]
-[[Beatzarre]]
-[[Annette Humpe]]
-[[Patrick Pyke Salmy]]
-[[Andreas Herbig]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
+[[producers/Annette Humpe]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Andreas Herbig]]
 [[Adel Tawil]]
 [[Ich + Ich]]
 [[Youssou N'Dour]]
-[[Florian Fischer]]
-[[Sebastian Kirchner]]
+[[producers/Florian Fischer]]
+[[producers/Sebastian Kirchner]]

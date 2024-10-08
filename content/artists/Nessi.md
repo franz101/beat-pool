@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA
 **Related artists:**
 
 [[Rea Garvey]]
-[[X-Plosive]]
-[[Abaz]]
+[[producers/X-Plosive]]
+[[producers/Abaz]]
 [[Illy]]
 [[Young Kira]]
 [[Prinz Pi]]
-[[Imran "Abaz" Abbas]]
+[[producers/Imran "Abaz" Abbas]]
 [[Kool Savas]]
-[[Thomas "X-Plosive" Kessler]]
+[[producers/Thomas "X-Plosive" Kessler]]
 [[Sido]]

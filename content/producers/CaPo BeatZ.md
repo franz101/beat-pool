@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3rgoDNagWbVZ8Oo5Gj8M79
 **Related artists:**
 
 [[Punch Arogunz]]
-[[Hades Musicproduction]]
+[[producers/Hades Musicproduction]]
 [[ZOMBIEZ]]
-[[It's Adrian]]
+[[producers/It's Adrian]]

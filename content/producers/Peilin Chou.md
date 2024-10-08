@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/36M9sC9EYYZfZbAUoJqBMi
 
 **Related artists:**
 
-[[Gennie Rim]]
-[[Marjorie Duffield]]
-[[Glen Keane]]
-[[Christopher Curtis]]
+[[producers/Gennie Rim]]
+[[producers/Marjorie Duffield]]
+[[producers/Glen Keane]]
+[[producers/Christopher Curtis]]
 [[Vanessa Mai]]
-[[Helen Park]]
+[[producers/Helen Park]]

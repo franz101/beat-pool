@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6AMHAH40ygHgt3kTfuxHyW
 
 **Related artists:**
 
-[[Enrico Agnello - Mastering]]
+[[producers/Enrico Agnello - Mastering]]
 [[Fae August]]

@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/6fiwXaZrKFSgXxzzNdFw7i
 [[Plusmacher]]
 [[The BREED]]
 [[BABA BLANCA]]
-[[Pierre Sonality]]
+[[producers/Pierre Sonality]]

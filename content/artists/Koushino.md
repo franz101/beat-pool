@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/6TR6dUNDpqyitYzDvY7DI0
 **Related artists:**
 
 [[Camaeleon]]
-[[Kushbringer]]
-[[Maegli]]
+[[producers/Kushbringer]]
+[[producers/Maegli]]
 [[Bonez MC]]
 [[GAMBINO 36]]

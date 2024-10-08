@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3TYN1zdXawzBJsWX2Lzh92
 **Related artists:**
 
 [[2raumwohnung]]
-[[Michael Fiedler]]
+[[producers/Michael Fiedler]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]

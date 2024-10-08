@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0QdCVP8MOYiJUqKYVect8L
 **Related artists:**
 
 [[Sun Diego]]
-[[Digital Drama]]
+[[producers/Digital Drama]]
 [[Noah Levi]]
 [[Yvonne Catterfeld]]
 [[Sido]]
@@ -22,4 +22,4 @@ url: https://open.spotify.com/artist/0QdCVP8MOYiJUqKYVect8L
 [[Oli. P]]
 [[Ali As]]
 [[Farid Bang]]
-[[Oliver Petszokat]]
+[[producers/Oliver Petszokat]]

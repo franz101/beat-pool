@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/0q6lONBZqQW0PJjxBJeAvY
 
 [[Cesária Evora]]
 [[Leonard Little Finger]]
-[[Bertram Engel]]
-[[Peter Keller]]
+[[producers/Bertram Engel]]
+[[producers/Peter Keller]]
 [[Zola]]
 [[Chen Lin]]
 [[RDB]]

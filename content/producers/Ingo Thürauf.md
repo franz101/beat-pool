@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/6e9RvmZaEAk89AXZzv636m
 
 **Related artists:**
 
-[[Michael Ilbert]]
-[[Andreas Rauscher]]
-[[Matthias Zielinski]]
+[[producers/Michael Ilbert]]
+[[producers/Andreas Rauscher]]
+[[producers/Matthias Zielinski]]
 [[Max Giesinger]]
-[[Steffen Graef]]
+[[producers/Steffen Graef]]
 [[Sarah Connor]]
 [[Matthias Schweighöfer]]
 [[Henning Wehland]]

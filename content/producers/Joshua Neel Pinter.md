@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/53QgDLXScH8uK2JRl4QgnI
 **Related artists:**
 
 [[Skinny Al]]
-[[Chekaa]]
-[[Alex Gregory]]
-[[Alex Gregory Mullarkey]]
+[[producers/Chekaa]]
+[[producers/Alex Gregory]]
+[[producers/Alex Gregory Mullarkey]]
 [[Kontra K]]
 [[The Cratez]]
 [[Fero47]]

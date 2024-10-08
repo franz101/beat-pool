@@ -20,5 +20,5 @@ url: https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf
 [[Capo]]
 [[Farid Bang]]
 [[SCH]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[Juh-Dee]]

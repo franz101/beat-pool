@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2z56qzSo2FuK0vb5C5xOmj
 
 **Related artists:**
 
-[[BM]]
+[[producers/BM]]
 [[Mufasa069]]

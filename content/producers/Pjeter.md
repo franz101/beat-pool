@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1suxld3ocLGbPDgvJUz4Am
 
 **Related artists:**
 
-[[Nouh]]
+[[producers/Nouh]]
 [[Kollegah]]
 [[Freshmaker]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/18lVbIzwvArI6wXtF09Mwh
 
 **Related artists:**
 
-[[Kev'beats]]
+[[producers/Kev'beats]]
 [[Chaker]]
-[[Nico Seyfrid]]
-[[Gee Futuristic]]
-[[Sti]]
+[[producers/Nico Seyfrid]]
+[[producers/Gee Futuristic]]
+[[producers/Sti]]
 [[Sivan Perwer]]
 [[Azad]]
 [[Saad]]
-[[Moses Schneider]]
+[[producers/Moses Schneider]]
 [[K.I.Z]]

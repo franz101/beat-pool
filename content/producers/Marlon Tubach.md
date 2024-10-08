@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/21ZvPz0r7mJ5Nws02CncpJ
 
 **Related artists:**
 
-[[Johannes Bruhns]]
+[[producers/Johannes Bruhns]]
 [[Tristan Brusch]]
-[[Joe Joaquin]]
-[[Willi Sieger]]
+[[producers/Joe Joaquin]]
+[[producers/Willi Sieger]]
 [[Daniel Strohhäcker]]

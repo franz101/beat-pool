@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2Yfo2OUaDwttWL4pXC1IeV
 
 **Related artists:**
 
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Luciano]]

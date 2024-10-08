@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/68aFDFDM0xkVpQuIlv6uVi
 
 **Related artists:**
 
-[[Klaus Heuser]]
+[[producers/Klaus Heuser]]
 [[Boris Polonski]]
 [[Brings]]

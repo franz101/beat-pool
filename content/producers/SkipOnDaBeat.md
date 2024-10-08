@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3RUqC35csvRo9mCvHeYZoK
 **Related artists:**
 
 [[Dardan]]
-[[PVLACE]]
+[[producers/PVLACE]]

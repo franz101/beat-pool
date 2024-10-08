@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3TaYPDSYRq1hbAyS3WRvQV
 **Related artists:**
 
 [[PEACHY]]
-[[Patrick Pyke Salmy]]
-[[Marcel "Juh-Dee" Uhde]]
-[[Robin Grubert]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Marcel "Juh-Dee" Uhde]]
+[[producers/Robin Grubert]]
 [[Adel Tawil]]

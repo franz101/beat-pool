@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/03Q01I5IQtRDpUjLjCzfup
 **Related artists:**
 
 [[Jan Delay]]
-[[Tropf]]
+[[producers/Tropf]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6JyeqVqKm7YNGtRcMWluFb
 **Related artists:**
 
 [[Bosca]]
-[[Nariman Rastega]]
+[[producers/Nariman Rastega]]

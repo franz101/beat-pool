@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebffe472d721e6160ca821c61a)
 **Related artists:**
 
-[[SBM]]
-[[Pjack]]
-[[Waterboutus]]
+[[producers/SBM]]
+[[producers/Pjack]]
+[[producers/Waterboutus]]
 [[NUGAT]]
 [[mrks]]
 [[Edo Saiya]]
-[[AP Supreme]]
+[[producers/AP Supreme]]
 [[JACE]]
 [[Vano Krathos]]
-[[NDRSN]]
-[[Matt Mendo]]
+[[producers/NDRSN]]
+[[producers/Matt Mendo]]
 [[Kidnfinity]]

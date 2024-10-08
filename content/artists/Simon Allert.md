@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3aaqqy2oyuzXmH9MTdzUFS
 **Related artists:**
 
 [[Jeanette Biedermann]]
-[[Florian Richter]]
+[[producers/Florian Richter]]
 [[Michelle]]
 [[Karat]]
 [[Andreas Bärtels]]

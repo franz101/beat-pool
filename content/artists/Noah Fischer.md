@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1KeQaQeSS56AEiW41uMWIp
 
 **Related artists:**
 
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Udo Lindenberg]]
 [[Thorsten Brötzmann]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]
 [[Andreas Bourani]]
 [[Musiker des NDR Elbphilharmonie Orchesters]]

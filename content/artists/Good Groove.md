@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6Wupvxz8DriQsKnNoflzTZ
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]
 [[Yapacc Remix]]
 [[Yapacc]]

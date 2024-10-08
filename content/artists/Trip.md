@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/0ZK0fCU7tfHsKy3I7JTTku
 [[Justus Jonas]]
 [[DCVDNS]]
 [[Tamas]]
-[[Wolfgang H.]]
+[[producers/Wolfgang H.]]
 [[Boba Fettt]]
 [[Basstard]]

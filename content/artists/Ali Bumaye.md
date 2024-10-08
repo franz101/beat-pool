@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/6hMNiBKUQFKpnZ7GTvLVZf
 **Related artists:**
 
 [[Bushido]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Eko Fresh]]
 [[Shindy]]
 [[Kurdo]]
 [[Magnis]]
-[[Lucry]]
+[[producers/Lucry]]
 [[Jalil]]
-[[Jeremia Anetor]]
+[[producers/Jeremia Anetor]]

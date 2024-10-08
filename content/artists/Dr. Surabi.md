@@ -23,4 +23,4 @@ url: https://open.spotify.com/artist/6vHc5wqr6REIjfpPj04DJ5
 [[Kontra K]]
 [[Sadi Gent]]
 [[Herzog]]
-[[86kiloherz]]
+[[producers/86kiloherz]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0TeqG6gH5EKlLbPduSiQHE
 **Related artists:**
 
 [[Hillsong Auf Deutsch]]
-[[Tim Whincop]]
-[[Reuben Morgan]]
+[[producers/Tim Whincop]]
+[[producers/Reuben Morgan]]

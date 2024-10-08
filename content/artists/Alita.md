@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/7G9JcJ4OjjJQqtXA94dbnC
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4dfccf06b0610a9d64ff2354)
 **Related artists:**
 
-[[Jam Beatz]]
+[[producers/Jam Beatz]]
 [[Jaill]]
 [[Sinok]]

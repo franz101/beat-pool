@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0wYI5EzBdExFr7evsEmf1E
 **Related artists:**
 
 [[Remoe]]
-[[Icey Miyake]]
+[[producers/Icey Miyake]]

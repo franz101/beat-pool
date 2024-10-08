@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4YmL5ETXfBXskXcuG9amVb
 
 **Related artists:**
 
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1K8U58Yw5ZXBP6CRGjBaEq
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[LIZOT]]

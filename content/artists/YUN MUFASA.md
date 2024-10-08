@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/5oMrt4GcmMltpWztj9fx8p
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebafdbc8a29518e4561d824c12)
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Greeny]]
-[[Nozad]]
+[[producers/Nozad]]
 [[Felikz]]
 [[AK]]
-[[Torky]]
+[[producers/Torky]]
 [[Marvin Game]]
 [[ROBO]]
 [[makko]]
@@ -29,7 +29,7 @@ url: https://open.spotify.com/artist/5oMrt4GcmMltpWztj9fx8p
 [[Boondawg]]
 [[Kidnfinity]]
 [[Flavio]]
-[[Palazzo]]
-[[Broke Boys]]
+[[producers/Palazzo]]
+[[producers/Broke Boys]]
 [[LUIS]]
 [[TYM]]

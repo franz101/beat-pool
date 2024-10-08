@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1LnA9yyIjGJoD5xJyYd3c0
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Ulf Wenderlich]]
-[[Steffen Langenfeld]]
+[[producers/Ulf Wenderlich]]
+[[producers/Steffen Langenfeld]]
 [[Stefan Waggershausen]]
 [[Silbermond]]

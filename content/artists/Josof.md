@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/7inOjKkAAdj5DDyVPhv7T6
 [[Juvel]]
 [[Jonesmann]]
 [[Manuellsen]]
-[[Quincy Jefferson]]
+[[producers/Quincy Jefferson]]
 [[Kee Rush]]

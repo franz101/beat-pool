@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6LhxQkeWdmkdxxO9uV1phm
 
 **Related artists:**
 
-[[Timster]]
+[[producers/Timster]]

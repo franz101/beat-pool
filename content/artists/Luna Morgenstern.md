@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3Ei4Zm5sKiLabWKEd8hfRh
 
 **Related artists:**
 
-[[Phillipp Stephan]]
+[[producers/Phillipp Stephan]]
 [[Jules Ahoi]]

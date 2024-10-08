@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/45QNsjeIIrXzQd0JODHLk2
 **Related artists:**
 
 [[Bosca]]
-[[David Alexi]]
-[[Iraklis Kokkinos]]
+[[producers/David Alexi]]
+[[producers/Iraklis Kokkinos]]
 [[Vega]]

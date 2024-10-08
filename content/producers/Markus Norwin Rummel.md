@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3g5sj05kKI7mbvWtRTQ4nk
 **Related artists:**
 
 [[Ricardo Muñoz]]
-[[Patrick Pyke Salmy]]
+[[producers/Patrick Pyke Salmy]]
 [[Matthias Schweighöfer]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/35DktrGJSsQ0PszTqUCvPL
 
 **Related artists:**
 
-[[Ismar Suljic]]
+[[producers/Ismar Suljic]]
 [[Nullzweizwei]]

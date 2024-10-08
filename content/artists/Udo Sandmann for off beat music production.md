@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1xCHIsn1iPeVFjfQUW4lDp
 **Related artists:**
 
 [[Puhdys]]
-[[Dieter Birr]]
+[[producers/Dieter Birr]]
 [[André Kuntze]]

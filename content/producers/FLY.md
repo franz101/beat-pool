@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0iLrz6Kn2lQWMQHyK8d8IG
 
 **Related artists:**
 
-[[Ali Zuckowski]]
+[[producers/Ali Zuckowski]]
 [[Joy Denalane]]
 [[Sudwestdeutsche Philharmonie Konstanz]]
 [[Christoph Rehli]]

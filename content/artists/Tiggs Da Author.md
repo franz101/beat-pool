@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT
 
 **Related artists:**
 
-[[Farhad Samadzada]]
+[[producers/Farhad Samadzada]]
 [[Farhot]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0QTa6RN8COWF1LFq8tkrQa
 **Related artists:**
 
 [[Joy Denalane]]
-[[Richard Moore]]
+[[producers/Richard Moore]]
 [[Twin]]

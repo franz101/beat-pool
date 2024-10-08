@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/2llUqqEX4d5fk094apLsNc
 **Related artists:**
 
 [[Azad]]
-[[Farhad Samadzada]]
+[[producers/Farhad Samadzada]]
 [[Gentleman]]
-[[The Krauts (David Conen - Vincent von Schlippenbach - Dirk Berger)]]
+[[producers/The Krauts (David Conen - Vincent von Schlippenbach - Dirk Berger)]]
 [[Daddy Rings]]
 [[Marteria]]

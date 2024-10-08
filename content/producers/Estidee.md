@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0VlDj6AXMObX1dqUsyf74q
 [[KEZ]]
 [[Manuellsen]]
 [[MoTrip]]
-[[Sizzy]]
+[[producers/Sizzy]]
 [[Ali As]]
 [[KC Rebell]]

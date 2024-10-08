@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1cErjgD8Rf3u3DKfQB5CFS
 [[Samo104]]
 [[Saftboys]]
 [[Obi One]]
-[[Safyre]]
+[[producers/Safyre]]
 [[Günther Fresh]]
 [[Wena41]]
 [[Roup]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/1R8Pi1kUppuNWeqs8vy83j
 
 **Related artists:**
 
-[[Torsten Fluppi Scholz]]
+[[producers/Torsten Fluppi Scholz]]
 [[How To Loot Brazil]]
 [[Beatsteaks]]
 [[DJ Ultra]]
-[[Arnim Teutoburg-Weiß]]
-[[Moses Schneider]]
-[[Bernd Kurtzke]]
+[[producers/Arnim Teutoburg-Weiß]]
+[[producers/Moses Schneider]]
+[[producers/Bernd Kurtzke]]
 [[Thomas Götz]]

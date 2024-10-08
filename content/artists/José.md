@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5yvR5HPAZPBUYqpmch0OH6
 
 **Related artists:**
 
-[[Dennis Kopacz]]
-[[Marcus Wuest]]
+[[producers/Dennis Kopacz]]
+[[producers/Marcus Wuest]]
 [[Mine]]

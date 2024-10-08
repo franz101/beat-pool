@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6S6FRKeKvwgFyKeIj0x0tc
 **Related artists:**
 
 [[102 Boyz]]
-[[77]]
+[[producers/77]]

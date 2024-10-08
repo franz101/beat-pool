@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/7btarWoKEG5z3ndq0g4XFQ
 **Related artists:**
 
 [[Almany]]
-[[Notsag]]
+[[producers/Notsag]]
 [[DLA]]
 [[Marlo]]
 [[Lunico]]
-[[Kostas Karagiozidis]]
-[[Nihlo Beats]]
+[[producers/Kostas Karagiozidis]]
+[[producers/Nihlo Beats]]

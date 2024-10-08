@@ -19,6 +19,6 @@ url: https://open.spotify.com/artist/6iIil052wIpMYhauYLYOOu
 [[Lina Maly]]
 [[ERRdeKa]]
 [[Herr von Grau]]
-[[Stefan Kraatz]]
+[[producers/Stefan Kraatz]]
 [[Goldroger]]
-[[Jim Hickey]]
+[[producers/Jim Hickey]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6b2qqDj8YkNgVChm8OXaR2
 
 **Related artists:**
 
-[[Marcus Waibel]]
+[[producers/Marcus Waibel]]
 [[Tocotronic]]
-[[Klaus Thiemann]]
+[[producers/Klaus Thiemann]]

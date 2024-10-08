@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/34ZfGLqtrqgQbzEzoO4oLd
 
 **Related artists:**
 
-[[Sebastian Wernke-Schmiesing]]
+[[producers/Sebastian Wernke-Schmiesing]]
 [[Lara Loft]]

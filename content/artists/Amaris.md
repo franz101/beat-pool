@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/5Cby3TBIyKpNkvYlJVTDT4
 [[Kool Savas]]
 [[Nico Suave]]
 [[Franky Kubrick]]
-[[PH7]]
+[[producers/PH7]]
 [[Petzke]]
 [[Moe Mitchell]]

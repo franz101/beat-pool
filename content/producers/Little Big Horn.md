@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7txyo6pwMysPZOYQhr9RAP
 
 **Related artists:**
 
-[[Camarro]]
+[[producers/Camarro]]
 [[Nino de Angelo]]

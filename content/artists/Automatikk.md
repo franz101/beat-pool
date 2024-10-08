@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/190Qcd935tzMS5RXjd5dUG
 
 [[Kitty Kat]]
 [[Massiv]]
-[[Markus Simon]]
+[[producers/Markus Simon]]
 [[B-Tight]]
 [[Silla]]
 [[Freshmaker]]

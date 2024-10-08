@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5VJAAVvD7bCtwlPIDxc5Dj
 
 [[Rocco]]
 [[BASS-T]]
-[[S. Gruhnwald]]
+[[producers/S. Gruhnwald]]

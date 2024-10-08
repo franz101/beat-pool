@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1mIOBuf3ex9LZ7FP8jPe0P
 
 **Related artists:**
 
-[[Tony Brown]]
-[[Jochen Niemann]]
+[[producers/Tony Brown]]
+[[producers/Jochen Niemann]]
 [[Samy Deluxe]]
-[[Van Der Zorn]]
-[[Nigel Asher]]
-[[Ninjaneer]]
+[[producers/Van Der Zorn]]
+[[producers/Nigel Asher]]
+[[producers/Ninjaneer]]

@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/1pKpE7UEX941iyx7hIglfm
 [[Weser Allstars]]
 [[Jörg Müller]]
 [[Curse]]
-[[Plattenpapzt]]
+[[producers/Plattenpapzt]]

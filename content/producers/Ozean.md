@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5A1E4jk6ae4jVJ9fXFWR1y
 
 **Related artists:**
 
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]
 [[Cro]]
-[[Egokind]]
+[[producers/Egokind]]

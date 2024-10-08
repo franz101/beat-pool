@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1qXnjQaXKqkm01PwH13Mn0
 **Related artists:**
 
 [[Julian le Play]]
-[[Matthias Oldofredi]]
-[[Nicolas Rebscher]]
+[[producers/Matthias Oldofredi]]
+[[producers/Nicolas Rebscher]]
 [[Lena]]

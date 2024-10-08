@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/06uc8CRUOv6SUH9Z3VBjwv
 
 **Related artists:**
 
-[[Reinhold Heil]]
-[[Nena Kerner]]
-[[Derek von Krogh]]
+[[producers/Reinhold Heil]]
+[[producers/Nena Kerner]]
+[[producers/Derek von Krogh]]
 [[Nena]]

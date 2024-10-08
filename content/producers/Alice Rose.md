@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5cqyYu3GNG0eoqZLZDV8JV
 **Related artists:**
 
 [[2raumwohnung]]
-[[Gabriel Ananda]]
+[[producers/Gabriel Ananda]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]

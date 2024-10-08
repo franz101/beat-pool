@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6mUjbb9eMEXtOS9oSPwYjg
 
 **Related artists:**
 
-[[db Pure]]
+[[producers/db Pure]]
 [[Rob Money]]
 [[DJs From Mars]]
 [[Lori Glori]]
 [[BoomTown]]
-[[Tom Cut aka Thomas Schauerte]]
+[[producers/Tom Cut aka Thomas Schauerte]]

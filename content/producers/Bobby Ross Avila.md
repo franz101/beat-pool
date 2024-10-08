@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6VpZD6SRjh5ZurP9tw4qso
 
 **Related artists:**
 
-[[IZ]]
+[[producers/IZ]]
 [[Leela James]]

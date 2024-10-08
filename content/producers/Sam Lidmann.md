@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2dgUD7bZdFLhw84yzj3cIp
 **Related artists:**
 
 [[2raumwohnung]]
-[[Dan Caster]]
+[[producers/Dan Caster]]
 [[Umami]]
-[[nga Humpe]]
-[[Tommi Eckart]]
+[[producers/nga Humpe]]
+[[producers/Tommi Eckart]]
 [[Inga Humpe]]
-[[Robert Helms]]
+[[producers/Robert Helms]]

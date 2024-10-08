@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/50mm3EwYHgVXJRGeELUdR0
 
 **Related artists:**
 
-[[Syndicate Musicproduction]]
+[[producers/Syndicate Musicproduction]]
 [[Andrea Berg]]
-[[Al King]]
-[[Alexs White]]
-[[Alexander Strasser]]
+[[producers/Al King]]
+[[producers/Alexs White]]
+[[producers/Alexander Strasser]]

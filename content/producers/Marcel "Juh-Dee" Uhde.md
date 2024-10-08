@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3Fg6uPpQaH2a1OUDCN6EkM
 
 **Related artists:**
 
-[[Patrick Salmy]]
-[[Robin Grubert]]
-[[Patrick Pyke Salmy]]
-[[Melvin "Mesh" Schmitz]]
-[[Samuele Frijo]]
+[[producers/Patrick Salmy]]
+[[producers/Robin Grubert]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Melvin "Mesh" Schmitz]]
+[[producers/Samuele Frijo]]
 [[Bausa]]
 [[Adel Tawil]]
 [[PEACHY]]

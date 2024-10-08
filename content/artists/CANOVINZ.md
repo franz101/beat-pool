@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/65cJJQVqiLEJiG0SAGX1R0
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1316a34f645cd747a73a5aa5)
 **Related artists:**
 
-[[PAIX]]
+[[producers/PAIX]]
 [[SOTT]]
-[[Alfo]]
+[[producers/Alfo]]
 [[JIGGO]]

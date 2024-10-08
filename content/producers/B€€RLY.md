@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1Jl9vPtmELSOlSCmThSsjQ
 
 [[Bangs]]
 [[AOB]]
-[[WAYN]]
+[[producers/WAYN]]

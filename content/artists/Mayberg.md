@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4e4cad569c8b510bcb626ef4)
 **Related artists:**
 
-[[Robin Abresch]]
+[[producers/Robin Abresch]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6wir4sNNhG3CuKj00Wid5i
 **Related artists:**
 
 [[Donato]]
-[[Screwaholic]]
+[[producers/Screwaholic]]

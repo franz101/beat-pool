@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/59vTsKMWo4VjGFzGT50rbi
 
 **Related artists:**
 
-[[Frank Becking]]
+[[producers/Frank Becking]]
 [[Extrabreit]]

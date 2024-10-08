@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2
 
 **Related artists:**
 
-[[Wooshy]]
+[[producers/Wooshy]]
 [[Bangs]]
 [[LUVRE47]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2nvS7RpBDIuovrsKjpbYOt
 **Related artists:**
 
 [[TaiMO]]
-[[DarkoBeats]]
+[[producers/DarkoBeats]]
 [[Ringo111]]

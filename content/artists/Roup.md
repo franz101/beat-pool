@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/4CefnAzNdEVwdyYMcTTbvf
 [[Gork30]]
 [[Saftboys]]
 [[Fazho41]]
-[[Bovskey]]
+[[producers/Bovskey]]
 [[Obi One]]
 [[Günther Fresh]]
 [[Al Majeed]]

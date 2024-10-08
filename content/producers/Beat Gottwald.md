@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4KGh9i3BuMRjciTM16dHwQ
 
 **Related artists:**
 
-[[Grzegorz Olszowka]]
+[[producers/Grzegorz Olszowka]]
 [[K.I.Z]]

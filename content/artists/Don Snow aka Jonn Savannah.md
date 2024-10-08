@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1ccCrhJYSp3nUmD1Hq1CFg
 
 **Related artists:**
 
-[[Michi Beck]]
+[[producers/Michi Beck]]
 [[Die Fantastischen Vier]]
 [[Dj Thomilla]]

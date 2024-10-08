@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4xYVAJD7KWUnRZQDse8HxU
 **Related artists:**
 
 [[Peter Maffay]]
-[[Johnny Tame]]
+[[producers/Johnny Tame]]

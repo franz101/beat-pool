@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3FEuUUi7NockfqCX3syMVg
 **Related artists:**
 
 [[Gestört aber GeiL]]
-[[Jona Selle]]
+[[producers/Jona Selle]]
 [[JONA]]
-[[Fabian Leibrock]]
-[[Nico Wendel]]
+[[producers/Fabian Leibrock]]
+[[producers/Nico Wendel]]

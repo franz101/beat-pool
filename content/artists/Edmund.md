@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0605fwhsaoXYehKQV8u4GQ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3662ec883951e5173b0cb38b)
 **Related artists:**
 
-[[Josua Palmanshofer]]
+[[producers/Josua Palmanshofer]]

@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/00m7xyzrUZso2V1VDkkGIs
 [[Martin Jondo]]
 [[Seeed]]
 [[Mellow Mark]]
-[[Krutsch]]
+[[producers/Krutsch]]

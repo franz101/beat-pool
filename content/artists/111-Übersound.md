@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7Dq0XVN9IN50ujqylYHmhJ
 
 **Related artists:**
 
-[[Scaletta]]
+[[producers/Scaletta]]
 [[Punch Arogunz]]

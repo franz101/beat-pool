@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7c70de9caaf142b86e97ceca)
 **Related artists:**
 
-[[Fez]]
+[[producers/Fez]]
 [[Stefanie Heinzmann]]

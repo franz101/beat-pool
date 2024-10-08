@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1t4GheOcQihVJqBfBgJPuZ
 **Related artists:**
 
 [[Born]]
-[[Drumz N' Roses]]
+[[producers/Drumz N' Roses]]
 [[Lean]]
 [[Twin]]

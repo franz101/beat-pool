@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/4HLsYiuVF7XJSk4QUwjUVy
 
 [[Modus]]
 [[Lucky]]
-[[Aphem]]
+[[producers/Aphem]]
 [[Beko]]
 [[Teuterekordz]]

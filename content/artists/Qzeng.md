@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/2741XFBjSCs37MjhGaGkKT
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb14e715a129c24c0719e27ea1)
 **Related artists:**
 
-[[Salistylezz]]
+[[producers/Salistylezz]]
 [[DEDO]]
-[[Mydas Morris]]
-[[Sali]]
+[[producers/Mydas Morris]]
+[[producers/Sali]]
 [[Lil Lano]]
 [[Ezi]]
-[[Dennzell]]
-[[Doki]]
+[[producers/Dennzell]]
+[[producers/Doki]]

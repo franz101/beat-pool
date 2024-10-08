@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4WVIzSmbW9YVjX6cUhVg8e
 
 **Related artists:**
 
-[[Chima Onyele]]
+[[producers/Chima Onyele]]
 [[Elmo]]
 [[Chima]]
 [[MoTrip]]

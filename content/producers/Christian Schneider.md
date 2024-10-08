@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4slWHmABX8gicbPg9im3wq
 
 **Related artists:**
 
-[[Oliver Momm]]
+[[producers/Oliver Momm]]
 [[Extrabreit]]
-[[Schneider]]
+[[producers/Schneider]]

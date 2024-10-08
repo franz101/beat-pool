@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6oMJkmz5rpTaaVJRdRFmDC
 
 **Related artists:**
 
-[[Eric Philippi]]
-[[Stefan Kiessling]]
+[[producers/Eric Philippi]]
+[[producers/Stefan Kiessling]]
 [[EstA]]

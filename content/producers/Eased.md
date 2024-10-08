@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0uBC72uHR7aPf1FRIEYgt0
 
 **Related artists:**
 
-[[Rudeboy]]
-[[Based]]
+[[producers/Rudeboy]]
+[[producers/Based]]
 [[Seeed]]

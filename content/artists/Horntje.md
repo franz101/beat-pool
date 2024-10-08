@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3EDGl7TTxF2WKlKNNFTjb7
 **Related artists:**
 
 [[257ers]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

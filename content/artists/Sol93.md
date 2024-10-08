@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0Hk656ymiMT2oDLftaA7v8
 **Related artists:**
 
 [[Baba Rico]]
-[[Pengg]]
+[[producers/Pengg]]
 [[BIBIZA]]
 [[Danju]]
 [[Skofi]]

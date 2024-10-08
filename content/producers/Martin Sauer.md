@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3ZTpu9j3fR0ZTxeFY8bome
 
 **Related artists:**
 
-[[Dan Broatman]]
+[[producers/Dan Broatman]]
 [[Westernhagen]]
 [[Orchestre de l'Opéra de Lyon]]
 [[Kent Nagano]]

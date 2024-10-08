@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Hp86VoksHHo6pi0FkpjR2
 
 **Related artists:**
 
-[[Josh]]
-[[Tillmann Loch]]
+[[producers/Josh]]
+[[producers/Tillmann Loch]]
 [[Edin]]

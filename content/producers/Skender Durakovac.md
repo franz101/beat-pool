@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3QbsFA67fsl0ez1BoKHk5o
 
 **Related artists:**
 
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Meda]]
 [[Belah]]

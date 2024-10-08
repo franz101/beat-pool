@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7Ev1d269PDhHL5u98Eg5go
 
 **Related artists:**
 
-[[Loloo]]
+[[producers/Loloo]]
 [[Ra'is]]
-[[Sebolb]]
+[[producers/Sebolb]]

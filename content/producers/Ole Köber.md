@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5r5ieNXmgtXO7MvyuwCzlu
 
 **Related artists:**
 
-[[Marius Groeh]]
+[[producers/Marius Groeh]]
 [[Sarah Lombardi]]

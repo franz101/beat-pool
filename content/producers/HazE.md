@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7aImC9CETwqOu6t55QPrty
 
 **Related artists:**
 
-[[Paryobeats]]
+[[producers/Paryobeats]]
 [[Kidd Azzurra]]

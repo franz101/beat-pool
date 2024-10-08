@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3fj5o0WMPZGWoctmPhaLTQ
 
 **Related artists:**
 
-[[Bertram Engel]]
-[[Peter Keller]]
-[[Patrick Berger]]
+[[producers/Bertram Engel]]
+[[producers/Peter Keller]]
+[[producers/Patrick Berger]]
 [[Jean-Jacques Kravetz]]
 [[Peter Maffay]]
-[[Carl Carlton]]
-[[Pascal Kravetz]]
+[[producers/Carl Carlton]]
+[[producers/Pascal Kravetz]]

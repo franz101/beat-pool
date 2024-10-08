@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/10UAvp2UJa3NMRwdbZFHc7
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdd2767353399c3f678c954f4)
 **Related artists:**
 
-[[ThisisYT]]
-[[QM Beats]]
+[[producers/ThisisYT]]
+[[producers/QM Beats]]
 [[Undacava]]
 [[Pablokk]]
 [[AK AUSSERKONTROLLE]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5AopfDaOsC6ZCAt3Z8UgDM
 
 **Related artists:**
 
-[[Mario Petersen]]
-[[Erik Ruppel]]
+[[producers/Mario Petersen]]
+[[producers/Erik Ruppel]]
 [[Monet192]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

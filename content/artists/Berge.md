@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3ltKp0avmVSfjIvcn4dXcH
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd5cddb0c81f6a59dc920a92c)
 **Related artists:**
 
-[[Tim Morten Uhlenbrock]]
-[[Rocco Horn]]
-[[Johannes Saal]]
-[[Tobias Siebert]]
+[[producers/Tim Morten Uhlenbrock]]
+[[producers/Rocco Horn]]
+[[producers/Johannes Saal]]
+[[producers/Tobias Siebert]]

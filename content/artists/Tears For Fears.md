@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU
 ![Artist](https://i.scdn.co/image/bc544c27be5e8b1f6b555ee3e9ad14e4be972a18)
 **Related artists:**
 
-[[David Bascombe]]
+[[producers/David Bascombe]]

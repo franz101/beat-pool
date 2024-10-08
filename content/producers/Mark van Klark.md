@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5wbzYbTTueHSqkJatlowNP
 
 **Related artists:**
 
-[[Tobias Dinter]]
+[[producers/Tobias Dinter]]
 [[Oli. P]]
-[[Tyron Tyne]]
+[[producers/Tyron Tyne]]

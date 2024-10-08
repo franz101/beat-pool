@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4GW0cgBjHS74SfunycUFLe
 **Related artists:**
 
 [[YONII]]
-[[Oli Nova]]
+[[producers/Oli Nova]]

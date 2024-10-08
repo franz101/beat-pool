@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2MJeG1nlWTTJIMZsteGcEj
 **Related artists:**
 
 [[Summer Cem]]
-[[Geenaro & Ghana Beats]]
-[[Tigran]]
-[[PRODDXDEK]]
+[[producers/Geenaro & Ghana Beats]]
+[[producers/Tigran]]
+[[producers/PRODDXDEK]]

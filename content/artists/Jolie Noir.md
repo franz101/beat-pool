@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7HKOlZd1su8dxvoAGZ0xv8
 
 **Related artists:**
 
-[[R. Reis]]
+[[producers/R. Reis]]
 [[Dave Ramone]]
-[[F.Leidig]]
-[[K.Grunwald]]
+[[producers/F.Leidig]]
+[[producers/K.Grunwald]]

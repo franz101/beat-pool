@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/64PiD6gdmMy2lEgS5XgdjR
 **Related artists:**
 
 [[L_cio]]
-[[Alan Abrahams]]
+[[producers/Alan Abrahams]]

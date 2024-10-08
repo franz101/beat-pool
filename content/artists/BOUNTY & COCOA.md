@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb35304fe8844cb5cc9adff38a)
 **Related artists:**
 
-[[Ronald MackDonald]]
-[[Yekta]]
-[[Youssef exclusive]]
-[[DRAM41]]
+[[producers/Ronald MackDonald]]
+[[producers/Yekta]]
+[[producers/Youssef exclusive]]
+[[producers/DRAM41]]

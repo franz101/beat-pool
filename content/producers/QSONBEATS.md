@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5QnAFjyiqvWzclErRAES4y
 
 **Related artists:**
 
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Nu51]]
 [[Luciano]]

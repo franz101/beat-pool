@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5Ys1cgp6tsiKPprhG2nltE
 
 **Related artists:**
 
-[[Droopy Goldberg]]
+[[producers/Droopy Goldberg]]
 [[Kwam E.]]
 [[Das Bo]]
 [[Flo Mega]]

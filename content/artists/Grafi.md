@@ -30,7 +30,7 @@ url: https://open.spotify.com/artist/4jRv3qtzeL84qq9uU8cE08
 [[Klatsche]]
 [[Hugo Nameless]]
 [[ZOMBIEZ]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[Feind]]
 [[dop]]

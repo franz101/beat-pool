@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg
 
 **Related artists:**
 
-[[Therapy 2093]]
+[[producers/Therapy 2093]]
 [[Haftbefehl]]
-[[Fantomm]]
+[[producers/Fantomm]]

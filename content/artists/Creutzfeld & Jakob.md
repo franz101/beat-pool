@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3gvagMuGkWPOLxYqiwBfc6
 
 [[Criss Krass]]
 [[RAG]]
-[[Mr. Wiz]]
+[[producers/Mr. Wiz]]

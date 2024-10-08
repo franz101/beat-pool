@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/4KnSsrzI7K7PPuYyrdUmHH
 
 **Related artists:**
 
-[[Josef Bach]]
-[[Alexander Knolle]]
+[[producers/Josef Bach]]
+[[producers/Alexander Knolle]]
 [[Ricardo Muñoz]]
-[[Kurt Stolle]]
-[[Patrick Pyke Salmy]]
+[[producers/Kurt Stolle]]
+[[producers/Patrick Pyke Salmy]]
 [[Matthias Schweighöfer]]
-[[Alex Knolle]]
-[[Arne Schumann]]
+[[producers/Alex Knolle]]
+[[producers/Arne Schumann]]

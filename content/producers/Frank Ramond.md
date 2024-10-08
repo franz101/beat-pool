@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/3LMsmQp1beLUMSocKbrafT
 
 **Related artists:**
 
-[[Matthias Hass]]
+[[producers/Matthias Hass]]
 [[Jörn Heilbut]]
-[[Martin Lingnau]]
-[[Michael Hansing]]
+[[producers/Martin Lingnau]]
+[[producers/Michael Hansing]]
 [[Jörn Heilbutt]]
 [[Maite Kelly]]
-[[Hardy Kayser]]
+[[producers/Hardy Kayser]]
 [[Udo Lindenberg]]
 [[Barbara Schöneberger]]
 [[Annett Louisan]]

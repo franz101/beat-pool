@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/14vpPUcjNK1PRQakYlIZkj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0434ed94e4c4eb75ecb8ebc8)
 **Related artists:**
 
-[[Kid Berry]]
+[[producers/Kid Berry]]
 [[Multilingual Mike]]
 [[MXM]]
 [[Toni Starter]]
 [[Haszcara]]
 [[Sketchone]]
 [[Cheddar Mike]]
-[[Score34]]
+[[producers/Score34]]
 [[AzudemSK]]
 [[Waving The Guns]]
 [[Dr Durstig]]

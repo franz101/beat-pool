@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7ezmfZjlduWYSuMblGODFZ
 
 **Related artists:**
 
-[[Leon Tiepold]]
+[[producers/Leon Tiepold]]
 [[Nazar]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4fvrnSbC2lDOQPsBOAtz40
 
 **Related artists:**
 
-[[Unknown]]
-[[Sebastian Weiss]]
+[[producers/Unknown]]
+[[producers/Sebastian Weiss]]
 [[Blumentopf]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7Hbof0AxqHkclQrFd6cOZI
 
 [[Pulsedriver]]
 [[Primax]]
-[[Matthias Gehrmann]]
-[[Marshall Mc Luhen]]
+[[producers/Matthias Gehrmann]]
+[[producers/Marshall Mc Luhen]]
 [[DJ Yanny]]

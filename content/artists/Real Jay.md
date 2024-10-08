@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/4kYSFezqvwYqfPXW4gM9LS
 [[Jonesmann]]
 [[Ebony Prince]]
 [[Azad]]
-[[IZ]]
+[[producers/IZ]]
 [[Lunafrow]]
 [[PBC]]

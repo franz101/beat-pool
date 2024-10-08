@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1KiNsBHJte2NL9dNjiw1ye
 
 **Related artists:**
 
-[[Sinch]]
+[[producers/Sinch]]
 [[Disarstar]]

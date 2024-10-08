@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/400Pvw11xd7pr8CcM77zjO
 
 **Related artists:**
 
-[[Danny Thieke]]
+[[producers/Danny Thieke]]

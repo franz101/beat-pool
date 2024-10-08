@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP
 
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]
 [[Jerome]]
 [[Gestört aber GeiL]]
-[[Oliver Pum]]
+[[producers/Oliver Pum]]
 [[KAYEF]]
-[[Fabian Leibrock]]
-[[Nico Wendel]]
-[[Oliver Kleissle]]
+[[producers/Fabian Leibrock]]
+[[producers/Nico Wendel]]
+[[producers/Oliver Kleissle]]
 [[Topic]]
 [[Anstandslos & Durchgeknallt]]
 [[JONA]]
 [[Maria Dürrling]]
 [[Ambre Vallet]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

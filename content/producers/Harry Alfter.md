@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/1eTezFd0EkF4HZdeKAukgW
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Florian Silbereisen]]
 [[Querbeat]]
 [[Klaus "Major" Heuser]]
 [[Helmuth Rüssmann]]
 [[Jürgen Zeltinger]]
 [[Eko Fresh]]
-[[Sebastian Simmich]]
+[[producers/Sebastian Simmich]]
 [[Helmuth Rüßmann]]
 [[Chris Thompson]]
 [[Brings]]

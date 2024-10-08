@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1ma80fxNeltWKn0zDxBaaa
 
 **Related artists:**
 
-[[Hamed Anousheh]]
+[[producers/Hamed Anousheh]]
 [[Luciano]]

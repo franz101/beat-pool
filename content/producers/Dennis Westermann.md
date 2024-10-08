@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0HPGpIilSUB12Ylid92YKR
 **Related artists:**
 
 [[Noeleven]]
-[[Hauke Quaer]]
+[[producers/Hauke Quaer]]
 [[Punch Arogunz]]
 [[BEKA]]
 [[Kasi Abz!]]

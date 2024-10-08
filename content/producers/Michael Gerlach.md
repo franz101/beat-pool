@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0pB3lX8uPvDGDBXN6gADlV
 **Related artists:**
 
 [[PA Sports]]
-[[Mike Tenner]]
+[[producers/Mike Tenner]]

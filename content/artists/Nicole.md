@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1C5PhB7zfGmDKaYLLt5GYZ
 
 **Related artists:**
 
-[[Robert Jung]]
-[[Ralph Siegel]]
+[[producers/Robert Jung]]
+[[producers/Ralph Siegel]]
 [[Stereoact]]

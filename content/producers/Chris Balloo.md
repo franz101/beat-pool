@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6hgdgtcE0nxIEiv6YqBxFF
 **Related artists:**
 
 [[Jalil]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Fler]]

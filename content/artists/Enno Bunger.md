@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/0aiAgFPJcZggIkSUGDFdkD
 **Related artists:**
 
 [[Fortuna Ehrenfeld]]
-[[Roland Meyer de Voltaire]]
-[[Tobias Siebert]]
-[[Daniel Holtz]]
+[[producers/Roland Meyer de Voltaire]]
+[[producers/Tobias Siebert]]
+[[producers/Daniel Holtz]]
 [[Oliver Zülch]]

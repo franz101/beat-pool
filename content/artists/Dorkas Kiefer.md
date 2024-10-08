@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5iO8dfRVYTv3V9P1S1H29w
 **Related artists:**
 
 [[Jean-Jacques Kravetz]]
-[[Steffi Stephan]]
+[[producers/Steffi Stephan]]
 [[Udo Lindenberg]]
-[[Pascal Kravetz]]
+[[producers/Pascal Kravetz]]

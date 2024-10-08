@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3LyBtja1Skvegq8dyPTJCL
 
 **Related artists:**
 
-[[Jens Herbst]]
-[[Berndt Jasenko]]
+[[producers/Jens Herbst]]
+[[producers/Berndt Jasenko]]

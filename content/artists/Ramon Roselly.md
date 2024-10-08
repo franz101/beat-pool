@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4IGHrMehf0qXOHkKxECWAn
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0544e0f743d448f27269a187)
 **Related artists:**
 
-[[Dieter Bohlen]]
-[[Jeo]]
+[[producers/Dieter Bohlen]]
+[[producers/Jeo]]

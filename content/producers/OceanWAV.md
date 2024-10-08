@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3nl0qbdJm0EGQfmLv0XTgV
 
 **Related artists:**
 
-[[Raymatic]]
+[[producers/Raymatic]]
 [[Ardian Bujupi]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Noah]]
-[[NIZA]]
+[[producers/NIZA]]
 [[Jeyz]]
 [[CALO]]

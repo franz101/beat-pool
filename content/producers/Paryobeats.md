@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2aqVB4P1gUyasWK3ipeN4e
 
 **Related artists:**
 
-[[HazE]]
+[[producers/HazE]]
 [[Kidd Azzurra]]

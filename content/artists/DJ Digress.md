@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/46EiB9OQ5vqNZJS8Iclk7z
 
 [[Renè Küpper]]
 [[Pulsedriver]]
-[[Dennis Horstmann]]
+[[producers/Dennis Horstmann]]

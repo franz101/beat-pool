@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1qbGanqIZfxkbMz7RLzwkx
 
 **Related artists:**
 
-[[DannyRomeBeats]]
+[[producers/DannyRomeBeats]]
 [[overshiaat]]
 [[Yung Vision]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6UnvX7Zx85VNjOpLdaq49W
 
 **Related artists:**
 
-[[Hight-Hat]]
+[[producers/Hight-Hat]]
 [[Azad]]
-[[Brisk Fingaz]]
+[[producers/Brisk Fingaz]]
 [[Kool Savas]]
 [[Moe Mitchell]]

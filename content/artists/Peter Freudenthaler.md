@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/3SnvOujgWJPTUuXbcpykZ0
 
 [[Nelson Müller]]
 [[Pur]]
-[[Hartmut Engler]]
+[[producers/Hartmut Engler]]
 [[Otto Waalkes]]
-[[Martin Ansel]]
+[[producers/Martin Ansel]]
 [[die travelling Homeboys]]
 [[Stefan Waggershausen]]
 [[Tobias Künzel]]

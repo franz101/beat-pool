@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/650blPhpj24aloFTk941L3
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebad13674791d7438658238b56)
 **Related artists:**
 
-[[Joost Jellema]]
+[[producers/Joost Jellema]]
 [[Jumpa]]
 [[Moe Phoenix]]
 [[Hayki]]

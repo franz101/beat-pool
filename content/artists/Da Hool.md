@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0wOXK4GjUAFUDhd7mvKBbW
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe209f1f7c426a7d99e9b0a3c)
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[Patrick Pöhl]]
-[[Frank Tomiczek]]
+[[producers/Frank Tomiczek]]
 [[Harris & Ford]]

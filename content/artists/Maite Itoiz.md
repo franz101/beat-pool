@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7ytblVHDSwkYoTMBTUGXdz
 **Related artists:**
 
 [[Elfenthal]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

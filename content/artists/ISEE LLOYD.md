@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/6nIjyjkSTSLEjl6qjwx538
 **Related artists:**
 
 [[Mo$art]]
-[[ISEE JULEZ]]
+[[producers/ISEE JULEZ]]
 [[ISEE FRANKY]]

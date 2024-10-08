@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6aY6pzGrPZqwiEwLxrAbgm
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Quarterhead]]
-[[Junkx]]
+[[producers/Frans Zimmer]]
+[[producers/Quarterhead]]
+[[producers/Junkx]]
 [[Jordan Powers]]
 [[Alle Farben]]

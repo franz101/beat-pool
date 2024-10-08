@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4LpkegTyTURU7Ia88Cl8CS
 
 **Related artists:**
 
-[[Mike Zimmer]]
+[[producers/Mike Zimmer]]
 [[Cr7z]]

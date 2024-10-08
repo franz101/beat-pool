@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6IYlKOG7xx9hHyxUpbgqdu
 
 **Related artists:**
 
-[[Wolfgang Stach]]
+[[producers/Wolfgang Stach]]
 [[Mo-Torres]]

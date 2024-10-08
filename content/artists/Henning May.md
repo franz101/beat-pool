@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe4e2920d1a6eb49eee07e24b)
 **Related artists:**
 
-[[Kev'beats]]
+[[producers/Kev'beats]]
 [[Juju]]
-[[Nico Seyfrid]]
-[[Gee Futuristic]]
-[[Krutsch]]
-[[Moses Schneider]]
+[[producers/Nico Seyfrid]]
+[[producers/Gee Futuristic]]
+[[producers/Krutsch]]
+[[producers/Moses Schneider]]
 [[K.I.Z]]

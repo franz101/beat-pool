@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3RZZuDUZb9uJLQZHWGa4SD
 
 [[$OHO BANI]]
 [[Monk]]
-[[Bobby San]]
+[[producers/Bobby San]]
 [[OKKI]]

@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/5tnBvlSSCNHIWS5IvOlnE8
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf76fdd0af17964f418cc0f9a)
 **Related artists:**
 
-[[Michael Herberger]]
-[[Tobias Jundt aka Monsieur Bonaparte]]
+[[producers/Michael Herberger]]
+[[producers/Tobias Jundt aka Monsieur Bonaparte]]
 [[Erdmöbel]]
-[[Tobias Kuhn]]
-[[Mathias Grosch]]
-[[Ian Davenport]]
-[[Pola Roy assisted by Jan Wagner]]
+[[producers/Tobias Kuhn]]
+[[producers/Mathias Grosch]]
+[[producers/Ian Davenport]]
+[[producers/Pola Roy assisted by Jan Wagner]]

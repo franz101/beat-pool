@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a
 **Related artists:**
 
 [[Capo]]
-[[Simes Branxons]]
-[[Abaz]]
-[[Iad Aslan]]
+[[producers/Simes Branxons]]
+[[producers/Abaz]]
+[[producers/Iad Aslan]]
 [[Fler]]
-[[Maxe]]
+[[producers/Maxe]]
 [[Farid Bang]]

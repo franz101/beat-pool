@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/20ZUOewlSW8L3sAvhZEd9m
 **Related artists:**
 
 [[Nico Santos]]
-[[X-Plosive]]
+[[producers/X-Plosive]]
 [[Edin]]
-[[Abaz]]
+[[producers/Abaz]]

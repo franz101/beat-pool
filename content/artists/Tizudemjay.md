@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6ApmJSWnKDmV7N4GW975mm
 
 **Related artists:**
 
-[[HARDY]]
+[[producers/HARDY]]
 [[SLAV]]
-[[Palazzo]]
+[[producers/Palazzo]]

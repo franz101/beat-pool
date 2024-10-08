@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6DDY9bsV9J5NJ3NYvEk9dU
 
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[snice1]]
 [[Ish]]

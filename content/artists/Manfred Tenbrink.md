@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2UrO7k4GveZX7SHloZ5xbX
 
 **Related artists:**
 
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Matthias Reim]]

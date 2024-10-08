@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/5KEG80gLanLNi7G7OUp5WD
 **Related artists:**
 
 [[Stephan Remmler]]
-[[Berger & Seeed's Illvibe and Based feat. the incredible Seeed Horns]]
+[[producers/Berger & Seeed's Illvibe and Based feat. the incredible Seeed Horns]]
 [[Peter Fox]]
 [[The Incredible Seeed Horns]]
-[[Based]]
+[[producers/Based]]
 [[Berger]]
-[[Mon'K]]
+[[producers/Mon'K]]

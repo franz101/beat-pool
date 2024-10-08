@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5sYGii996s6UM0kxK9rJvZ
 
 **Related artists:**
 
-[[Direct]]
+[[producers/Direct]]

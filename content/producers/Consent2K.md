@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/4ABZ62UoneOAt6pTi9sP8U
 
 **Related artists:**
 
-[[Stunner]]
+[[producers/Stunner]]
 [[Freezy TFS]]
 [[Lil Lano]]
 [[Edo Saiya]]
-[[LC]]
+[[producers/LC]]
 [[Joeldemora]]
-[[mtwenty]]
-[[ignazeng]]
+[[producers/mtwenty]]
+[[producers/ignazeng]]
 [[negatiiv OG]]
-[[Nashi]]
-[[YUNG RVIDER]]
+[[producers/Nashi]]
+[[producers/YUNG RVIDER]]
 [[Haze]]
 [[Sierra Kidd]]

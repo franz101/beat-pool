@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4PFpxBwaj0vYnOEMXKJWoz
 **Related artists:**
 
 [[YONII]]
-[[Tanoh Adjobi Saint Pierre aka Panda]]
-[[Ayodeji Olatunde Olowu aka Cracker Mallo]]
+[[producers/Tanoh Adjobi Saint Pierre aka Panda]]
+[[producers/Ayodeji Olatunde Olowu aka Cracker Mallo]]
 [[Seri Gnonegnon Cédric Aimé aka Knavaro]]

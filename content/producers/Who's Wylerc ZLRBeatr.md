@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4fdH8GTtjKWaCkuHJ04ES8
 **Related artists:**
 
 [[MERO]]
-[[Lucas Depetti]]
+[[producers/Lucas Depetti]]

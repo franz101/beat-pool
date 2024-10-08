@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/0M1DwfrhV5eVBSf4MTKCYu
 **Related artists:**
 
 [[Pulsedriver]]
-[[Crew]]
+[[producers/Crew]]
 [[Crew & TM]]
 [[Ezco 44]]

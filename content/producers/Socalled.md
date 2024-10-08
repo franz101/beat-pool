@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6TxeOSc6lI9ntMfnQDFI67
 
 [[Bazzazian]]
 [[Samy Deluxe]]
-[[DJ Vito]]
+[[producers/DJ Vito]]

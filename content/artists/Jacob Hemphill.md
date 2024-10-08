@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b
 
 **Related artists:**
 
-[[The Evolution]]
+[[producers/The Evolution]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]

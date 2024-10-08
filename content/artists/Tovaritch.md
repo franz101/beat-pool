@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6SjpwkrjfsNRKajDG4rDbJ
 
 **Related artists:**
 
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[LX]]

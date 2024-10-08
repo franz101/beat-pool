@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/11THvU74jdlvnucEje1z5c
 **Related artists:**
 
 [[LEA]]
-[[X-Plosive]]
-[[Pascal 'Kalli' Reinhardt]]
-[[Abaz]]
+[[producers/X-Plosive]]
+[[producers/Pascal 'Kalli' Reinhardt]]
+[[producers/Abaz]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1Ng0qy0bxT6w8fZitGQYHC
 
 **Related artists:**
 
-[[Michel "Lindgren" Schulz]]
-[[Melanie Joy Fontana]]
+[[producers/Michel "Lindgren" Schulz]]
+[[producers/Melanie Joy Fontana]]
 [[KAYEF]]

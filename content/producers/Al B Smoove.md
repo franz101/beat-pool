@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/09aU5fNmyKrimUI27F3Eb3
 
 **Related artists:**
 
-[[Funke]]
-[[rythm]]
+[[producers/Funke]]
+[[producers/rythm]]
 [[Ufo361]]
 [[The Cratez]]
-[[Hurtboyag]]
+[[producers/Hurtboyag]]

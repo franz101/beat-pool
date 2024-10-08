@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6fSgYfksBEet11eROYF6En
 
 **Related artists:**
 
-[[Sebastian Zang]]
+[[producers/Sebastian Zang]]
 [[Teamtrouble]]
-[[Sebastian Bussenius]]
+[[producers/Sebastian Bussenius]]

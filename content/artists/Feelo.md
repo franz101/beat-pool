@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0XRns05AvjV3CcQUTCW5gD
 
 **Related artists:**
 
-[[John Dyke]]
+[[producers/John Dyke]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5pMCIxnnLtvI2Fs0QksINZ
 
 **Related artists:**
 
-[[Fabian Strangl]]
+[[producers/Fabian Strangl]]
 [[Max Prosa]]
-[[Robert Stephenson]]
+[[producers/Robert Stephenson]]
 [[Milliarden]]
-[[Mirko Schaffer]]
+[[producers/Mirko Schaffer]]

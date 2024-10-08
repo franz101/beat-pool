@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1Aui2LfiQKAzgPgH1XGPCP
 
 **Related artists:**
 
-[[Marvin P Jones III]]
+[[producers/Marvin P Jones III]]
 [[Strong Arm Steady]]
-[[Jason Smith]]
-[[Phonte Lyshod Coleman]]
+[[producers/Jason Smith]]
+[[producers/Phonte Lyshod Coleman]]

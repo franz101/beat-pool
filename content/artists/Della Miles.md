@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/58hyKn79oYUl3QLhcmOkoD
 
 **Related artists:**
 
-[[Kevin Bents]]
+[[producers/Kevin Bents]]
 [[Westernhagen]]

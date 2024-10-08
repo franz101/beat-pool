@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5ZkX93eB9jGjdSkBYps6Ps
 
 [[Farid Bang]]
 [[Kollegah]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Juh-Dee]]

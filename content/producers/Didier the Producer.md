@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5FDgXWrXm4pTpN29M2cVG2
 
 **Related artists:**
 
-[[Oli Nova]]
+[[producers/Oli Nova]]
 [[YONII]]

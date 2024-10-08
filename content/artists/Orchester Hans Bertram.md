@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7LQK3LMWqCUB2NRjRE6f3V
 **Related artists:**
 
 [[Chris Roberts]]
-[[Hans Bertram]]
+[[producers/Hans Bertram]]

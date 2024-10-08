@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6UAVEHPxq0MOtKQuNLhD2u
 
 **Related artists:**
 
-[[Christian Kohlhaas]]
+[[producers/Christian Kohlhaas]]
 [[Clueso]]
-[[Marcel Aue]]
-[[Paul Tetzlaff]]
-[[Philipp Milner]]
+[[producers/Marcel Aue]]
+[[producers/Paul Tetzlaff]]
+[[producers/Philipp Milner]]
 [[Martin Rödiger]]
-[[Christoph Bernewitz]]
+[[producers/Christoph Bernewitz]]

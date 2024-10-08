@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4Tx2C7wP9rygRbWgouzpAL
 
 [[Chris Cronauer]]
 [[Stereoact]]
-[[Rico Einenkel]]
+[[producers/Rico Einenkel]]

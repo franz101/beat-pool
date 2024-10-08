@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7kJ5iSXPMieoPdNZdcNyGq
 
 **Related artists:**
 
-[[Marvin Schink]]
+[[producers/Marvin Schink]]
 [[NARU]]
 [[Tom Hengst]]
-[[Gus34]]
+[[producers/Gus34]]

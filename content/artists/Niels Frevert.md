@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1yGWL2CV8dSOiFQwEGYDym
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5af7db9c042987d79a0e022e)
 **Related artists:**
 
-[[Trina Shoemaker]]
-[[Philipp Steinke]]
+[[producers/Trina Shoemaker]]
+[[producers/Philipp Steinke]]

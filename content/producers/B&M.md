@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3ycsGdAeu0mqCnyEupABpC
 
 **Related artists:**
 
-[[Chryziz]]
+[[producers/Chryziz]]
 [[Casar]]

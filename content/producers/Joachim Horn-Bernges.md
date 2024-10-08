@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/4ZLxE5G8mIvRdJHymZCwRv
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Kim Harding]]
-[[Oliver Statz]]
-[[Hans-Joachim Horn-Bernges]]
-[[Basic Team]]
-[[Elmar Kast]]
+[[producers/Oliver Statz]]
+[[producers/Hans-Joachim Horn-Bernges]]
+[[producers/Basic Team]]
+[[producers/Elmar Kast]]
 [[Nino de Angelo]]

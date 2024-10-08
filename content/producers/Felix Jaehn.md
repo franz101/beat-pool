@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Vincent Kottkamp]]
+[[producers/Vincent Kottkamp]]

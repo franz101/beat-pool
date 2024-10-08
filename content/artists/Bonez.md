@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7tWTFWIeUJFKucKbrnDfCf
 **Related artists:**
 
 [[Prezident]]
-[[Jay Baez]]
+[[producers/Jay Baez]]

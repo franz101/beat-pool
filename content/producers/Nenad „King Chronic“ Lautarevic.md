@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1xoTz8nGvKQxPED8voICuA
 
 [[King Chronic]]
 [[Brooklyn Bounce]]
-[[Dennis Bohn]]
+[[producers/Dennis Bohn]]

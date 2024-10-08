@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0uEz9KDYjiETvFilzvlWtc
 
 **Related artists:**
 
-[[Ollie Stan]]
-[[Peter Hoffmann]]
+[[producers/Ollie Stan]]
+[[producers/Peter Hoffmann]]
 [[Oli. P]]

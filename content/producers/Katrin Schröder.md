@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6IJXk2SnKfuUeO3phqoMCh
 
 [[Herbert Dreilich]]
 [[Thomas Natschinski]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Petra Zieger]]
 [[Achim Köllner]]

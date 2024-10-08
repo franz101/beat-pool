@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5jNmxPYz8QE5rYp4GDil8t
 **Related artists:**
 
 [[Sinan Caput]]
-[[DJ Nicon]]
+[[producers/DJ Nicon]]
 [[Kool Savas]]

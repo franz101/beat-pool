@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0YeIluqMsCUwn5NC3TG2iQ
 
 **Related artists:**
 
-[[Roger & Shorty]]
+[[producers/Roger & Shorty]]
 [[Gentleman]]
-[[Bobby Dixon]]
+[[producers/Bobby Dixon]]
 [[Luciano]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2x6m4RrCqYWXO5nlqL4IgC
 **Related artists:**
 
 [[GHØSTKID]]
-[[Sebastian Biesler]]
+[[producers/Sebastian Biesler]]
 [[In Extremo]]
-[[Sky van Hoff]]
-[[Phil Sunday]]
+[[producers/Sky van Hoff]]
+[[producers/Phil Sunday]]

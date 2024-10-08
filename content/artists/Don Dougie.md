@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4u58Xd5NT3x87geie89vx3
 
 **Related artists:**
 
-[[Rabauke]]
+[[producers/Rabauke]]
 [[B. Ekambi im Tonofen]]
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Deichkind]]
 [[Beginner]]
 [[Hamburg]]

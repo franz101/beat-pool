@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/0WGp0QQjiZLxuUbwmSXt4V
 **Related artists:**
 
 [[Macloud]]
-[[Deats]]
+[[producers/Deats]]
 [[Jamule]]
 [[Miksu - Macloud]]
 [[Miksu]]

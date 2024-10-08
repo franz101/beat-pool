@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3iE3iLBiJ4SVgNqa6JASfY
 
 **Related artists:**
 
-[[R.Rozay]]
+[[producers/R.Rozay]]
 [[WavyKaen]]
 [[LUIS]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1DPxNJACy4qUIv52B10Z0t
 **Related artists:**
 
 [[Young Mesh]]
-[[Ghanabeats]]
+[[producers/Ghanabeats]]
 [[Elias]]
 [[Summer Cem]]

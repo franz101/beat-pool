@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz
 **Related artists:**
 
 [[Lokua Kanza]]
-[[Bertram Engel]]
-[[Carl Carlton]]
+[[producers/Bertram Engel]]
+[[producers/Carl Carlton]]
 [[Yothu Yindi]]
 [[Peter Maffay]]
 [[Noa]]

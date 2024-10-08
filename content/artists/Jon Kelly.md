@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4O7bZLtqicd6S4bvZjZ96p
 
 **Related artists:**
 
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Nino de Angelo]]
 [[Chris Norman]]

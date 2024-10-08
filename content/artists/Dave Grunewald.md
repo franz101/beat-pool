@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/24DdWAQbMAtGy6qzXkBk9P
 
 **Related artists:**
 
-[[Monroe]]
+[[producers/Monroe]]
 [[Punch Arogunz]]

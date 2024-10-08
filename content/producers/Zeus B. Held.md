@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5to1zJGYOE6mJMOxACZRJR
 
 **Related artists:**
 
-[[Rainer Kipp]]
+[[producers/Rainer Kipp]]
 [[Ströer Bros.]]
 [[Udo Lindenberg]]
 [[Horst Königstein]]

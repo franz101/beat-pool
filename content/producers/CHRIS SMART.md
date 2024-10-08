@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6w6ahAnGe4OqzcL6b9uPyS
 **Related artists:**
 
 [[Mickie Krause]]
-[[Smiley Jay]]
+[[producers/Smiley Jay]]

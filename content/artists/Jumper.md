@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0TDEtwioDuR8EnfqbXAfHC
 
 **Related artists:**
 
-[[T.Fenske]]
+[[producers/T.Fenske]]
 [[ZIGGY X]]
-[[P. Wiechmann]]
+[[producers/P. Wiechmann]]

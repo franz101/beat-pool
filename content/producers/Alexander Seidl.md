@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/717c5JJ2C0Zdn4klnJem6E
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Oliver Statz]]
-[[Dieter Weidenfeld]]
+[[producers/Oliver Statz]]
+[[producers/Dieter Weidenfeld]]

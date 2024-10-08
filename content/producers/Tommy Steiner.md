@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/201FlRKlh0w3gKc8TAimdj
 
 **Related artists:**
 
-[[Walter J.W. Schmid]]
+[[producers/Walter J.W. Schmid]]
 [[Michelle]]

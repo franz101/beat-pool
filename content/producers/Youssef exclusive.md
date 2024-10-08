@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3nQMOt1Lh8iDDdYRN8Sud4
 
 **Related artists:**
 
-[[Ronald MackDonald]]
-[[Yekta]]
+[[producers/Ronald MackDonald]]
+[[producers/Yekta]]
 [[BOUNTY & COCOA]]
-[[DRAM41]]
+[[producers/DRAM41]]

@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/7y8W4zqv2eHP1D4Z96InIa
 **Related artists:**
 
 [[Nico Suave]]
-[[Kaos]]
+[[producers/Kaos]]
 [[J-Luv]]
 [[Samy Deluxe]]
 [[Eddy Soulo]]
-[[Rob Easy]]
-[[DJ Rocky]]
-[[Jaz-O]]
+[[producers/Rob Easy]]
+[[producers/DJ Rocky]]
+[[producers/Jaz-O]]
 [[Neo]]
 [[Dendemann]]

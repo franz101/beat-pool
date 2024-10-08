@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba657aa5506945d264e147244)
 **Related artists:**
 
-[[MESH]]
+[[producers/MESH]]
 [[Kollegah]]
 [[Farid Bang]]

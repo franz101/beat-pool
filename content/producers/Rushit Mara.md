@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Y0IMViUDR6NRmFV6mlbyP
 
 **Related artists:**
 
-[[Rilind Kokinaj]]
+[[producers/Rilind Kokinaj]]
 [[Miami Yacine]]
 [[Gökhan Güler]]

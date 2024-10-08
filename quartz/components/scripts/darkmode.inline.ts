@@ -1,5 +1,5 @@
 const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
-const currentTheme = localStorage.getItem("theme") ?? userPref
+const currentTheme = localStorage.getItem("theme") ?? "dark"
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
 const emitThemeChangeEvent = (theme: "light" | "dark") => {
@@ -26,7 +26,7 @@ document.addEventListener("nav", () => {
   }
 
   // Darkmode toggle
-  const themeButton = document.querySelector("#darkmode") as HTMLButtonElement
+  const themeButton = (document.querySelector("#darkmode")) as HTMLButtonElement
   themeButton.addEventListener("click", switchTheme)
   window.addCleanup(() => themeButton.removeEventListener("click", switchTheme))
 

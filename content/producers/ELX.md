@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0CLU1u2Pkjpq2VFluN6qPb
 **Related artists:**
 
 [[YY]]
-[[Brasco]]
+[[producers/Brasco]]
 [[Lucio101]]
 [[KALIM]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3guiXQQLP3bDvRPeUlnNCv
 
 **Related artists:**
 
-[[Kyree]]
+[[producers/Kyree]]
 [[SSIO]]
 [[Farid Bang]]

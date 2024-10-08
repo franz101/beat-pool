@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3BUFYGnAHbPkckac5sDe6G
 
 **Related artists:**
 
-[[Golow]]
+[[producers/Golow]]
 [[Flo Mega]]

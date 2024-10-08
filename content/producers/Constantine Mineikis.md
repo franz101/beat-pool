@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7ItZO7KitDVojfWZPrlt99
 
 **Related artists:**
 
-[[DJ Eule]]
+[[producers/DJ Eule]]
 [[mRo]]
 [[HeXer]]

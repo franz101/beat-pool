@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1l1BcTDX62ZvfVdk30D453
 
 **Related artists:**
 
-[[Constantin Krieg]]
+[[producers/Constantin Krieg]]
 [[JORIS]]

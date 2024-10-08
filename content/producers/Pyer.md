@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6482gPPYuop1I95HTrO9dq
 **Related artists:**
 
 [[DCVDNS]]
-[[WolfgangH]]
+[[producers/WolfgangH]]

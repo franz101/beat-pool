@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4lRlGwnpFo3iYfHRmowZtm
 
 **Related artists:**
 
-[[Henrik Miko]]
+[[producers/Henrik Miko]]
 [[Chefket]]
 [[Marsimoto]]
 [[Salsa 359]]

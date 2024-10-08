@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0sbQ1fc2ccUXTTHCAhAo8I
 
 **Related artists:**
 
-[[Kyree]]
+[[producers/Kyree]]
 [[Ali471]]
 [[Mert]]

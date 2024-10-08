@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5fQI5VS2k4v6ORLGipPys9
 **Related artists:**
 
 [[YONII]]
-[[Robin Hunt]]
-[[Dylan van Dael]]
+[[producers/Robin Hunt]]
+[[producers/Dylan van Dael]]

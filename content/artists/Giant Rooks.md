@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5f6880169b5233543d57902d)
 **Related artists:**
 
-[[Jochen Naaf]]
-[[Fabian Langer]]
+[[producers/Jochen Naaf]]
+[[producers/Fabian Langer]]
 [[AnnenMayKantereit]]
-[[David Maria Trapp]]
+[[producers/David Maria Trapp]]
 [[Razz]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]
 [[RIN]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

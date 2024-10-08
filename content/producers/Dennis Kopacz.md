@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/146MnArwWzVVbiixVQQxvG
 [[Sophie Hunger]]
 [[Mine]]
 [[Grossstadtgeflüster]]
-[[Marcus Wuest]]
+[[producers/Marcus Wuest]]
 [[José]]
 [[Dexter]]

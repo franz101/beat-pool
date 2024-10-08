@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2CHIVCXwUvENIxDFcGugWV
 **Related artists:**
 
 [[DJ Shog]]
-[[Abel Romez]]
+[[producers/Abel Romez]]
 [[Dario Rodriguez]]

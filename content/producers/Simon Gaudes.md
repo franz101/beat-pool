@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5gxVl6Evi5GbiqcvdiMaXa
 
 [[RAPK]]
 [[Nneka]]
-[[DJ Vito]]
+[[producers/DJ Vito]]
 [[Big Pat]]
 [[Samy Deluxe]]
 [[Kwam.E]]

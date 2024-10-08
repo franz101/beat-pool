@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7atHhpRquoPm0zyrxb7ctU
 **Related artists:**
 
 [[Ensemble Uferlos]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

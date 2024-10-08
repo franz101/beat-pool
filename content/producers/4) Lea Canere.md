@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6L53RdJXSZmOoi8EURD4T5
 
 **Related artists:**
 
-[[3) 7J]]
+[[producers/3) 7J]]
 [[Kollegah]]
-[[Freshmaker 2) Northside]]
+[[producers/Freshmaker 2) Northside]]

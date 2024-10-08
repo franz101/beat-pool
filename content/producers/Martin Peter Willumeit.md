@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/24aISuazrMLxJyLD4aOZVs
 
 **Related artists:**
 
-[[Jonas Nikolaus Lang]]
+[[producers/Jonas Nikolaus Lang]]
 [[Olexesh]]
-[[Leopold Ferdinand Schuhmann]]
+[[producers/Leopold Ferdinand Schuhmann]]
 [[Karen]]
-[[Haschim Elobied]]
+[[producers/Haschim Elobied]]

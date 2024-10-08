@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4j4GliEhcLc1ushrdrdwOs
 **Related artists:**
 
 [[Nils Davis]]
-[[Provo]]
+[[producers/Provo]]
 [[Mike Martn]]
 [[Dawid DST]]
 [[Tschappy]]

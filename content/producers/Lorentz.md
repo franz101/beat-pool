@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2QDnY1LY2mnzeeKGZLHoc7
 
 **Related artists:**
 
-[[Pluto]]
+[[producers/Pluto]]
 [[OMG]]
-[[Quantich]]
+[[producers/Quantich]]

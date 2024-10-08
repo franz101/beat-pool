@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/13DmWkA6JY3WEjikQVKrRQ
 
 **Related artists:**
 
-[[Erik Ruppel]]
-[[Leon Krol]]
+[[producers/Erik Ruppel]]
+[[producers/Leon Krol]]
 [[Monet192]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

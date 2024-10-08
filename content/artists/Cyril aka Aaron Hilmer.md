@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/7wRBCd3OJhFcjFn5HDGrPa
 **Related artists:**
 
 [[LEA]]
-[[Biztram]]
-[[Djorkaeff]]
+[[producers/Biztram]]
+[[producers/Djorkaeff]]

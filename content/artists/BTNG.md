@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/6cEgg5LusRPDempyGkrOBH
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Shadow030]]
 [[Maximilian Diehn]]
 [[Bonez MC]]
 [[RAF Camora]]
 [[Kontra K]]
-[[Hijackers]]
+[[producers/Hijackers]]
 [[Crackaveli]]
 [[Ufo361]]
 [[The Cratez]]

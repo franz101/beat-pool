@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/16rfiZrUbpoIJKqvJjbOk1
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba86409380e727e5d8af9471f)
 **Related artists:**
 
-[[Max Rieger]]
-[[Max Gruber]]
-[[Patrik Majer]]
+[[producers/Max Rieger]]
+[[producers/Max Gruber]]
+[[producers/Patrik Majer]]
 [[Casper]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

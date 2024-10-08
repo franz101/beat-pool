@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb4733828566de31e9dcfd363)
 **Related artists:**
 
-[[Jan Rohrbach]]
+[[producers/Jan Rohrbach]]
 [[Alin Coen]]
 [[Danilo Guilherme]]
 [[Janis Görlich]]
-[[Dorothea Kehr]]
+[[producers/Dorothea Kehr]]
 [[Konstantin Wecker]]
 [[Hannes Wader]]
 [[Max Prosa]]
@@ -28,5 +28,5 @@ url: https://open.spotify.com/artist/4r6pmr8iusCbyG0TSi6Aga
 [[Karl die Große]]
 [[Uta Köbernick]]
 [[Die Stadtpiraten]]
-[[Dan Raphael]]
+[[producers/Dan Raphael]]
 [[Francesco Wilking]]

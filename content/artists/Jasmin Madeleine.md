@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4O6uuklGnSFjRtPW2dlp7e
 
 **Related artists:**
 
-[[Kashu]]
+[[producers/Kashu]]
 [[Alpa Gun]]

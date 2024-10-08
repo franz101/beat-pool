@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/50pfSfDzjGG53orgnHtooR
 **Related artists:**
 
 [[Afrob]]
-[[DJ Friction]]
+[[producers/DJ Friction]]

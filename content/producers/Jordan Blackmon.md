@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/72QR1YEsmFLe19GMslm7oL
 **Related artists:**
 
 [[BLVTH]]
-[[Timothy Vickers]]
+[[producers/Timothy Vickers]]

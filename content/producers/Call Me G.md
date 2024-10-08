@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/1GkEzRncrhbHu16HMphOls
 **Related artists:**
 
 [[Snipe]]
-[[Suena]]
-[[Glazzy]]
-[[Lucry]]
-[[Synthetic]]
+[[producers/Suena]]
+[[producers/Glazzy]]
+[[producers/Lucry]]
+[[producers/Synthetic]]
 [[Kay One]]
-[[Yerry Divmond]]
+[[producers/Yerry Divmond]]
 [[Fero47]]

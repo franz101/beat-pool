@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2yfFCdkViQNXAeAVfunZDB
 **Related artists:**
 
 [[Elen]]
-[[Kiko Masbaum]]
-[[Christian Neander]]
+[[producers/Kiko Masbaum]]
+[[producers/Christian Neander]]

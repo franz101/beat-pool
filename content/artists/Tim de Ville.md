@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2LNiZ2gZjiToon31qUap1X
 **Related artists:**
 
 [[Axel Jäger]]
-[[Sebastian Wernke-Schmiesing]]
+[[producers/Sebastian Wernke-Schmiesing]]
 [[Sinan Kurtulus]]

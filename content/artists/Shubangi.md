@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/6bUBiOMQO89SyiN5eEJeYG
 [[AzudemSK]]
 [[Mighty Maigl]]
 [[derkalavier]]
-[[Shubangi Beppo]]
+[[producers/Shubangi Beppo]]

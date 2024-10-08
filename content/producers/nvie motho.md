@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/0MIKZL4U4CKcRFsL3nSuAC
 [[LX]]
 [[Beatgees]]
 [[Maxwell]]
-[[Daniel Schreiber]]
+[[producers/Daniel Schreiber]]
 [[CÉLINE]]
 [[The Cratez]]
 [[Neonschwarz]]

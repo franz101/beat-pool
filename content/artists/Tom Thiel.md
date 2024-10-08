@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/46RugH2GzaBNhkxYOsZFLl
 
 **Related artists:**
 
-[[Tom Thiel (Bus)]]
+[[producers/Tom Thiel (Bus)]]
 [[Stephan Remmler]]

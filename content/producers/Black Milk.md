@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1nHVsCqfvyUiGiL2attn5s
 **Related artists:**
 
 [[Afrob]]
-[[Young RJ]]
+[[producers/Young RJ]]
 [[Samy Deluxe]]
 [[Max Herre]]

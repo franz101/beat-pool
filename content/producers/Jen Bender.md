@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1jCV63Pk2HQmmwRQM1sq0s
 **Related artists:**
 
 [[HGich.T]]
-[[Raphael Schalz]]
+[[producers/Raphael Schalz]]
 [[Danger Dan]]
-[[Ivan Georgiev]]
-[[Chriz Falk]]
+[[producers/Ivan Georgiev]]
+[[producers/Chriz Falk]]
 [[Grossstadtgeflüster]]

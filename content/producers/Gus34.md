@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1gAkYyHG4NFGpvJ9x5UcNl
 
 **Related artists:**
 
-[[Marvin Schink]]
-[[Kazondabeat]]
+[[producers/Marvin Schink]]
+[[producers/Kazondabeat]]
 [[NARU]]
 [[Kwam.E]]
 [[Tom Hengst]]

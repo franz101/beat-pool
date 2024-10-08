@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3RchITZuH8h2KAknFdBkR5
 
 **Related artists:**
 
-[[Donkong]]
+[[producers/Donkong]]
 [[toksi]]
 [[CONNY]]

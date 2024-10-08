@@ -24,7 +24,7 @@ url: https://open.spotify.com/artist/5KtE7saVxYtAEP8wWWA9hR
 [[Kitty Kat]]
 [[Amar]]
 [[Sinan Kurtulus]]
-[[Iron]]
+[[producers/Iron]]
 [[Tua]]
 [[Architekt]]
 [[Vega]]

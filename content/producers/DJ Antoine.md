@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6yTYR09WCvsgdnurDW4WQo
 
 **Related artists:**
 
-[[Fabio Antoniali]]
+[[producers/Fabio Antoniali]]
 [[Mad Mark]]
 [[Die Atzen]]
 [[ThatGurlHanna]]
 [[Culcha Candela]]
-[[H.anna M.ontana]]
+[[producers/H.anna M.ontana]]
 [[Julie Brown]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1MJdSOhQs2qzRuWccbmR69
 
 [[MaLu Project]]
 [[Tobias Böhm]]
-[[Hendrik Meyer]]
+[[producers/Hendrik Meyer]]
 [[Basslouder]]
 [[K Brown]]
 [[James Stefano]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5VjufAkJVm8RlrCg9K2mUo
 
 **Related artists:**
 
-[[Annette Humpe]]
-[[Boogieman]]
+[[producers/Annette Humpe]]
+[[producers/Boogieman]]
 [[Ich + Ich]]
-[[Florian Fischer]]
+[[producers/Florian Fischer]]
 [[Adel Tawil]]

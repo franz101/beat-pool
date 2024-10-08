@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2Od0s7uauMcYRw0ZSdswxf
 
 [[Pulsedriver]]
 [[David Puentez]]
-[[Yann Peifer]]
-[[Manuel Reuter]]
+[[producers/Yann Peifer]]
+[[producers/Manuel Reuter]]
 [[Otto Hype]]

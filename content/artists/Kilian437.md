@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/3GiYIhK651VVym0bSigtMD
 
 [[JulioMC]]
 [[Benni Bukkake]]
-[[Bavic]]
+[[producers/Bavic]]
 [[Obeez]]
 [[GlenGang 030]]

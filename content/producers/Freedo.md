@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2b6Cbp1cgD0hwisrGbKsZJ
 **Related artists:**
 
 [[Cro]]
-[[Shuko]]
+[[producers/Shuko]]

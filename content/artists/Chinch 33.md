@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/7cd4D0fCP6K8YBXLMKStxt
 **Related artists:**
 
 [[Lakmann]]
-[[HTN]]
+[[producers/HTN]]
 [[Brenk Sinatra]]
 [[Morlockk Dilemma]]
 [[Eloquent]]
-[[Cap Kendricks]]
+[[producers/Cap Kendricks]]
 [[Rooq]]
 [[Kool Savas]]
 [[Magic Mess]]

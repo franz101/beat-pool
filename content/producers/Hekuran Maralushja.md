@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5rxxbJjWXbhzg70Z3lnyba
 **Related artists:**
 
 [[Ra'is]]
-[[Erik Weeke]]
+[[producers/Erik Weeke]]
 [[NGEE]]

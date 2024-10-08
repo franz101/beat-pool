@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7LRLiUFfHo8M6GmuGfRUKv
 
 **Related artists:**
 
-[[Robert Nesta Nyawade]]
+[[producers/Robert Nesta Nyawade]]
 [[PA Sports]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Moe Mitchell]]
 [[Karen Firlej]]
 [[Olli Banjo]]

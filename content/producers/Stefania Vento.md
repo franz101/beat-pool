@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2ShxqaOm5h8GgH2irUtFoG
 
 **Related artists:**
 
-[[Gino Montesano]]
+[[producers/Gino Montesano]]
 [[Crystal Lake]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Pit Bailay]]

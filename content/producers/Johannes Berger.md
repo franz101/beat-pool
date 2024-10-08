@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4FWzE1262NRAj5IgKD4IVV
 
 **Related artists:**
 
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]
 [[Jürgen Drews]]

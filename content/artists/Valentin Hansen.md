@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/1KdINxvBLKSTG46eylkgDq
 
 [[Fynn Kliemann]]
 [[Delusion]]
-[[Deluison]]
+[[producers/Deluison]]
 [[Drunken Masters]]

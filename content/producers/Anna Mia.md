@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/20OwE0NWxZaKBMc20mQdo3
 
 **Related artists:**
 
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[KC Rebell]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Kurdo]]

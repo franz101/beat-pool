@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/0TnCGHQ95dhwRx7UPsDSMQ
 
 **Related artists:**
 
-[[G-Ko]]
+[[producers/G-Ko]]
 [[ZOMBIEZ]]
 [[Burgos]]
 [[Donvtello]]
 [[Crystal F]]
 [[MXP]]
-[[Psassa]]
+[[producers/Psassa]]

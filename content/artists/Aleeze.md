@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/684kKBESOKfXXRk1DWZrcT
 
 **Related artists:**
 
-[[Tribune]]
-[[Danny Fervent]]
+[[producers/Tribune]]
+[[producers/Danny Fervent]]

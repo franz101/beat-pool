@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B
 
 **Related artists:**
 
-[[Bradley Spence]]
+[[producers/Bradley Spence]]
 [[Michael Patrick Kelly]]
-[[Alex Beitzke]]
+[[producers/Alex Beitzke]]

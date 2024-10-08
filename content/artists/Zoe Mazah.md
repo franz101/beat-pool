@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4md7aRL1VkgiOk4SLhnvi1
 
 **Related artists:**
 
-[[Schallbau]]
+[[producers/Schallbau]]
 [[Laith Al-Deen]]

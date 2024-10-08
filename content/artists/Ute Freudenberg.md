@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/5GHk0LCz4eJEL6BDhHDQn6
 [[Stereoact]]
 [[André Kuntze]]
 [[Karat]]
-[[Ralf Rudnik]]
+[[producers/Ralf Rudnik]]

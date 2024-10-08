@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6oyrZ3bX74sBFUEgproE2d
 
 **Related artists:**
 
-[[Artem]]
+[[producers/Artem]]
 [[Sero]]
-[[Lars Wiedemann]]
-[[Iad Aslan]]
+[[producers/Lars Wiedemann]]
+[[producers/Iad Aslan]]
 [[Fero47]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/6pgfx4K1p1kT0RewXjmLfk
 **Related artists:**
 
 [[DJ Herzbeat]]
-[[SILVERJAM]]
-[[Ian Summers]]
-[[Denis Preston]]
+[[producers/SILVERJAM]]
+[[producers/Ian Summers]]
+[[producers/Denis Preston]]
 [[Roland Shaw]]

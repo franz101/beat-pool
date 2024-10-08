@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/60uvO99FASbDRneKyJtdEG
 
 [[Elen]]
 [[Benne]]
-[[Philip Krause]]
+[[producers/Philip Krause]]
 [[Gestört aber GeiL]]
 [[Nie und Nimmer]]
-[[Joschka Bender]]
-[[Frederik Sauer]]
+[[producers/Joschka Bender]]
+[[producers/Frederik Sauer]]

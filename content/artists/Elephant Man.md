@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on
 
 [[D-Flame]]
 [[Seeed]]
-[[P. Baigorry]]
+[[producers/P. Baigorry]]

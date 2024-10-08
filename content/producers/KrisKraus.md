@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6GrgyjDF2QPkB4ZtfEahcX
 
 **Related artists:**
 
-[[Artox]]
+[[producers/Artox]]
 [[LUNA]]
-[[Steffen Haussteiner]]
+[[producers/Steffen Haussteiner]]
 [[Sarah Bäder]]

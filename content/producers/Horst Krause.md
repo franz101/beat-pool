@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0cMbafKtQ7nHDX4eCSFTpH
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Ingfried Hoffmann]]
+[[producers/Ingfried Hoffmann]]

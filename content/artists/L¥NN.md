@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0TUKCNYzsamEirkfkgSPFT
 
 **Related artists:**
 
-[[IFG Beats]]
-[[Yannick Blaurock]]
+[[producers/IFG Beats]]
+[[producers/Yannick Blaurock]]
 [[Silla]]
-[[Diavo]]
+[[producers/Diavo]]

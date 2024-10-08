@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0Q6cu5i8Y9Tp6b1I36FR2P
 
 **Related artists:**
 
-[[Teyssandier Bertrand]]
+[[producers/Teyssandier Bertrand]]
 [[DJ Zornes]]

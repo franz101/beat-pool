@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5TncBe2iEazgQ75AgGKpNg
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Denis Litvinskij]]
-[[Tayfun Beytur]]
+[[producers/Denis Litvinskij]]
+[[producers/Tayfun Beytur]]
 [[Timeless]]

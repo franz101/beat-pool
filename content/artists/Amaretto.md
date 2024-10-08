@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4hAXa4rhZlL3MpYZB3ztb1
 **Related artists:**
 
 [[Mickie Krause]]
-[[Tokapi]]
+[[producers/Tokapi]]

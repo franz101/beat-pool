@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR
 
 **Related artists:**
 
-[[Sam Schlatow]]
-[[Frans Zimmer]]
-[[Richard Franke]]
+[[producers/Sam Schlatow]]
+[[producers/Frans Zimmer]]
+[[producers/Richard Franke]]
 [[Alle Farben]]

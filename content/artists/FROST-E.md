@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/2xNkY1jIQzUoejAdJtPt7L
 
 [[Holy Modee]]
 [[morten]]
-[[PALE1080]]
+[[producers/PALE1080]]
 [[twentyone]]

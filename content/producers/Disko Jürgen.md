@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1zsmlbmWWcHrxGTZn5s0vI
 **Related artists:**
 
 [[SLAV]]
-[[LOSTTOURIST]]
+[[producers/LOSTTOURIST]]

@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/3DBlBcMscBxftJPteXDboS
 
 [[Jonas Monar]]
 [[Beatgees]]
-[[Simon Triebel]]
+[[producers/Simon Triebel]]
 [[CÉLINE]]
 [[Adel Tawil]]
-[[Pascal Kalli Reinhardt]]
+[[producers/Pascal Kalli Reinhardt]]
 [[ELIF]]

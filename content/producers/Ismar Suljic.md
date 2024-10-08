@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1dqRE2L9yw66YVVPnQ60a9
 **Related artists:**
 
 [[Nullzweizwei]]
-[[Quentin Leo Boehnke]]
+[[producers/Quentin Leo Boehnke]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/76xhXA0WSzUzUzwMYkGhEW
 **Related artists:**
 
 [[Ramazan]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Olexesh]]
 [[Ajé]]
-[[Gee Futuristic]]
+[[producers/Gee Futuristic]]

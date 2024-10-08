@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4Aozl9CU6iOSBrNVmIFKyL
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc969773b2c5a629e8abd10ed)
 **Related artists:**
 
-[[Thomas Preuss]]
-[[Andreas Wendorf]]
+[[producers/Thomas Preuss]]
+[[producers/Andreas Wendorf]]
 [[Alex M.]]
 [[DJ Gollum]]
 [[Lars Gollum Böge]]

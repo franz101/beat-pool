@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6TI1DZegKPDQsPDrz2uJte
 
 **Related artists:**
 
-[[Moses Schneider]]
+[[producers/Moses Schneider]]
 [[Olli Schulz]]
 [[Der Hund Marie]]

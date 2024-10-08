@@ -1,0 +1,14 @@
+name = "quartz"
+type = "javascript"
+
+[[r2_buckets]]
+binding = "R2_BUCKET"
+bucket_name = "beat-pool-producer-map"
+preview_bucket_name = "beat-pool-producer-map"
+
+
+
+[[r2_buckets]]
+binding = "QUARTZ_BUCKET"
+bucket_name = "beat-pool"
+preview_bucket_name = "beat-pool"

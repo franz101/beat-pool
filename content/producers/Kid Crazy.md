@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6pBC5aRDQwUtywzDFYwYMc
 **Related artists:**
 
 [[Queensberry]]
-[[Pete Kirtley]]
+[[producers/Pete Kirtley]]

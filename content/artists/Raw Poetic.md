@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/0bFq0sqBE7i1056yjI7z5M
 [[Brous One]]
 [[Retrogott]]
 [[Blu]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Damu The Fudgemunk]]
 [[N. Hardem]]

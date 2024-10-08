@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/518gMupkZBXWZwGhCg4Zws
 
 **Related artists:**
 
-[[Jay'n Jay Music]]
+[[producers/Jay'n Jay Music]]
 [[Afrob]]

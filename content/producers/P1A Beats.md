@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/4RTFxSdiN072U2akWDjoCR
 **Related artists:**
 
 [[AK 33]]
-[[DJ JONES]]
+[[producers/DJ JONES]]
 [[DJ Jones]]
 [[2ara]]
-[[Kavo]]
-[[Bjet]]
+[[producers/Kavo]]
+[[producers/Bjet]]
 [[Olexesh]]
 [[Haze]]

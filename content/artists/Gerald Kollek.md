@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2wJz9WkWfYl5IoAxMzZdA5
 
 **Related artists:**
 
-[[Peter Ries]]
-[[Kurt Keinrath]]
+[[producers/Peter Ries]]
+[[producers/Kurt Keinrath]]

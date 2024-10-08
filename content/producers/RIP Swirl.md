@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2qKskILMPYdropXMRJhn0V
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[JACE]]

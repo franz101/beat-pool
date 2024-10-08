@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0ppkCRk5psyfNSjsGbj7Qb
 
 **Related artists:**
 
-[[O.L.A.F. Opal]]
+[[producers/O.L.A.F. Opal]]
 [[Frittenbude]]
 [[Jupiter Jones]]
-[[Sascha Eigner]]
+[[producers/Sascha Eigner]]

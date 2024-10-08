@@ -18,11 +18,11 @@ url: https://open.spotify.com/artist/5U7oeR8IrNE0wQ3nCEyyXF
 
 [[Mc Cheek]]
 [[One Am]]
-[[Icyy612]]
+[[producers/Icyy612]]
 [[Yin Kalle]]
 [[G17]]
 [[KazOnDaBeat]]
 [[get.home.safe]]
 [[jaynbeats]]
-[[Kaz]]
+[[producers/Kaz]]
 [[65Gambo]]

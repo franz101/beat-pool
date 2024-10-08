@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0samF4zrZODyb6gIowb4D3
 **Related artists:**
 
 [[Extrabreit]]
-[[Kit Woolven]]
+[[producers/Kit Woolven]]

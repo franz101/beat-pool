@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/7hVoi7crxYOHIayk4v9x4Q
 **Related artists:**
 
 [[Erobique]]
-[[Jan Philipp Janzen]]
+[[producers/Jan Philipp Janzen]]
 [[Edwyn Collins]]
 [[The Düsseldorf Düsterboys]]
 [[Kaiser Quartett]]

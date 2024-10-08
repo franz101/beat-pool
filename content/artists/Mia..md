@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/0ZSqrPwtvermKlwdjEAmjn
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4fcb9d647be56c3cfa8457be)
 **Related artists:**
 
-[[Nhoah]]
+[[producers/Nhoah]]
 [[Ian Pooley]]
 [[InnerSonic]]
 [[Felix Räuber]]
 [[Oliver Koletzki]]
-[[Melbeatz]]
-[[Mic Schroeder]]
+[[producers/Melbeatz]]
+[[producers/Mic Schroeder]]
 [[KLAN]]
-[[Stefan Heinrich Lenk]]
-[[Henrik Menzel]]
+[[producers/Stefan Heinrich Lenk]]
+[[producers/Henrik Menzel]]
 [[TANGOWERK]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

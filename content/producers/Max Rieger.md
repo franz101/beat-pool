@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5ElPCXUnmN0qvehePmsPzk
 **Related artists:**
 
 [[Drangsal]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

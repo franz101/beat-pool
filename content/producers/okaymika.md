@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5fpI0wNvC0a6HqRi5uwU3J
 
 **Related artists:**
 
-[[Valious]]
+[[producers/Valious]]
 [[Bount]]

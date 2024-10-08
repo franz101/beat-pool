@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3GDFPfbD5NPqFEfyvup4fS
 
 **Related artists:**
 
-[[Jens Schneider]]
-[[Nico Rebscher]]
-[[Daniel Flamm]]
-[[Jules Kalmbacher]]
+[[producers/Jens Schneider]]
+[[producers/Nico Rebscher]]
+[[producers/Daniel Flamm]]
+[[producers/Jules Kalmbacher]]
 [[KLAN]]
 [[Rola]]
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Mia.]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

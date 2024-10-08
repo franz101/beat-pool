@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP
 
 **Related artists:**
 
-[[Peerless]]
+[[producers/Peerless]]
 [[KAAS]]
 [[Laas Unltd.]]
 [[Caput]]

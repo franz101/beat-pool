@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5R2MvaRpsVDStz8pRkpyNz
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Chris Lass]]
-[[Philip Muller]]
+[[producers/Chris Lass]]
+[[producers/Philip Muller]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4EEWia4jMIjBj1Y9VtliSF
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb14776766079e70b19ef7bb98)
 **Related artists:**
 
-[[Dannyebtracks]]
-[[B.o. Beatz]]
-[[HNDRX]]
+[[producers/Dannyebtracks]]
+[[producers/B.o. Beatz]]
+[[producers/HNDRX]]
 [[Lil Lano]]
 [[King Khalil]]

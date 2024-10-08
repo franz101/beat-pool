@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4KcyoomAxJ8H0YB5pGLn0t
 
 **Related artists:**
 
-[[phreQuincy]]
-[[Tropf]]
+[[producers/phreQuincy]]
+[[producers/Tropf]]

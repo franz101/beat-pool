@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1mZjucgDtS1zahZj47ZDGk
 
 **Related artists:**
 
-[[Matthias Menck]]
-[[Nenad „King Chronic“ Lautarevic]]
+[[producers/Matthias Menck]]
+[[producers/Nenad „King Chronic“ Lautarevic]]
 [[King Chronic]]
 [[Brooklyn Bounce]]
 [[Thorsten Dücker]]
-[[Dennis Horstmann]]
+[[producers/Dennis Horstmann]]

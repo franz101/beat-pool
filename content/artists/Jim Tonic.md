@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/30mnyAFxCM3dQuum2IzbB2
 **Related artists:**
 
 [[Oser]]
-[[Reatsch]]
+[[producers/Reatsch]]
 [[Sorti Sikz]]
 [[Big Maxxx]]
 [[Silla]]

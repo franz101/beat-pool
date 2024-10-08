@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4jttO6E7njGWy1AbSm714O
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4ae0834926cbd1845b928cbb)
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Telly Tellz]]
-[[Korayzen]]
+[[producers/Korayzen]]
 [[Skew]]
 [[Kwam.E]]

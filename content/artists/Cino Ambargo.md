@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/4VdYjYdnVFzO5QaaZJlveG
 [[GPC]]
 [[Demonenpark]]
 [[Skinny Al]]
-[[Ghost]]
+[[producers/Ghost]]
 [[Kaisaschnitt]]

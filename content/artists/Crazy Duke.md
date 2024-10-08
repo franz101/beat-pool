@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5y94C2EjuaMxDh7rKWUHs3
 **Related artists:**
 
 [[Mickie Krause]]
-[[Michael Voss]]
-[[Smiley Jay]]
+[[producers/Michael Voss]]
+[[producers/Smiley Jay]]

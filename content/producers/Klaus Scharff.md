@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3984iknO05EH28wLPR1ZfW
 **Related artists:**
 
 [[Extrabreit]]
-[[Ingo Krauss]]
+[[producers/Ingo Krauss]]

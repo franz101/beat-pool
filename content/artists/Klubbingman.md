@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/7aLdm3fTrtk2XiP0GJeFHl
 
 **Related artists:**
 
-[[T. Schleh]]
-[[Naksi & Brunner]]
+[[producers/T. Schleh]]
+[[producers/Naksi & Brunner]]
 [[RainDropz!]]
-[[Andy Jay Powell]]
+[[producers/Andy Jay Powell]]
 [[Makszim]]
 [[Beatrix Delgado]]
-[[Tommy Schleh]]
+[[producers/Tommy Schleh]]
 [[Pulsedriver]]
 [[JAYBEE]]

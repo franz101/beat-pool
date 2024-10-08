@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/2JGPVhncy0b3jZisB3AEPF
 **Related artists:**
 
 [[Okfella]]
-[[Naeem Triplin]]
-[[beatsbyostin]]
+[[producers/Naeem Triplin]]
+[[producers/beatsbyostin]]
 [[Karden]]
 [[WQLFF]]
 [[Offline Boyz]]
-[[Clemens Dietrich]]
+[[producers/Clemens Dietrich]]

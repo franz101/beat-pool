@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1ig07M01LW1HHnBQ1cY0Dx
 **Related artists:**
 
 [[Zugezogen Maskulin]]
-[[Kenji,Simon]]
+[[producers/Kenji,Simon]]
 [[Falco]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

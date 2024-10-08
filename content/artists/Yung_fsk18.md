@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0t8tTBP2yAifrjJyjYtdox
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb23c046c184af6f5f29de19b6)
 **Related artists:**
 
-[[Amedeo Malagia]]
+[[producers/Amedeo Malagia]]
 [[AlphaMob]]

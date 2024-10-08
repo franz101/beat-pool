@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3NwLzwL7dYTiu8HiS4gISo
 
 **Related artists:**
 
-[[PATO]]
+[[producers/PATO]]
 [[Moe Phoenix]]

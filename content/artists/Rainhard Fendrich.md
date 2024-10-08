@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/4vWQjpI68kWBNkXOEbi1D6
 **Related artists:**
 
 [[Peter Maffay]]
-[[Bertram Engel]]
-[[Carl Carlton]]
+[[producers/Bertram Engel]]
+[[producers/Carl Carlton]]
 [[Peter Maffay und Band]]
 [[Gregor Rottschalk]]
-[[Tato Gomez]]
+[[producers/Tato Gomez]]

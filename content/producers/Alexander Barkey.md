@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/55M8z49RmolITslktGC6PZ
 
 **Related artists:**
 
-[[Hitimpulse]]
+[[producers/Hitimpulse]]
 [[Olexesh]]
 [[Azzi Memo]]

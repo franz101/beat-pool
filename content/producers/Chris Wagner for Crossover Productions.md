@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/12dWPTrLaX37LJryXuhhXl
 **Related artists:**
 
 [[H-Blockx]]
-[[Ralph Quick for Crossover Productions]]
+[[producers/Ralph Quick for Crossover Productions]]

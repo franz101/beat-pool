@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/1ESwLwrvuqXgWawgZz7dFj
 **Related artists:**
 
 [[Anja Lehmann]]
-[[Michael Herberger]]
+[[producers/Michael Herberger]]
 [[Dominik Wagner]]
 [[Felix Schüler]]
 [[DMMK]]
 [[O'Bros]]
 [[Veronika Lohmer]]
-[[Ruben Rodriguez Alarcon]]
-[[Joshua Linne]]
+[[producers/Ruben Rodriguez Alarcon]]
+[[producers/Joshua Linne]]
 [[Tammy Peters]]

@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/7DJdbB29adjy4JmwydHaSG
 
 **Related artists:**
 
-[[Claud]]
-[[Jules]]
+[[producers/Claud]]
+[[producers/Jules]]
 [[Götz Gottschalk]]
-[[Brix]]
+[[producers/Brix]]
 [[Italo Reno]]
 [[Gentleman]]
-[[Thomas Stolle]]
-[[Mathias Ramson]]
+[[producers/Thomas Stolle]]
+[[producers/Mathias Ramson]]
 [[Silbermond]]
-[[Iman Shahidi]]
+[[producers/Iman Shahidi]]
 [[Curse]]
 [[Ron Cazzato]]

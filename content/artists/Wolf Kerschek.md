@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4h0uutsMfgaQZz94AwF9uA
 **Related artists:**
 
 [[Helene Fischer]]
-[[Jean Frankfurter]]
+[[producers/Jean Frankfurter]]
 [[Wolf Kerschek Orchestra]]

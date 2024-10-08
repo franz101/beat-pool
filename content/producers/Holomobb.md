@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2nJWzEoCVuhVsP3j1X8nE5
 
 **Related artists:**
 
-[[Boumidjal X]]
-[[David Mems]]
+[[producers/Boumidjal X]]
+[[producers/David Mems]]
 [[Loredana]]

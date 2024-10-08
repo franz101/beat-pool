@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4Teqekxj6AZXQUlJIGB4q5
 
 **Related artists:**
 
-[[Mark Duran]]
+[[producers/Mark Duran]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

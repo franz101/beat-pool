@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/4GLKDqhKUJWilRbiBiwaHl
 [[Jennifer Weist]]
 [[Deorbiting]]
 [[Jennifer Rostock]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[Bad Paris]]
 [[Grossstadtgeflüster]]
 [[Amokkoma]]

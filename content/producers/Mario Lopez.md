@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6wYuko6Rzd8gus25o2ks76
 **Related artists:**
 
 [[Thomas Petersen]]
-[[Gainworx]]
+[[producers/Gainworx]]

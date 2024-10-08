@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5LWyxyqIJvP66P2IdeCEEF
 
 [[Capo]]
 [[Riccardo]]
-[[Jurij Gold]]
-[[Juri Gold]]
-[[Falconi]]
+[[producers/Jurij Gold]]
+[[producers/Juri Gold]]
+[[producers/Falconi]]

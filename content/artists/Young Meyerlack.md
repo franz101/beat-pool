@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5myzwn2vq9wGjQVyKo46ir
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb17b110670c841906a501ea58)
 **Related artists:**
 
-[[b&dbbb]]
+[[producers/b&dbbb]]

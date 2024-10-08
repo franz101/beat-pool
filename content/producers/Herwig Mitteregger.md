@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/69pEyg3oa7NGDrMoxd34hw
 
 **Related artists:**
 
-[[Reinhold Heil]]
+[[producers/Reinhold Heil]]
 [[Ulla Meinecke]]

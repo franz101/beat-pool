@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5GxBb9UbXBtjd6DUeres2L
 **Related artists:**
 
 [[Capo]]
-[[Veteran]]
+[[producers/Veteran]]
 [[Bex]]
 [[Azzi Memo]]
 [[Tommy]]
-[[Sott]]
+[[producers/Sott]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2vA8ubvVWLxpfM1U5DXzXq
 **Related artists:**
 
 [[Yung Hurn]]
-[[DJ Flip]]
+[[producers/DJ Flip]]
 [[Olexesh]]
 [[Casper]]

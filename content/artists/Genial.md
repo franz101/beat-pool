@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3kKbQAgCYP91qmNCZPYEUH
 
 **Related artists:**
 
-[[Dave Kelly]]
+[[producers/Dave Kelly]]
 [[Timmy G]]
 [[Sigi Di Collin]]

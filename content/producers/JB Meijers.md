@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1uKhiQS1fHFh3VUBR5cm75
 
 **Related artists:**
 
-[[Peter Keller]]
-[[Pascal Kravetz]]
+[[producers/Peter Keller]]
+[[producers/Pascal Kravetz]]
 [[Peter Maffay]]

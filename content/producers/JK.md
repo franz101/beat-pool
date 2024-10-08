@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0wVN3vEifjqiXAnp0G2PzQ
 **Related artists:**
 
 [[Nash]]
-[[Misc.Inc]]
+[[producers/Misc.Inc]]
 [[Jugglerz]]
 [[Noah]]
 [[AVO]]

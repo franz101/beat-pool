@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/59tGkpbXddUafUeFgZ9rIt
 **Related artists:**
 
 [[Germany]]
-[[Claud]]
-[[Busy]]
+[[producers/Claud]]
+[[producers/Busy]]
 [[Curse]]

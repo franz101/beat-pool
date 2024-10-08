@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6ThKRSpihtIxggE89U0fRb
 
 [[Young Gee]]
 [[Fatal]]
-[[Amaterasu]]
+[[producers/Amaterasu]]
 [[Kay One]]

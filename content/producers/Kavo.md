@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/76Q0JmDKLtP19IwAHbKMC7
 **Related artists:**
 
 [[Tec.94er]]
-[[Bjet]]
+[[producers/Bjet]]
 [[Olexesh]]
-[[DJ JONES]]
-[[P1A Beats]]
+[[producers/DJ JONES]]
+[[producers/P1A Beats]]
 [[2ara]]

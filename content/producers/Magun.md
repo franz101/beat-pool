@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7m8WgEVJsUqkIGMOZz6juK
 
 **Related artists:**
 
-[[Reen]]
+[[producers/Reen]]
 [[Reen & Magun]]

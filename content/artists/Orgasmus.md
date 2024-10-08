@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/5SwUgDKcVkA3riThvjleJA
 [[Defi]]
 [[MC Basstard]]
 [[Smokey Jones]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[Tony D]]
 [[Said]]
 [[Kalusha]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5ouuuAZVk1tSYmwIUduT5D
 
 [[AzudemSK]]
 [[Pöbel MC]]
-[[Kid Berry]]
+[[producers/Kid Berry]]

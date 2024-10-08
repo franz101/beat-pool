@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3ZgLgNkNG1H2ppPha7zQ0M
 
 [[OSAMA]]
 [[65Goonz]]
-[[Salim Abdoulaye]]
+[[producers/Salim Abdoulaye]]
 [[MaazaKayo]]

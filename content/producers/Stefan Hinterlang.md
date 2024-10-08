@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2WHzOUjB9Ic6SPurtcmKrd
 
 [[Silla]]
 [[Mimoza]]
-[[Christian Demay]]
+[[producers/Christian Demay]]

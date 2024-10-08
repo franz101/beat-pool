@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4N79yUUCBrhzBlKptvuiUD
 
 [[Arne Kopfermann]]
 [[Andreas Volz]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Sarah Kaiser]]
 [[Lothar Kosse]]

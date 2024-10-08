@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7ysJpWwTsZGrlVPeoakTHL
 
 **Related artists:**
 
-[[Fly Melodies]]
+[[producers/Fly Melodies]]
 [[RIN]]
 [[Minhtendo]]
 [[Luciano]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6TD4ou7lV21AoUI32JGp86
 
 **Related artists:**
 
-[[Pollensi]]
+[[producers/Pollensi]]
 [[Gentleman]]
 [[Summer Cem]]
 [[Patrice]]

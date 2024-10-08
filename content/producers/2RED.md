@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/0yIKlyhxi5G6xsd4iw1OQe
 
 [[Stan]]
 [[TaiMO]]
-[[DarkoBeats]]
+[[producers/DarkoBeats]]
 [[AchtVier]]
 [[Plusmacher]]
 [[De-Lor]]

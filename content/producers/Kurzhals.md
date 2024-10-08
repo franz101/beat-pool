@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Uuco5m6wvAPKsz0EGPxzA
 
 **Related artists:**
 
-[[Robert Schumann]]
-[[Dreilich]]
+[[producers/Robert Schumann]]
+[[producers/Dreilich]]
 [[Karat]]

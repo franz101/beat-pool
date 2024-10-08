@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2rVC7228MACwnpdIKNL35E
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb206a2bb9a2addca9f68eac3)
 **Related artists:**
 
-[[Thani]]
+[[producers/Thani]]
 [[Lyran Dasz]]
 [[LEXIKA]]
 [[Young Kira]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4Cwxs4xCDtuOXo6QC9th7I
 **Related artists:**
 
 [[3Plusss]]
-[[Peet]]
+[[producers/Peet]]
 [[Lance Butters]]

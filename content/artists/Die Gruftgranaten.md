@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5nLVvYWADWkRNl9a7RyAtr
 
 **Related artists:**
 
-[[Klaus Eberhartinger]]
+[[producers/Klaus Eberhartinger]]

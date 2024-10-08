@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4
 **Related artists:**
 
 [[Tom Astor]]
-[[Brent Maher]]
+[[producers/Brent Maher]]

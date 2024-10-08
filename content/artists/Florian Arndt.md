@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5wXLUqMXkmOgimb6P8a8me
 **Related artists:**
 
 [[OOMPH!]]
-[[Marcel Brell]]
+[[producers/Marcel Brell]]

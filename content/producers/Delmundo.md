@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6X7fu9faItGmssUKCPLuyg
 **Related artists:**
 
 [[Vengaboys]]
-[[Danski]]
+[[producers/Danski]]

@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/42A4L93m4ozPM5endJSnDg
 
 [[Chima Ede]]
 [[Holy Modee]]
-[[Artox]]
+[[producers/Artox]]
 [[Marvin Game]]
 [[CAZ]]
 [[Johny Space]]

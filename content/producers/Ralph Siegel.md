@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/6g8q7OychebhALjNUpfxDl
 [[Nicole]]
 [[Lena Valaitis]]
 [[Chris Roberts]]
-[[Robert Jung]]
+[[producers/Robert Jung]]
 [[Rex Gildo]]
 [[Udo Jürgens]]
 [[Stereoact]]

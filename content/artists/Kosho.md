@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2njb4piB2Lv7OIZxctc3hq
 
 **Related artists:**
 
-[[Michael Koschorreck]]
+[[producers/Michael Koschorreck]]

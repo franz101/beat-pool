@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2QjNnQg9QQEDjeQ1yrSMjR
 
 **Related artists:**
 
-[[Reverse]]
+[[producers/Reverse]]
 [[Ano]]
 [[Kiarash]]

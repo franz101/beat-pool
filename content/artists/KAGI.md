@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3Z0eM8HmIuDq0Yr4uMdYBX
 **Related artists:**
 
 [[TaiMO]]
-[[g-Time]]
+[[producers/g-Time]]

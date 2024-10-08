@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5LnCVsddGD74GGraZM24IM
 
 **Related artists:**
 
-[[Steven Garcia]]
+[[producers/Steven Garcia]]
 [[Sierra Kidd]]

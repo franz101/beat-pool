@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3mGZrv579vvRr0En1cQ24V
 **Related artists:**
 
 [[loufre]]
-[[Westt The Great]]
+[[producers/Westt The Great]]

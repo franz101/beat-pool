@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4vHwZWm22ocT8EQBh2htcj
 
 **Related artists:**
 
-[[Fabian Strangl]]
-[[Kevin Zaremba]]
-[[Peter "Jem" Seifert]]
+[[producers/Fabian Strangl]]
+[[producers/Kevin Zaremba]]
+[[producers/Peter "Jem" Seifert]]
 [[Wincent Weiss]]
-[[Alexander Freund]]
+[[producers/Alexander Freund]]

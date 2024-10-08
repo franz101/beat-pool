@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/67mBeOcaYRNKYKYybpW34D
 **Related artists:**
 
 [[CJ Stone]]
-[[Sven Blaikz Schwarz]]
+[[producers/Sven Blaikz Schwarz]]

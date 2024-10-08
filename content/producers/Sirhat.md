@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4F1zChuhPdVntDl054gRDi
 
 **Related artists:**
 
-[[LIA]]
+[[producers/LIA]]
 [[MERO]]

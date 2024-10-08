@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5nQTX3MTfDMrgUhLe4voOd
 **Related artists:**
 
 [[Giovanni Zarrella]]
-[[Christian Geller]]
+[[producers/Christian Geller]]

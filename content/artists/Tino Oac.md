@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0OrSgiKaWr8vDpvkABGoF4
 
 [[Azad]]
 [[Xavier Naidoo]]
-[[Cronite]]
-[[Tricky Cris]]
+[[producers/Cronite]]
+[[producers/Tricky Cris]]
 [[Daniel Stoyanov]]

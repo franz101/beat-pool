@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289)
 **Related artists:**
 
-[[Kristian Lundin]]
-[[Max Martin]]
-[[John Amatiello]]
+[[producers/Kristian Lundin]]
+[[producers/Max Martin]]
+[[producers/John Amatiello]]
 [[Nana Hedin]]
-[[Rami]]
+[[producers/Rami]]

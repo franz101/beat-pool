@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4yWoYXDDHEpAm5Dnx8Cgze
 **Related artists:**
 
 [[Arne Kopfermann]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Margarete Kosse]]
 [[Sarah Kaiser]]

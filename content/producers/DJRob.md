@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2j7FH1xhVtGYUnoQX2upDQ
 
 **Related artists:**
 
-[[Bjet]]
+[[producers/Bjet]]
 [[Sudden]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/5bdhYMc54SPMvRSRk3yCoO
 [[Pulsedriver]]
 [[André Pietschmann]]
 [[Tube Tonic]]
-[[Thomas Rother]]
+[[producers/Thomas Rother]]
 [[DJ Shandar]]

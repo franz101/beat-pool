@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/3RCOgmbS8WtFSMKQAholxE
 
 [[Jenny Thiele]]
 [[Das Orchester der Versöhnung]]
-[[Martin Bechler]]
+[[producers/Martin Bechler]]
 [[Fortuna Ehrenfeld]]
 [[Die Kapelle der Versöhnung]]

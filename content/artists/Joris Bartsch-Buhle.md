@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5b0zgMpzLoBjzXvXOs13nh
 
 [[Peter Maffay]]
 [[Bushido]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Sido]]
 [[23]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3EDllPZzA7Ipj53OWeArLe
 **Related artists:**
 
 [[Jörg Umbreit]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0To8tjDBkD8g2KMw2oGKT0
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebff0aed3e42f6e167d34ecc51)
 **Related artists:**
 
-[[PATO]]
+[[producers/PATO]]
 [[Moe Phoenix]]
-[[Bounce Brothas]]
-[[UNIK]]
+[[producers/Bounce Brothas]]
+[[producers/UNIK]]

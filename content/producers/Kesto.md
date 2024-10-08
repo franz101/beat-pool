@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3SIIjTJgAXWU1ZtJJ8pZPe
 [[Silla]]
 [[Eko Fresh]]
 [[Aliou]]
-[[Emmo]]
+[[producers/Emmo]]
 [[Milonair]]
 [[Neo]]

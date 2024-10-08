@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5KHHrqryLzpoCCKb7wuHlC
 **Related artists:**
 
 [[Oli. P]]
-[[Jan van der Toorn]]
-[[Oliver Petszokat]]
+[[producers/Jan van der Toorn]]
+[[producers/Oliver Petszokat]]

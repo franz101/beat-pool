@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6ZN2g1p21nbUORNWFIGArj
 
 **Related artists:**
 
-[[Animals Sons]]
+[[producers/Animals Sons]]
 [[Dezmond Dez]]

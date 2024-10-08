@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/4h5C6sI8KY0B0bpxUbRzRe
 [[Sarhad]]
 [[SAMY]]
 [[Ramo]]
-[[Zimzala]]
+[[producers/Zimzala]]
 [[Noah]]
 [[Eno]]
 [[Dani]]

@@ -19,7 +19,7 @@ url: https://open.spotify.com/artist/5u3pCSkmkWnwJ3LLEkfccG
 [[Okfella]]
 [[NOK1D]]
 [[Rara72]]
-[[A3]]
+[[producers/A3]]
 [[LIOR]]
 [[Antth3m]]
 [[Ratmir]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb195e91f9bc793a034084b15f)
 **Related artists:**
 
-[[Daniel Barbosa]]
+[[producers/Daniel Barbosa]]
 [[Frenzy]]
 [[Mia Julia]]
 [[Sabbotage]]

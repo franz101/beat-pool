@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc2f3c2db3aa6f86aa810f7d4)
 **Related artists:**
 
-[[Simon Gaudes]]
+[[producers/Simon Gaudes]]
 [[Götz Gottschalk]]
 [[JuJu Rogers]]
 [[Curse]]

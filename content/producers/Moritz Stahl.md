@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3kNI82DVyGGGiE1XdOCk2z
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Hazy Haze]]
-[[Derek von Krogh]]
+[[producers/Hazy Haze]]
+[[producers/Derek von Krogh]]
 [[Max Herre]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5K2hsD3DVMXMnRJshyvSzw
 
 **Related artists:**
 
-[[Dave King]]
+[[producers/Dave King]]
 [[Udo Lindenberg]]

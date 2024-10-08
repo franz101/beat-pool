@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0izDMIEr43RkllqUh5Za0D
 **Related artists:**
 
 [[Tonbandgerät]]
-[[Frank Pilsl]]
+[[producers/Frank Pilsl]]
 [[Lina Maly]]
 [[Cäthe]]
 [[Laith Al-Deen]]

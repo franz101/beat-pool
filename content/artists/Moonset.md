@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/54iz8bSHjU5Y8Ig6cPm6lm
 
 **Related artists:**
 
-[[Berndt Jesenko]]
+[[producers/Berndt Jesenko]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/2eC5wmuuYLEmlL4Nelr4Ry
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Silly]]
 [[Sasha]]
 [[die Home-Boys]]
 [[Lily]]
-[[Bernd Wendlandt]]
-[[Uwe Hassbecker]]
+[[producers/Bernd Wendlandt]]
+[[producers/Uwe Hassbecker]]
 [[Henning Wehland]]
-[[Ritchie Barton]]
+[[producers/Ritchie Barton]]
 [[Stefan Waggershausen]]

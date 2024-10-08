@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2prAh4KzsDvcusHgFmXUhd
 **Related artists:**
 
 [[Milka]]
-[[Florian Richter]]
+[[producers/Florian Richter]]
 [[band ohne namen]]

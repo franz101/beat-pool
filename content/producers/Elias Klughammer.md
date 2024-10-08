@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/76N9V3LZVtykYs10PZwHrE
 [[Manuellsen]]
 [[MoTrip]]
 [[Lito]]
-[[Michael Kristanec]]
-[[David Ruoff]]
+[[producers/Michael Kristanec]]
+[[producers/David Ruoff]]
 [[Sido]]

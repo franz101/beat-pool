@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/22fYdpDlgUvYaBbNI7rDTJ
 
 **Related artists:**
 
-[[Ningyuan Jiang]]
+[[producers/Ningyuan Jiang]]
 [[W.O.C.]]
 [[Mr. Reedoo]]
 [[Benedikt Schöller]]
-[[Timothy Auld]]
+[[producers/Timothy Auld]]
 [[Culcha Candela]]
-[[Sam Dick]]
-[[Mustardo On The Beat]]
+[[producers/Sam Dick]]
+[[producers/Mustardo On The Beat]]

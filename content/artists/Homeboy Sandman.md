@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5s1QeAf7U5ELP9PTeLaicb
 **Related artists:**
 
 [[Fink]]
-[[Denone]]
+[[producers/Denone]]
 [[DJ Koze]]

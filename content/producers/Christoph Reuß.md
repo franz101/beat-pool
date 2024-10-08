@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2jUrwP4MdyJ3gJ6PFM1pDY
 
 [[Liquit Walker]]
 [[Nils Kühme]]
-[[Lennard Oestmann]]
-[[Vecz]]
+[[producers/Lennard Oestmann]]
+[[producers/Vecz]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3Uv8IRBeZeQvOy75IO2csY
 
 [[Dinski]]
 [[Capital Bra]]
-[[Loloo]]
+[[producers/Loloo]]
 [[Ra'is]]
 [[Nimo]]
 [[NGEE]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/7IqJ0nbEAAUX7hkOn6Mzxt
 
 **Related artists:**
 
-[[Andriy Bakun]]
+[[producers/Andriy Bakun]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4Zt20mwx0XIcvxUglIfCDR
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb4a45e9a20252c9ddc91dcce)
 **Related artists:**
 
-[[Maximilian Schiele]]
+[[producers/Maximilian Schiele]]
 [[K-Fly]]

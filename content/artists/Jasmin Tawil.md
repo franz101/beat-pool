@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0ea7L1CoVcdIhuwTwiuDfX
 
 **Related artists:**
 
-[[Sebastian Kirchner]]
+[[producers/Sebastian Kirchner]]
 [[Adel Tawil]]

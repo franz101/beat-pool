@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/55Dp0kNJVtpKK5KlBZ70VA
 **Related artists:**
 
 [[Sondaschule]]
-[[Tim Kleinrensing]]
-[[Costa Cannabis]]
+[[producers/Tim Kleinrensing]]
+[[producers/Costa Cannabis]]

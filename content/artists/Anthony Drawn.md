@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1fef52ecf9cfdf783ced0c87)
 **Related artists:**
 
-[[Shahabedin Azodifar]]
-[[Jan Vetter]]
+[[producers/Shahabedin Azodifar]]
+[[producers/Jan Vetter]]
 [[Luk&Fil]]
 [[Knowsum]]
 [[Wun Two]]
@@ -30,10 +30,10 @@ url: https://open.spotify.com/artist/1TYsIU7QKwwZ3IieKIE6oo
 [[Nepumuk]]
 [[Grégoire Pignède]]
 [[Hiob]]
-[[I.L.L. Will]]
+[[producers/I.L.L. Will]]
 [[Hubert Daviz]]
 [[Negroman]]
-[[Georg Ziegler]]
+[[producers/Georg Ziegler]]
 [[Morlockko Plus]]
 [[FloFilz]]
 [[Ferdinand Schwarz]]

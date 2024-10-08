@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3G7gclomEts1zbwkAIAMmg
 
 [[Moritz Krämer]]
 [[Dota Kehr]]
-[[Jan Rohrbach]]
-[[Dorothea Kehr]]
+[[producers/Jan Rohrbach]]
+[[producers/Dorothea Kehr]]

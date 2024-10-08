@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4MdBZkOQ6grFkdnaoXczfH
 **Related artists:**
 
 [[Hanybal]]
-[[Saven]]
+[[producers/Saven]]
 [[makko]]
 [[MALIN]]
 [[Milonair]]

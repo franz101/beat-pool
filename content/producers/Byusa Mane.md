@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7MVdwAJQDlQ7zCcGcJcfxb
 
 **Related artists:**
 
-[[Georg G]]
+[[producers/Georg G]]
 [[Skinny Finsta]]

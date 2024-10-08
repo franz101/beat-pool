@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1faYX4gFLmtfLCFjQaCyxg
 
 **Related artists:**
 
-[[Ulrich Wehner]]
+[[producers/Ulrich Wehner]]
 [[Oli. P]]
 [[Thorsten Brötzmann]]

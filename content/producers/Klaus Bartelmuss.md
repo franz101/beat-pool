@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7ikawChmJxxPb2rE7TJsMA
 
 **Related artists:**
 
-[[Mathias Roska]]
+[[producers/Mathias Roska]]
 [[Andreas Gabalier]]
 [[Samu Haber]]

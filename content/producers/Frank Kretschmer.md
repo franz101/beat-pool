@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5qX5iMSeUqVYaNPW9yI88K
 
 **Related artists:**
 
-[[Tommy Remm]]
+[[producers/Tommy Remm]]
 [[Maite Kelly]]
-[[Ulf Sommer]]
-[[Anja Krabbe]]
+[[producers/Ulf Sommer]]
+[[producers/Anja Krabbe]]
 [[Michelle]]
 [[Peter Plate]]

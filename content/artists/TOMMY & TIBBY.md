@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6ESBxgKqB0CoTOLBG5UKle
 
 **Related artists:**
 
-[[T. Schleh]]
-[[S.Petrovic jr.]]
-[[E Zabler]]
+[[producers/T. Schleh]]
+[[producers/S.Petrovic jr.]]
+[[producers/E Zabler]]

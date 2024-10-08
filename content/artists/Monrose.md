@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6y5noymXdPvXf7wjIAgQOY
 
 **Related artists:**
 
-[[Christian 'thefatrat' Buettner]]
-[[Marcello "Cello" Pagin]]
+[[producers/Christian 'thefatrat' Buettner]]
+[[producers/Marcello "Cello" Pagin]]

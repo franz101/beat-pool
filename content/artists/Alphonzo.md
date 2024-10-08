@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/1MjqQCLL3ia8ChnUILfSVw
 
 **Related artists:**
 
-[[HTN]]
-[[Bengt Ott]]
-[[Alexander Materni]]
+[[producers/HTN]]
+[[producers/Bengt Ott]]
+[[producers/Alexander Materni]]
 [[Marie Antoinette]]
 [[Mono:Massive]]
 [[Figub Brazlevic]]
-[[Daniel Schatz]]
-[[Mario Radzom]]
-[[Classic Der Dicke]]
+[[producers/Daniel Schatz]]
+[[producers/Mario Radzom]]
+[[producers/Classic Der Dicke]]
 [[Netik Deputee]]

@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/7EwV1ry0wvOhnBQ9uNXhAg
 [[Asli]]
 [[Silla]]
 [[Manuellsen]]
-[[Adiq]]
-[[MENJU]]
+[[producers/Adiq]]
+[[producers/MENJU]]

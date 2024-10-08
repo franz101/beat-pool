@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4dvYh3jaN6mI2LTvsxxOSa
 **Related artists:**
 
 [[D3cay & R3lay]]
-[[Christian Bultze]]
+[[producers/Christian Bultze]]

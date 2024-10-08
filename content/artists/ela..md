@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/7hCkk48aIsK8myLaEbeXHx
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb292ce2e7526eff95709de431)
 **Related artists:**
 
-[[Nikolay Mohr]]
-[[Elzbieta Steinmetz]]
-[[Elzbieta Steinmetz (ela.)]]
-[[Truva]]
-[[Steffen Graef]]
-[[Vitali Zestovskih]]
+[[producers/Nikolay Mohr]]
+[[producers/Elzbieta Steinmetz]]
+[[producers/Elzbieta Steinmetz (ela.)]]
+[[producers/Truva]]
+[[producers/Steffen Graef]]
+[[producers/Vitali Zestovskih]]
 [[Anstandslos & Durchgeknallt]]
 [[Ali As]]
-[[ONEBYONE]]
+[[producers/ONEBYONE]]

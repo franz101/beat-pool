@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6OW9okQFNV2mMrMShJIJ5s
 
 **Related artists:**
 
-[[Michel "Lindgren" Schulz]]
-[[Kai Fichtner]]
+[[producers/Michel "Lindgren" Schulz]]
+[[producers/Kai Fichtner]]
 [[KAYEF]]

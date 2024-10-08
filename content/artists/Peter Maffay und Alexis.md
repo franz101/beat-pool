@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4OJTvlNqIHoPwPWVKkSVJA
 
 **Related artists:**
 
-[[Carl Carlton]]
-[[Bertram Engel]]
+[[producers/Carl Carlton]]
+[[producers/Bertram Engel]]

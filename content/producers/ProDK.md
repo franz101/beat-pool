@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/32YyMdygu4bsKONZ0TZh0J
 
 **Related artists:**
 
-[[Emiray]]
+[[producers/Emiray]]
 [[Neem]]
 [[Enemy]]
-[[Exlplenty]]
+[[producers/Exlplenty]]

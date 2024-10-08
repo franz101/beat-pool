@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/33w7izdshH5x3tv1vS1Hvy
 
 **Related artists:**
 
-[[Paul Tetzlaff]]
+[[producers/Paul Tetzlaff]]
 [[Clueso]]
 [[Martin Rödiger]]
-[[Marcel Aue]]
+[[producers/Marcel Aue]]
 [[Pohlmann.]]
-[[Ralf Christian Mayer]]
+[[producers/Ralf Christian Mayer]]

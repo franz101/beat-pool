@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2kYa0PzRw1pj6mOUUAe9L5
 
 **Related artists:**
 
-[[Becker]]
+[[producers/Becker]]
 [[Karat]]
-[[Jim Voxx]]
+[[producers/Jim Voxx]]

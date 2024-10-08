@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6XjQpRtAHuI5lRqQwwz3DO
 
 **Related artists:**
 
-[[R.A. Jung]]
+[[producers/R.A. Jung]]
 [[Dr. Ring Ding]]
-[[Konya Schmechel]]
+[[producers/Konya Schmechel]]

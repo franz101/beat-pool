@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ
 **Related artists:**
 
 [[KALIM]]
-[[Bawer]]
+[[producers/Bawer]]

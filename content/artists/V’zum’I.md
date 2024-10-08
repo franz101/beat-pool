@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3P5gMVZmC6YSQFMmtvCgT1
 **Related artists:**
 
 [[Haze]]
-[[Mr. Gees]]
+[[producers/Mr. Gees]]

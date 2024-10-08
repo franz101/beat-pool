@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6JIl1Sm9j8DUrqSaBtCQFe
 
 **Related artists:**
 
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Kontra K]]
-[[86kiloherz]]
-[[Lazerbeatz]]
-[[BombenProdukt]]
-[[Ballerbeatz]]
+[[producers/86kiloherz]]
+[[producers/Lazerbeatz]]
+[[producers/BombenProdukt]]
+[[producers/Ballerbeatz]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7ArBhkdQBcnWSAshVqbOtD
 
 [[Pulsedriver]]
 [[Mikkas]]
-[[Michael-Lee Bock]]
-[[Kasper Smed Nielsen]]
+[[producers/Michael-Lee Bock]]
+[[producers/Kasper Smed Nielsen]]
 [[Backlash]]

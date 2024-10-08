@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2QgzcBhZ7iKPWvtJyYvjfZ
 
 **Related artists:**
 
-[[Gorex]]
+[[producers/Gorex]]
 [[Azad]]

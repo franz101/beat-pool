@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/76YXlVoZ4q7fSgA74FXFzE
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Alain Lanceron]]
+[[producers/Alain Lanceron]]
 [[Reinhard Mey]]
 [[Victoria-Luise Mey]]

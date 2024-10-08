@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5zmwsjb47KV5V24NpF4EiQ
 **Related artists:**
 
 [[SDP]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Sido]]

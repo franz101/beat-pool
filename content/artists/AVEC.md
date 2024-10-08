@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebef4a05d3db795c6dd54dc8dd)
 **Related artists:**
 
-[[Miriam Hufnagl]]
+[[producers/Miriam Hufnagl]]
 [[Andreas Häuserer]]

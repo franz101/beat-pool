@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4C33VaG7gqDnxt5rwwEM96
 **Related artists:**
 
 [[Westernhagen]]
-[[Jay Stapley]]
+[[producers/Jay Stapley]]

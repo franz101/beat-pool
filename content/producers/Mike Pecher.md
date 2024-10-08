@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/22DWUUFmnrML4TKd9jIJlJ
 
 **Related artists:**
 
-[[Christopher Ast]]
+[[producers/Christopher Ast]]
 [[DJ Mikesh]]

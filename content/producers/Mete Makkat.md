@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5xsCr7P3S7SiCh8xOzwkow
 **Related artists:**
 
 [[XATAR]]
-[[Easy Digital]]
+[[producers/Easy Digital]]

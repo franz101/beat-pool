@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2X1VgNqQOiSbkyel3a9rjK
 
 **Related artists:**
 
-[[DJ Illvibe]]
+[[producers/DJ Illvibe]]
 [[Demba Nabé]]
 [[Seeed]]
-[[Torsten Reibold]]
+[[producers/Torsten Reibold]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4M89TRdggOidI0LPSKsEVx
 
 **Related artists:**
 
-[[CeeJay Beats]]
+[[producers/CeeJay Beats]]
 [[Eko Fresh]]
 [[Farid Bang]]

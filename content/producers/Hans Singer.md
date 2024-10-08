@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6EVTc7BglFH5LfM4FWi1S6
 **Related artists:**
 
 [[Rosanna Perinic]]
-[[Dietmar Kawohl]]
+[[producers/Dietmar Kawohl]]
 [[Nino de Angelo]]
 [[Claudia Jung]]
 [[Mats Björklund]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/40fhusTxvAWqq7xKB2rlgf
 
 **Related artists:**
 
-[[Lucry]]
-[[The Royals]]
+[[producers/Lucry]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[RAF Camora]]

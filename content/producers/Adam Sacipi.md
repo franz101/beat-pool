@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0OHOdUHtr3gUHVvdjtbHQT
 
 **Related artists:**
 
-[[Paul Blaze]]
+[[producers/Paul Blaze]]
 [[Bass Sultan Hengzt]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1SAugjIcuwNPKS4urSB7A6
 **Related artists:**
 
 [[Eko Fresh]]
-[[Benny Bazzazian]]
+[[producers/Benny Bazzazian]]
 [[Valezka]]

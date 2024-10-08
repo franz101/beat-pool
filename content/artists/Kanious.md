@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2OVvVei0SbpfvIFvJCwLxD
 
 **Related artists:**
 
-[[U.G.]]
+[[producers/U.G.]]
 [[Ercandize]]
 [[Kool Savas]]

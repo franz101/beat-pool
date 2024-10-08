@@ -2,6 +2,7 @@
 id: 3DpoXdpklDZ8prWYDdKiDu
 type: producer
 url: https://open.spotify.com/artist/3DpoXdpklDZ8prWYDdKiDu
+alias: SBM
 ---
 # SBM
 
@@ -19,18 +20,18 @@ url: https://open.spotify.com/artist/3DpoXdpklDZ8prWYDdKiDu
 [[Marvin Game]]
 [[Kwam.E]]
 [[Mo$art]]
-[[RIP Swirl]]
+[[producers/RIP Swirl]]
 [[Telly Tellz]]
 [[snice1]]
-[[Korayzen]]
-[[Drupes]]
-[[Broke Boys]]
+[[producers/Korayzen]]
+[[producers/Drupes]]
+[[producers/Broke Boys]]
 [[Konz]]
 [[JACE]]
 [[65Goonz]]
 [[Souly]]
 [[owenmblac]]
-[[Traya]]
+[[producers/Traya]]
 [[SDT]]
-[[Sam4]]
+[[producers/Sam4]]
 [[Polo65]]

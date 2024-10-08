@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5gzN903p9779FE35avn6Z0
 **Related artists:**
 
 [[Brous One]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Twit One]]
 [[Döll]]
 [[Eloquent]]

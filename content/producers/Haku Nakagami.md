@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1shiQzRtDn01twMoGu2F7f
 
 **Related artists:**
 
-[[Jeremias Hammerstein]]
+[[producers/Jeremias Hammerstein]]
 [[Casey]]
 [[KUSO GVKI]]
 [[Jeremiah]]

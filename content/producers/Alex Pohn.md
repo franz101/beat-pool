@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1ekxEH9mY8bFS3Iza2rRbS
 **Related artists:**
 
 [[Julian le Play]]
-[[Lukas Hillebrand]]
+[[producers/Lukas Hillebrand]]
 [[Lemo]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1189BemPY7h2lgaH1pkzGX
 **Related artists:**
 
 [[Tilo Wolff]]
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Blitzmaschine]]
 [[Tanzwut]]
 [[Angkor]]

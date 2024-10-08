@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7n1jroCdW58jjeYLpdAnrg
 
 **Related artists:**
 
-[[Sascha Eigner]]
+[[producers/Sascha Eigner]]
 [[Jupiter Jones]]
-[[ARKADI]]
+[[producers/ARKADI]]

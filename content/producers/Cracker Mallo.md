@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0VtwY5JKhLacoCbRD6f5SU
 
 **Related artists:**
 
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Bonaparte]]
 [[Seeed]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]

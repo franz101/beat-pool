@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1xFkmMw7jrOFmypUh8EsXh
 
 **Related artists:**
 
-[[Matthias Distel]]
-[[Christopher Frahm]]
+[[producers/Matthias Distel]]
+[[producers/Christopher Frahm]]
 [[Dj Biene]]
 [[Ikke Hüftgold]]
 [[Dominik De León]]

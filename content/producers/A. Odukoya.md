@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5nUHhQPEEjBM7Zwwgqbjkn
 **Related artists:**
 
 [[Patrice]]
-[[Matthias Arfmann]]
+[[producers/Matthias Arfmann]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1KWsyHVJcYRA07h1eP5guD
 **Related artists:**
 
 [[Musso]]
-[[21]]
+[[producers/21]]

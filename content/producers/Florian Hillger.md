@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/38l8FnMH093p2YECYutrxX
 
 **Related artists:**
 
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Belah]]
-[[Perino]]
+[[producers/Perino]]

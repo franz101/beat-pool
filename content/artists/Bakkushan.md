@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3wuBmeZ1hzgar7Dnf3UzS0
 ![Artist](https://i.scdn.co/image/38ad5d0427c158e86e252264ba08e502c8687b0c)
 **Related artists:**
 
-[[Moritz Enders]]
+[[producers/Moritz Enders]]
 [[Nicholas Müller]]
-[[Daniel Benjamin Schmidt]]
+[[producers/Daniel Benjamin Schmidt]]

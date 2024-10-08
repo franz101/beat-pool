@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7lNQ9N5PJqvhNWssYO7koN
 
 [[Philipp Schwär]]
 [[Max Giesinger]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[ELIF]]

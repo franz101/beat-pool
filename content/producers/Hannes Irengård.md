@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/15Z478t1bak9bnLIHKSS6s
 
 **Related artists:**
 
-[[Adam Grahn]]
-[[Per Andreasson]]
+[[producers/Adam Grahn]]
+[[producers/Per Andreasson]]
 [[Jonas Almén]]
 [[Royal Republic]]

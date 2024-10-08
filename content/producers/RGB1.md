@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7sYtOlDqoOK6h39jU65W35
 **Related artists:**
 
 [[LUVRE47]]
-[[Wooshy]]
+[[producers/Wooshy]]
 [[Bangs]]
-[[Magestick]]
-[[Pierre Vogt]]
+[[producers/Magestick]]
+[[producers/Pierre Vogt]]

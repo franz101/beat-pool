@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f
 **Related artists:**
 
 [[Everything for the Cat]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[VFL Eschhofen]]
 [[Ikke Hüftgold]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]

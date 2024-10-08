@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/2X27EgKcS9X3Qp3XjfLjLl
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb673115e4b363240d729838aa)
 **Related artists:**
 
-[[APC]]
-[[K1nay]]
+[[producers/APC]]
+[[producers/K1nay]]
 [[Masxn]]
 [[KYND]]
 [[SANITO]]
 [[Halfcastromeo]]
-[[Bezimenimusic]]
+[[producers/Bezimenimusic]]
 [[colin]]

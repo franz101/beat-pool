@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/196I6HKQprrmVLtKWl1IwI
 
 **Related artists:**
 
-[[Johannes Arzberger]]
+[[producers/Johannes Arzberger]]
 [[Chefket]]

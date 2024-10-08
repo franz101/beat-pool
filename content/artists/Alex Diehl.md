@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/3Pu3QXxbkJEXM4vzz1WMsT
 **Related artists:**
 
 [[AchtVier]]
-[[Stephan Zeh]]
+[[producers/Stephan Zeh]]
 [[Laith Al-Deen]]
-[[Tash 08]]
+[[producers/Tash 08]]

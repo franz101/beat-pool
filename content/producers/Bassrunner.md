@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1H74umBkWqMTt8V31zzeGV
 **Related artists:**
 
 [[D-Flame]]
-[[Sam Gilly]]
+[[producers/Sam Gilly]]
 [[Jahmali]]
 [[Detecta]]

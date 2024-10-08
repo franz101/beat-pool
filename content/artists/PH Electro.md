@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6bwJA8gugndMQxiuMsnYDV
 **Related artists:**
 
 [[Pulsedriver]]
-[[Sivana Reese]]
-[[Rene Rodrigezz]]
+[[producers/Sivana Reese]]
+[[producers/Rene Rodrigezz]]

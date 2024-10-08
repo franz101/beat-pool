@@ -20,4 +20,4 @@ url: https://open.spotify.com/artist/1Wch8598BBzU0zVBtcCFJh
 [[Daniel Großmann]]
 [[Etype]]
 [[Yta Farrow]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

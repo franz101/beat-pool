@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3kcjklsZIVybuZFLdnQ55r
 
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
+[[producers/Vincent von Schlippenbach]]
 [[Kat Frankie]]
-[[Dirk Berger]]
-[[David Conen]]
+[[producers/Dirk Berger]]
+[[producers/David Conen]]
 [[Casper]]
 [[Marteria]]

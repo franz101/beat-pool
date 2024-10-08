@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4iLyC66mfowfMoMtmbsDUb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1a26f73633a301bb5bb1393d)
 **Related artists:**
 
-[[Mushtak Awad]]
+[[producers/Mushtak Awad]]

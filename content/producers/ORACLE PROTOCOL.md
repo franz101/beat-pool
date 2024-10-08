@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3podFmJIo7vOdicKaHR1mK
 
 **Related artists:**
 
-[[Randolph Mortimer]]
+[[producers/Randolph Mortimer]]
 [[Ali As]]
 [[Sun Diego]]

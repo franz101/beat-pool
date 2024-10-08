@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv
 
 [[Wanda Jackson]]
 [[Tom Astor]]
-[[Klaus Lohmer]]
+[[producers/Klaus Lohmer]]

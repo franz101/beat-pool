@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/41p2nQeIOh8tBencY7GP91
 
 **Related artists:**
 
-[[Chekaa]]
+[[producers/Chekaa]]
 [[Bato]]

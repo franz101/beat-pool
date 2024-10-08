@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/6Zls20uqhLpZ2husO9J4wX
 **Related artists:**
 
 [[Nazar]]
-[[Notsag]]
+[[producers/Notsag]]
 [[Ajay]]
 [[Marlo]]
 [[Lunico]]
-[[Johnny Illstrument]]
-[[Kostas Karagiozidis]]
+[[producers/Johnny Illstrument]]
+[[producers/Kostas Karagiozidis]]
 [[Teflon030]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3fzMF6iBoXureyRoBcL1hg
 [[Pulsedriver]]
 [[Base Attack]]
 [[C-BooL]]
-[[Manuel Reuter]]
-[[Sebastian Kaizik]]
+[[producers/Manuel Reuter]]
+[[producers/Sebastian Kaizik]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1GkZ3bG8czswnn7Jhv6cpd
 
 **Related artists:**
 
-[[Dieter Falk]]
-[[Gino Trovatello]]
-[[Gino Trovatelli]]
+[[producers/Dieter Falk]]
+[[producers/Gino Trovatello]]
+[[producers/Gino Trovatelli]]
 [[Michelle]]
 [[Nino de Angelo]]

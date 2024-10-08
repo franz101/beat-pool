@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Pa3qakfboCJ9D8wjtTBHX
 
 **Related artists:**
 
-[[Zimzala]]
+[[producers/Zimzala]]
 [[MERO]]
-[[E.M Beats]]
+[[producers/E.M Beats]]

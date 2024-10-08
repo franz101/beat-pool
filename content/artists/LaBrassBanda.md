@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/7r9FLm0Rxp8u9tfSZhFxtL
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbbfaf5cc269232f95b3e451c)
 **Related artists:**
 
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Dayrelis Laura Pérez García]]
-[[Michael Heilrath]]
+[[producers/Michael Heilrath]]
 [[Otto Waalkes]]
 [[Stephan Remmler]]
-[[Peter Schmidt]]
+[[producers/Peter Schmidt]]
 [[Peter Maffay]]
 [[Stofferl Well]]
-[[Timothy Auld]]
-[[Stefan Dettl]]
+[[producers/Timothy Auld]]
+[[producers/Stefan Dettl]]
 [[Benedikt Schöller]]
 [[Rocko Schamoni]]

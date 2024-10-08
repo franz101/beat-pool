@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/79rdx31SV0YXadJxEUEpbb
 
 **Related artists:**
 
-[[Arnim Teutoburg-Weiß]]
-[[Torsten Fluppi Scholz]]
+[[producers/Arnim Teutoburg-Weiß]]
+[[producers/Torsten Fluppi Scholz]]
 [[Beatsteaks]]
-[[Bernd Kurtzke]]
+[[producers/Bernd Kurtzke]]
 [[Peter Baumann-Düse]]
 [[Thomas Götz]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0jcwuMu6k2SHsTGVdkqYdG
 **Related artists:**
 
 [[Gentleman]]
-[[Steven Stanley]]
+[[producers/Steven Stanley]]

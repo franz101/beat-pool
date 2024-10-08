@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2w9UZyuyLpHG4jqH9zwqjA
 **Related artists:**
 
 [[Marvin Slikk]]
-[[Kassim Beats]]
+[[producers/Kassim Beats]]
 [[Telly Tellz]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[Mo$art]]

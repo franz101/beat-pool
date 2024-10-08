@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/133umQlOEyhClOIEdc6aF7
 **Related artists:**
 
 [[Jonas Monar]]
-[[Tobias Neumann]]
+[[producers/Tobias Neumann]]
 [[Martin Gallop]]
-[[Pascal Reinhardt]]
-[[Tom Deininger]]
+[[producers/Pascal Reinhardt]]
+[[producers/Tom Deininger]]
 [[Michelle]]
 [[Annett Louisan]]

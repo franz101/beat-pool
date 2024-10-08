@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1mUMkWFtt2GpYPvM8SjHxU
 
 **Related artists:**
 
-[[Oster]]
+[[producers/Oster]]
 [[CESO]]
 [[AJÉ]]

@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/7Bas810ryhkpkV2wBkZ8gv
 
 [[Camaeleon]]
 [[Notorious 2T]]
-[[Hkl Beats]]
+[[producers/Hkl Beats]]
 [[Koushino]]
-[[Klo]]
+[[producers/Klo]]
 [[Maka.DD]]

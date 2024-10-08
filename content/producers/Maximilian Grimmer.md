@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/7qwFDmJpO7QaR3S7qgMWiR
 [[Dante YN]]
 [[Aylo]]
 [[Edin]]
-[[Zelal T.]]
+[[producers/Zelal T.]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5bY7OoMAKGl5Maxfq4zhCy
 
 **Related artists:**
 
-[[Dirk Fiebich]]
+[[producers/Dirk Fiebich]]
 [[Mike Leon Grosch]]
 [[K-Fly]]

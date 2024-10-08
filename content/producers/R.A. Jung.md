@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7gYfID46AkTvUHpt9KVJE3
 [[Michael von der Heide]]
 [[Sista Gracy]]
 [[Tippa Irie]]
-[[Konya Schmechel]]
+[[producers/Konya Schmechel]]
 [[Dr. Ring Ding]]
 [[Stephanie K.]]

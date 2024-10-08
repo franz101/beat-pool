@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/6FZRUkJHJYfOhmFmTaG0SG
 
 **Related artists:**
 
-[[Ferdi Bolland]]
-[[Rob & Ferdi Bolland]]
+[[producers/Ferdi Bolland]]
+[[producers/Rob & Ferdi Bolland]]
 [[Falco]]
 [[Boris Granich]]
 [[RIO]]
 [[Thorsten Börger]]
-[[Ferdinand Bolland]]
+[[producers/Ferdinand Bolland]]
 [[Christer Modig]]
 [[Jugglerz]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6b7NtwwxMFFvI9oJFTb7V9
 **Related artists:**
 
 [[Tune Up!]]
-[[Y. Pfeifer]]
+[[producers/Y. Pfeifer]]

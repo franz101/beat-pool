@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/49KrGmOPR5UXLRr6k4fqhZ
 **Related artists:**
 
 [[Zuna]]
-[[DJ Stijco]]
+[[producers/DJ Stijco]]

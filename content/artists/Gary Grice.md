@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6bVpT1KB7ItPGFXSuej7NK
 [[Martin Stieber]]
 [[DJ Tomekk]]
 [[Christian Stieber]]
-[[Tom-As]]
+[[producers/Tom-As]]
 [[Curse]]

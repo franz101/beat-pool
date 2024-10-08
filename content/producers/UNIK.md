@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5PTkBuqy8pmrnhrRVfHSJG
 
 **Related artists:**
 
-[[Claptomanik]]
+[[producers/Claptomanik]]
 [[Jumpa]]
 [[Moe Phoenix]]
 [[Nessa]]
-[[Caid]]
-[[Abra Mino]]
+[[producers/Caid]]
+[[producers/Abra Mino]]
 [[Payman]]
-[[Bounce Brothas]]
+[[producers/Bounce Brothas]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4SQzMZRKRbUNdKcz3X3fGy
 
 **Related artists:**
 
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/03Eg585CIPhdeGnYrOwMF7
 
 **Related artists:**
 
-[[Kamal Gray]]
+[[producers/Kamal Gray]]
 [[Curse]]

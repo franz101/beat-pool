@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/5rU6NmQJvybdDzbmtKYvYw
 [[Julian Marley]]
 [[Goldfinger]]
 [[Maho]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[Apache 207]]
 [[Gringo]]
 [[Mista Meta]]

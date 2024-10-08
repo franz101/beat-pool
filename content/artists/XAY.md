@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6lSwruDYkGr9Yvww8L8lao
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Manuellsen]]
 [[Jalil]]
-[[Fewtile]]
+[[producers/Fewtile]]

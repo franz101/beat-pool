@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/72uK8geg5BPRRzdGBmmtAF
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3c03630f1bf29dc1906cfc00)
 **Related artists:**
 
-[[Amedeo Malagia]]
+[[producers/Amedeo Malagia]]
 [[BLVTH]]
 [[KUMMER]]
-[[Damian Beats]]
+[[producers/Damian Beats]]
 [[Lent]]
 [[SFR]]
 [[AlphaMob]]

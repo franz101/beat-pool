@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/38jFhCjNb8R31aIdcJO1VD
 
 **Related artists:**
 
-[[Jon Caffery & Die Toten Hosen]]
+[[producers/Jon Caffery & Die Toten Hosen]]

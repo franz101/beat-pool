@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/7t4nK4hobnG0pXHoxRyIV4
 **Related artists:**
 
 [[LOC 079]]
-[[Iceberg]]
-[[Zimzala]]
+[[producers/Iceberg]]
+[[producers/Zimzala]]
 [[Almany]]
-[[It's dvvd]]
+[[producers/It's dvvd]]
 [[Noah]]
 [[Ra'is]]
 [[Eno]]

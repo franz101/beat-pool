@@ -40,6 +40,6 @@ url: https://open.spotify.com/artist/5u7XKRtVQQxpaienPaIMN0
 [[Giovanni Zarrella]]
 [[Andrea Berg]]
 [[Jürgen Drews]]
-[[Christoph Papendieck]]
+[[producers/Christoph Papendieck]]
 [[Michael Rötgens]]
 [[Stefan Pössnicker]]

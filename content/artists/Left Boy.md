@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/2gIGkRqCo4NK2PUCI8u4aQ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb05a6857a9a076209be3657a3)
 **Related artists:**
 
-[[Maximilian Jaeger]]
-[[Jackson]]
+[[producers/Maximilian Jaeger]]
+[[producers/Jackson]]
 [[Ferdinand]]
-[[Ferdinand Sarnitz]]
-[[ferdinand]]
+[[producers/Ferdinand Sarnitz]]
+[[producers/ferdinand]]

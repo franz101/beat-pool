@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1wYJpj9EIckIta7kdmdoYe
 
 **Related artists:**
 
-[[Stefan Hinterlang]]
+[[producers/Stefan Hinterlang]]
 [[Silla]]
 [[Mimoza]]

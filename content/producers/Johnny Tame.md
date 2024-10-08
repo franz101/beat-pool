@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5MHvMZ2ckUxaAACDP2v5H2
 
 **Related artists:**
 
-[[Mike Thatcher]]
+[[producers/Mike Thatcher]]
 [[Peter Maffay]]
-[[Peter Wagner]]
+[[producers/Peter Wagner]]

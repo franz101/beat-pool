@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4zboeZtcUwsTEhl2YDCLr4
 
 **Related artists:**
 
-[[Thomas Grisl]]
+[[producers/Thomas Grisl]]
 [[Pulsedriver]]
-[[Thomas Greisl]]
+[[producers/Thomas Greisl]]
 [[Brooklyn Bounce]]
-[[Steve Twain]]
+[[producers/Steve Twain]]

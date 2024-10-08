@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1BXLooZ4nbnvYbZFFF4upP
 
 **Related artists:**
 
-[[Niclas Riesener]]
+[[producers/Niclas Riesener]]
 [[Olexesh]]

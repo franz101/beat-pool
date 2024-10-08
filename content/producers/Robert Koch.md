@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/3YAHaMj2RJeA5S2ltphYg2
 
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
+[[producers/Vincent von Schlippenbach]]
 [[Ohrbooten]]
-[[Ben Burgwinkel]]
+[[producers/Ben Burgwinkel]]
 [[Olli Banjo]]
 [[Amewu Nove]]
 [[Jadula Rasa]]
-[[Dirk Berger]]
-[[Marten Laciny]]
+[[producers/Dirk Berger]]
+[[producers/Marten Laciny]]
 [[Marsimoto]]
 [[Sido]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

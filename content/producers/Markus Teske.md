@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6qg8Gz2U0eiTo1iA1tV21o
 
 **Related artists:**
 
-[[Vanden Plas]]
+[[producers/Vanden Plas]]

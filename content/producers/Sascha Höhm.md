@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/53f8SHm1rdjxS7NAb5X7er
 **Related artists:**
 
 [[Montreal]]
-[[Florian Nowak]]
-[[Sebastian Blaschke]]
+[[producers/Florian Nowak]]
+[[producers/Sebastian Blaschke]]

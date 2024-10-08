@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/37JJVzNt3AORg5BhPKBcbP
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]

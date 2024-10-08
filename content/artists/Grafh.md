@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/4rKPpij2gIDKsZsfjCfk1U
 **Related artists:**
 
 [[Jalil]]
-[[DJ DeeVoe]]
-[[Neal&LX]]
+[[producers/DJ DeeVoe]]
+[[producers/Neal&LX]]

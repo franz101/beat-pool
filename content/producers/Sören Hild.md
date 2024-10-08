@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1tU6Q6fLjSnYRzhJkyXdUc
 
 **Related artists:**
 
-[[Michael Ehninger]]
-[[Thomas Spitzer]]
+[[producers/Michael Ehninger]]
+[[producers/Thomas Spitzer]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

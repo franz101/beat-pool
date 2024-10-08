@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4jC1kw4U97Tz2JWOwZE2GP
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
+[[producers/Shahabedin Azodifar]]
 [[Dramadigs]]
-[[Dennis Kattan]]
-[[Felix Diegritz]]
+[[producers/Dennis Kattan]]
+[[producers/Felix Diegritz]]
 [[Eloquent]]
 [[AzudemSK]]
 [[dude26]]
 [[Relaén]]
-[[Superhirn]]
+[[producers/Superhirn]]

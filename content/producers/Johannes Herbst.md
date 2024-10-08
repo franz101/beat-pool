@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/6c6Nsc2xsIcR8C8gesoFaO
 
 [[Dame]]
 [[Harald Mörth]]
-[[Mario Skakalo]]
+[[producers/Mario Skakalo]]
 [[Michael Zöttl]]
 [[Mathea]]
 [[Onk Lou]]

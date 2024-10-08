@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5MJcv5M0MRjd9T4hN8U7qr
 **Related artists:**
 
 [[KAYEF]]
-[[Moritz Pirker]]
+[[producers/Moritz Pirker]]

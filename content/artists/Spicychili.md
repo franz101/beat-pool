@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7N0cA6zPzH7j5cW3oZAFA6
 
 **Related artists:**
 
-[[Shxrkz]]
-[[Prod Paolo]]
+[[producers/Shxrkz]]
+[[producers/Prod Paolo]]
 [[Aidy]]
 [[Skeeniboi]]

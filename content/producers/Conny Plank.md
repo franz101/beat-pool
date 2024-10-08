@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1NvaYXFBSMlgokdn84mOkx
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Thomas Kukuck]]
-[[Heiner Lurig]]
-[[Mick Franke]]
+[[producers/Thomas Kukuck]]
+[[producers/Heiner Lurig]]
+[[producers/Mick Franke]]
 [[Ideal]]
-[[Hans Behrendt]]
+[[producers/Hans Behrendt]]

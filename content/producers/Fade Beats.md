@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/34mK4ylGMItsV1qkL5WHIs
 
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[Hamada]]
 [[Hemso]]

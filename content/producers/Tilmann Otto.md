@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3oRPnaD2VRUtCnQrwOdTS4
 **Related artists:**
 
 [[Bazzazian]]
-[[Clay]]
+[[producers/Clay]]
 [[Marcia Griffiths]]
 [[Gentleman]]
 [[Jugglerz]]

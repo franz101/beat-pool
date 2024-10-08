@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/28Y0v6CCfGFcJ42YYy0P5I
 
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Afrob]]
 [[Culcha Candela]]
 [[Dj Thomilla]]
-[[DJ Farhot]]
+[[producers/DJ Farhot]]

@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/5SqGcxrBYPXfaj5mSbSH8n
 
 [[Florian]]
 [[Herbert Grönemeyer]]
-[[J. Horn-Bernges]]
-[[O.Statz]]
+[[producers/J. Horn-Bernges]]
+[[producers/O.Statz]]
 [[Nino de Angelo]]
 [[Reinhard Mey]]
-[[Florian Sitzmann]]
+[[producers/Florian Sitzmann]]

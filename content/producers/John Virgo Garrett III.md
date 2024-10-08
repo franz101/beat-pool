@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3JPoPs8S1Hzq2st6XsBMeu
 
 **Related artists:**
 
-[[Jimmy Torrio]]
-[[Niki Haris]]
+[[producers/Jimmy Torrio]]
+[[producers/Niki Haris]]
 [[Ufo361]]
 [[The Cratez]]
-[[Benito Benites]]
+[[producers/Benito Benites]]

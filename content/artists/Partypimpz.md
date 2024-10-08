@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0u8r2RSPkou5cA5xpxIqMm
 
 **Related artists:**
 
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]

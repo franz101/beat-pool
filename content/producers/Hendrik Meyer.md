@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3OqeCDm2DMBOUPBRz68YjR
 
 **Related artists:**
 
-[[Lucian Balinisteanu]]
+[[producers/Lucian Balinisteanu]]
 [[MaLu Project]]
 [[Tobias Böhm]]
 [[Basslouder]]

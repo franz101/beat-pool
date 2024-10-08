@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4lSRGKu2J50myeT6pgEPXE
 
 **Related artists:**
 
-[[Ricki Wilde]]
+[[producers/Ricki Wilde]]
 [[Kim Wilde]]

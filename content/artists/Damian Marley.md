@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
 **Related artists:**
 
 [[Stephen Marley]]
-[[William Larsen]]
+[[producers/William Larsen]]
 [[Skip Marley]]
 [[Buju Banton]]

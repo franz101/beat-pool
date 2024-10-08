@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/24OXrflfo0exKXax7mFv3y
 [[Maxim]]
 [[Max Wählen]]
 [[Chakuza]]
-[[Jan Bruschke]]
+[[producers/Jan Bruschke]]
 [[Jonathan Walter]]
 [[RAF Camora]]

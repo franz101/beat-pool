@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/25vjGT23P9L9KqPCd6l1s9
 
 **Related artists:**
 
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Nino de Angelo]]
-[[Matthias Stingl]]
+[[producers/Matthias Stingl]]

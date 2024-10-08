@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7MJkZKtPSSFkUDt1bXRbSC
 
 **Related artists:**
 
-[[g-Time]]
+[[producers/g-Time]]
 [[TaiMO]]

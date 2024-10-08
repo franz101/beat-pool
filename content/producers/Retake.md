@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/1jHE4FMAAVOE38aFBxncuR
 
 **Related artists:**
 
-[[SMR]]
+[[producers/SMR]]
 [[YY]]
 [[DIZZY]]
 [[Carlo]]
-[[Wito]]
+[[producers/Wito]]
 [[Kwam.E]]
-[[Almnac]]
+[[producers/Almnac]]
 [[UNTER OBSI]]
-[[Moula020]]
+[[producers/Moula020]]
 [[SEKOZAZA]]
 [[Olexesh]]
-[[nocashfromparents]]
+[[producers/nocashfromparents]]
 [[Doezis]]
 [[Reda Rwena]]

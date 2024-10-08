@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/33borcQRvAw1rjWV106rYB
 
 **Related artists:**
 
-[[Gilles Knobel (Chekaa)]]
+[[producers/Gilles Knobel (Chekaa)]]
 [[Hava]]

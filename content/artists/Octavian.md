@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/0rKRcoCpKA2jLHuIXXn80i
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd7c8ab6a4782f38ad58d121c)
 **Related artists:**
 
-[[Nikolay Mohr]]
+[[producers/Nikolay Mohr]]
 [[Anstandslos & Durchgeknallt]]
-[[Mark Becker]]
+[[producers/Mark Becker]]
 [[Maria Dürrling]]
-[[Oliver Kleissle]]
-[[Vitali Zestovskih]]
+[[producers/Oliver Kleissle]]
+[[producers/Vitali Zestovskih]]

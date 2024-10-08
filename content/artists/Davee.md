@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4I7ZlWsJT19dY2MSAL1XA7
 
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[O'Bros]]
-[[Tillmann Loch]]
-[[Ruben Rodriguez]]
+[[producers/Tillmann Loch]]
+[[producers/Ruben Rodriguez]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX
 
 **Related artists:**
 
-[[Gino Montesano]]
-[[Stefania Vento]]
+[[producers/Gino Montesano]]
+[[producers/Stefania Vento]]
 [[Sunset Project]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Pulsedriver]]
-[[Chris Victory]]
+[[producers/Chris Victory]]
 [[Tomtrax]]
 [[Pit Bailay]]

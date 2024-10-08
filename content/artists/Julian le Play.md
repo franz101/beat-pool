@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/5xW9faV2hqlLG0rp7CTBof
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb89fd8f9c28b21f815b89ebf5)
 **Related artists:**
 
-[[Yannick Ernst]]
+[[producers/Yannick Ernst]]
 [[Johannes Römer]]
-[[Matthias Oldofredi]]
-[[Alexander Teschauer]]
-[[Nicolas Rebscher]]
-[[Alex Pohn]]
+[[producers/Matthias Oldofredi]]
+[[producers/Alexander Teschauer]]
+[[producers/Nicolas Rebscher]]
+[[producers/Alex Pohn]]
 [[toksi]]
 [[Falco]]
 [[Gianna Nannini]]
-[[Lukas Hillebrand]]
+[[producers/Lukas Hillebrand]]
 [[Madeline Juno]]

@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/4JKTujO6Q98FHnCfQRDXmu
 
 [[Hanybal]]
 [[AJÉ]]
-[[Leon Tiepold]]
-[[SVRN]]
+[[producers/Leon Tiepold]]
+[[producers/SVRN]]
 [[Azad]]
 [[SOLO439]]
 [[Farid Bang]]

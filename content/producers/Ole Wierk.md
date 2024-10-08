@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/59dAr6sKcRKkYpxQhzp8uf
 [[Pulsedriver]]
 [[Groove Coverage]]
 [[Baracuda]]
-[[Axel Konrad]]
-[[Verena Rehm]]
+[[producers/Axel Konrad]]
+[[producers/Verena Rehm]]

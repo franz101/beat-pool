@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/3Li72hVYmk8CRbNAH5Pfez
 **Related artists:**
 
 [[Die Ärzte]]
-[[Philipp Hoppen]]
-[[Peter Horsch]]
+[[producers/Philipp Hoppen]]
+[[producers/Peter Horsch]]
 [[Sportfreunde Stiller]]
-[[Rudiger Linhof]]
-[[Peter S. Brugger]]
+[[producers/Rudiger Linhof]]
+[[producers/Peter S. Brugger]]
 [[Enno Bunger]]
-[[Florian Weber]]
-[[Dave Anderson]]
+[[producers/Florian Weber]]
+[[producers/Dave Anderson]]

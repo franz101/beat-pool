@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6IRdZwSR9dFmwkDfyC1Tnw
 
 **Related artists:**
 
-[[Chicks On Speed]]
+[[producers/Chicks On Speed]]
 [[Malaria!]]

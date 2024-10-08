@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4ugAa7eNC2uYLnRTqDVzeP
 
 **Related artists:**
 
-[[Anna Mia]]
+[[producers/Anna Mia]]
 [[METRICKZ]]

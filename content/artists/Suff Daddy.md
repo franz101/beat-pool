@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0
 
 [[Flatpocket]]
 [[Mädness]]
-[[HTN]]
+[[producers/HTN]]
 [[Yassin]]
 [[Ill Camille]]
 [[Eloquent]]
@@ -29,7 +29,7 @@ url: https://open.spotify.com/artist/7BYXrz5LhCrix6A3EwPvU0
 [[Sonne Ra]]
 [[S. Fidelity]]
 [[T9]]
-[[David Bormann]]
+[[producers/David Bormann]]
 [[Audio88]]
 [[Dexter]]
 [[Torky Tork]]

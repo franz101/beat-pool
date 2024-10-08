@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1xCmALPuzZsSzVrJr4JPqw
 
 **Related artists:**
 
-[[Tobias Gustafsson]]
-[[Michel Zitron]]
+[[producers/Tobias Gustafsson]]
+[[producers/Michel Zitron]]
 [[No Angels]]

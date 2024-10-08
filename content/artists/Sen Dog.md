@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5CjSfZN385ZURm90nUeGsN
 
 [[B-Real]]
 [[Omik K]]
-[[Defekto]]
+[[producers/Defekto]]

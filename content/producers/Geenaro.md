@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Wx8beEtsRWbkSekzSY6sG
 
 **Related artists:**
 
-[[Ghanabeats]]
+[[producers/Ghanabeats]]
 [[Mert]]

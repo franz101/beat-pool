@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0duoBVBivYMpXAKCR1eDPy
 **Related artists:**
 
 [[Bozza]]
-[[Lukas Piano]]
+[[producers/Lukas Piano]]
 [[Samra]]
 [[Ano]]
-[[Greckoe]]
+[[producers/Greckoe]]

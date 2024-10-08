@@ -26,7 +26,7 @@ url: https://open.spotify.com/artist/6bXpOYrXY4yEmduy4ckEq0
 [[Pre$$ Brixxx]]
 [[Hugo Nameless]]
 [[Acaz]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[dop]]
 [[Blokkmonsta]]

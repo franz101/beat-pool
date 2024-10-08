@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe70aabda8f4326b2e26d78e2)
 **Related artists:**
 
-[[O.L.A.F. Opal]]
-[[Pascal Reinhardt]]
-[[Andreas Herbig]]
-[[Tobias Siebert]]
+[[producers/O.L.A.F. Opal]]
+[[producers/Pascal Reinhardt]]
+[[producers/Andreas Herbig]]
+[[producers/Tobias Siebert]]

@@ -17,13 +17,13 @@ url: https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r
 **Related artists:**
 
 [[Flatpocket]]
-[[HTN]]
+[[producers/HTN]]
 [[Retrogott]]
 [[Knowsum]]
 [[Anthony Drawn]]
 [[Kwam.E]]
 [[Eloquent]]
-[[Patrick Ruediger]]
+[[producers/Patrick Ruediger]]
 [[Patrick Rüdiger]]
 [[Kuchenmann]]
 [[Nepumuk]]
@@ -36,5 +36,5 @@ url: https://open.spotify.com/artist/3rCwiAT9oVk1TRcY8A5x9r
 [[Lazy Jones]]
 [[Morlockk Dilemma]]
 [[Hubert Daviz]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Der Täubling]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3gI0rXDgHgzUc3Wm5SqqOr
 
 **Related artists:**
 
-[[N. Duro]]
+[[producers/N. Duro]]
 [[Weser Allstars]]
 [[Curse]]

@@ -31,7 +31,7 @@ url: https://open.spotify.com/artist/7HLErdUiPhh7mg5AxVEAX0
 [[Wolker]]
 [[Hayki]]
 [[Eko Fresh]]
-[[Aksit Ugurlu "DJ Sess"]]
+[[producers/Aksit Ugurlu "DJ Sess"]]
 [[Eypio]]
 [[Tankurt Manas]]
 [[Massaka]]

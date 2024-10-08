@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4tLsqF20zrEWw9rPKmoHYW
 **Related artists:**
 
 [[Telly Tellz]]
-[[Kassim Beats]]
+[[producers/Kassim Beats]]

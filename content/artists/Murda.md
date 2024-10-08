@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj
 
 **Related artists:**
 
-[[Spanker]]
+[[producers/Spanker]]
 [[Eno]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1L5P81Pb1RgnNKfccxbQze
 
 **Related artists:**
 
-[[Andreas Huber]]
-[[Kilian & Jo]]
+[[producers/Andreas Huber]]
+[[producers/Kilian & Jo]]
 [[Schmyt]]
 [[MAJAN]]
-[[Jan Hammele]]
+[[producers/Jan Hammele]]
 [[Megaloh]]

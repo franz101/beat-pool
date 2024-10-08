@@ -19,4 +19,4 @@ url: https://open.spotify.com/artist/38Z4zlZrb6NhAbCuHgvgH5
 [[Jan Delay]]
 [[Deichkind]]
 [[Trettmann]]
-[[Kaspar Wiens]]
+[[producers/Kaspar Wiens]]

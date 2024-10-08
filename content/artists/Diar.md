@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1MRoY90pUs0hH6gSC2GGC1
 **Related artists:**
 
 [[Capo]]
-[[Ben Bazzazian]]
+[[producers/Ben Bazzazian]]
 [[Soufian]]
 [[SOTT]]
 [[Nimo]]
@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/1MRoY90pUs0hH6gSC2GGC1
 [[Hanybal]]
 [[Haftbefehl]]
 [[Abdi]]
-[[ProDK & Zeeko]]
+[[producers/ProDK & Zeeko]]
 [[DOE]]
 [[Brate Azzlack]]
 [[Bausa]]

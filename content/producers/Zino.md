@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2oXnGr2sB2NHjmDKi6dxyu
 **Related artists:**
 
 [[Jumpa]]
-[[TyrannBeats]]
+[[producers/TyrannBeats]]
 [[Noah]]
 [[Kurdo]]

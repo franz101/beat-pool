@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/6MfR3t7kpUWerdwIKZOKc9
 [[Cashmo]]
 [[Joka]]
 [[Yilmaz]]
-[[Memo]]
+[[producers/Memo]]

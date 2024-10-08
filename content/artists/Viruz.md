@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1eI4fWqkpAg66KE7QnyCpS
 
 [[B-Tight]]
 [[Unoo]]
-[[Beathoavenz]]
+[[producers/Beathoavenz]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/004t0ssHibj4lqoKLf2whz
 **Related artists:**
 
 [[Namika]]
-[[Gorex]]
+[[producers/Gorex]]

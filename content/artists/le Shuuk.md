@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4d5847bc32905485a326b54e)
 **Related artists:**
 
-[[Sebastian Schilde]]
+[[producers/Sebastian Schilde]]
 [[Jerome]]
 [[Xillions]]

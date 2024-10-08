@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6moI5GZdcCYcihsnDOIJHG
 
 [[Cassandra Steen]]
 [[Lina Maly]]
-[[Ruben Rodriguez]]
+[[producers/Ruben Rodriguez]]
 [[Nils Wülker]]

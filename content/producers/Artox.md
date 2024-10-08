@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/461lvJ1MSIcnEgwN7R6bFJ
 [[CAZ]]
 [[Mauli]]
 [[LUNA]]
-[[Steffen Haussteiner]]
-[[KrisKraus]]
+[[producers/Steffen Haussteiner]]
+[[producers/KrisKraus]]
 [[Sarah Bäder]]

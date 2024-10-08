@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE
 
 **Related artists:**
 
-[[Kahedi]]
+[[producers/Kahedi]]
 [[KitschKrieg]]
 [[Max Herre]]
-[[Severin Kantereit]]
+[[producers/Severin Kantereit]]

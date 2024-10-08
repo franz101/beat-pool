@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/2D2MOWBqnP1crUZ8ZhwGEi
 [[DCVDNS]]
 [[Tamas]]
 [[Trip]]
-[[Wolfgang H.]]
+[[producers/Wolfgang H.]]
 [[Boba Fettt]]
 [[Basstard]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1JR3pnRS64xXJ7M3L0UGY6
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Norbert Hamm]]
-[[Harald Steinhauer]]
+[[producers/Norbert Hamm]]
+[[producers/Harald Steinhauer]]
 [[Spider Murphy Gang]]
-[[Peter Kent]]
+[[producers/Peter Kent]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/46M4qh6Dco27MoOjNSfPxx
 **Related artists:**
 
 [[Okfella]]
-[[Clemens Dietrich]]
+[[producers/Clemens Dietrich]]
 [[diemo]]

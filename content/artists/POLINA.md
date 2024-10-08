@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6pWL05Wc94cpoX7eS8VhZB
 
 **Related artists:**
 
-[[Abaz]]
+[[producers/Abaz]]
 [[Kool Savas]]

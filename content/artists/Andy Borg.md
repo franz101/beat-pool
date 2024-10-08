@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/02cwf63pmoVJ5xtq7JDED4
 ![Artist](https://i.scdn.co/image/6c6da88dd6159bbe7a04ef38621ecaf7ec1d50f8)
 **Related artists:**
 
-[[Kurt Feltz]]
+[[producers/Kurt Feltz]]

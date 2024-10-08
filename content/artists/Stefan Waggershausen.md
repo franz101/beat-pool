@@ -30,7 +30,7 @@ url: https://open.spotify.com/artist/06ZF1lqCgr9QPVsVJkkmXC
 [[Alice]]
 [[Lily]]
 [[Jörg Weisselberg]]
-[[Udo Arndt]]
+[[producers/Udo Arndt]]
 [[Henning Wehland]]
 [[Peter Freudenthaler]]
 [[Annett Louisan]]

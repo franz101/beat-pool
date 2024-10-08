@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3KEeqIGLYKSchpMAfVljuh
 
 **Related artists:**
 
-[[DJ Dean]]
+[[producers/DJ Dean]]

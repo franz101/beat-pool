@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/74kcde5Ivwmj7i0PxHxwPM
 **Related artists:**
 
 [[Amar]]
-[[Sti]]
+[[producers/Sti]]
 [[Eko Fresh]]
 [[Caput]]
-[[Prodycem]]
-[[Melbeatz]]
+[[producers/Prodycem]]
+[[producers/Melbeatz]]
 [[Ercandize]]
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Hakan Abi]]
 [[Kool Savas]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3qRe4C6xUFaW1GXJsRC4oi
 
 **Related artists:**
 
-[[JK]]
+[[producers/JK]]
 [[AVO]]
 [[Nash]]

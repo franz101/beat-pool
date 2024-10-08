@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1hN8pKXAnetXRuZd1bRBBR
 
 [[AJÉ]]
 [[KVSSIM]]
-[[Telly Toolz]]
+[[producers/Telly Toolz]]
 [[McKo]]
 [[Osaka88]]
 [[Nate57]]
@@ -21,4 +21,4 @@ url: https://open.spotify.com/artist/1hN8pKXAnetXRuZd1bRBBR
 [[Marvin Slikk]]
 [[JACE]]
 [[Telly Tellz]]
-[[Zinoondabeat]]
+[[producers/Zinoondabeat]]

@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/48ETzgm9Sj5OPnx3mb6ble
 [[Ilse DeLange]]
 [[Culcha Candela]]
 [[Leon Taylor]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Peter Maffay]]
 [[Olga Peretyatko]]
 [[Tim Bendzko]]

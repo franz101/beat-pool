@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/71dLP98fcAn3X3dMHpBoHo
 
 **Related artists:**
 
-[[Rychbeats]]
+[[producers/Rychbeats]]
 [[SOTT]]
-[[TG]]
+[[producers/TG]]
 [[Mosenu]]
 [[DOSH]]
-[[Dosh]]
+[[producers/Dosh]]
 [[Reda Rwena]]
 [[Haisenberg]]
 [[Mufasa069]]

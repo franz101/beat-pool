@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7Mr6UlWMcbA6ZquKrmc2y5
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe8b556641878762dfb4ca465)
 **Related artists:**
 
-[[Anton Krogmann]]
-[[Johannes Ellerbrock]]
+[[producers/Anton Krogmann]]
+[[producers/Johannes Ellerbrock]]

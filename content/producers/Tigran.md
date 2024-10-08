@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3McGcr6qmnK3KQ8wDMCHd2
 **Related artists:**
 
 [[Summer Cem]]
-[[Geenaro & Ghana Beats]]
-[[GiUZZY BEATS]]
-[[PRODDXDEK]]
+[[producers/Geenaro & Ghana Beats]]
+[[producers/GiUZZY BEATS]]
+[[producers/PRODDXDEK]]

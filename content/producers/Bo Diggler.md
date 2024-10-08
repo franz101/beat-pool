@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2yeTWJKBtSJsEVaxMSVi6K
 **Related artists:**
 
 [[Animus]]
-[[MMinx]]
-[[Produes]]
-[[M. Minx]]
+[[producers/MMinx]]
+[[producers/Produes]]
+[[producers/M. Minx]]
 [[G-Hot]]
 [[Silla]]
 [[Fler]]

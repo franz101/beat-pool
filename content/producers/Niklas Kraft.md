@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0W3lU138SEM7uLFpO6dLPM
 **Related artists:**
 
 [[Dave Daniel Bönsch]]
-[[Paul Tetzlaff]]
+[[producers/Paul Tetzlaff]]
 [[Clueso]]
 [[Martin Rödiger]]
 [[Andreas Möckel]]

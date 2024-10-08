@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1Q6elz8q7BAgFv5ZnDOyUl
 
 **Related artists:**
 
-[[Panorama]]
+[[producers/Panorama]]
 [[Eloquent]]
 [[Delicious Chrischuzz]]

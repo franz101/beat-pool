@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0
 **Related artists:**
 
 [[Younotus]]
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[Senex]]
-[[Tobias Bogdon]]
+[[producers/Tobias Bogdon]]
 [[Alle Farben]]
-[[Gregor Sahm]]
+[[producers/Gregor Sahm]]

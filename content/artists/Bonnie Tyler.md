@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2
 **Related artists:**
 
 [[Ben Zucker]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Matthias Reim]]
 [[Thorsten Brötzmann]]

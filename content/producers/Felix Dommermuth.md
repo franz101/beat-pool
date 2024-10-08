@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5Sya2STjxmioTDpGye3iMO
 **Related artists:**
 
 [[Samira 151]]
-[[Arxhend]]
+[[producers/Arxhend]]

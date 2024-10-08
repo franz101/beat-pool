@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4ioKWpt9oMbtRNyOLkJObZ
 
 **Related artists:**
 
-[[Europhon]]
+[[producers/Europhon]]
 [[Udo Jürgens]]

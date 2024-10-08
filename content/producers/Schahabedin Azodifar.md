@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/1Uq9pPGl2FhPjt8VDvtymq
 **Related artists:**
 
 [[Galt McDermot]]
-[[HTN]]
+[[producers/HTN]]
 [[Dave Sparkz]]
 [[Eloquent]]
-[[Delicious]]
+[[producers/Delicious]]
 [[ELO]]
-[[Superhirn]]
+[[producers/Superhirn]]
 [[Davey Dave]]

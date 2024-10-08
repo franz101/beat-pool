@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2RLu4kdv42oSiL2cMWSSy7
 
 [[Alphonzo]]
 [[Mono:Massive]]
-[[Daniel Schatz]]
+[[producers/Daniel Schatz]]
 [[Figub Brazlevic]]
-[[Mario Radzom]]
+[[producers/Mario Radzom]]

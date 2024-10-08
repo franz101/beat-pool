@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/3gqabzO7zvHVzAIT0Nxqa3
 **Related artists:**
 
 [[JORIS]]
-[[Jens Schneider]]
-[[Max Hesselbarth]]
-[[Joris Buchholz]]
-[[Constantin Krieg]]
-[[Mic Schroeder]]
+[[producers/Jens Schneider]]
+[[producers/Max Hesselbarth]]
+[[producers/Joris Buchholz]]
+[[producers/Constantin Krieg]]
+[[producers/Mic Schroeder]]
 [[Max Giesinger]]
-[[Steffen Graef]]
-[[Jules Kalmbacher]]
+[[producers/Steffen Graef]]
+[[producers/Jules Kalmbacher]]

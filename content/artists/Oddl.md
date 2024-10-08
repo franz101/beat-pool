@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2sicj3IBWvhNd5gfMVYc5a
 
 **Related artists:**
 
-[[Ayfa Musik]]
+[[producers/Ayfa Musik]]
 [[Punch Arogunz]]

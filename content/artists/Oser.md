@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7KpeTHm5b5DdDYJKR27ok2
 **Related artists:**
 
 [[Jim Tonic]]
-[[Reatsch]]
+[[producers/Reatsch]]
 [[Sorti Sikz]]
 [[Big Maxxx]]
 [[Silla]]

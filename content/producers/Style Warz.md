@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3WcrK7Wc2p03C2kaMIcJ5Q
 
 **Related artists:**
 
-[[Kaoz]]
+[[producers/Kaoz]]
 [[Ferris MC]]

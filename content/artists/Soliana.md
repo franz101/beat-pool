@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Cb9L0gpaQ54hKHSbYlfUk
 
 **Related artists:**
 
-[[Gee Futuristic]]
+[[producers/Gee Futuristic]]
 [[Hanybal]]
 [[Olexesh]]

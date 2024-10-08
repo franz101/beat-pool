@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/1ClEKlqNYU7inZeZECZil5
 **Related artists:**
 
 [[Sonus030]]
-[[Goldfinger030]]
-[[Beste Beatz]]
+[[producers/Goldfinger030]]
+[[producers/Beste Beatz]]
 [[Shqiptar]]
 [[Gringo]]
 [[Sido]]

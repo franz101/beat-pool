@@ -17,13 +17,13 @@ url: https://open.spotify.com/artist/0t84CBqmvihsUVFme33TLd
 **Related artists:**
 
 [[Hägi]]
-[[Syrix]]
+[[producers/Syrix]]
 [[Sun Diego]]
 [[Der Rote]]
 [[Gary Washington]]
 [[SpongeBOZZ]]
 [[SINTH]]
 [[Nicole Hadfield]]
-[[Maxe]]
-[[Markus Lechleitner]]
+[[producers/Maxe]]
+[[producers/Markus Lechleitner]]
 [[Patwah]]

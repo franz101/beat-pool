@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1x9zDRmEZq4MN4F0KKQCw2
 
 **Related artists:**
 
-[[Zinobeatz]]
-[[Jermaine P.]]
+[[producers/Zinobeatz]]
+[[producers/Jermaine P.]]
 [[Kurdo]]

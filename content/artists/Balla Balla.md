@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3Vjb8wiKSvRptKKJ3Oz87Y
 
 **Related artists:**
 
-[[Winfried Goldstein]]
+[[producers/Winfried Goldstein]]
 [[SDP]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/42DArzqBJJIsIcRKNys4Qx
 **Related artists:**
 
 [[DJ Cold Cut]]
-[[Jannik Eilers]]
+[[producers/Jannik Eilers]]
 [[Timond]]
 [[EnteTainment]]
 [[Menju]]
-[[MENJU]]
+[[producers/MENJU]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7fMvRQHmTMyPm9dHyEULD4
 **Related artists:**
 
 [[Jigzaw]]
-[[ToxikTyson]]
-[[Phily Asap]]
+[[producers/ToxikTyson]]
+[[producers/Phily Asap]]

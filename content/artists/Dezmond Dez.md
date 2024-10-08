@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/24NMjXIq47JuymBZ5AVlLD
 
 **Related artists:**
 
-[[Dr. Dre]]
-[[Marc Jounnaux]]
-[[Dutch 76]]
-[[Animals Sons]]
-[[T. Pfund]]
+[[producers/Dr. Dre]]
+[[producers/Marc Jounnaux]]
+[[producers/Dutch 76]]
+[[producers/Animals Sons]]
+[[producers/T. Pfund]]
 [[Ercandize]]
 [[Kool Savas]]
-[[Alchemist]]
+[[producers/Alchemist]]

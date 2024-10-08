@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/45inHjnamn5uQuuRXOnnmN
 
 **Related artists:**
 
-[[Anthony Collins]]
-[[Francis Harris]]
+[[producers/Anthony Collins]]
+[[producers/Francis Harris]]

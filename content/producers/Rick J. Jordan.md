@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3i41tZupGqmMEokgeBcOYI
 
 **Related artists:**
 
-[[J. Thele]]
-[[H.P. Baxxter]]
-[[Michael Simon]]
-[[Jens Thele]]
+[[producers/J. Thele]]
+[[producers/H.P. Baxxter]]
+[[producers/Michael Simon]]
+[[producers/Jens Thele]]
 [[Scooter]]
-[[Axel Coon]]
+[[producers/Axel Coon]]

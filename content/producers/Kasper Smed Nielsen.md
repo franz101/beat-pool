@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6KhGdOLgmCq91FAd8CjNZc
 **Related artists:**
 
 [[Mikkas]]
-[[Nils Karsten]]
-[[Nicholas Søbye]]
+[[producers/Nils Karsten]]
+[[producers/Nicholas Søbye]]
 [[Pulsedriver]]
 [[Chemistry vs Mikkas]]
-[[Michael-Lee Bock]]
+[[producers/Michael-Lee Bock]]
 [[Backlash]]

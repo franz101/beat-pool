@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6uD3JZfEKhwAREuMemPEPi
 **Related artists:**
 
 [[DCVDNS]]
-[[Wolfgang H.]]
+[[producers/Wolfgang H.]]
 [[Smoe83]]

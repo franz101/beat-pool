@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/68cFjYYBul5JSW9jyoCJAr
 
 **Related artists:**
 
-[[Swen Meyer]]
+[[producers/Swen Meyer]]
 [[Tim Bendzko]]
 [[Phil Speiser]]

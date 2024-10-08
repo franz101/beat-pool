@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0vL0HKEtNHGobKmDNarMFQ
 
 **Related artists:**
 
-[[Trevor "Skatta" Bonnick]]
-[[Ben Bazzazian]]
-[[P. Baigorry]]
+[[producers/Trevor "Skatta" Bonnick]]
+[[producers/Ben Bazzazian]]
+[[producers/P. Baigorry]]
 [[Gentleman]]
 [[Seeed]]

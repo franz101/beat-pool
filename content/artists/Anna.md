@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/28TkPLnqGnL6BADw4r4iQe
 [[Oli. P]]
 [[Choir by Suse Möhle]]
 [[Choir by Mathias Konty]]
-[[Christian Eitner]]
+[[producers/Christian Eitner]]

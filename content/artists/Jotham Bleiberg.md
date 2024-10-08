@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0MXKR5DM3VWU3O8fsXavpT
 **Related artists:**
 
 [[Udo Lindenberg]]
-[[Peter "Jem" Seifert]]
-[[Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
 [[Musiker des NDR Elbphilharmonie Orchesters]]

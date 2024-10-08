@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3pBpqYidlsaMmx63JtmP4D
 ![Artist](https://i.scdn.co/image/ab67616d0000b273cb1228407696a186ff30fc9c)
 **Related artists:**
 
-[[Ralph Siegel]]
+[[producers/Ralph Siegel]]
 [[Orchester Hans Bertram]]
-[[Hans Bertram]]
+[[producers/Hans Bertram]]

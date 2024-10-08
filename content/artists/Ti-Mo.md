@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/4VIun0kJpslxYMDTz5ukyi
 
 **Related artists:**
 
-[[DJ Ray Knox]]
-[[Tribune]]
+[[producers/DJ Ray Knox]]
+[[producers/Tribune]]
 [[Blaikz]]
 [[Marco Van Bassken]]
 [[Ray Knox]]
 [[Madison]]
 [[Cueboy]]
 [[Jaycee Madoxx]]
-[[Andre Otterbach]]
+[[producers/Andre Otterbach]]
 [[Special D.]]
-[[Andre Ahuis]]
+[[producers/Andre Ahuis]]
 [[Scott Brown]]

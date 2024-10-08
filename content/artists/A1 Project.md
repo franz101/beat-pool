@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3coBybWhcgq8I7BIaQBDWM
 **Related artists:**
 
 [[Pulsedriver]]
-[[M. Bein]]
-[[R. Bibow]]
+[[producers/M. Bein]]
+[[producers/R. Bibow]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3YnmEzIPwJPB2gGH8LnbeO
 
 **Related artists:**
 
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]
 [[Alex Komlew]]

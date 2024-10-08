@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5iy4msOEj4qHNlrxUansvg
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb89e07772f024365f1db8c789)
 **Related artists:**
 
-[[Alex Sprave]]
+[[producers/Alex Sprave]]

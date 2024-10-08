@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/1Lc5e3N3BhZn75pFkbEYrc
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb049cd6cecc3b00958b8ef021)
 **Related artists:**
 
-[[Fantom]]
+[[producers/Fantom]]
 [[lilmido]]
 [[Snaxo]]

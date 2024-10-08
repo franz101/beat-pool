@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3fKE4TbLFlHbTRsyXXNoCF
 **Related artists:**
 
 [[ZOMBIEZ]]
-[[Deviljin]]
+[[producers/Deviljin]]

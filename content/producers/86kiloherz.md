@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0Y0de0yWCA6QZ8CJzvbFQm
 
 **Related artists:**
 
-[[ndigo]]
+[[producers/ndigo]]
 [[Orgi69]]
 [[Tayler]]
 [[Skinny Al]]
@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/0Y0de0yWCA6QZ8CJzvbFQm
 [[Cone Gorilla]]
 [[Zaza]]
 [[Sa4]]
-[[BombenProdukt]]
+[[producers/BombenProdukt]]
 [[Bonez MC]]
 [[Takt32]]
 [[Kay Mason]]
@@ -32,7 +32,7 @@ url: https://open.spotify.com/artist/0Y0de0yWCA6QZ8CJzvbFQm
 [[B-Lash]]
 [[Nockout86]]
 [[Mosh36]]
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Tarek]]
 [[MC Bogy]]
 [[Herzog]]

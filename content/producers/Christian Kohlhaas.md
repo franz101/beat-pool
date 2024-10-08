@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6d6gZXEHQHqvA92I5oJE2y
 **Related artists:**
 
 [[Clueso]]
-[[Marcel Aue]]
+[[producers/Marcel Aue]]
 [[Daniel Bätge]]
-[[Paul Tetzlaff]]
-[[Philipp Milner]]
+[[producers/Paul Tetzlaff]]
+[[producers/Philipp Milner]]
 [[Martin Rödiger]]
-[[Christoph Bernewitz]]
+[[producers/Christoph Bernewitz]]

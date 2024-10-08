@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/16aZBgURYzETSliT1JV0qP
 
 **Related artists:**
 
-[[Schahabedin Azodifar]]
+[[producers/Schahabedin Azodifar]]
 [[Dramadigs]]
 [[Tsnd Mrk]]
 [[Eloquent]]

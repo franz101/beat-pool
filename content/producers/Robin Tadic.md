@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1DgAndqXZEyStIrAPdWpw6
 
 **Related artists:**
 
-[[Grayson Finley]]
+[[producers/Grayson Finley]]
 [[Michael Patrick Kelly]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0A3GBsUcKDrQ73SMHNFDX7
 
 **Related artists:**
 
-[[Peilin Chou]]
-[[Marjorie Duffield]]
-[[Glen Keane]]
-[[Christopher Curtis]]
+[[producers/Peilin Chou]]
+[[producers/Marjorie Duffield]]
+[[producers/Glen Keane]]
+[[producers/Christopher Curtis]]
 [[Vanessa Mai]]
-[[Helen Park]]
+[[producers/Helen Park]]

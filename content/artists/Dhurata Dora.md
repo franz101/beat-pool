@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd
 **Related artists:**
 
 [[DJ Geek]]
-[[Panda Music]]
+[[producers/Panda Music]]
 [[Azet]]
 [[Moe Phoenix]]
-[[Caid]]
+[[producers/Caid]]
 [[Jugglerz]]

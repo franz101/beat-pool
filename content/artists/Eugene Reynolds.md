@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6IShRF4F7KLS89yhlIlfYa
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Die Toten Hosen]]
 [[Fay Fife]]

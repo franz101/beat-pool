@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7ECMzulNh6uZLwhW1QdJLg
 **Related artists:**
 
 [[Marsimoto]]
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Marteria]]

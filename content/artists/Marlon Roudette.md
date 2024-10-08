@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2R1QrQqWuw3IjoP5dXRFjt
 
 **Related artists:**
 
-[[Ben Bazzazian]]
+[[producers/Ben Bazzazian]]
 [[Rea Garvey]]
 [[Gentleman]]
-[[Andy Chatterley]]
+[[producers/Andy Chatterley]]
 [[Stefanie Heinzmann]]

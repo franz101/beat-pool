@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6IhjFi3DmfF8AAHfdxEwYq
 
 **Related artists:**
 
-[[Martin Hansen]]
-[[Alex Rethwisch]]
-[[Jem]]
+[[producers/Martin Hansen]]
+[[producers/Alex Rethwisch]]
+[[producers/Jem]]
 [[Stanfour]]

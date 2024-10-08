@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6YdHHGZjHrsnm7mLRswjaF
 
 **Related artists:**
 
-[[Erk Gotti]]
+[[producers/Erk Gotti]]
 [[Ardian Bujupi]]
-[[Ben-E]]
-[[Yung Swisher]]
-[[Alfo]]
+[[producers/Ben-E]]
+[[producers/Yung Swisher]]
+[[producers/Alfo]]
 [[JIGGO]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/7vzd67tdMCwnIfIU6TX6Nk
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[Yothu Yindi]]
 [[Peter Maffay]]
 [[Noa]]
-[[Carl Carlton]]
+[[producers/Carl Carlton]]
 [[Sonny Landreth]]
 [[Cartel]]

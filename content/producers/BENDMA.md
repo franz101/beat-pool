@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/5aiEHHCpdYIwQC7h9hfPng
 [[LEA]]
 [[Yassin]]
 [[Audio88]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]
 [[Nura]]
 [[Crackaveli]]
 [[Daniel Großmann]]

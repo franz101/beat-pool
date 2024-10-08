@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2cXMr4rHpWDgL1JLW2SZne
 **Related artists:**
 
 [[Pulsedriver]]
-[[Matthias Gehrmann]]
+[[producers/Matthias Gehrmann]]
 [[DJ Yanny]]
 [[Tunnel Allstars]]

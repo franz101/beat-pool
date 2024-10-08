@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS
 
 [[Alphonzo]]
 [[Figub Brazlevic]]
-[[Daniel Schatz]]
+[[producers/Daniel Schatz]]
 [[Marie Antoinette]]

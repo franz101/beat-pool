@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5wrvTOYR2EaIGfbmt6pGws
 
 **Related artists:**
 
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Kay One]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]

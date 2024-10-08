@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH
 
 **Related artists:**
 
-[[Lin-Manuel Miranda]]
-[[Mark Mancina]]
+[[producers/Lin-Manuel Miranda]]
+[[producers/Mark Mancina]]
 [[Don Harper]]
 [[Andreas Bourani]]
-[[Chris Montan]]
+[[producers/Chris Montan]]

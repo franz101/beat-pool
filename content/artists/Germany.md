@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/1NizalJvjqhqFL41SDrsR5
 
 **Related artists:**
 
-[[Busy]]
+[[producers/Busy]]
 [[KAAS]]
 [[Laas Unltd.]]
 [[Caput]]
 [[Olli Banjo]]
 [[Ercandize]]
-[[Asker]]
+[[producers/Asker]]
 [[Franky Kubrick]]
 [[MoTrip]]
 [[Kool Savas]]
@@ -31,6 +31,6 @@ url: https://open.spotify.com/artist/1NizalJvjqhqFL41SDrsR5
 [[Amar]]
 [[Moe Mitchell]]
 [[Sizzlac]]
-[[Dicopolo]]
+[[producers/Dicopolo]]
 [[Favorite]]
 [[Vega]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3qO6qjyrBbPFCtHC1NAtnL
 **Related artists:**
 
 [[Mickie Krause]]
-[[Clemens Winterhalter]]
+[[producers/Clemens Winterhalter]]

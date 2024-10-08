@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/3XPtDIYM1U8ix5HCRaWhI7
 [[Feiert Jesus!]]
 [[Carlos Arce]]
 [[Bianca Villamayor]]
-[[Dennis Thielmann]]
+[[producers/Dennis Thielmann]]

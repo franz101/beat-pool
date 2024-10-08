@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0dc9r5DdxwO2hD1orCFeM3
 
 **Related artists:**
 
-[[Christian Bader]]
+[[producers/Christian Bader]]
 [[Jennifer Rostock]]

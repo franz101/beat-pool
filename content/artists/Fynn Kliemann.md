@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS
 [[Philipp Schwär]]
 [[Valentin Hansen]]
 [[Delusion]]
-[[Deluison]]
+[[producers/Deluison]]
 [[Drunken Masters]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6S8xYdg6qjSXNC8HzQSt2G
 
 **Related artists:**
 
-[[Tobias Kuhn]]
+[[producers/Tobias Kuhn]]
 [[Clueso]]
 [[Tim Neuhaus]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb45809008bb4376e9be13d424)
 **Related artists:**
 
-[[Felix Anton Remm]]
-[[Filippo Bonamici]]
-[[Robert Stephenson]]
+[[producers/Felix Anton Remm]]
+[[producers/Filippo Bonamici]]
+[[producers/Robert Stephenson]]

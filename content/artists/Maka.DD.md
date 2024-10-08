@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/7fjYD9KftETHYcHFM5Htf3
 
 [[Omik K]]
 [[Monro£]]
-[[64Fanatiks]]
+[[producers/64Fanatiks]]
 [[GAMBINO 36]]
 [[Amor64]]

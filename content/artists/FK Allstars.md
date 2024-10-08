@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/46tWSRUQWQSnRtQzhd0q4w
 **Related artists:**
 
 [[Freundeskreis]]
-[[Marcus Meyn]]
+[[producers/Marcus Meyn]]

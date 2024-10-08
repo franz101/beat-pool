@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/7qDrKQxyFACWXaDskjPGCy
 ![Artist](https://i.scdn.co/image/ab67616d0000b273eb1ddf8ea50708d08139c504)
 **Related artists:**
 
-[[Mathias Roska]]
-[[Victor Thell]]
-[[Klaus Bartelmuss]]
+[[producers/Mathias Roska]]
+[[producers/Victor Thell]]
+[[producers/Klaus Bartelmuss]]
 [[Andreas Gabalier]]
-[[Jukka Immonen]]
-[[Jukka Backlund]]
+[[producers/Jukka Immonen]]
+[[producers/Jukka Backlund]]

@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/1wPNEaWXHxnR0T6BDHzR4u
 **Related artists:**
 
 [[Jan Delay]]
-[[DJ Dynamite]]
+[[producers/DJ Dynamite]]
 [[Patrice]]
 [[D-Flame]]
-[[Jochen Niemann]]
-[[Kaspar Wiens]]
-[[Tropf]]
+[[producers/Jochen Niemann]]
+[[producers/Kaspar Wiens]]
+[[producers/Tropf]]

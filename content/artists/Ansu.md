@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS
 ![Artist](https://i.scdn.co/image/ab67616d0000b273038601ac10f69bcc15b2503b)
 **Related artists:**
 
-[[Cato]]
+[[producers/Cato]]
 [[Caramelo]]

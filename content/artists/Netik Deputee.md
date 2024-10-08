@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/18P0WoMDNfhcuOhQ8OPquQ
 **Related artists:**
 
 [[Alphonzo]]
-[[Mario Radzom]]
+[[producers/Mario Radzom]]
 [[Figub Brazlevic]]

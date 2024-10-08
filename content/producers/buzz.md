@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7FjHE8LCPTJT9Gq3exXBMM
 
 **Related artists:**
 
-[[Ffjodor]]
+[[producers/Ffjodor]]
 [[MaazaKayo]]
 [[Blokkboy$]]
 [[Cgoon]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1Q3SVJX8CjdAU14in5l0YH
 **Related artists:**
 
 [[Max Prosa]]
-[[Mirko Schaffer]]
+[[producers/Mirko Schaffer]]

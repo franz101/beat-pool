@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4GOCL5XuZojOhP5iE7CPda
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe85e6fb36983a8f16de857a9)
 **Related artists:**
 
-[[Svilen Angelov]]
-[[Swen Meyer]]
+[[producers/Svilen Angelov]]
+[[producers/Swen Meyer]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2cgw1KF5aM4oi6c2KixREE
 
 **Related artists:**
 
-[[Ronny J]]
+[[producers/Ronny J]]
 [[Capital Bra]]
 [[Ufo361]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

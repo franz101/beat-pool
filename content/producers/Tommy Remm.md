@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4lgwpjGJECLmd3Ubq9cN68
 **Related artists:**
 
 [[Maite Kelly]]
-[[Frank Kretschmer]]
-[[Anja Krabbe]]
+[[producers/Frank Kretschmer]]
+[[producers/Anja Krabbe]]
 [[Michelle]]

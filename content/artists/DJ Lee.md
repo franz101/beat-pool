@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5FyEvL11YA8ZaPRyFUYKp2
 **Related artists:**
 
 [[DJ Deraven]]
-[[Nils Karsten]]
-[[DJ Dean]]
+[[producers/Nils Karsten]]
+[[producers/DJ Dean]]
 [[Petersen]]
 [[Powerface]]
 [[Pulsedriver]]
@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/5FyEvL11YA8ZaPRyFUYKp2
 [[Lisaya]]
 [[Van Der Karsten]]
 [[Megara]]
-[[Michael-Lee Bock]]
-[[Dj T.H.]]
-[[N.Karsten]]
+[[producers/Michael-Lee Bock]]
+[[producers/Dj T.H.]]
+[[producers/N.Karsten]]
 [[Chemistry]]

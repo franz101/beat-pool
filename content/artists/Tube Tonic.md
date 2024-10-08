@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/29qTCQDDXlMTzSBrL7vfzr
 
 **Related artists:**
 
-[[Thomas Rother]]
+[[producers/Thomas Rother]]
 [[Tamás Stark]]
 [[Pulsedriver]]
-[[Dennis Kramme]]
+[[producers/Dennis Kramme]]
 [[André Pietschmann]]
 [[Kheiron]]
 [[DJ Shandar]]

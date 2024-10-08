@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/2WF98XZm8JxtzckaDNo056
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4425dceb841c274f8debcf83)
 **Related artists:**
 
-[[C55]]
+[[producers/C55]]
 [[Mortel]]
 [[TaiMO]]
 [[Marvin Game]]
 [[Freshmaker]]
 [[Blut & Kasse]]
-[[Hijackers]]
-[[Andrej Timofeev]]
+[[producers/Hijackers]]
+[[producers/Andrej Timofeev]]
 [[Rola]]
 [[Haze]]
 [[Sido]]
@@ -44,4 +44,4 @@ url: https://open.spotify.com/artist/2WF98XZm8JxtzckaDNo056
 [[Ulysse]]
 [[Joshi Mizu]]
 [[Vega]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

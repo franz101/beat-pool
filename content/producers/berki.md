@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/40ibFj3XOCVlXn7Wn9sZ85
 
 **Related artists:**
 
-[[Audyssey]]
-[[joeldemora]]
+[[producers/Audyssey]]
+[[producers/joeldemora]]
 [[Kidnfinity]]

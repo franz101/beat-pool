@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6gk5R0Ir0uxchGPD6v4HwC
 
 **Related artists:**
 
-[[Adulis Ghebreyesus]]
+[[producers/Adulis Ghebreyesus]]
 [[Gökhan Güler]]
 [[Culcha Candela]]
-[[Sebastian Moser]]
+[[producers/Sebastian Moser]]
 [[Lostboi Lino]]

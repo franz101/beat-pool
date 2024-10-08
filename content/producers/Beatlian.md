@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0YsdtpaGbU7ux2cIJlUo05
 
 **Related artists:**
 
-[[Slurm]]
+[[producers/Slurm]]
 [[SHINSKY x DIMA]]

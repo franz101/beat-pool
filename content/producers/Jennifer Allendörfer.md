@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0giCVNTk9HAvHfz79pagBj
 
 **Related artists:**
 
-[[Modha]]
+[[producers/Modha]]
 [[JuJu Rogers]]
 [[Sampa the Great]]

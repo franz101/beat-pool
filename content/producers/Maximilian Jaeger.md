@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3JHJpVYXJ4AKHPla49ytFJ
 
 **Related artists:**
 
-[[Jackson]]
+[[producers/Jackson]]
 [[Ferdinand]]
 [[Left Boy]]

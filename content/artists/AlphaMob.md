@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0pHIMWT4xv5SOQAiYUhgiD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb94bb8a90a870645004ec7126)
 **Related artists:**
 
-[[Amedeo Malagia]]
+[[producers/Amedeo Malagia]]
 [[Lugatti & 9ine]]
 [[Tightill]]
 [[Baker]]

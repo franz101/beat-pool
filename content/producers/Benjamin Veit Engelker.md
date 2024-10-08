@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7vfbnSHQLUrhrCjcuwurrL
 **Related artists:**
 
 [[PA Sports]]
-[[Florian Hazini]]
+[[producers/Florian Hazini]]
 [[Donell Lewis]]

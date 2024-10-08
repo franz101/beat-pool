@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4mfImR7GM7aMubah2rvlbB
 **Related artists:**
 
 [[Weekend]]
-[[Mrln]]
+[[producers/Mrln]]

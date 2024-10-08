@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3mEIjxaseDTeoGdg3kovrE
 
 **Related artists:**
 
-[[Amfree]]
+[[producers/Amfree]]

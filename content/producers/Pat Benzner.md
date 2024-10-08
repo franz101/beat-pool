@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2qY36Lg9eP5T2ZS9x4WLFY
 
 **Related artists:**
 
-[[Christian Fleps]]
-[[Dave Roth]]
+[[producers/Christian Fleps]]
+[[producers/Dave Roth]]
 [[Madeline Juno]]

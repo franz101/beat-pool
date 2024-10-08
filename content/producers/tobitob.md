@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/64oavV6fuh3HgjDZjM9oSd
 
 [[Afrob]]
 [[Ferris MC]]
-[[Tobi Tobsen]]
-[[Hawkeye]]
-[[Fuddn 1K]]
+[[producers/Tobi Tobsen]]
+[[producers/Hawkeye]]
+[[producers/Fuddn 1K]]

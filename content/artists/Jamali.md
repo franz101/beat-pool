@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4dyN2fwkUd8Y0qjKH7ztK0
 
 **Related artists:**
 
-[[Bobby "Digital" Dixon]]
+[[producers/Bobby "Digital" Dixon]]
 [[Daddy Rings]]
 [[Gentleman]]

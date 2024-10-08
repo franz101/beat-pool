@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7sfT3c1kWtNutpiC4eGSyT
 **Related artists:**
 
 [[YONII]]
-[[Dylan van Dael]]
-[[Sifedine Serour]]
+[[producers/Dylan van Dael]]
+[[producers/Sifedine Serour]]

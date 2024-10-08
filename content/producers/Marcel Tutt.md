@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7EatuewNp3bZtXVT8erOz5
 
 **Related artists:**
 
-[[Zacharias Adrian]]
+[[producers/Zacharias Adrian]]
 [[Nino de Angelo]]

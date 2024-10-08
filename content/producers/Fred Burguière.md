@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4d34g11dCSWdI3FckNL9zF
 
 **Related artists:**
 
-[[Shuko]]
+[[producers/Shuko]]
 [[Die Fantastischen Vier]]

@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/06sVMzmcw141RgryE8TuMj
 **Related artists:**
 
 [[Amewu Nove]]
-[[Jan Krouzilek]]
-[[Robert Koch]]
-[[Moses Schneider]]
-[[Tilman Hopf]]
-[[Markus Lingner]]
+[[producers/Jan Krouzilek]]
+[[producers/Robert Koch]]
+[[producers/Moses Schneider]]
+[[producers/Tilman Hopf]]
+[[producers/Markus Lingner]]

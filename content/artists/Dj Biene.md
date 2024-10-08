@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2jtA9Du9Lp8cb5FH95gU0M
 
 **Related artists:**
 
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Hermann K.]]
-[[Christopher Frahm]]
+[[producers/Christopher Frahm]]
 [[Dominik De León]]
 [[Ikke Hüftgold]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]

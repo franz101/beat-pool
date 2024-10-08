@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4kkd6HLoj5hrRBiJ1Wt0SQ
 **Related artists:**
 
 [[Lee One]]
-[[Alex Graumann]]
+[[producers/Alex Graumann]]

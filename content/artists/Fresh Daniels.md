@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/09mvMUMxUh1lFYl5zsChyC
 
 **Related artists:**
 
-[[Prala]]
+[[producers/Prala]]
 [[Mosenu]]
 [[Eska]]

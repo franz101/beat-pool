@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD
 
 **Related artists:**
 
-[[Benjamin Lawrenz]]
+[[producers/Benjamin Lawrenz]]
 [[Patty Gurdy]]
 [[Lord Of The Lost]]
-[[Corvin Bahn]]
+[[producers/Corvin Bahn]]
 [[MajorVoice]]
 [[Eklipse]]
 [[Subway To Sally]]
@@ -28,7 +28,7 @@ url: https://open.spotify.com/artist/4iBB0ZxqxKEsGo6xbMuYVD
 [[Schandmaul]]
 [[Tilo Wolff]]
 [[Swiss]]
-[[Ingo Hampf]]
+[[producers/Ingo Hampf]]
 [[Joachim Witt]]
 [[Saltatio Mortis]]
-[[Simon Michael Schmitt]]
+[[producers/Simon Michael Schmitt]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5eg8Q95Gdpl1fhvz6TtAfD
 
 [[Snaga]]
 [[Fard]]
-[[IGNAZIO]]
-[[Gorex]]
+[[producers/IGNAZIO]]
+[[producers/Gorex]]

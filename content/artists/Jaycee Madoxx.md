@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/7gDyK0tueVyVOu4EDAcKZU
 [[E-Partment]]
 [[Ti-Mo]]
 [[Marc Korn]]
-[[Bangpool Studios Ballears]]
+[[producers/Bangpool Studios Ballears]]
 [[Zkydriver]]

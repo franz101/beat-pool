@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/4tIB7Cefh1SVjyslo75DcE
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Götz Gottschalk]]
-[[SashliQ]]
-[[Thomas Stolle]]
-[[Mathias Ramson]]
+[[producers/SashliQ]]
+[[producers/Thomas Stolle]]
+[[producers/Mathias Ramson]]
 [[Lena]]
-[[Bernd Wendlandt]]
+[[producers/Bernd Wendlandt]]
 [[Mike Leon Grosch]]
 [[Curse]]
-[[John Gordon]]
+[[producers/John Gordon]]

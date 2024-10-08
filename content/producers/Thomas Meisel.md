@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/00CXH45haJWuA6nsqPmGvc
 
 [[Howard Carpendale]]
 [[Roland Kaiser]]
-[[Heino Petrik]]
-[[Peter Wagner]]
+[[producers/Heino Petrik]]
+[[producers/Peter Wagner]]

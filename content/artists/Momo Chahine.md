@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/0qWh37EfLCSZDzri7wpi9n
 **Related artists:**
 
 [[Jush]]
-[[Lorik Shaqiri]]
-[[Gerrit Arnold]]
+[[producers/Lorik Shaqiri]]
+[[producers/Gerrit Arnold]]
 [[Florentina]]
 [[Jeje Lopes]]
-[[JUSH]]
+[[producers/JUSH]]

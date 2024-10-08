@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4OPUydudMwBKxCMmPIa5IK
 
 **Related artists:**
 
-[[Marten Laciny]]
+[[producers/Marten Laciny]]
 [[Martin Göckeritz]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4PTRJHZzZwDQoMYG7R5sLp
 
 **Related artists:**
 
-[[DJ Restlezz]]
-[[Sascha Nell]]
-[[Central Stage of Music]]
-[[Timster]]
-[[Megastylez]]
+[[producers/DJ Restlezz]]
+[[producers/Sascha Nell]]
+[[producers/Central Stage of Music]]
+[[producers/Timster]]
+[[producers/Megastylez]]
 [[Withard]]

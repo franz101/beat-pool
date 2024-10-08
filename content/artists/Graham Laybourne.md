@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6kHyXXTITBosmF2RH81lYz
 
 **Related artists:**
 
-[[Annette Humpe]]
+[[producers/Annette Humpe]]
 [[Die Prinzen]]

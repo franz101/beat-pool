@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh
 **Related artists:**
 
 [[Monchi]]
-[[Franz Plasa]]
+[[producers/Franz Plasa]]
 [[KitschKrieg]]
 [[Trettmann]]
 [[Max Herre]]
 [[Afrob]]
 [[SFR]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4hJ92ZRHmX6xyAOK5P7F23
 
 **Related artists:**
 
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Valezka]]
 [[Summer Cem]]
 [[Anti Garanti]]

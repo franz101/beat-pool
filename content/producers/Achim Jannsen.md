@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5g9svtL3xBA8T6o2G6WGQd
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Mirko von Schlieffen]]
-[[Tissy Thiers]]
+[[producers/Mirko von Schlieffen]]
+[[producers/Tissy Thiers]]

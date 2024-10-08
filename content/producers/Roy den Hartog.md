@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6chTNCJoJeEm5YJ1VR0RWl
 
 **Related artists:**
 
-[[Damn-R]]
+[[producers/Damn-R]]

@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4lJAjJTlIEUATqupCIUcYe
 
 **Related artists:**
 
-[[Xtreme Sound]]
+[[producers/Xtreme Sound]]
 [[Mickie Krause]]
 [[Hartmut Wessling]]
-[[Hartmut Weßling]]
+[[producers/Hartmut Weßling]]
 [[Anna-Maria Zimmermann]]
-[[Dirk Fiebich]]
+[[producers/Dirk Fiebich]]
 [[Chaos Team]]
 [[Jürgen Drews]]
 [[Joelina Drews]]

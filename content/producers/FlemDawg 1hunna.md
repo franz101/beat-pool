@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7wtCwTvXhCc0RovC9Fuq7l
 **Related artists:**
 
 [[negatiiv OG]]
-[[Nile Waves]]
+[[producers/Nile Waves]]

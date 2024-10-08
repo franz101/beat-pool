@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0vS7OszIUUExwPhQeOfXpY
 
 **Related artists:**
 
-[[Peter Wagner]]
+[[producers/Peter Wagner]]
 [[Kent Stetler]]
 [[Udo Jürgens]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/28XWZh8jR3NnShwdpC2S1E
 **Related artists:**
 
 [[JULIEN BOSS]]
-[[Simes Branxons]]
+[[producers/Simes Branxons]]
 [[Sero]]
 [[DONI44]]
 [[Bass Sultan Hengzt]]

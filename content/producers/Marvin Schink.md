@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/2s90wSm0ilsZ1QmuhELiqj
 **Related artists:**
 
 [[Die Orsons]]
-[[Kazondabeat]]
+[[producers/Kazondabeat]]
 [[KAAS]]
 [[Kwam.E]]
-[[Gus34]]
+[[producers/Gus34]]
 [[Tua]]
 [[NARU]]
 [[Tom Hengst]]

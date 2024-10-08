@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH
 
 **Related artists:**
 
-[[Benjamin Lawrenz]]
+[[producers/Benjamin Lawrenz]]
 [[Joachim Witt]]
-[[Chris Harms]]
+[[producers/Chris Harms]]

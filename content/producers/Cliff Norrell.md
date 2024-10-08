@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7aCpgAt2CruZLqF19CUx8d
 
 **Related artists:**
 
-[[Anouk Teeuwe]]
+[[producers/Anouk Teeuwe]]
 [[Anouk]]

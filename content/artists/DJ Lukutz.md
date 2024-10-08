@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0ASaVLptv21IqAl7oQx4cA
 **Related artists:**
 
 [[Morlockk Dilemma]]
-[[Pierre Sonality]]
+[[producers/Pierre Sonality]]
 [[Maulheld]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0xZsw1OisgMLwEUX6RRkhU
 **Related artists:**
 
 [[Mehnersmoos]]
-[[Barsky]]
-[[Sucuki]]
+[[producers/Barsky]]
+[[producers/Sucuki]]
 [[257ers]]
-[[FRDY]]
-[[Alexis Troy]]
+[[producers/FRDY]]
+[[producers/Alexis Troy]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/14ztvPHyUFTzpNU1YoDXdM
 
 **Related artists:**
 
-[[Anna Rainer-Josko]]
+[[producers/Anna Rainer-Josko]]
 [[Pulsedriver]]
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]

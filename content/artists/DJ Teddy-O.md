@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/3tUPN3EK2qkzQRDBDjHJVv
 **Related artists:**
 
 [[Silva]]
-[[Boogieman]]
-[[Frio]]
-[[Krutsch]]
+[[producers/Boogieman]]
+[[producers/Frio]]
+[[producers/Krutsch]]
 [[Young Mesh]]
 [[Light]]
 [[Culcha Candela]]

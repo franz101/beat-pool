@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1PIquzfCdm2aLXtW8lCX4B
 **Related artists:**
 
 [[AchtVier]]
-[[Jmxj]]
+[[producers/Jmxj]]

@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/1pHE5dzMGBcqJ4nSbwnsJ6
 [[Planemo]]
 [[Prism]]
 [[NOK1D]]
-[[Ocean]]
+[[producers/Ocean]]
 [[Foxy]]
 [[Mika Wölfel]]
 [[dusy]]

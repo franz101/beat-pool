@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/28gwT9YFL86GzAGI4RWCUE
 **Related artists:**
 
 [[Angie Stone]]
-[[Edward Ferrell]]
-[[Darren Lighty]]
+[[producers/Edward Ferrell]]
+[[producers/Darren Lighty]]

@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/2gFJuzVIFYXHjZrxj4ZVx8
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf7653d27b2d171d5705a3acb)
 **Related artists:**
 
-[[Leon Bontus]]
+[[producers/Leon Bontus]]
 [[LUIVI]]
-[[Dieter Dietrich]]
+[[producers/Dieter Dietrich]]
 [[DG]]
 [[Blokkboy$]]
 [[SHISU]]

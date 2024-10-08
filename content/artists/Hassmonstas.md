@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/25SaTxaU747KYy1qSNz8nc
 [[KhaliF]]
 [[Skinny Al]]
 [[Kaisa]]
-[[Ghost]]
+[[producers/Ghost]]
 [[Kaisaschnitt]]
 [[X-trem]]
 [[Demonenpark]]

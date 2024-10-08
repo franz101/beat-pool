@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7tKnbBYZTiLWXWdHKjsZ9B
 
 **Related artists:**
 
-[[David Villefort]]
+[[producers/David Villefort]]
 [[Stephan Remmler]]

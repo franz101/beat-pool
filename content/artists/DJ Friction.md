@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3uLb8nsdXtUHeO1ns9HobZ
 
 **Related artists:**
 
-[[Philippe Kayser]]
+[[producers/Philippe Kayser]]
 [[Bounty Killer]]
-[[Afron .]]
+[[producers/Afron .]]
 [[Dj Thomilla]]
 [[Gentleman]]
-[[Jochen Schmalbach (Smallboy)]]
+[[producers/Jochen Schmalbach (Smallboy)]]
 [[Afrob]]
 [[Die Fantastischen Vier]]

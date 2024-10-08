@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4PDjc66xrs3JHiLGcLhDUP
 
 **Related artists:**
 
-[[Gary B.]]
+[[producers/Gary B.]]
 [[Yvonne Catterfeld]]
-[[O-Jay]]
+[[producers/O-Jay]]

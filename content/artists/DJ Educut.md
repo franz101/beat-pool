@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3tJDicET7fHFYmG4bQLb7P
 **Related artists:**
 
 [[Tesla Alset]]
-[[Diggy Mac Dirt]]
+[[producers/Diggy Mac Dirt]]
 [[Bad FX]]
 [[AzudemSK]]
 [[Noritsu]]

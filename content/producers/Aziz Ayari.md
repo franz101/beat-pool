@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1ceZRELYAYDhLQLBWz5tDd
 **Related artists:**
 
 [[KC Rebell]]
-[[Kevin Gomringer]]
-[[Tim Gomringer]]
+[[producers/Kevin Gomringer]]
+[[producers/Tim Gomringer]]

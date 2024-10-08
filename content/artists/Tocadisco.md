@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2iwhenp5euZtZLmtK6cgbe
 **Related artists:**
 
 [[Culcha Candela]]
-[[Boogieman]]
+[[producers/Boogieman]]

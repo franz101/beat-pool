@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr
 
 **Related artists:**
 
-[[Sya Style]]
+[[producers/Sya Style]]
 [[Afrob]]

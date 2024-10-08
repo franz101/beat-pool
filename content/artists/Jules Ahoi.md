@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2l1xTBTIBaAiJhekoLM8mk
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6195718ab42f849dbb17bef3)
 **Related artists:**
 
-[[Phillipp Stephan]]
+[[producers/Phillipp Stephan]]
 [[Luna Morgenstern]]
-[[Phillipp Stefan]]
-[[Florian Doerrhoefer]]
+[[producers/Phillipp Stefan]]
+[[producers/Florian Doerrhoefer]]

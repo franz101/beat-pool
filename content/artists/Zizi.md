@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/5b3GaRds7LkYvBzaTT1Qlf
 
 [[Verde702]]
 [[Vino]]
-[[sezbeatz]]
+[[producers/sezbeatz]]

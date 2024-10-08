@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5na0dGHDTmzPNf2vFHoJoF
 **Related artists:**
 
 [[Moop Mama]]
-[[Keno Langbein]]
+[[producers/Keno Langbein]]

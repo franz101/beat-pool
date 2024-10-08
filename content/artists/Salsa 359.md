@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4W9fbcFE2PA8uu35lc1v8w
 
 **Related artists:**
 
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Seeed]]
 [[Marsimoto]]
-[[Alan Mensah]]
-[[Sarz]]
-[[Henrik Miko]]
+[[producers/Alan Mensah]]
+[[producers/Sarz]]
+[[producers/Henrik Miko]]

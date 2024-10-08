@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3k5fmZ4mSIJM5NP93dEt3L
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb324d9c9f75c0481d7c3018de)
 **Related artists:**
 
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Sahin Bingöl]]
-[[NMD]]
+[[producers/NMD]]
 [[Benja]]
 [[Belah]]
 [[Freshmaker]]

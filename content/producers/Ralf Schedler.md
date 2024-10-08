@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1nQzI1F3fHiXlSHfgH1gkj
 
 [[KLUBBB3]]
 [[Jürgen Drews]]
-[[Wolfgang Moroder]]
+[[producers/Wolfgang Moroder]]

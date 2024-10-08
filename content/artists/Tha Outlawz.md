@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4dQ4x3oKyZztM6wgTg9OhF
 
 **Related artists:**
 
-[[Beatlefield]]
+[[producers/Beatlefield]]
 [[Eko Fresh]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3chqU15yLP7B3XRQpILQY2
 
 [[MXP]]
 [[ZOMBIEZ]]
-[[KVSV]]
-[[Psassa]]
+[[producers/KVSV]]
+[[producers/Psassa]]

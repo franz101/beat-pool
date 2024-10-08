@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0O0opwDko0ruqhZ2sqB7bk
 **Related artists:**
 
 [[Prezident]]
-[[Kamikazes]]
+[[producers/Kamikazes]]
 [[Elsta]]
-[[Erik Insbruck]]
+[[producers/Erik Insbruck]]

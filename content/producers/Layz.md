@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/47436i5kbn1xIIpoZRXBP9
 
 **Related artists:**
 
-[[7J]]
+[[producers/7J]]
 [[YBRE]]
-[[BL]]
+[[producers/BL]]
 [[SAMMY]]

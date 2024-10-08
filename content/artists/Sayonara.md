@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/59BMGTpruBBnooNjvzP9D0
 **Related artists:**
 
 [[K-Fly]]
-[[lvl11beats]]
+[[producers/lvl11beats]]
 [[Julian Huisel]]

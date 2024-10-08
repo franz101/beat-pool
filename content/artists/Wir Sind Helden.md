@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3jiOHVFdVQjbSDVeC7RgY7
 ![Artist](https://i.scdn.co/image/6136e736d9d08be1c545561876af3caaf45ce71c)
 **Related artists:**
 
-[[Patrik "El Pattino" Majer]]
-[[Patrick Majer]]
-[[Ian Davenport]]
-[[Patrik Majer]]
+[[producers/Patrik "El Pattino" Majer]]
+[[producers/Patrick Majer]]
+[[producers/Ian Davenport]]
+[[producers/Patrik Majer]]

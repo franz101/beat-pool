@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3RvsFr4zTlmaQO5eIPnNcL
 
 **Related artists:**
 
-[[Simon Michael]]
+[[producers/Simon Michael]]

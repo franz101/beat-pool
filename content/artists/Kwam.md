@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5xL30yTBxQPRYS9hbEhCWk
 
 **Related artists:**
 
-[[Shahabedin Azodifar]]
-[[Panorama]]
+[[producers/Shahabedin Azodifar]]
+[[producers/Panorama]]
 [[Eloquent]]

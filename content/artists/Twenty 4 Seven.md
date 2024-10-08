@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/39QjUR6m5slbxO36zayaMq
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5f932042ba77f835e7f72776)
 **Related artists:**
 
-[[Ruud Van Rijen]]
+[[producers/Ruud Van Rijen]]

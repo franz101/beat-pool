@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1f3EODKZqV9NcfOH0hJlV0
 
 **Related artists:**
 
-[[Dieter Bohlen]]
+[[producers/Dieter Bohlen]]
 [[Vanessa Mai]]

@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/3gHfXpI4kdGzDDlyV0VHYT
 **Related artists:**
 
 [[Kool Savas]]
-[[Christoph Heimel]]
-[[Zinobeatz]]
-[[FOB]]
+[[producers/Christoph Heimel]]
+[[producers/Zinobeatz]]
+[[producers/FOB]]
 [[Laruzo]]
 [[Kurdo]]
-[[Marc Pueschl]]
+[[producers/Marc Pueschl]]
 [[Kilomatik]]
 [[Echointense]]

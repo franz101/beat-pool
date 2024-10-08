@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/3SdVF5gxyZQYjouP0G3VuS
 [[102 Boyz]]
 [[Chapo102]]
 [[Stacks102]]
-[[Bobby San]]
-[[THEHASHCLIQUE]]
+[[producers/Bobby San]]
+[[producers/THEHASHCLIQUE]]
 [[Skoob102]]

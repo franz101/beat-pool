@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0xronG3BgBUowvy2zDjftP
 
 **Related artists:**
 
-[[Tesk]]
+[[producers/Tesk]]
 [[Mädness]]
 [[Nadine Demetrio]]

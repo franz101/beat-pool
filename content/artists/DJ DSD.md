@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/2s7uNeec9VW5BgqyrPm4U0
 
 [[Lakmann]]
 [[Inferno.79]]
-[[Pure Doze]]
+[[producers/Pure Doze]]
 [[Aphroe]]
 [[2Seiten]]
 [[Terence Chill]]

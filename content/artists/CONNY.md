@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb62ae4033d9181b6a2a4a9d09)
 **Related artists:**
 
-[[Donkong]]
-[[BLACK LEMON]]
+[[producers/Donkong]]
+[[producers/BLACK LEMON]]
 [[toksi]]

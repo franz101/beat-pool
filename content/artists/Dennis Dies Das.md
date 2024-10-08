@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/30ttvzupq5sM6n9NBx6uBx
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7e1e86f675308083f8b02a7a)
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[Lugatti & 9ine]]
 [[Sascha Urlaub]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2xgbz6gqoIF4S6JZoRiH2y
 
 **Related artists:**
 
-[[Erk Gotti]]
+[[producers/Erk Gotti]]
 [[NKSN]]
 [[Olson]]
 [[KALIM]]
@@ -20,10 +20,10 @@ url: https://open.spotify.com/artist/2xgbz6gqoIF4S6JZoRiH2y
 [[BATU]]
 [[Kianush]]
 [[M.O.030]]
-[[JYDN]]
-[[Aside]]
+[[producers/JYDN]]
+[[producers/Aside]]
 [[YY]]
 [[Musso]]
-[[Bawer]]
-[[Alecto]]
+[[producers/Bawer]]
+[[producers/Alecto]]
 [[Beyazz]]

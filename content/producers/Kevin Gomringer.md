@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/6OSNBgsPFr5tJdGS5sr4iV
 
 **Related artists:**
 
-[[Lennard Oestmann]]
+[[producers/Lennard Oestmann]]
 [[PA Sports]]
-[[Joshimixiu]]
-[[Tim Gomringer]]
-[[Aziz Ayari]]
-[[David Alexi]]
+[[producers/Joshimixiu]]
+[[producers/Tim Gomringer]]
+[[producers/Aziz Ayari]]
+[[producers/David Alexi]]
 [[RAF Camora]]
 [[Timeless]]
 [[Bosca]]

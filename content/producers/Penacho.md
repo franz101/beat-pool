@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7qIOIJnlBDcPxJpTbu3B0J
 
 **Related artists:**
 
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Sugar MMFK]]

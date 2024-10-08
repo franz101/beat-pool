@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/37VG24XEmIV9iMXzdJVhEp
 **Related artists:**
 
 [[Pulsedriver]]
-[[Ole Wierk]]
-[[Axel Konrad]]
+[[producers/Ole Wierk]]
+[[producers/Axel Konrad]]

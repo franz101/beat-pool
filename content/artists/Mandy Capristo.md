@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0e4DCuFquCsusyEJEvGiPA
 
 **Related artists:**
 
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Peter Maffay]]

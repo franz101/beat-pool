@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4B1qvyPliixPR7bfhkAU7L
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Brings]]
-[[Harry Alfter]]
+[[producers/Harry Alfter]]

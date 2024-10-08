@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1uBg0yL5YyhpfWejMutgnA
 
 **Related artists:**
 
-[[Matthias Richter]]
+[[producers/Matthias Richter]]
 [[Sondaschule]]
-[[Tim Kleinrensing]]
+[[producers/Tim Kleinrensing]]

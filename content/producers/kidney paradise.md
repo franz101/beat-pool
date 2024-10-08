@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0IcqGZe1RTg2lXUMvFzZa8
 
 **Related artists:**
 
-[[Kilian Lamothe]]
+[[producers/Kilian Lamothe]]
 [[DISSY]]
 [[Mine]]
-[[Torn Palk]]
-[[Fynn]]
+[[producers/Torn Palk]]
+[[producers/Fynn]]
 [[Lance Butters]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5YktUmnozGdVDHEGGkQGLi
 
 **Related artists:**
 
-[[Tommy Steiner]]
+[[producers/Tommy Steiner]]
 [[Michelle]]

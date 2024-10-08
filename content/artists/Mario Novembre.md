@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6QkidrPNY7AuI1V4xcKiqo
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf1801dfbeb3da3739b48a857)
 **Related artists:**
 
-[[FOOS]]
-[[Alex Isaak]]
-[[Yung Ares]]
-[[Mathias Ramson]]
+[[producers/FOOS]]
+[[producers/Alex Isaak]]
+[[producers/Yung Ares]]
+[[producers/Mathias Ramson]]

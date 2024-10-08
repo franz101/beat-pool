@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/0efnaWXO2gSPCteUJmGpvx
 
 [[Hans Jürgen Buchner]]
 [[Willy Michl]]
-[[Armand Volker]]
+[[producers/Armand Volker]]
 [[Spider Murphy Gang]]

@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/4Vp4EN8unhoYaECc8rfj79
 [[Fatal]]
 [[Philipp Schwär]]
 [[Skinny Al]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]
 [[RAF Camora]]
 [[Haudegen]]
 [[Kontra K]]

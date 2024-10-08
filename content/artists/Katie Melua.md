@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/5uCXJWo3WoXgqv3T1RlAbh
 **Related artists:**
 
 [[Jennifer Weist]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Philipp Poisel]]
 [[Johannes Oerding]]
-[[Tony Carey]]
+[[producers/Tony Carey]]
 [[Peter Maffay]]
 [[Ilse DeLange]]

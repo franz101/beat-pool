@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/2iSzx6yX8XC77IGgRlRZgX
 
 **Related artists:**
 
-[[Friedhelm Mund]]
+[[producers/Friedhelm Mund]]
 [[Clueso]]
-[[Fynn]]
-[[BLACK LEMON]]
+[[producers/Fynn]]
+[[producers/BLACK LEMON]]
 [[EULE]]
 [[CONNY]]
-[[Kabuki]]
+[[producers/Kabuki]]
 [[toksi]]
 [[DISSY]]
-[[Dope est Dope]]
+[[producers/Dope est Dope]]
 [[Maeckes]]

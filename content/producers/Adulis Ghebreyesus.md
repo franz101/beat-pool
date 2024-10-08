@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/19CFMalEfT0eJumePkUUh8
 [[Gökhan Güler]]
 [[Culcha Candela]]
 [[Aylo]]
-[[Sebastian Moser]]
-[[Daniel Finke]]
+[[producers/Sebastian Moser]]
+[[producers/Daniel Finke]]

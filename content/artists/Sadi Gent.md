@@ -20,6 +20,6 @@ url: https://open.spotify.com/artist/1M51HR8s0fd1b4LWL2yUK7
 [[Tayler]]
 [[Tarek]]
 [[Herzog]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Mach One]]
 [[Dr. Surabi]]

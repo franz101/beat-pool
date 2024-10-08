@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1R5Bery7qyRrq7uhHxSlQd
 
 **Related artists:**
 
-[[Manfred Leuchter]]
+[[producers/Manfred Leuchter]]
 [[Reinhard Mey]]

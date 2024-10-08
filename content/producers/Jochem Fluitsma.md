@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5HaWBT3gce7MRwZGNL3i5Y
 **Related artists:**
 
 [[Luca Hänni]]
-[[Fabian Egge]]
-[[Mark Van Tijn]]
+[[producers/Fabian Egge]]
+[[producers/Mark Van Tijn]]

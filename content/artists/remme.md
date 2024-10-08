@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb88935da28918b545ca1c3f9c)
 **Related artists:**
 
-[[Mark van Bruggen]]
-[[Christiaan Van Der Laan]]
+[[producers/Mark van Bruggen]]
+[[producers/Christiaan Van Der Laan]]

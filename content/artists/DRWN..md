@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0h6JSIfoSSbXtaBWiUC4Wy
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebade307b70f8fad24c7532499)
 **Related artists:**
 
-[[Marcel Kalt]]
+[[producers/Marcel Kalt]]

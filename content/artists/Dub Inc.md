@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U
 **Related artists:**
 
 [[Jamaram]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]

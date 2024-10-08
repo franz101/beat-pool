@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/0VUeSHZjbneQ8Ti7whkL9A
 **Related artists:**
 
 [[Moses Pelham]]
-[[Vincent Stein]]
-[[Kai Oliver Krug]]
-[[Taka Chanaiwa]]
+[[producers/Vincent Stein]]
+[[producers/Kai Oliver Krug]]
+[[producers/Taka Chanaiwa]]
 [[Kuult]]
 [[Knappe]]
 [[Topic]]

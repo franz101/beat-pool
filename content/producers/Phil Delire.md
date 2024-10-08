@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3Qa9fW2eXePERPvTFgiYDJ
 **Related artists:**
 
 [[BAP]]
-[[Klaus Heuser]]
+[[producers/Klaus Heuser]]
 [[Brings]]

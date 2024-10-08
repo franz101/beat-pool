@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3ukeNqARrKNb7xyqELiIdf
 
 **Related artists:**
 
-[[Devin Beats]]
-[[Jonas Romann]]
+[[producers/Devin Beats]]
+[[producers/Jonas Romann]]
 [[Reeperbahn Kareem]]

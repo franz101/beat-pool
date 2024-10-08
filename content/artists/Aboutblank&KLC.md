@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/7lESqzgX610bZ5zeSA9XB2
 **Related artists:**
 
 [[Andru Donalds]]
-[[Philipp Franecki]]
+[[producers/Philipp Franecki]]
 [[Driver & Face]]
 [[DJ Shog]]
 [[Jolly Harbour]]
-[[Achim Hox]]
+[[producers/Achim Hox]]
 [[Aboutblank]]

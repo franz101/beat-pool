@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0vr6aV9llEXQ8S1UGTGmpr
 
 **Related artists:**
 
-[[Chicks On Speed]]
+[[producers/Chicks On Speed]]

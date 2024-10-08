@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2oxWZ4DyeSmG7zXC0wDB40
 
 **Related artists:**
 
-[[Daniel Dickopf]]
+[[producers/Daniel Dickopf]]
 [[Wise Guys]]
-[[Uwe Baltrusch]]
+[[producers/Uwe Baltrusch]]

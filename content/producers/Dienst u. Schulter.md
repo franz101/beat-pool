@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3uLstgNjbCh6lbucVRHfsC
 
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[Lugatti & 9ine]]
 [[Konz]]

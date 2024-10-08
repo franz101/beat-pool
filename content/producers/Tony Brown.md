@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6VGPfR1XTELfxdXColdkyw
 **Related artists:**
 
 [[Samy Deluxe]]
-[[RUDY VALENTINO]]
-[[Jochen Niemann]]
+[[producers/RUDY VALENTINO]]
+[[producers/Jochen Niemann]]

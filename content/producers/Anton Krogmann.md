@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0jYIrSIwMNj0rviSYprkKl
 
 **Related artists:**
 
-[[Johannes Ellerbrock]]
+[[producers/Johannes Ellerbrock]]
 [[Schorl3]]

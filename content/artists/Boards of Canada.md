@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1
 
 **Related artists:**
 
-[[Jonathan Avram Wolf]]
-[[Michael Sandison]]
-[[Marcus Eoin]]
+[[producers/Jonathan Avram Wolf]]
+[[producers/Michael Sandison]]
+[[producers/Marcus Eoin]]
 [[cLOUDDEAD]]
-[[David Madson]]
-[[Adam Drucker]]
+[[producers/David Madson]]
+[[producers/Adam Drucker]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7cOgJugiVxFGauQFcmow5D
 **Related artists:**
 
 [[Ingo Thürauf]]
-[[Michael Ilbert]]
-[[Matthias Zielinski]]
+[[producers/Michael Ilbert]]
+[[producers/Matthias Zielinski]]
 [[Sarah Connor]]
 [[Henning Wehland]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0SIxAAknV8iR2jHcQJ9Sfn
 
 **Related artists:**
 
-[[Christoph Bauss]]
+[[producers/Christoph Bauss]]
 [[Cro]]
-[[Shuko]]
-[[BASTi]]
+[[producers/Shuko]]
+[[producers/BASTi]]

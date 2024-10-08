@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0lBu0JXKZLOlElwFgqYhrz
 
 **Related artists:**
 
-[[Smudo]]
-[[David Paul Meyer]]
+[[producers/Smudo]]
+[[producers/David Paul Meyer]]
 [[Gentleman]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]
 [[Die Fantastischen Vier]]

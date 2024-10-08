@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1oR9k6INbjcgqbBMtiOCJU
 **Related artists:**
 
 [[Nullzweizwei]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]

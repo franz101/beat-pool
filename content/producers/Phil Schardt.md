@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6A42KTEks7LvyLWM5C9af4
 **Related artists:**
 
 [[Eisblume]]
-[[Ingo Politz]]
+[[producers/Ingo Politz]]

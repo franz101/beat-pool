@@ -12,13 +12,13 @@ url: https://open.spotify.com/artist/7wPCA8VZrhAU3lQOH6hhbS
 **Related artists:**
 
 [[YONII]]
-[[Twinx]]
+[[producers/Twinx]]
 [[CAZ]]
 [[Ajé]]
 [[Edin]]
 [[Olexesh]]
-[[Dokii]]
-[[Ersonic]]
-[[Niklas Kleber]]
-[[Yung Mex]]
+[[producers/Dokii]]
+[[producers/Ersonic]]
+[[producers/Niklas Kleber]]
+[[producers/Yung Mex]]
 [[The Cratez]]

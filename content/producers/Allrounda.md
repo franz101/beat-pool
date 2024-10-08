@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5hLucJJeIxibdsKgWIaEE8
 
 **Related artists:**
 
-[[Phat Crispy]]
+[[producers/Phat Crispy]]
 [[Eko Fresh]]

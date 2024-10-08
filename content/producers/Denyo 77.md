@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4fmvzDZyi3Lve1ZJ0KCY81
 **Related artists:**
 
 [[Junior Reid]]
-[[Eissfeldt 65]]
+[[producers/Eissfeldt 65]]
 [[D-Flame]]
 [[Beginner]]
 [[Illo 77]]

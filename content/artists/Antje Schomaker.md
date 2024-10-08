@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb56db627da9ff30ff6afb4279)
 **Related artists:**
 
-[[Robin Karow]]
+[[producers/Robin Karow]]
 [[Revolverheld]]
-[[Christian Hartung]]
-[[Robert Stephenson]]
-[[Daniel Schaub]]
-[[Felix Hoffmann]]
+[[producers/Christian Hartung]]
+[[producers/Robert Stephenson]]
+[[producers/Daniel Schaub]]
+[[producers/Felix Hoffmann]]
 [[Lina Maly]]
-[[Kilian Reischl]]
-[[Philipp Steinke]]
+[[producers/Kilian Reischl]]
+[[producers/Philipp Steinke]]

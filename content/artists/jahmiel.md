@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/1pcKqVZ7T90mJ2rKo9XWYV
 
 [[Jugglerz]]
 [[The Cratez]]
-[[Markus "Syrix" Lechtleitner]]
+[[producers/Markus "Syrix" Lechtleitner]]
 [[Bonez MC]]
 [[Miwata]]

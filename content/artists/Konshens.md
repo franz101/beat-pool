@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW
 [[Nazar]]
 [[Chakuza]]
 [[RAF 3.0]]
-[[Beatlefield]]
+[[producers/Beatlefield]]
 [[RAF Camora]]
-[[KD Supier]]
+[[producers/KD Supier]]

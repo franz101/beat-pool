@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1IVkQmAyYSkIQX9yVfU0OJ
 
 **Related artists:**
 
-[[Thai]]
-[[Zero]]
+[[producers/Thai]]
+[[producers/Zero]]
 [[Eko Fresh]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6rObMYPGYuDJKyd305PKoH
 
 **Related artists:**
 
-[[Tom Bailey]]
+[[producers/Tom Bailey]]
 [[Thompson Twins]]

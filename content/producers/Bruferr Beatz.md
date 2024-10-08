@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5QDanYvEYWaI2hwk0WSUrg
 **Related artists:**
 
 [[IMMI]]
-[[3li]]
-[[Blurry]]
-[[Babyblue]]
+[[producers/3li]]
+[[producers/Blurry]]
+[[producers/Babyblue]]

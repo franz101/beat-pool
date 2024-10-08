@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/6oqh2VoJBTFje2V6cTweX6
 
 **Related artists:**
 
-[[SBM]]
-[[Hze]]
+[[producers/SBM]]
+[[producers/Hze]]
 [[Holy Modee]]
 [[NUGAT]]
 [[marú]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[Marvin Game]]
 [[ROBO]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[morten]]
-[[TIMER]]
+[[producers/TIMER]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2innBaSmptmpGvov5kUIqW
 
 **Related artists:**
 
-[[Bobby San]]
+[[producers/Bobby San]]

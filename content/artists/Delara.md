@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb9d2b2b91da7e2881f888edf)
 **Related artists:**
 
-[[Sondre]]
+[[producers/Sondre]]
 [[Loredana]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4ciTyzYia0lhDtUKEKOw6U
 
 **Related artists:**
 
-[[Peter Wagner]]
+[[producers/Peter Wagner]]
 [[Udo Jürgens]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1nj6NqcUEPCNEyJim1w5M8
 **Related artists:**
 
 [[Ir Sais]]
-[[Gabox]]
+[[producers/Gabox]]
 [[Ivana Santacruz]]

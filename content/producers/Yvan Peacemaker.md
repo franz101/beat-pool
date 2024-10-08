@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2z8F9CUOYCRUS2ex2Ng2g1
 
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
-[[Andreas Herbig]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Andreas Herbig]]
 [[KC Rebell]]
 [[Summer Cem]]
 [[Adel Tawil]]

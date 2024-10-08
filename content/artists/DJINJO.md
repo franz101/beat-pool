@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/62Mg2uwoTpjPOTi8Om9KJS
 **Related artists:**
 
 [[Weekend]]
-[[Friedrich VanZandt]]
+[[producers/Friedrich VanZandt]]

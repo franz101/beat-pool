@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/13L09dQDUeMkMitJnwo7ZP
 **Related artists:**
 
 [[Stephan Remmler]]
-[[The Ghost Ryder]]
+[[producers/The Ghost Ryder]]

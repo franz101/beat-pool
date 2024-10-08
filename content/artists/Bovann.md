@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/65PsKW9SH2nuBUpJRa07sn
 
 [[ThatGurlHanna]]
 [[Culcha Candela]]
-[[Sebastian Moser]]
-[[Sebastian Curly Moser]]
+[[producers/Sebastian Moser]]
+[[producers/Sebastian Curly Moser]]

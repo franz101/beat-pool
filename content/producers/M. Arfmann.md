@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6bIFDaWpmsmGCRQwFOvgE0
 **Related artists:**
 
 [[Jan Delay]]
-[[Tropf]]
+[[producers/Tropf]]

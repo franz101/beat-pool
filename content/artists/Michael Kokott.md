@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0Zh76IuFQoFwN9957299RF
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Unheilig]]
 [[Markus Tombült]]
-[[Kiko Maßbaum]]
+[[producers/Kiko Maßbaum]]

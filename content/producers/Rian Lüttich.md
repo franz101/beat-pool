@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0A8nN2Pf7lEan3mF3JDCLF
 
 **Related artists:**
 
-[[Tom Huber]]
+[[producers/Tom Huber]]
 [[Yvonne Catterfeld]]
-[[Chris Le Blanc]]
+[[producers/Chris Le Blanc]]

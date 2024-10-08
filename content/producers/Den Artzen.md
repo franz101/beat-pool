@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4z2Hz8wzL7yTea0tiL85Hc
 **Related artists:**
 
 [[Die Ärzte]]
-[[Uwe Hoffmann]]
+[[producers/Uwe Hoffmann]]

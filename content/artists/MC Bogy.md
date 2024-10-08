@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/0W6lhzTzIS3STsqOfNqj7V
 [[Nockout86]]
 [[Mosh36]]
 [[AchtVier]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Herzog]]
 [[Tarek K.I.Z]]
 [[Sa4]]

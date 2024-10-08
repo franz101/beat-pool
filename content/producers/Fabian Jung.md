@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/13kOLpqLbKqbRJs5mN0CUl
 **Related artists:**
 
 [[KAFVKA]]
-[[7apes]]
+[[producers/7apes]]

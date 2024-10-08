@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4304RthiZqzKpsTJLLV3wc
 
 **Related artists:**
 
-[[Raoul Vychodil]]
+[[producers/Raoul Vychodil]]
 [[Querbeat]]
-[[Guido Craveiro]]
+[[producers/Guido Craveiro]]

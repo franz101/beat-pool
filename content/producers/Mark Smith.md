@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4R7SeJppovLcSzlGUJ1vrh
 
 **Related artists:**
 
-[[Benni Dernhoff]]
+[[producers/Benni Dernhoff]]
 [[Beatgees]]
 [[Sven Bünger]]
 [[Johannes Oerding]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1hQHJvJINpezccQRHQ1EY4
 **Related artists:**
 
 [[Horst Königstein]]
-[[Zeus B. Held]]
+[[producers/Zeus B. Held]]
 [[Udo Lindenberg]]

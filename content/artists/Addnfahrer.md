@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1gdtwei3oX3h1LALyVLvYI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9ecf3184f45bf017632f29cf)
 **Related artists:**
 
-[[Tobias Thomann]]
+[[producers/Tobias Thomann]]
 [[Dorfrocker]]

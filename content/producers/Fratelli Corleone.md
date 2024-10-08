@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/11XwTCRKgzsPRw0dMPcwcf
 
 **Related artists:**
 
-[[Fratelli Pazzi]]
+[[producers/Fratelli Pazzi]]
 [[Nino de Angelo]]

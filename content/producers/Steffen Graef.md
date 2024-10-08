@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/0khbIXD7TFvNrQgPA72z89
 **Related artists:**
 
 [[Ingo Thürauf]]
-[[Kiko Masbaum]]
-[[Klaus Sahm]]
-[[Nikolay Mohr]]
-[[Elzbieta Steinmetz]]
+[[producers/Kiko Masbaum]]
+[[producers/Klaus Sahm]]
+[[producers/Nikolay Mohr]]
+[[producers/Elzbieta Steinmetz]]
 [[LOTTE]]
 [[Stefanie Heinzmann]]
 [[Max Giesinger]]

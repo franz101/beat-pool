@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7CmAGTNohHL9j5lSEJevc8
 **Related artists:**
 
 [[ZOMBIEZ]]
-[[G-Ko]]
+[[producers/G-Ko]]

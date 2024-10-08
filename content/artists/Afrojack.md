@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz
 
 **Related artists:**
 
-[[SILVERJAM]]
+[[producers/SILVERJAM]]
 [[Helene Fischer]]
-[[Kimmig Entertainment GmbH]]
+[[producers/Kimmig Entertainment GmbH]]

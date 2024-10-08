@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3fFHaBZ1J3hcJqhPdO01gL
 
 **Related artists:**
 
-[[Rob Easy]]
+[[producers/Rob Easy]]
 [[ASD]]
 [[Samy Deluxe]]
 [[Gentleman]]

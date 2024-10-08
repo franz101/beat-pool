@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/47Tj6XiF4q9ih6H1ufdJ3l
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Amar]]
 [[Ercandize]]
 [[Kool Savas]]
-[[DJ Nicon]]
+[[producers/DJ Nicon]]
 [[Moe Mitchell]]

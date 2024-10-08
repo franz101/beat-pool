@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/2M5w5QrYTg2yiuURwaQLEF
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb65d6086e1aed974313adac24)
 **Related artists:**
 
-[[Giovanni Nicoletta]]
+[[producers/Giovanni Nicoletta]]
 [[Marcus Wüst]]
 [[Get Well Soon]]
-[[Marcus Wuest]]
-[[Konstantin Gropper]]
+[[producers/Marcus Wuest]]
+[[producers/Konstantin Gropper]]

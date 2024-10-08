@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb131d79f557847ce4cffca710)
 **Related artists:**
 
-[[Truva]]
-[[YouGuys Music]]
+[[producers/Truva]]
+[[producers/YouGuys Music]]
 [[Teo Runsjö]]
-[[Frans Torell]]
-[[TeoFrans]]
-[[Martin Wave]]
+[[producers/Frans Torell]]
+[[producers/TeoFrans]]
+[[producers/Martin Wave]]

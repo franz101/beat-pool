@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/1Q229kIsASlkUb3VBeQmIL
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba8034d97e6709d60209702eb)
 **Related artists:**
 
-[[Andreas Weizel]]
-[[Robin Grubert]]
+[[producers/Andreas Weizel]]
+[[producers/Robin Grubert]]
 [[Alina Süggeler]]
-[[Carsten Heller]]
+[[producers/Carsten Heller]]
 [[Fame's - Macedonian Symphonic Orchestra]]
 [[KC Rebell]]
 [[Oleg Kondratenko]]

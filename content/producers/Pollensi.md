@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1aaeQCTOeHiGN3V4BxXUDA
 **Related artists:**
 
 [[Gentleman]]
-[[Don Corleon]]
+[[producers/Don Corleon]]

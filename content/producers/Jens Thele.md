@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6wAiy7htVTHkSNylqiMnRo
 
 **Related artists:**
 
-[[H.P. Baxxter]]
-[[Rick J. Jordan]]
-[[Michael Simon]]
+[[producers/H.P. Baxxter]]
+[[producers/Rick J. Jordan]]
+[[producers/Michael Simon]]
 [[Scooter]]

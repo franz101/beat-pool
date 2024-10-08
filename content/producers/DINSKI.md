@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/64P9S4W1Glh0Kkazj4ulEA
 
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[LX]]
 [[Bozza]]
 [[Ramo]]

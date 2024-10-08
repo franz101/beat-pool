@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/3R3c2pjnRxg9MhgEiuf3UJ
 **Related artists:**
 
 [[LUVRE47]]
-[[Pavlo]]
+[[producers/Pavlo]]
 [[Mosenu]]
 [[Said]]
 [[Klapse Mane]]
 [[Bangs]]
-[[RGB1]]
+[[producers/RGB1]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6856JWG7Zv3tYx2jDdw88F
 
 **Related artists:**
 
-[[Vinay]]
+[[producers/Vinay]]
 [[AJÉ]]

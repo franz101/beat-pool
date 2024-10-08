@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6wuJVw9zL6d04r89RIJ3Da
 **Related artists:**
 
 [[Ti-Mo]]
-[[Tribune]]
+[[producers/Tribune]]

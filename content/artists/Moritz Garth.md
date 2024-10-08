@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/1WAFrFBTxCQljp8iidU9sn
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb658e91902f601d811ce46fd8)
 **Related artists:**
 
-[[Eric Philippi]]
-[[Mathias Ramson]]
+[[producers/Eric Philippi]]
+[[producers/Mathias Ramson]]
 [[EstA]]

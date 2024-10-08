@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1m4g9lJb3m89G17e487Fqi
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Silla]]
-[[Johnny Stokez]]
+[[producers/Johnny Stokez]]

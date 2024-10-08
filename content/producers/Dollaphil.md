@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/41fWBNVriRiCJgET70J0CI
 **Related artists:**
 
 [[Loop]]
-[[Arpad]]
+[[producers/Arpad]]
 [[Bangs]]
 [[AOB]]
 [[YAEL]]

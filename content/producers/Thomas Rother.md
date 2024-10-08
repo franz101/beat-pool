@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4FR33vRalZIiGNqx7i11El
 
 [[Pulsedriver]]
 [[André Pietschmann]]
-[[Dennis Kramme]]
+[[producers/Dennis Kramme]]
 [[Tube Tonic]]
 [[DJ Shandar]]

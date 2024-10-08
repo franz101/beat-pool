@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7EzIeZdKaNlzHvokOvcgYx
 
 **Related artists:**
 
-[[Avedon]]
+[[producers/Avedon]]
 [[Sonus030]]
-[[MIKSU]]
+[[producers/MIKSU]]
 [[Ufo361]]
 [[Loredana]]

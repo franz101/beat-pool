@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1LanuPeqNhWB5lS77vIzGQ
 
 [[Jamali]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]
 [[Daddy Rings]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2eOaoWOpvFNZUWFi6rOOcH
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe9f29b0e898f91a713f8ceb0)
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Jerome]]
 [[Georg Stengel]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

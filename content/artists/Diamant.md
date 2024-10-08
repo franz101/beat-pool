@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/0BHmngMFUcxPta4njTSMuU
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb76102815520a89fb0d1ab32c)
 **Related artists:**
 
-[[Bekenz Beats]]
-[[7evenbeats]]
-[[6AM]]
+[[producers/Bekenz Beats]]
+[[producers/7evenbeats]]
+[[producers/6AM]]
 [[Yuno33]]
-[[Play]]
+[[producers/Play]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5jvJoybRSHYAlPYyz6cnOd
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebae14812ee5ce077f4df3a626)
 **Related artists:**
 
-[[Tobias Thomann]]
+[[producers/Tobias Thomann]]
 [[Addnfahrer]]

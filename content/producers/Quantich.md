@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3hLqRHgZcC6XGxPKQnaBei
 
 **Related artists:**
 
-[[Lorentz]]
-[[Pluto]]
+[[producers/Lorentz]]
+[[producers/Pluto]]
 [[OMG]]

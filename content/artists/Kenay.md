@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/6Np5o3AdncTxnqbBHQqWPC
 
 [[Xavier Naidoo]]
 [[Anstandslos & Durchgeknallt]]
-[[Peter "Jem" Seifert]]
-[[Vitali Zestovskih]]
+[[producers/Peter "Jem" Seifert]]
+[[producers/Vitali Zestovskih]]

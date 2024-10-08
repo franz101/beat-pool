@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5CkICcujZFEoCPRte9WtHj
 **Related artists:**
 
 [[Ohrbooten]]
-[[Robert Koch]]
+[[producers/Robert Koch]]

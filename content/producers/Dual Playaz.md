@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4pY32o2BORzjZ0swEKmBFX
 [[Rocco]]
 [[Tom Larusso]]
 [[Tomtrax & Orca]]
-[[Andre Otterbach]]
+[[producers/Andre Otterbach]]
 [[Pit Bailay]]

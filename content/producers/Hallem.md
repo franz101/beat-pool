@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7iPjtLJcjCZ3wVtsFzUIMg
 **Related artists:**
 
 [[Bosca]]
-[[Sutas Frequenz]]
+[[producers/Sutas Frequenz]]
 [[Twin]]

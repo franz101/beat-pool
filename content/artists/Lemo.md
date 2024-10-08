@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5TWfctF6c9Iiq35fU8EJMi
 
 **Related artists:**
 
-[[Alex Pohn]]
-[[Lukas Hillebrand]]
+[[producers/Alex Pohn]]
+[[producers/Lukas Hillebrand]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

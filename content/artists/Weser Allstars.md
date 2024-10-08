@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4sgiZFFWNNDuvu1RqLAIdg
 **Related artists:**
 
 [[Jörg Müller]]
-[[N. Duro]]
+[[producers/N. Duro]]
 [[Curse]]
-[[Plattenpapzt]]
+[[producers/Plattenpapzt]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/06QyvV2Sz0Peln5FdP2w7g
 **Related artists:**
 
 [[Andreas Bourani]]
-[[Andreas Herbig]]
-[[Julius Hartog]]
-[[Peter "Jem" Seifert]]
+[[producers/Andreas Herbig]]
+[[producers/Julius Hartog]]
+[[producers/Peter "Jem" Seifert]]

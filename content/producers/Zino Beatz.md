@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6yyja8ewcqxIdZps1zwOn6
 
 **Related artists:**
 
-[[Jermaine]]
-[[Ben-E]]
+[[producers/Jermaine]]
+[[producers/Ben-E]]
 [[JIGGO]]

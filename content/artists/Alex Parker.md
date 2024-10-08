@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7oOfZSYouCcyk13dNrOpiX
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb450bece51cd7d0f5c72c2bb5)
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Holy Molly]]
 [[LIZOT]]
-[[Marius Dia]]
+[[producers/Marius Dia]]

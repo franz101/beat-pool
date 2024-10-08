@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/159dlgZwWgkgJXpmU9C44W
 **Related artists:**
 
 [[Nura]]
-[[Mantra]]
-[[Krutsch]]
+[[producers/Mantra]]
+[[producers/Krutsch]]

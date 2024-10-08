@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/3XTksTEIaSQ1gvxhRQdLC0
 [[Brous One]]
 [[Hiob]]
 [[grim104]]
-[[Phatal Beatz]]
+[[producers/Phatal Beatz]]
 [[DCVDNS]]
 [[Döll]]
 [[Omik K]]

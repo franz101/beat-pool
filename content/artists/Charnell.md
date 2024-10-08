@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/0mpaJv3pWEkm5J8e02duqs
 
 [[Tatwaffe]]
 [[German Dream Allstars]]
-[[Kingsize]]
-[[Baby Dooks]]
+[[producers/Kingsize]]
+[[producers/Baby Dooks]]
 [[Samy Deluxe]]
 [[Eko Fresh]]

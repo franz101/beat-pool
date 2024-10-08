@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/7fhh9osgiRGbaGzs5BZ5Bo
 [[Idil]]
 [[Oli. P]]
 [[Funky Punk]]
-[[Claus Capek]]
+[[producers/Claus Capek]]

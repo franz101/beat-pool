@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4TgIrwJThIBZB0lMickY7Y
 
 [[Sugar MMFK]]
 [[Eno]]
-[[Choukri]]
+[[producers/Choukri]]
 [[Schwesta Ewa]]

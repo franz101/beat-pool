@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0NgvbdprOZ9AdTczmfnGsv
 **Related artists:**
 
 [[Mosh36]]
-[[Saven]]
+[[producers/Saven]]
 [[Bugs]]

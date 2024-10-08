@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/76gPPKqhLnBRHXoGi2UI6n
 **Related artists:**
 
 [[Culcha Candela]]
-[[Øystein Haarstad]]
+[[producers/Øystein Haarstad]]

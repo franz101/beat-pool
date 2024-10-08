@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4vnVw4Qo2ZxfVHvaKyErSx
 
 **Related artists:**
 
-[[Peter Power]]
-[[Tokapi]]
+[[producers/Peter Power]]
+[[producers/Tokapi]]
 [[Mickie Krause]]

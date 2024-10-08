@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6WXXT8CFiCxDhBlRDyaIhi
 
 **Related artists:**
 
-[[Chris Hammerl]]
-[[Herr Kaschke]]
-[[Johannes Stankowski]]
-[[Niko Floss]]
+[[producers/Chris Hammerl]]
+[[producers/Herr Kaschke]]
+[[producers/Johannes Stankowski]]
+[[producers/Niko Floss]]
 [[Barbara Schöneberger]]

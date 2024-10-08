@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1nf344BGoa8bPW2Ocl00Vh
 
 **Related artists:**
 
-[[Brasco]]
+[[producers/Brasco]]
 [[reezy]]
 [[KALIM]]
-[[Bawer]]
+[[producers/Bawer]]

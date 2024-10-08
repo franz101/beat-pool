@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4KWCXBhD4pKC51FQUjo7ba
 
 **Related artists:**
 
-[[Madara]]
+[[producers/Madara]]
 [[Skunk]]
 [[Arjey]]
-[[Diggy Mac Dirt]]
+[[producers/Diggy Mac Dirt]]
 [[Hypnotize]]

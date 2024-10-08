@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2jjPZPzQTomwVPnHp3wOwo
 **Related artists:**
 
 [[Juse Ju]]
-[[C.O.W. 牛]]
-[[Enaka]]
+[[producers/C.O.W. 牛]]
+[[producers/Enaka]]
 [[Panik Panzer]]

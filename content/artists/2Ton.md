@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/354bn1gKNGwig4UD80Lytn
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbb8166ef4cf7d02e78ffe1d1)
 **Related artists:**
 
-[[NEGO]]
-[[Zen]]
+[[producers/NEGO]]
+[[producers/Zen]]
 [[King Khalil]]

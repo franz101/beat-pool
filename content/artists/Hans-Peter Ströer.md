@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7I5VwcxGHB9yy877qXtInL
 [[Ströer Bros.]]
 [[Jürgen Luhn]]
 [[Udo Lindenberg]]
-[[Lucas Hilbert]]
+[[producers/Lucas Hilbert]]
 [[Horst Königstein]]
-[[Hendrik Schaper]]
+[[producers/Hendrik Schaper]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2RkmcEisSOpC7f41BUXssE
 
 **Related artists:**
 
-[[Roland Knauf]]
-[[The Krauts (David Conen - Vincent von Schlippenbach - Dirk Berger)]]
-[[The Krauts]]
+[[producers/Roland Knauf]]
+[[producers/The Krauts (David Conen - Vincent von Schlippenbach - Dirk Berger)]]
+[[producers/The Krauts]]
 [[Dendemann]]
 [[Dexter]]
 [[Marteria]]

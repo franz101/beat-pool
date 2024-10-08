@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7pxc07yEf1oRpE4LGYB4N5
 **Related artists:**
 
 [[Fettes Brot]]
-[[Taco Van Hettinga]]
-[[Ramin Bijan]]
+[[producers/Taco Van Hettinga]]
+[[producers/Ramin Bijan]]

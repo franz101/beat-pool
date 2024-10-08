@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1ETTeLjHMGbbuq9dbNChZc
 
 **Related artists:**
 
-[[Tom Mueller]]
+[[producers/Tom Mueller]]
 [[Rosenstolz]]
 [[Tom Müller]]

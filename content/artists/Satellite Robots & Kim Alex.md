@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0kHRVMoV3jFrltaMo3fPvH
 
 **Related artists:**
 
-[[Fait Albrecht]]
+[[producers/Fait Albrecht]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3vioxUBsBBi7pmXx4KG5Vg
 
 **Related artists:**
 
-[[MMPM]]
+[[producers/MMPM]]
 [[Mert]]
-[[Zurich]]
+[[producers/Zurich]]

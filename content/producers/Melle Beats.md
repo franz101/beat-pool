@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/17vxu4HiJrAFKpzs9T8azw
 [[Chapo102]]
 [[Monk]]
 [[Inoffiziell.Goldenboy]]
-[[Ericson]]
+[[producers/Ericson]]

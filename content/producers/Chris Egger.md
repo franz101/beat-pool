@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/00PFvHob7rFX8tD1Dpq2GT
 
 **Related artists:**
 
-[[SRF - Schweizer Radio und Fernsehen]]
+[[producers/SRF - Schweizer Radio und Fernsehen]]
 [[Wanda]]

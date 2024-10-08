@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/5MK3mcA12A1yfvRiNzoKr0
 [[Charlotte Klauser]]
 [[Peter Maffay]]
 [[Culcha Candela]]
-[[Pascal Kravetz]]
+[[producers/Pascal Kravetz]]
 [[Natasja Marinkovic]]

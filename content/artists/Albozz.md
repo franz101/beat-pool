@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/6TqHWporEvKAPW4jtZXBCH
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9d38e6350be72ddb07f69fef)
 **Related artists:**
 
-[[DVDN]]
-[[Perino]]
-[[Armin Monte]]
+[[producers/DVDN]]
+[[producers/Perino]]
+[[producers/Armin Monte]]
 [[Maestro]]
-[[Angelo]]
+[[producers/Angelo]]
 [[Mois]]
 [[Sokko167]]
-[[Emde51]]
+[[producers/Emde51]]

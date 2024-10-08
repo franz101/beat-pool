@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/40JB2Jv9Ag0AfocsvvdwxG
 **Related artists:**
 
 [[Bonaparte]]
-[[Isaias Azier]]
-[[Tobias Jundt]]
+[[producers/Isaias Azier]]
+[[producers/Tobias Jundt]]

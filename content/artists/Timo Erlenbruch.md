@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/73oV511uyFlb5Yl7py9Vmw
 
 [[Kindervater]]
 [[Scooter]]
-[[Stefan Rio]]
+[[producers/Stefan Rio]]

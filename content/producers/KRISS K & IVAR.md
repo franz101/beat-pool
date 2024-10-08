@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0jHEOCDNWZl3ke7PLl0Guw
 
 **Related artists:**
 
-[[Niklas Hafeman]]
+[[producers/Niklas Hafeman]]
 [[No Angels]]

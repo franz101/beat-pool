@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3mw8A1RXm3ORYuUzloEthm
 **Related artists:**
 
 [[Stephan Remmler]]
-[[M.M. Benine]]
+[[producers/M.M. Benine]]

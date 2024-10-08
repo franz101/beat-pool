@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7dJuG5U8QbSwQMj5NVaQsC
 
 **Related artists:**
 
-[[Cactus-von Finsterwalde]]
+[[producers/Cactus-von Finsterwalde]]
 [[Stereo Total]]
 [[Momus]]

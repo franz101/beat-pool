@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/67Uva9wrs8J7RXsho4gEOq
 **Related artists:**
 
 [[Wanda]]
-[[Chris Egger]]
+[[producers/Chris Egger]]

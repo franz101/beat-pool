@@ -17,14 +17,14 @@ url: https://open.spotify.com/artist/2pYcSmIpBAtE12myOa1E0E
 **Related artists:**
 
 [[Lakmann]]
-[[Lord Scan]]
+[[producers/Lord Scan]]
 [[Dray Durch]]
 [[Casper]]
 [[Umse]]
 [[Later]]
 [[Chrizzow Flex]]
 [[Patrick mit Absicht]]
-[[FRNK]]
+[[producers/FRNK]]
 [[Atze M]]
 [[Morlockk Dilemma]]
 [[Timi Hendrix]]

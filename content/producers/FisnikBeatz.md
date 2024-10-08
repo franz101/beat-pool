@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4JbMQkrPmydjjn7MLk1X3k
 
 [[Fard]]
 [[Kilomatik]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
 [[B-Case]]

@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/5JPMHPJsiNNwG2bZu9qLlS
 
 [[youngubahn]]
 [[prodbypengg]]
-[[schadenfreude made it]]
-[[Josh Petruccio]]
-[[Jambus]]
-[[9anyal]]
-[[Hoseuberschuh]]
+[[producers/schadenfreude made it]]
+[[producers/Josh Petruccio]]
+[[producers/Jambus]]
+[[producers/9anyal]]
+[[producers/Hoseuberschuh]]

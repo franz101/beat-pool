@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5Ey79g5HdXRYhqZVCz6UD1
 
 **Related artists:**
 
-[[Hoss Power]]
+[[producers/Hoss Power]]
 [[The BossHoss]]
 [[Nena]]

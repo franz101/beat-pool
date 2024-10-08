@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1PAdEdKRYjrXDBHtMYdEFD
 **Related artists:**
 
 [[Extrabreit]]
-[[Christian Schneider]]
-[[Schneider]]
+[[producers/Christian Schneider]]
+[[producers/Schneider]]

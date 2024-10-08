@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1zwtew8BGPk66RKGQqtPCX
 **Related artists:**
 
 [[Kristian Kühl]]
-[[Markus Ganter]]
-[[Magnus Wichmann]]
+[[producers/Markus Ganter]]
+[[producers/Magnus Wichmann]]
 [[Pabst]]
-[[Helge Hasselberg]]
+[[producers/Helge Hasselberg]]

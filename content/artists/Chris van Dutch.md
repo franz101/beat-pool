@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[RainDropz!]]
-[[Dennis Logemann]]
+[[producers/Dennis Logemann]]

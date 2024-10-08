@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7tRuny7cMMn7I245dE4zfg
 **Related artists:**
 
 [[IDC]]
-[[Monte]]
+[[producers/Monte]]
 [[Neo Unleashed]]
 [[Punch Arogunz]]
 [[Cashisclay]]
-[[Illicity]]
+[[producers/Illicity]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/73ooEJLJR88ni3VctnnUYV
 **Related artists:**
 
 [[KALIM]]
-[[Crooky Jazz]]
+[[producers/Crooky Jazz]]

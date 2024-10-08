@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3miNucraVWk4hdVsIxn7id
 
 [[Das Panik-Orchester]]
 [[Udo Lindenberg]]
-[[Andreas Herbig]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Andreas Herbig]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

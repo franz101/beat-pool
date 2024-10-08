@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4sN2tuOwxc0CBfQ2h1qR7d
 **Related artists:**
 
 [[Dardan]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Patron]]

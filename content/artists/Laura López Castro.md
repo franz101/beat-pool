@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6TdrQtgfLpbMeDLtu5cVKl
 **Related artists:**
 
 [[Don Philippe]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]
 [[Max Herre]]

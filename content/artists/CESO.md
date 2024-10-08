@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/18DJyARHfP9RsBvIn0u34T
 
 **Related artists:**
 
-[[Oster]]
+[[producers/Oster]]
 [[AJÉ]]
-[[R3sar]]
+[[producers/R3sar]]

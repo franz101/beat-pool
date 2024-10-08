@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0are76dScRI7rrQZacKBEx
 **Related artists:**
 
 [[AchtVier]]
-[[Underdog Beatz]]
-[[Jambeatz]]
+[[producers/Underdog Beatz]]
+[[producers/Jambeatz]]
 [[ZMY DaBeat]]

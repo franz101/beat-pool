@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2hfInImCCmb7zXIuCE15IN
 
 **Related artists:**
 
-[[Daniel De Clerq]]
+[[producers/Daniel De Clerq]]

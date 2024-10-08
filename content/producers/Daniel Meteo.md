@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7Al4D9uDWubmoK1qPu7Ic8
 
 **Related artists:**
 
-[[Patrick Leuschner]]
+[[producers/Patrick Leuschner]]
 [[Stephan Remmler]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3TocIPkVkpTWkKVkYSajgx
 [[Mädness]]
 [[Nadine Demetrio]]
 [[Baggefudda]]
-[[Phonk D]]
+[[producers/Phonk D]]
 [[Patrick mit Absicht]]

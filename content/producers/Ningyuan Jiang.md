@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/5CfKPgF5I1VRQQHlwYOh0U
 
 **Related artists:**
 
-[[Dino Radosevic]]
+[[producers/Dino Radosevic]]
 [[W.O.C.]]
 [[Benedikt Schöller]]
-[[Timothy Auld]]
+[[producers/Timothy Auld]]
 [[Culcha Candela]]
-[[Sam Dick]]
-[[Mustardo On The Beat]]
+[[producers/Sam Dick]]
+[[producers/Mustardo On The Beat]]

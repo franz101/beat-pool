@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1A8G3z6a78odCcAjUDaU6a
 **Related artists:**
 
 [[XATAR]]
-[[Zimzala]]
+[[producers/Zimzala]]
 [[SSIO]]
 [[Maestro]]

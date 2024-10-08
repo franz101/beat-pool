@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/015bIyYjjyqiy9C74fBLGF
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdfb136466ecc895d68a538b0)
 **Related artists:**
 
-[[Moglii]]
+[[producers/Moglii]]

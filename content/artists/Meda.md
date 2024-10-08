@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4B1emXLiBtbjjwGmLqVsHO
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd529747cbab6a6d619a5bded)
 **Related artists:**
 
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Belah]]
-[[Skender Durakovac]]
+[[producers/Skender Durakovac]]

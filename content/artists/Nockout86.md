@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/05XpTqHWsIt3FA7uMqatKq
 [[Mosh36]]
 [[AchtVier]]
 [[MC Bogy]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Herzog]]
 [[Tarek K.I.Z]]
 [[Sa4]]

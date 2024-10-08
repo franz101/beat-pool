@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3WKRQc87cTuseB7djA3OoW
 **Related artists:**
 
 [[Menschenfreund88]]
-[[Ben Burgwinkel]]
+[[producers/Ben Burgwinkel]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

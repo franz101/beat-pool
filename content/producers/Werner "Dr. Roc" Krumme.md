@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6x6zwKahn5YD5ZMz22Q8no
 
 [[Das Bo]]
 [[King Chronic]]
-[[Christian Bader]]
+[[producers/Christian Bader]]
 [[Jennifer Rostock]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

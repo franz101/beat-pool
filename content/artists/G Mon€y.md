@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3zjvJu449NDpaNEQUWuGF6
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Telly Tellz]]

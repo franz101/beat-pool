@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1pjNNagapiZpeVI6rMrXw9
 
 **Related artists:**
 
-[[O.Statz]]
-[[Edo Zanki]]
+[[producers/O.Statz]]
+[[producers/Edo Zanki]]
 [[Florian]]
 [[Nino de Angelo]]

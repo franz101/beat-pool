@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/25mjdA0fEZszVtdpShc8pR
 
 **Related artists:**
 
-[[Devin Beats]]
+[[producers/Devin Beats]]
 [[Björn Engelberg]]
 [[Reeperbahn Kareem]]

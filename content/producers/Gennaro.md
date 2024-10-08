@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0JSVPwb2qwIVDue4mzdveR
 **Related artists:**
 
 [[Micel O.]]
-[[DEEN-O]]
+[[producers/DEEN-O]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2qtNH5g3CqzYgauXLfnhB4
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Karat]]

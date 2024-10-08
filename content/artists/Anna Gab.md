@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3mcSpCJwjRhRB3wlisH11a
 
 **Related artists:**
 
-[[Michael Herberger]]
+[[producers/Michael Herberger]]
 [[DMMK]]

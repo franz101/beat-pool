@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4x8Exlmu9oMS1uJUHlRIxI
 
 **Related artists:**
 
-[[Unleaded]]
+[[producers/Unleaded]]
 [[Ardian Bujupi]]

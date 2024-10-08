@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1BN01K2nCQxrK1Eac7T9tm
 **Related artists:**
 
 [[Gentleman]]
-[[Anthony Red Roze]]
+[[producers/Anthony Red Roze]]

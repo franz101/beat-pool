@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1Ads1ZMs7rhNZx3jeBSFfC
 **Related artists:**
 
 [[Ilir And The Global Antifascists]]
-[[Mark Duran]]
-[[Thomas Spitzer]]
-[[Kurt Keinrath]]
+[[producers/Mark Duran]]
+[[producers/Thomas Spitzer]]
+[[producers/Kurt Keinrath]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

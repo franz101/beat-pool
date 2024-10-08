@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6aM1KTgJJhoJlREFjK3OeL
 
 **Related artists:**
 
-[[Loloo]]
+[[producers/Loloo]]
 [[Ra'is]]
-[[Erx]]
+[[producers/Erx]]

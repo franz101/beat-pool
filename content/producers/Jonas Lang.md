@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2dFgRBrGdQR9JwGPvmHTum
 
 [[Tua]]
 [[Die Orsons]]
-[[C.O.B.]]
+[[producers/C.O.B.]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1VfSGiLKlEY97nARhOOQtv
 
 **Related artists:**
 
-[[Tony Brown]]
+[[producers/Tony Brown]]
 [[Jan Delay]]
-[[RUDY VALENTINO]]
+[[producers/RUDY VALENTINO]]
 [[Samy Deluxe]]
 [[Dynamite Deluxe]]
-[[Kaspar Wiens]]
+[[producers/Kaspar Wiens]]

@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/0XxtiN3S0z1jU2Xk8Eabbt
 [[Nickz]]
 [[AchtVier]]
 [[TaiMO]]
-[[CHRS]]
-[[Tash 08]]
+[[producers/CHRS]]
+[[producers/Tash 08]]

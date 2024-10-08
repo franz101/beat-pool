@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7zxjDrgyUQR7VFdgAbdyHT
 
 **Related artists:**
 
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Sido]]

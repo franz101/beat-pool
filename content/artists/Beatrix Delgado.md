@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7otjypawPvh3O1ZXaqW4NY
 
 **Related artists:**
 
-[[T. Schleh]]
+[[producers/T. Schleh]]
 [[Klubbingman]]
-[[Andy Jay Powell]]
+[[producers/Andy Jay Powell]]

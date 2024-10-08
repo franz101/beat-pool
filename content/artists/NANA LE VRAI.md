@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/7N2sLidmSrfBnf8oHyzpIp
 **Related artists:**
 
 [[Skew]]
-[[Tron]]
+[[producers/Tron]]
 [[Endzone]]
 [[Yungpalo]]

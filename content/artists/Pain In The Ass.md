@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0bcHJxW4KgXlgIy3HloafS
 **Related artists:**
 
 [[Ferris MC]]
-[[Wolfgang Stach]]
+[[producers/Wolfgang Stach]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1ldsuiSBiF9jsLQJape3e6
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb49cc74c94cc9ab6d50a14292)
 **Related artists:**
 
-[[Kay Razy]]
+[[producers/Kay Razy]]
 [[Diorthug]]

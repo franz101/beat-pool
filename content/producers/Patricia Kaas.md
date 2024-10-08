@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4JQHNk6teUNYxC27Bg0UPI
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Ercandize]]
 [[Kool Savas]]
 [[Amar]]

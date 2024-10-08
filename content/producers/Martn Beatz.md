@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2qedZhYSUojOO3rD5F4qsW
 
 **Related artists:**
 
-[[Yung Swisher]]
+[[producers/Yung Swisher]]
 [[Ramo]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Hemso]]

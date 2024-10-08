@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3YtV61MCHrPxbCvR9EUwI6
 **Related artists:**
 
 [[Leoniden]]
-[[Helge Hasselberg]]
+[[producers/Helge Hasselberg]]

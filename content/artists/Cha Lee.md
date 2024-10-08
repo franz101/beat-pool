@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5sKp7JBresqOWQU3k3ecUA
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Lugatti & 9ine]]
 [[JACE]]
-[[Traya]]
-[[Drupes]]
+[[producers/Traya]]
+[[producers/Drupes]]
 [[SDT]]

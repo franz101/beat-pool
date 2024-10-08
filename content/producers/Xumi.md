@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6XwK8YtXijXMxE5hXYiC0m
 **Related artists:**
 
 [[Juse Ju]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Mädness]]

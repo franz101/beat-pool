@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1wLLRA70itxEltujaQlLiT
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf81fbfa5caec8397c607bf5f)
 **Related artists:**
 
-[[Josh Rosinet]]
-[[Thomas Porzig]]
+[[producers/Josh Rosinet]]
+[[producers/Thomas Porzig]]
 [[Qbano]]
-[[Junior A La Prod]]
+[[producers/Junior A La Prod]]

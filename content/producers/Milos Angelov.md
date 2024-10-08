@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7Ix7mluw30qyJVPC8oS44M
 
 **Related artists:**
 
-[[Kiko Masbaum]]
+[[producers/Kiko Masbaum]]
 [[Rea Garvey]]
-[[X-Plosive]]
+[[producers/X-Plosive]]
 [[Kool Savas]]
-[[Abaz]]
+[[producers/Abaz]]

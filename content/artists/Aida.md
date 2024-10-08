@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3U3doPjg4JNGuF0cNggPpt
 **Related artists:**
 
 [[Fard]]
-[[Brian Uzna]]
+[[producers/Brian Uzna]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5NTtpgtSrhLsZxJNm7uCnU
 
 **Related artists:**
 
-[[Carl Carlton]]
+[[producers/Carl Carlton]]

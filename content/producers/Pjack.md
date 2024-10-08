@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2Jz2JySrL1gremEJ4024ZC
 
 **Related artists:**
 
-[[HNDRX]]
+[[producers/HNDRX]]
 [[Souly]]
 [[Mois]]
-[[NDRSN]]
+[[producers/NDRSN]]
 [[Maestro]]

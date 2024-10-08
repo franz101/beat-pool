@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3lOeeG5aoB1vKQzohFB2ar
 **Related artists:**
 
 [[L'aupaire]]
-[[Martin Rott]]
-[[Hannes Butzer]]
+[[producers/Martin Rott]]
+[[producers/Hannes Butzer]]
 [[BOKEH]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

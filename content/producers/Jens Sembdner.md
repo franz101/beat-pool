@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0UCLjuxAy9KVB8abog33CH
 
 **Related artists:**
 
-[[Wolfgang Lenk]]
+[[producers/Wolfgang Lenk]]
 [[Die Prinzen]]
 [[Tobias Künzel]]

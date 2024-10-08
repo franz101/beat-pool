@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0RumimGfpHJk52huUuN3hq
 **Related artists:**
 
 [[DJ Decron]]
-[[Danny Fervent]]
+[[producers/Danny Fervent]]

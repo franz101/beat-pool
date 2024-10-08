@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/25wFtFjAKXvs93kaJPMuSw
 **Related artists:**
 
 [[Robin Gibb]]
-[[Christopher Maynard Barbosa]]
-[[Robin Hugh Gibb]]
-[[Maurice Ernest Gibb]]
+[[producers/Christopher Maynard Barbosa]]
+[[producers/Robin Hugh Gibb]]
+[[producers/Maurice Ernest Gibb]]

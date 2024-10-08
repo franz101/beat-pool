@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0c0Owq91uXqDe45uWfuV3u
 **Related artists:**
 
 [[Vera Klima]]
-[[Swen Meyer]]
+[[producers/Swen Meyer]]
 [[Max Mutzke]]

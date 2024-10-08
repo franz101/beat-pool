@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1d4FyZrtr87z3Z6kP4ljsV
 **Related artists:**
 
 [[Jörg Weisselberg]]
-[[Steffen Langenfeld]]
+[[producers/Steffen Langenfeld]]
 [[Silbermond]]

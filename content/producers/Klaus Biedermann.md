@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2dbLVFKbO4E5hiURDTaxAd
 
 **Related artists:**
 
-[[Kurt Keinrath]]
-[[Klaus Eberhartinger]]
+[[producers/Kurt Keinrath]]
+[[producers/Klaus Eberhartinger]]
 [[Peter Müller]]
-[[Thomas Spitzer]]
-[[Elmar Peinelt]]
-[[Gernot Resch]]
+[[producers/Thomas Spitzer]]
+[[producers/Elmar Peinelt]]
+[[producers/Gernot Resch]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

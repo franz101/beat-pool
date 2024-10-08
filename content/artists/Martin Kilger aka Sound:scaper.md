@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1sKwZo7m92t1Td71BKbDU6
 
 **Related artists:**
 
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

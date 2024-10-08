@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1unnB4oqJFQQ3PZ6wzvcJq
 
 **Related artists:**
 
-[[Konrad Betcher]]
+[[producers/Konrad Betcher]]
 [[Bosse]]
 [[Casper]]
 [[Nino Skrotzki]]
-[[Philipp Steinke]]
+[[producers/Philipp Steinke]]

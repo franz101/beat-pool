@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3
 
 [[The Cratez]]
 [[Ufo361]]
-[[Ufuk Bayraktar]]
-[[Michael Alber]]
+[[producers/Ufuk Bayraktar]]
+[[producers/Michael Alber]]

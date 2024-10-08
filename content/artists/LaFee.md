@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3qhf2c1F1pN57xQ6cqoBwI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5014915da17854c49495c589)
 **Related artists:**
 
-[[Bob Arnz]]
-[[David Bonk]]
-[[Peter Hoffmann]]
+[[producers/Bob Arnz]]
+[[producers/David Bonk]]
+[[producers/Peter Hoffmann]]

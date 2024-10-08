@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2DbpanduRLSrGiYjQkOrna
 
 **Related artists:**
 
-[[Marvin P Jones III]]
-[[Jason Smith]]
-[[Phonte Lyshod Coleman]]
-[[Otis Jackson Jr.]]
+[[producers/Marvin P Jones III]]
+[[producers/Jason Smith]]
+[[producers/Phonte Lyshod Coleman]]
+[[producers/Otis Jackson Jr.]]

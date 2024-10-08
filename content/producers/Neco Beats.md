@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/11mWLHGq53pOxJEnXk7gFZ
 
 **Related artists:**
 
-[[Zest]]
+[[producers/Zest]]
 [[Holy Modee]]
-[[27Corazones Beats]]
+[[producers/27Corazones Beats]]

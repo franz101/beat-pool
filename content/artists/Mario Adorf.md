@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3HnBSqLpw0HZYLU1jmxe7N
 
 **Related artists:**
 
-[[Dieter Birr]]
+[[producers/Dieter Birr]]

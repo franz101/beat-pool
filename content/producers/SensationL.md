@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4cVkLAOa1jwgNK6Les2xXp
 
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]
 [[Lugatti & 9ine]]
 [[Longus Mongus]]

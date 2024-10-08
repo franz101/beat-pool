@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/13AmJPeJaUwmtEIH2ofKBq
 
 **Related artists:**
 
-[[Keano]]
+[[producers/Keano]]
 [[Sierra Kidd]]
 [[Genetikk]]

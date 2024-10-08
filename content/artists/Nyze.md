@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0cLdP5NjXyqLWxihueMZZP
 
 [[Bizzy Montana]]
 [[Bushido]]
-[[Beatlefield]]
+[[producers/Beatlefield]]
 [[Chakuza]]
 [[D-Bo]]

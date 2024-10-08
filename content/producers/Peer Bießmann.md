@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3uBpa7wE1gso9A7PyEIkM9
 
 **Related artists:**
 
-[[PeerBee]]
+[[producers/PeerBee]]
 [[Curse]]

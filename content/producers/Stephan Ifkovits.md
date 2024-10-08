@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0GjuTPDqHVNAz10dbcLmeH
 **Related artists:**
 
 [[KAFVKA]]
-[[Sebastian Ganso]]
+[[producers/Sebastian Ganso]]
 [[Roger Rekless]]

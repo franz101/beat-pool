@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5om5jiWuBkStFmVLdW5pfh
 
 **Related artists:**
 
-[[TRIBEZ.]]
+[[producers/TRIBEZ.]]
 [[Afrob]]
 [[Samy Deluxe]]

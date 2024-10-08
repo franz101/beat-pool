@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/03W0px9tiYBAGSf9pltZRr
 **Related artists:**
 
 [[Umse]]
-[[Deckah]]
+[[producers/Deckah]]

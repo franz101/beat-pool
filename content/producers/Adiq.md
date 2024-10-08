@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/679sUKUon8xMf7VNcXenwZ
 [[Hamad 45]]
 [[Silla]]
 [[Mazen X]]
-[[Farhang Ganji Dastjerdeh]]
-[[MENJU]]
+[[producers/Farhang Ganji Dastjerdeh]]
+[[producers/MENJU]]

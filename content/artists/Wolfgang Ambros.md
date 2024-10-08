@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/1HIExD1wI4d0Y6Ehzl0YII
 
 [[Spider Murphy Gang]]
 [[Peter Maffay]]
-[[Harald Steinhauer]]
+[[producers/Harald Steinhauer]]

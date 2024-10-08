@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5DJQ4uH6WIoqqPOlt8qCWf
 
 **Related artists:**
 
-[[MMPM]]
+[[producers/MMPM]]
 [[SXTEEN]]
 [[Mert]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/1JOz416QuqiNeJeqcahwFv
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf07f98e8306554d10da15e9d)
 **Related artists:**
 
-[[Kristian Lundin]]
-[[Max Martin]]
+[[producers/Kristian Lundin]]
+[[producers/Max Martin]]
 [[E-Type]]
-[[John Amatiello]]
-[[Rami]]
+[[producers/John Amatiello]]
+[[producers/Rami]]

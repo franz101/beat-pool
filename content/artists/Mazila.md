@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2VIY14KCF1x1QIYpOOu34A
 **Related artists:**
 
 [[Corinna Jane]]
-[[Marko Albrecht]]
+[[producers/Marko Albrecht]]

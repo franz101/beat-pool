@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/64ccradw8gAQn9gMQZmEha
 **Related artists:**
 
 [[Melanie C]]
-[[Rhett Lawrence]]
+[[producers/Rhett Lawrence]]

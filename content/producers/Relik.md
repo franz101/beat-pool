@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0MgPUsdVdjNYd0wUZSVBTl
 **Related artists:**
 
 [[midnide]]
-[[Vue]]
+[[producers/Vue]]

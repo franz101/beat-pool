@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2wb6hyYnbsSILJa7uYn3hk
 
 **Related artists:**
 
-[[HSA]]
+[[producers/HSA]]
 [[King Orgasmus One]]
 [[Bosca]]
-[[Lea Canere]]
+[[producers/Lea Canere]]
 [[Freshmaker]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Tgcy1BtT3ldJJboR0bbdj
 
 **Related artists:**
 
-[[Meyer]]
+[[producers/Meyer]]
 [[Puhdys]]

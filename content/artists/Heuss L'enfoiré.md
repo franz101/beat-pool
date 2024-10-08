@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE
 **Related artists:**
 
 [[Dardan]]
-[[DJ Gan-G]]
-[[MENJU]]
+[[producers/DJ Gan-G]]
+[[producers/MENJU]]

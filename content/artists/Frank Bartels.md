@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1pztM6UOjLnW80XC6YgluD
 
 **Related artists:**
 
-[[Jeo]]
-[[Lalo Titenkov]]
+[[producers/Jeo]]
+[[producers/Lalo Titenkov]]
 [[Yvonne Catterfeld]]

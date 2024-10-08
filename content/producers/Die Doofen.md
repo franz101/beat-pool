@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1SSuMuNtLfXyAhhmtsoLb4
 
 **Related artists:**
 
-[[Jeo]]
+[[producers/Jeo]]
 [[Die Prinzen]]

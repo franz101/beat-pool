@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/716RaJJ52hMl8mvttq1CRQ
 **Related artists:**
 
 [[Hillsong Auf Deutsch]]
-[[Tim Whincop]]
-[[Steve McPherson]]
+[[producers/Tim Whincop]]
+[[producers/Steve McPherson]]

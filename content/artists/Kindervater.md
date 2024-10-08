@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4ivN4QLpeR5S7KT4O1BFkL
 
 **Related artists:**
 
-[[Timo Erlenbruch]]
+[[producers/Timo Erlenbruch]]
 [[Scooter]]
-[[Stefan Rio]]
+[[producers/Stefan Rio]]

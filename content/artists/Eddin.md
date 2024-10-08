@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq
 
 [[Eldin]]
 [[Sahin Bingöl]]
-[[Dominik Perino]]
-[[Chekaa]]
+[[producers/Dominik Perino]]
+[[producers/Chekaa]]

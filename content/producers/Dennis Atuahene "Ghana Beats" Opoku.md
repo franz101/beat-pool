@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0HEU4K0S1v11KHU18QxAjj
 
 **Related artists:**
 
-[[David Agyepong Duodu]]
+[[producers/David Agyepong Duodu]]
 [[Summer Cem]]
 [[Scorpion Gang]]
 [[reezy]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1483570e81e402c9deffc993)
 **Related artists:**
 
-[[Jeremy Harding for VP Records]]
+[[producers/Jeremy Harding for VP Records]]

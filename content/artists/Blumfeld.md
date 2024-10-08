@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2dUiFnJOuYzjPISRq5UwLi
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb22bc72395b1bdb94929efa3e)
 **Related artists:**
 
-[[Chris von Rautenkranz]]
+[[producers/Chris von Rautenkranz]]
 [[Edition Umfeld]]
 [[Hanseatic]]

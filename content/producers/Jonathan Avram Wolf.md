@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0xQ63lB6GVDEuVaU96A2d1
 
 **Related artists:**
 
-[[Michael Sandison]]
-[[Marcus Eoin]]
+[[producers/Michael Sandison]]
+[[producers/Marcus Eoin]]
 [[cLOUDDEAD]]
-[[David Madson]]
+[[producers/David Madson]]
 [[Boards of Canada]]
-[[Adam Drucker]]
+[[producers/Adam Drucker]]

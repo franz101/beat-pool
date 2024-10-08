@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0ebHOxztjI0yd50obF0cCN
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb33414b565c3558edfc3c5d0e)
 **Related artists:**
 
-[[Mecstreem]]
+[[producers/Mecstreem]]
 [[Der Buttler]]
 [[MC Rene]]
 [[Lupara Versato]]

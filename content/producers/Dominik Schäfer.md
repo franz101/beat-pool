@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2amvy1cgaGjtrp3uJRZH0v
 
 **Related artists:**
 
-[[Benjamin Olszewski]]
+[[producers/Benjamin Olszewski]]
 [[Die Fantastischen Vier]]

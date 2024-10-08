@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/32QkrYFz5Tp2Imx5ubxj7S
 [[Alphonzo]]
 [[Figub Brazlevic]]
 [[Bico]]
-[[Mario Radzom]]
+[[producers/Mario Radzom]]
 [[Ulysse]]

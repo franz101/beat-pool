@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/26yVM3PsH3USlb04UCTGAv
 
 **Related artists:**
 
-[[Voodoo]]
-[[Joznez]]
-[[Jot-Teh]]
+[[producers/Voodoo]]
+[[producers/Joznez]]
+[[producers/Jot-Teh]]
 [[Freshmaker]]
 [[Bosca]]
 [[Kilomatik]]
 [[Nio]]
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]
 [[Kollegah]]
 [[Boz]]
-[[Lea Canere]]
+[[producers/Lea Canere]]
 [[Vega]]

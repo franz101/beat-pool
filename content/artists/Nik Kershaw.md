@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/7kCL98rPFsNKjAHDmWrMac
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb68a6b441e694ee02110b44a1)
 **Related artists:**
 
-[[Peter Collins]]
+[[producers/Peter Collins]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3l6NEAz3xKrKmwZWM7GOTj
 **Related artists:**
 
 [[Tamas]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Crystal F]]
 [[Swiss]]
 [[Ikke Hüftgold]]

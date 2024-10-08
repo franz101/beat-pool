@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6rQCSzJuKRvZ9f9b1HX89I
 **Related artists:**
 
 [[Killa Hakan]]
-[[Aksit Ugurlu "DJ Sess"]]
+[[producers/Aksit Ugurlu "DJ Sess"]]
 [[Eko Fresh]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4EEYbiH6eshBcZDh6PaqT3
 
 **Related artists:**
 
-[[Jo Barnikel]]
-[[Florian Moser]]
+[[producers/Jo Barnikel]]
+[[producers/Florian Moser]]
 [[Konstantin Wecker]]
 [[Fany Kammerlander]]

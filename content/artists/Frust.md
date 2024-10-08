@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7FRdCkydoRPVd3EZIYkLAD
 ![Artist]()
 **Related artists:**
 
-[[Donnie Bombay]]
+[[producers/Donnie Bombay]]
 [[Argonautiks]]

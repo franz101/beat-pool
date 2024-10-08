@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2WUw0XSy8xNhcfN3h4c6Rn
 
 **Related artists:**
 
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[RDB]]
 [[Shantel]]
 [[Farhad Darya]]

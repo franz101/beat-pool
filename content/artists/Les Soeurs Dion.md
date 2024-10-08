@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/2UvMYkZw08qpv1KpfL8DbH
 [[Sophie Hunger]]
 [[Cédric Knavaro]]
 [[Bonaparte]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]

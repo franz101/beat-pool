@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6b3W7GLhtKVMRnari7S21m
 
 [[Joeldemora]]
 [[Sierra Kidd]]
-[[Consent2K]]
+[[producers/Consent2K]]

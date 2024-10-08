@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/5PiTVVbG29wWxGG5Pmxgwe
 
 [[John Known]]
 [[Emo33]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Joey Bargeld]]
-[[Krutsch]]
+[[producers/Krutsch]]
 [[AchtVier]]
 [[Sido]]
 [[Hulibabo]]

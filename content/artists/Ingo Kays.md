@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5QuZpDJgyMu69EbR2re1zp
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Norbert Hamm]]
+[[producers/Norbert Hamm]]
 [[Tony Catania]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6773d5r5lYtBgv2uQUVKaP
 
 **Related artists:**
 
-[[F. Fischer]]
-[[Annette Humpe]]
-[[S. Kirchner]]
-[[C. Zippel]]
+[[producers/F. Fischer]]
+[[producers/Annette Humpe]]
+[[producers/S. Kirchner]]
+[[producers/C. Zippel]]
 [[Ich + Ich]]

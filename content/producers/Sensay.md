@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6Br6cwhbrxnECjKSjj5kxH
 **Related artists:**
 
 [[YY]]
-[[Almnac]]
+[[producers/Almnac]]
 [[UNTER OBSI]]
 [[DIZZY]]

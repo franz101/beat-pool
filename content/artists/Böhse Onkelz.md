@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/6x9jRPDmA8Ihpw3A9FBowD
 
 [[Moses Pelham]]
 [[Ben Becker]]
-[[Ingo Nowtny]]
-[[Stephan Weidner]]
-[[Ingo Nowotny]]
-[[Michael Mainx]]
-[[Stephan Weidner-Michael Mainx]]
+[[producers/Ingo Nowtny]]
+[[producers/Stephan Weidner]]
+[[producers/Ingo Nowotny]]
+[[producers/Michael Mainx]]
+[[producers/Stephan Weidner-Michael Mainx]]

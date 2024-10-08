@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg
 
 [[Gzuz]]
 [[Young Mesh]]
-[[Beataura]]
+[[producers/Beataura]]
 [[Maxwell]]
 [[Farid Bang]]

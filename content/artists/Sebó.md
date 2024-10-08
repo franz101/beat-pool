@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0Hx6kxt6CKJaDbFQyEQOEk
 **Related artists:**
 
 [[Flo Mega]]
-[[Ghanian Stalloion]]
+[[producers/Ghanian Stalloion]]

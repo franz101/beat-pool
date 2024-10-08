@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3PUV8L89WFTqrz9qmGGZ6v
 
 **Related artists:**
 
-[[Konrad Janz]]
+[[producers/Konrad Janz]]
 [[Voyce]]

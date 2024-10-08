@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4bhWwO1qb1WkyCQaRijUJ1
 ![Artist]()
 **Related artists:**
 
-[[DJ Ron]]
+[[producers/DJ Ron]]
 [[DJ Shusta]]
 [[Tefla & Jaleel]]

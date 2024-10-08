@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3MZs2DlpB5882glAR8fCPa
 
 **Related artists:**
 
-[[Cedric Apostel]]
-[[Jannik Eilers]]
+[[producers/Cedric Apostel]]
+[[producers/Jannik Eilers]]
 [[Timond]]
 [[EnteTainment]]

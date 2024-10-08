@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7zwal31wCAe7NQys2NgNqD
 **Related artists:**
 
 [[DEDO]]
-[[Mydas Morris]]
-[[Sali]]
+[[producers/Mydas Morris]]
+[[producers/Sali]]
 [[Qzeng]]

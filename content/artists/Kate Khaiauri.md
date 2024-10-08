@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/37yPhxP2syiSsjhhDrhZIW
 **Related artists:**
 
 [[Shadow030]]
-[[Hijackers]]
+[[producers/Hijackers]]

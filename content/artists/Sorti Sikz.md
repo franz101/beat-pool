@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3lmvCBF5cUyUMZZJWVfXMD
 
 [[Jim Tonic]]
 [[Oser]]
-[[Reatsch]]
+[[producers/Reatsch]]
 [[Big Maxxx]]
 [[Silla]]
 [[Ha$$anfall]]

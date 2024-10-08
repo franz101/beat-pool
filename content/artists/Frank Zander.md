@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/2DL9tdRM016h5KHlmSH8Ni
 **Related artists:**
 
 [[Prinz Pi]]
-[[Biztram]]
+[[producers/Biztram]]

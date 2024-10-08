@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3WfphmnY9u6RMITyHsWE9T
 **Related artists:**
 
 [[Pulsedriver]]
-[[S. Petrovic jun.]]
-[[Kevax]]
-[[F.Raven]]
+[[producers/S. Petrovic jun.]]
+[[producers/Kevax]]
+[[producers/F.Raven]]

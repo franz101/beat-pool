@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf
 **Related artists:**
 
 [[Homeboy Sandman]]
-[[Denone]]
+[[producers/Denone]]
 [[DJ Koze]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5AhnSH8yqDZdYUTrjad3ez
 
 **Related artists:**
 
-[[Sascha Eigner]]
-[[Timo Xanke]]
+[[producers/Sascha Eigner]]
+[[producers/Timo Xanke]]
 [[Jupiter Jones]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1UFe8wvqGgbzvRGq3yya1X
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1555f9946e3ee07998693983)
 **Related artists:**
 
-[[Jens Schneider]]
-[[Philipp Evers]]
-[[Jules Kalmbacher]]
+[[producers/Jens Schneider]]
+[[producers/Philipp Evers]]
+[[producers/Jules Kalmbacher]]
 [[Mo-Torres]]

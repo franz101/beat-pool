@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/30u8GbKmqyQxvPcRcSvOqC
 
 **Related artists:**
 
-[[Steve van Velvet]]
+[[producers/Steve van Velvet]]
 [[Die Prinzen]]

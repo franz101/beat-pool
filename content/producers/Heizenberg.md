@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3mLXYY3TowIM2xTX1OY9dZ
 
 **Related artists:**
 
-[[Che Pope]]
+[[producers/Che Pope]]
 [[Kelvyn Colt]]
 [[Chapo]]
 [[Haze]]
-[[Kyu Steed]]
+[[producers/Kyu Steed]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3i4UQUdwzAXV3RicwrbHlQ
 
 **Related artists:**
 
-[[Fridge]]
-[[Walter]]
+[[producers/Fridge]]
+[[producers/Walter]]
 [[Pulsedriver]]
-[[Mandrysch]]
+[[producers/Mandrysch]]
 [[Redwing]]

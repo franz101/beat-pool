@@ -35,4 +35,4 @@ url: https://open.spotify.com/artist/4c9c6ug5qRTOuviE1palfu
 [[Endzone]]
 [[NARU]]
 [[jaynbeats]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3ViVoCMXLI9uuEU42b7JMD
 **Related artists:**
 
 [[Wise Guys]]
-[[Uwe Baltrusch]]
+[[producers/Uwe Baltrusch]]

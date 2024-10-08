@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0gp7r9aMLgoGYxieo9jzue
 
 **Related artists:**
 
-[[Philippe Heithier]]
+[[producers/Philippe Heithier]]
 [[Pietro Lombardi]]
-[[David Pfeffer]]
+[[producers/David Pfeffer]]
 [[Sarah Lombardi]]
 [[Mo-Torres]]

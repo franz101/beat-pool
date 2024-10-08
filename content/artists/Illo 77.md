@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7mBFvSgEvoR4GOIkz1izFD
 
 [[D-Flame]]
 [[Beginner]]
-[[Denyo 77]]
+[[producers/Denyo 77]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1uO6B4RvnPJUMob7CdtldM
 **Related artists:**
 
 [[Sondaschule]]
-[[Hannes Kelch]]
-[[Matthias Richter]]
-[[Maik Timmermann]]
+[[producers/Hannes Kelch]]
+[[producers/Matthias Richter]]
+[[producers/Maik Timmermann]]

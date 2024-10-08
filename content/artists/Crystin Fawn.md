@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6GlPpUeAMRG9WVNuqGJ1z1
 
 [[Clueso]]
 [[Dj Thomilla]]
-[[Conrad Hensel]]
+[[producers/Conrad Hensel]]
 [[Die Fantastischen Vier]]
-[[Hitnapperz]]
+[[producers/Hitnapperz]]

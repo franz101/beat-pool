@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6GVQOZ7e8iiVGX5uy16Vsu
 [[Brous One]]
 [[Loki]]
 [[Hulk Hodn]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Eloquent]]

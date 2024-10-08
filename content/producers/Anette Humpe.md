@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3ZXb7PZzioAa5bL9j6XMJ4
 
 **Related artists:**
 
-[[Sebastian Kirchner]]
+[[producers/Sebastian Kirchner]]
 [[Die Prinzen]]

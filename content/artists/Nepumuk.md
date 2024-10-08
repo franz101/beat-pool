@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1XprynXL0SEUZCJN6OUFe6
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0b6f2b628e602842ddf1b6d6)
 **Related artists:**
 
-[[HTN]]
+[[producers/HTN]]
 [[Retrogott]]
 [[Frauke]]
 [[Wun Two]]
@@ -25,9 +25,9 @@ url: https://open.spotify.com/artist/1XprynXL0SEUZCJN6OUFe6
 [[Knowsum]]
 [[Tufu]]
 [[Eloquent]]
-[[kmasta]]
+[[producers/kmasta]]
 [[Hulk Hodn]]
-[[Bill adlib]]
+[[producers/Bill adlib]]
 [[VW Kafka]]
 [[Sonne Ra]]
 [[Galv]]

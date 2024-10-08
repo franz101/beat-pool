@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3anm80VRRBU2mYBKvGQfoL
 
 **Related artists:**
 
-[[Abija]]
+[[producers/Abija]]
 [[Nu51]]
 [[Sugar MMFK]]
 [[Des]]
-[[Zane98]]
-[[Nulitobeats]]
-[[DonaldZr]]
-[[Cano Millano]]
+[[producers/Zane98]]
+[[producers/Nulitobeats]]
+[[producers/DonaldZr]]
+[[producers/Cano Millano]]

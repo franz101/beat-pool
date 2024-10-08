@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7uFSOCCK0c59ha4YjazMVW
 
 **Related artists:**
 
-[[Kavo]]
+[[producers/Kavo]]
 [[2ara]]

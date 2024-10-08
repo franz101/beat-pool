@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5joMJdp3RaxAj8xFbSLdmJ
 
 **Related artists:**
 
-[[Nicolas Heine]]
-[[Sebastian Wernke-Schmiesing]]
+[[producers/Nicolas Heine]]
+[[producers/Sebastian Wernke-Schmiesing]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0F1wcmDX7naNW92mvLChUi
 **Related artists:**
 
 [[H-Blockx]]
-[[Tim Tenambergen]]
+[[producers/Tim Tenambergen]]
 [[B & K von das department]]
 [[Dr. Ring Ding]]
-[[Tim Humpe]]
+[[producers/Tim Humpe]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2mHveTHD0QbWOUdDnhLSK3
 
 **Related artists:**
 
-[[Wolfgang Stach]]
+[[producers/Wolfgang Stach]]
 [[Jupiter Jones]]

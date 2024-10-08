@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7M2e5gLK74v5Wheh8w7pBJ
 
 **Related artists:**
 
-[[Maximilian Grimmer]]
+[[producers/Maximilian Grimmer]]
 [[Aylo]]

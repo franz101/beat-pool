@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2kqz5wf79z9REkiZXrVClm
 
 **Related artists:**
 
-[[Melbeatz]]
-[[Nina Caren]]
-[[Face Error]]
+[[producers/Melbeatz]]
+[[producers/Nina Caren]]
+[[producers/Face Error]]
 [[Kool Savas]]
 [[Moe Mitchell]]
 [[Sinan Kurtulus]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0s3cskPE2q8YGdyQYoivAh
 **Related artists:**
 
 [[Remoe]]
-[[M.A.M]]
+[[producers/M.A.M]]
 [[Nazar]]
 [[Ajay]]
-[[Adam Sacipi]]
+[[producers/Adam Sacipi]]
 [[Bass Sultan Hengzt]]

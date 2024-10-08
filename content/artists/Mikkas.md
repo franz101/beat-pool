@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1HKph5zKGwSDi54BLjJ7yA
 **Related artists:**
 
 [[Pulsedriver]]
-[[Michael-Lee Bock]]
-[[Kasper Smed Nielsen]]
+[[producers/Michael-Lee Bock]]
+[[producers/Kasper Smed Nielsen]]
 [[Backlash]]
-[[Nicholas Søbye]]
+[[producers/Nicholas Søbye]]

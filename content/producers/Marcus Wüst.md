@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/09qlgBQ670tPWrVJoRsHvd
 **Related artists:**
 
 [[Sam Vance-Law]]
-[[Konstantin Gropper]]
-[[Giovanni Nicoletta]]
+[[producers/Konstantin Gropper]]
+[[producers/Giovanni Nicoletta]]

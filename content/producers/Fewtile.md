@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6Z0bOZD7agiA7qQ8gta5hY
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[102 Boyz]]
 [[Lil Lano]]
 [[Samra]]

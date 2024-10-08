@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3Dfhtcvi9NIRxER1As2uul
 
 **Related artists:**
 
-[[Yassin Taibi]]
+[[producers/Yassin Taibi]]
 [[Yassin]]
 [[Sonne Ra]]
 [[Audio88]]

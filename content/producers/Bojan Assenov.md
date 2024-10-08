@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/37ZA0rx3DVI8Odky0sARE1
 **Related artists:**
 
 [[Kollegah]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Seyed]]
 [[B-Case]]
 [[Farid Bang]]

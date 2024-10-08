@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/1IrMfQ7cBLiM387mchYMxS
 [[the Graveltones]]
 [[Stefan Bühler]]
 [[Kitty, Daisy & Lewis]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]
 [[Aura Dione]]
 [[Patricia Vonne]]
 [[Triggerfinger]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3jGNn5UzwAEIYqWzs5t2hB
 **Related artists:**
 
 [[Rob Money]]
-[[Tom Cut aka Thomas Schauerte]]
-[[Rico Bernasconi]]
+[[producers/Tom Cut aka Thomas Schauerte]]
+[[producers/Rico Bernasconi]]

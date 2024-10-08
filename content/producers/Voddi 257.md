@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1PLIxfsIN2JAf2OqLSBA4O
 **Related artists:**
 
 [[Le Fly]]
-[[Tilia]]
+[[producers/Tilia]]
 [[257ers]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6m0qI6o0PN2bwigW1H9KbU
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Tayfun Beytur]]
-[[Nelson Youngbrooke]]
+[[producers/Tayfun Beytur]]
+[[producers/Nelson Youngbrooke]]
 [[Johannes Löffler]]

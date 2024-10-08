@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/5T9pm5c1rYrMXTUQPCfhrD
 
 **Related artists:**
 
-[[David Banner]]
+[[producers/David Banner]]
 [[Samy Deluxe]]
 [[Dashenn]]
-[[Jaz-O]]
-[[Meru-Howie Like It]]
+[[producers/Jaz-O]]
+[[producers/Meru-Howie Like It]]
 [[Illo]]
 [[Neo]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3D3W4rfiAbtRZXTHSdom8p
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Pruntz Kegelmann]]
+[[producers/Pruntz Kegelmann]]
 [[Guildo Horn & Die Orthopädischen Strümpfe]]

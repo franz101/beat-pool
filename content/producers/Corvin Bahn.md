@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4PUtOhJukRYnV9Go9SoglQ
 
 [[Swiss]]
 [[Swiss & Die Andern]]
-[[Chris Harms]]
+[[producers/Chris Harms]]

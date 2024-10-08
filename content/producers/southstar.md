@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi
 **Related artists:**
 
 [[Joje]]
-[[sebo]]
+[[producers/sebo]]

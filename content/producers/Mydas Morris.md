@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3CHevifUZha49Wp4flCCHf
 
 **Related artists:**
 
-[[Salistylezz]]
+[[producers/Salistylezz]]
 [[DEDO]]
-[[Dennzell]]
-[[Sali]]
+[[producers/Dennzell]]
+[[producers/Sali]]
 [[Qzeng]]
-[[Doki]]
+[[producers/Doki]]

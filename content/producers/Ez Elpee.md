@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5NMYbV7OXLWoHdqLD7xhBa
 **Related artists:**
 
 [[Nimo]]
-[[30Roc]]
+[[producers/30Roc]]
 [[Olexesh]]

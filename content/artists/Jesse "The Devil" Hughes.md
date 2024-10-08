@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/35escwezKYXWjfbVgYIvta
 
 **Related artists:**
 
-[[Hoss Power]]
+[[producers/Hoss Power]]
 [[The BossHoss]]

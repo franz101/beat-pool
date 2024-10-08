@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5VcnnGweAIQulPxUjLy41l
 **Related artists:**
 
 [[Germany]]
-[[Asker]]
+[[producers/Asker]]
 [[Kool Savas]]
 [[Moe Mitchell]]

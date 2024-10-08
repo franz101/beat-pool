@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/01TI0H5gNdCv26lEIkz1Xw
 
 [[DJs From Mars]]
 [[Lori Glori]]
-[[Rico Bernasconi]]
+[[producers/Rico Bernasconi]]

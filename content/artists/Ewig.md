@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4vZCTOIZhGr9PIzBTBhxr7
 ![Artist](https://i.scdn.co/image/d02ea0664b456435196af84776ed585a16a1d18d)
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]

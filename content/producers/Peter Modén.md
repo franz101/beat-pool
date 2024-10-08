@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4ZWuJhJ23Twzfc54kO71R2
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Peter Ledin]]
-[[Carl Sahlin]]
+[[producers/Peter Ledin]]
+[[producers/Carl Sahlin]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2R7zb4lzJ21BvYicJDgC31
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcb23a4aedcb3c449f3fbfe4b)
 **Related artists:**
 
-[[Voluptyk Beats]]
+[[producers/Voluptyk Beats]]
 [[ThankYouKid]]
 [[Sami]]

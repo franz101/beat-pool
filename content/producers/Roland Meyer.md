@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2irqVldiJMSRr7uWaOFBxf
 **Related artists:**
 
 [[Michelle]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

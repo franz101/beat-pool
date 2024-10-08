@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7bkiGkGvCIRx89EBELc1Ky
 
 **Related artists:**
 
-[[Rudeboy]]
-[[DJ Illvibe]]
-[[Eased]]
+[[producers/Rudeboy]]
+[[producers/DJ Illvibe]]
+[[producers/Eased]]
 [[Seeed]]
-[[Pete Fox]]
+[[producers/Pete Fox]]

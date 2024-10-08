@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA
 **Related artists:**
 
 [[Gentleman]]
-[[Ovaproof Music]]
+[[producers/Ovaproof Music]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3NZo2kKOoSHFfaWUl0Ab8S
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Dieter Bohlen]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Dieter Bohlen]]
+[[producers/Hardy Krech]]
 [[Anna-Maria Zimmermann]]

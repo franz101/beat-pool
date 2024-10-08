@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/4WMvpLc1N1Hvu2UpnhOuk9
 [[Heinz Rudolf Kunze]]
 [[Westernhagen]]
 [[Billy King]]
-[[Kevin Bents]]
-[[Leo Schmidthals]]
+[[producers/Kevin Bents]]
+[[producers/Leo Schmidthals]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/71esFiINKCCtfyPfp16zg6
 **Related artists:**
 
 [[Skew]]
-[[ISEE JULEZ]]
+[[producers/ISEE JULEZ]]
 [[Kwam.E]]
-[[Isee Franky]]
+[[producers/Isee Franky]]
 [[Tom Hengst]]

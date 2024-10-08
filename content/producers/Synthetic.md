@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1GED8E3CIpWzPg4JutdoXE
 **Related artists:**
 
 [[Fero47]]
-[[Lucry]]
-[[Suena]]
-[[Call Me G]]
+[[producers/Lucry]]
+[[producers/Suena]]
+[[producers/Call Me G]]

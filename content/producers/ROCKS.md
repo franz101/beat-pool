@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6CquJvLPV7KNiuH4iU7tfM
 
 **Related artists:**
 
-[[ONEDAH]]
-[[Stefan Sarkocevic]]
+[[producers/ONEDAH]]
+[[producers/Stefan Sarkocevic]]
 [[Delil]]

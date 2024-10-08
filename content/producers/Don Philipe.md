@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5ethngN7p7BQqskoVlE3Lw
 
 [[Joy Denalane]]
 [[Beginner]]
-[[Max]]
+[[producers/Max]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb05adf91d5117c805f39c0e50)
 **Related artists:**
 
-[[Sytros]]
-[[Dirk Fiebich]]
+[[producers/Sytros]]
+[[producers/Dirk Fiebich]]
 [[Low.K]]
 [[Marpel]]
 [[MoTrip]]
@@ -29,7 +29,7 @@ url: https://open.spotify.com/artist/4jDdEv3oafVcJfrywVDi4p
 [[Jonesman]]
 [[Teesy]]
 [[Felix Hohleich]]
-[[Maximilian Schiele]]
+[[producers/Maximilian Schiele]]
 [[Pietro B]]
 [[Joka]]
 [[Cengiz]]

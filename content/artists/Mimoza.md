@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3ZNHixRzJuBQhKkZ45lO8m
 
 **Related artists:**
 
-[[Christian Demay]]
-[[Stefan Hinterlang]]
+[[producers/Christian Demay]]
+[[producers/Stefan Hinterlang]]
 [[Silla]]

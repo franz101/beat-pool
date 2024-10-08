@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/039oCflpFibRcaigWRNgsp
 **Related artists:**
 
 [[Jean-Cyrille]]
-[[Jean-Cyrille Wittmann]]
+[[producers/Jean-Cyrille Wittmann]]

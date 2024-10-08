@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3pTiMXPpVL4dw2F0izc0Qx
 **Related artists:**
 
 [[Alle Farben]]
-[[Frans Zimmer]]
-[[Dean Bremerich]]
+[[producers/Frans Zimmer]]
+[[producers/Dean Bremerich]]

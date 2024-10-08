@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1L3MYs80dBWBKvotcUfmI2
 
 **Related artists:**
 
-[[Alexis Troy]]
-[[Chris Hammerl]]
+[[producers/Alexis Troy]]
+[[producers/Chris Hammerl]]
 [[257ers]]
 [[Barbara Schöneberger]]
-[[Tom Albrecht]]
+[[producers/Tom Albrecht]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4XxPtZJEZMEE06OaegITSW
 
 **Related artists:**
 
-[[Christian Schellmann]]
+[[producers/Christian Schellmann]]
 [[Oli. P]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4pU19JvD10kFNf4E1TM9NZ
 
 **Related artists:**
 
-[[Ambezza]]
+[[producers/Ambezza]]
 [[Rojas]]

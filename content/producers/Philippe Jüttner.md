@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7CHcaxw5uPZ1QfWeZeytJu
 **Related artists:**
 
 [[The Gardener & The Tree]]
-[[Daniel Fet]]
-[[Patrick Fet]]
-[[Patrik Muggli]]
-[[Manuel Felder]]
+[[producers/Daniel Fet]]
+[[producers/Patrick Fet]]
+[[producers/Patrik Muggli]]
+[[producers/Manuel Felder]]

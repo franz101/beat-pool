@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2Bs3vdlZqInH3xsjwyYe75
 
 [[Jush]]
 [[Haiyti]]
-[[Project X]]
+[[producers/Project X]]

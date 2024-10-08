@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6R3I9qcI8yf4gUyPGOsUfk
 **Related artists:**
 
 [[Okfella]]
-[[Clemens Dietrich]]
+[[producers/Clemens Dietrich]]

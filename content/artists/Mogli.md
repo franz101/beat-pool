@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c
 
 **Related artists:**
 
-[[Perttu Kurttila]]
-[[Frans Zimmer]]
-[[Gregor Sahm]]
-[[Tobias Bogdon]]
+[[producers/Perttu Kurttila]]
+[[producers/Frans Zimmer]]
+[[producers/Gregor Sahm]]
+[[producers/Tobias Bogdon]]
 [[Alle Farben]]
 [[Perttu]]

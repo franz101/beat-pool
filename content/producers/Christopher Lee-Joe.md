@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2pUVi0xBdzxqmTilJ8O0ho
 
 **Related artists:**
 
-[[Philippe-Marc Anquetil]]
+[[producers/Philippe-Marc Anquetil]]
 [[Sarah Connor]]

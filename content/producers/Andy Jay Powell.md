@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/6LcWcssoNHGP2WHVA9Fk51
 
 **Related artists:**
 
-[[Mike Nero]]
-[[T. Schleh]]
+[[producers/Mike Nero]]
+[[producers/T. Schleh]]
 [[Satellite Robots]]
 [[Beatrix Delgado]]
-[[Faith Albrecht]]
-[[Tommy Schleh]]
+[[producers/Faith Albrecht]]
+[[producers/Tommy Schleh]]
 [[Pulsedriver]]
 [[Klubbingman]]
-[[Fait Albrecht]]
+[[producers/Fait Albrecht]]
 [[Kim Alex]]
-[[DJ Fait]]
+[[producers/DJ Fait]]
 [[Calderone Inc.]]

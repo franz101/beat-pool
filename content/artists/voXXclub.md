@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1MTZLkTHs5s3jUV5ezuSIu
 **Related artists:**
 
 [[Hardy & Mark]]
-[[Roland Spremberg]]
-[[Martin Simma]]
+[[producers/Roland Spremberg]]
+[[producers/Martin Simma]]

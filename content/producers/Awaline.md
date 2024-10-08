@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2uP4oiS0jRkcA4HeHhLqdu
 **Related artists:**
 
 [[Pulsedriver]]
-[[Rijkaard]]
+[[producers/Rijkaard]]
 [[Fun Brothers]]
-[[Gollers]]
+[[producers/Gollers]]
 [[Ray Knox]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6EGFV0QInyxBy2rpHTWxOE
 
 **Related artists:**
 
-[[LCS]]
+[[producers/LCS]]
 [[MU$A386]]
-[[Shinobic]]
+[[producers/Shinobic]]

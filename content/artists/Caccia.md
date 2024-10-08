@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5hxIvIet5DYDAKAFJ5r7T1
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Pzy]]
+[[producers/Pzy]]

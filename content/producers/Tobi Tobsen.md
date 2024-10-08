@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4Q0AIbb8ZQKNJNWrlRjqI9
 **Related artists:**
 
 [[Ferris MC]]
-[[Bonzen Bro$]]
-[[tobitob]]
+[[producers/Bonzen Bro$]]
+[[producers/tobitob]]

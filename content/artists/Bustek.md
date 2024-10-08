@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0Wi32Q1DHWJFkBc2Vir9UB
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe61ba9b5a03b8c4d4f1ee51f)
 **Related artists:**
 
-[[Christoph Rehseburg]]
+[[producers/Christoph Rehseburg]]
 [[Panischer]]
 [[Holy Smokez]]

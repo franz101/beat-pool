@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3Din4KdRzc0k7Zen6FdILh
 
 **Related artists:**
 
-[[Jules Kalmbacher]]
-[[Jens Schneider]]
+[[producers/Jules Kalmbacher]]
+[[producers/Jens Schneider]]
 [[Florian Künstler]]

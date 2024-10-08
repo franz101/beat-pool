@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/7xONmSoH7id3oESqTyHut8
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4fcdd9209e1d9760e6e9d491)
 **Related artists:**
 
-[[Alex Knoll]]
+[[producers/Alex Knoll]]
 [[Gestört aber GeiL]]
 [[Matthias Zürkler]]
 [[Vanessa Mai]]
 [[Stereoact]]
-[[Rico Einenkel]]
+[[producers/Rico Einenkel]]

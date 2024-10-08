@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/66BIz5v0Jw7UqTlVJJnXy0
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Ralph Gusovius]]
+[[producers/Ralph Gusovius]]
 [[Jürgen Drews]]
 [[Semino Rossi]]

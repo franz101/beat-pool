@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/73Kxn5jMdIQuQ1iJyrpKhu
 
 **Related artists:**
 
-[[Simon Wilhelm]]
+[[producers/Simon Wilhelm]]
 [[Glaubenszentrum Live]]
-[[Edgar Breitenbach]]
+[[producers/Edgar Breitenbach]]

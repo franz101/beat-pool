@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/5YSk4TxAds4Y11PCAVAMU6
 [[Saint Purple]]
 [[Prism]]
 [[Kozee]]
-[[Jelle Grubert]]
+[[producers/Jelle Grubert]]
 [[t-low]]
 [[Noyr]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3ACG0Y1j9Du12vEQMNYPZm
 
 **Related artists:**
 
-[[Paul NZA]]
+[[producers/Paul NZA]]
 [[Westernhagen]]
 [[Götz Gottschalk]]
-[[Numarek]]
-[[SashliQ]]
+[[producers/Numarek]]
+[[producers/SashliQ]]
 [[Patrice]]
 [[Vanessa Mason]]
 [[Samir]]

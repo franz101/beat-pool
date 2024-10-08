@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/1jeyzXMmiFpn9kO1hApEFn
 [[KAY AY]]
 [[Azan]]
 [[King Khalil]]
-[[Zinobeatz]]
-[[Yussef Bakir]]
+[[producers/Zinobeatz]]
+[[producers/Yussef Bakir]]

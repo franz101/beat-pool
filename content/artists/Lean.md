@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1ugvnlYa5IgEl5wSAx8g7h
 **Related artists:**
 
 [[Born]]
-[[Drumz N' Roses]]
+[[producers/Drumz N' Roses]]
 [[Bleck]]
 [[Twin]]

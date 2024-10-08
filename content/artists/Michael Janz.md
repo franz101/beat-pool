@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/3BXvuaDR2dlAgdA0JsIFno
 [[Feiert Jesus!]]
 [[Arne Kopfermann]]
 [[Juri Friesen]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Conny Bader]]
 [[Claus-Peter Eberwein]]

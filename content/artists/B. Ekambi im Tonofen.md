@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3mUzz5Q3D39uV2uciVv2qC
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Deichkind]]
 [[Don Dougie]]
 [[Hamburg]]

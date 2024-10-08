@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3bv5uFMH386CBoa2PsSQqw
 
 [[Pinball]]
 [[Lagoon]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]

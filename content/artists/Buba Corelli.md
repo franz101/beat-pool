@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3ekwV8Mt8DgZvmuK2futxG
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb596e5c9955c387434bc9de09)
 **Related artists:**
 
-[[Tim Crudu]]
+[[producers/Tim Crudu]]
 [[Olexesh]]
 [[DJ Katch]]
 [[Jala Brat]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3JnzD7cMyM8Y4yD4KSxUKU
 **Related artists:**
 
 [[Jamaram]]
-[[Umberto Echo]]
+[[producers/Umberto Echo]]

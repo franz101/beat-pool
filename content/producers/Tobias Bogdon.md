@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/3g6yi2MBnKLJNYZoAv1uUk
 
 [[Sam Gray]]
 [[Janieck]]
-[[Frans Zimmer]]
-[[Perttu Kurttila]]
+[[producers/Frans Zimmer]]
+[[producers/Perttu Kurttila]]
 [[Michael Schulte]]
 [[Will Matta]]
 [[Alle Farben]]
@@ -24,4 +24,4 @@ url: https://open.spotify.com/artist/3g6yi2MBnKLJNYZoAv1uUk
 [[Tommy Reilly]]
 [[Mogli]]
 [[Perttu]]
-[[Gregor Sahm]]
+[[producers/Gregor Sahm]]

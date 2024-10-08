@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6jomLZdZt5XgQwYzAlJsBp
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[Giorno]]
 [[Prayer]]

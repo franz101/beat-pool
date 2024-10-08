@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4Pw979OeQublQjHdnNb5Mk
 
 **Related artists:**
 
-[[Oliver Floete]]
-[[Oliver Heller]]
+[[producers/Oliver Floete]]
+[[producers/Oliver Heller]]

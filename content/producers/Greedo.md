@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/23o3FXVfRj8CZIy1fGidqm
 **Related artists:**
 
 [[Riccardo]]
-[[Jurij Gold]]
+[[producers/Jurij Gold]]

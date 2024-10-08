@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4Ng5ieXcdKfXg8EFOIoihl
 
 **Related artists:**
 
-[[Tito Tentaculo]]
+[[producers/Tito Tentaculo]]
 [[MC Bomber]]
 [[Ivo]]
 [[Interrail Gambo]]

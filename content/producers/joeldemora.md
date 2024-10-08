@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4k5KdjKTTGFIr5wf16psNv
 
 **Related artists:**
 
-[[berki]]
-[[Audyssey]]
+[[producers/berki]]
+[[producers/Audyssey]]
 [[Kidnfinity]]

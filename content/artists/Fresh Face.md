@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1E6RYoCdjZgKUmhHa6TgdH
 
 **Related artists:**
 
-[[Q-Cut]]
+[[producers/Q-Cut]]
 [[Sonne Ra]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0rMyhi7y1YPXa5wwn0pM9d
 
 **Related artists:**
 
-[[PressPlay]]
+[[producers/PressPlay]]
 [[Rojas]]

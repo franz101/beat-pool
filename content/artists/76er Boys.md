@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/4u7uWR7bpcGEI8y52LPAZL
 [[Rypl]]
 [[MnYPnK]]
 [[Drave]]
-[[Mazeg]]
+[[producers/Mazeg]]
 [[Bema]]
 [[6 Senz]]
 [[BEMA]]

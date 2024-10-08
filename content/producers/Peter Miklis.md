@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5s1VHQOFmWySpFUmiuwzbJ
 
 [[Heinz Rudolf Kunze]]
 [[Heinz Rudolf Kunze & Verstärkung]]
-[[Heiner Lurig]]
-[[Heiner L?rig]]
-[[Joschi Kappl]]
+[[producers/Heiner Lurig]]
+[[producers/Heiner L?rig]]
+[[producers/Joschi Kappl]]

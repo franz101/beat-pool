@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2GtIpR6sGGRFKs61wrN7bA
 
 **Related artists:**
 
-[[Michael Krammer]]
+[[producers/Michael Krammer]]
 [[Bilderbuch]]
-[[Maurice Ernst]]
-[[Peter Horazdovsky]]
-[[Philipp Scheibl]]
+[[producers/Maurice Ernst]]
+[[producers/Peter Horazdovsky]]
+[[producers/Philipp Scheibl]]

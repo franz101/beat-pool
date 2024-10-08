@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5sennRot4Ls82wfspEQuf2
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdb4d7e03a56a234edff83ea5)
 **Related artists:**
 
-[[IZ]]
-[[Bobby Ross Avila]]
+[[producers/IZ]]
+[[producers/Bobby Ross Avila]]

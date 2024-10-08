@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/03c8ODME8ElGFLsWayFUGX
 **Related artists:**
 
 [[Pulsedriver]]
-[[Dirk Waldt]]
+[[producers/Dirk Waldt]]
 [[Selecta]]
 [[Soul Bros.]]
 [[Jörn Riebenstahl]]

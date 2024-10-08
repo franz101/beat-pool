@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4rMAap4f8yGryLKXBH5lwv
 
 **Related artists:**
 
-[[Michael Gerlach]]
+[[producers/Michael Gerlach]]
 [[PA Sports]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4h1A76aiA64e2SRjdZ4zMp
 
 **Related artists:**
 
-[[Dieter Weidenfeld]]
-[[Luis Rodriguez]]
+[[producers/Dieter Weidenfeld]]
+[[producers/Luis Rodriguez]]
 [[Matthias Reim]]
 [[Thorsten Brötzmann]]
-[[Amadeus Crotti]]
+[[producers/Amadeus Crotti]]

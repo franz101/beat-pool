@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1woBqlYHUoLrwKrWyrsrLJ
 **Related artists:**
 
 [[FBA]]
-[[AlexSayBeats Productions]]
+[[producers/AlexSayBeats Productions]]

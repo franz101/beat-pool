@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/4WkAmdWtmLxtDdlzBnEn9E
 **Related artists:**
 
 [[C.L.A.S.]]
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Nina]]
 [[Eins Zwo]]
 [[Deichkind]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1Kul7yk57P4pSChL48pwZ2
 **Related artists:**
 
 [[Dietz]]
-[[Thomas Rabitsch]]
+[[producers/Thomas Rabitsch]]
 [[Falco]]

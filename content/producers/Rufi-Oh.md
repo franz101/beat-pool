@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5WdHU8qWnGhk2RLlpO4Mch
 
 **Related artists:**
 
-[[Adam Charon]]
+[[producers/Adam Charon]]
 [[Sarah Connor]]
-[[Mekong Age]]
+[[producers/Mekong Age]]
 [[TQ]]
-[[Jamahl Harris]]
+[[producers/Jamahl Harris]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/33HcKJpzvfsxpCGea0fxGD
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebce07ab8a52fcd6edade44996)
 **Related artists:**
 
-[[Nouh]]
+[[producers/Nouh]]

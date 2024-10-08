@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5Yu4kO383JXrC2wROdBi6B
 
 [[Mortel]]
 [[Bonez MC]]
-[[Julez]]
+[[producers/Julez]]

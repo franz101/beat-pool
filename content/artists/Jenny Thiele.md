@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4puY5cD0nDMPTZNdPs73A9
 
 **Related artists:**
 
-[[Martin Bechler]]
+[[producers/Martin Bechler]]
 [[Rainald Grebe]]

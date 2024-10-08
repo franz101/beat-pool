@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0plRQOXaYylu9aDV5ieoFh
 
 **Related artists:**
 
-[[Mike Nero]]
-[[Andy Jay Powell]]
+[[producers/Mike Nero]]
+[[producers/Andy Jay Powell]]

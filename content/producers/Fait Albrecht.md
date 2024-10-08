@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5FErjsWA4KNNHzcPe95T7a
 
 **Related artists:**
 
-[[Mike Nero]]
+[[producers/Mike Nero]]
 [[Satellite Robots]]
-[[Andy Jay Powell]]
-[[DJ Dean]]
+[[producers/Andy Jay Powell]]
+[[producers/DJ Dean]]
 [[Satellite Robots & Kim Alex]]
 [[Kim Alex]]
-[[DJ Fait]]
+[[producers/DJ Fait]]
 [[Satelite Robots]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4gWXJJG7ACKZQX6xQ6tyYq
 **Related artists:**
 
 [[EnteTainment]]
-[[eSBee]]
+[[producers/eSBee]]

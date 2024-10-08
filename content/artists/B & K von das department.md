@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2CIFBvhOghWNbst0yR4ZZr
 **Related artists:**
 
 [[H-Blockx]]
-[[Stephan Hinz]]
-[[Tim Humpe]]
+[[producers/Stephan Hinz]]
+[[producers/Tim Humpe]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5AaNGO6pddA4kat7VzJFn8
 
 **Related artists:**
 
-[[Fait Albrecht]]
+[[producers/Fait Albrecht]]
 [[Kim Alex]]
-[[Andy Jay Powell]]
-[[Faith Albrecht]]
+[[producers/Andy Jay Powell]]
+[[producers/Faith Albrecht]]

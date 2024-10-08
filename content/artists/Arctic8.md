@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/06uvtPo2ZlLhC4yKI5i2Is
 **Related artists:**
 
 [[YAEL]]
-[[Leam]]
+[[producers/Leam]]

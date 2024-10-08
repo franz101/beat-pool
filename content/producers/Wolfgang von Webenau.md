@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4dz16F9ERGQS9JVIRrBhrd
 **Related artists:**
 
 [[Marina Marx]]
-[[Achim Kleist]]
+[[producers/Achim Kleist]]
 [[Karsten Walter]]
 [[Feuerherz]]
-[[Syndicate Musicproduction]]
+[[producers/Syndicate Musicproduction]]

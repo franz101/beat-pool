@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4a9VmSWj1mwnvEhxAj1tLA
 
 **Related artists:**
 
-[[X-Plosive]]
+[[producers/X-Plosive]]
 [[G-Hot]]
 [[Sentence]]
 [[Fler]]

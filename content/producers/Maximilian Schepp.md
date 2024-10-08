@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5HNAicl9fEflcaCdLCbFPm
 
 **Related artists:**
 
-[[Josua Schlag]]
+[[producers/Josua Schlag]]
 [[MediMeister Münster]]

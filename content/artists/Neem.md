@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0jUKvLbHvHd20z68b0Ku6o
 
 **Related artists:**
 
-[[ProDK]]
-[[Emiray]]
+[[producers/ProDK]]
+[[producers/Emiray]]
 [[Enemy]]
-[[Exlplenty]]
+[[producers/Exlplenty]]

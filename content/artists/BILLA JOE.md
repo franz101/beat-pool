@@ -22,6 +22,6 @@ url: https://open.spotify.com/artist/72y6W9pGy97xTM44dwy3F6
 [[Miksu]]
 [[Macloud]]
 [[geenaro]]
-[[Ghana Beats]]
+[[producers/Ghana Beats]]
 [[Luciano]]
 [[Summer Cem]]

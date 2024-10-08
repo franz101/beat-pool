@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/417rMeQ1e1B90lsiS1iMZ1
 ![Artist](https://i.scdn.co/image/dfb4e11c8790bf599e71f87a5d322f7c90f4577a)
 **Related artists:**
 
-[[Klaus Voormann]]
+[[producers/Klaus Voormann]]

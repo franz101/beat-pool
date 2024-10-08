@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1dErxY7TLcIKyO57IWuKoN
 
 **Related artists:**
 
-[[Loridana Zefi]]
+[[producers/Loridana Zefi]]
 [[Loredana]]
 [[Beatgees]]
 [[Mozzik]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5KU4DdFlZy6aiI5u6nhywP
 **Related artists:**
 
 [[Helene Fischer]]
-[[Christoph Papendieck]]
+[[producers/Christoph Papendieck]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7MhJUXwhRn0eU0CHIK5dki
 
 **Related artists:**
 
-[[Peter Steigenberger]]
-[[Christian Wiedemann]]
-[[Daniel Schreyer]]
-[[Stefan Luludes]]
+[[producers/Peter Steigenberger]]
+[[producers/Christian Wiedemann]]
+[[producers/Daniel Schreyer]]
+[[producers/Stefan Luludes]]
 [[Eko Fresh]]
-[[Christian Belej]]
+[[producers/Christian Belej]]

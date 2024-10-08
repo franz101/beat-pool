@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7mdKOz79ooy4wJTdOzcTdz
 
 **Related artists:**
 
-[[Sebastian Arman]]
-[[Joacim Persson]]
+[[producers/Sebastian Arman]]
+[[producers/Joacim Persson]]
 [[Stefanie Heinzmann]]

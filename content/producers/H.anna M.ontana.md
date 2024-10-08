@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4eCu1ZnsANHnFr03c7bmFn
 
 **Related artists:**
 
-[[Fabio Antoniali]]
+[[producers/Fabio Antoniali]]
 [[ThatGurlHanna]]
 [[Culcha Candela]]
-[[DJ Antoine]]
+[[producers/DJ Antoine]]
 [[Julie Brown]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6MmOx5TzNSOII9nagy3BXf
 **Related artists:**
 
 [[Dj Thomilla]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]
 [[Yourie]]
 [[DJ Koze]]
 [[Mario von Hacht]]
-[[Andy]]
+[[producers/Andy]]
 [[Die Fantastischen Vier]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7EsFN0xR8KZgJCTWTf4eoe
 
 **Related artists:**
 
-[[Reaf]]
-[[Baschar]]
+[[producers/Reaf]]
+[[producers/Baschar]]
 [[KALIM]]
 [[SSIO]]
 [[Maestro]]

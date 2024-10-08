@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0T9Iec8KrkOUmjeMIaw6rz
 
 **Related artists:**
 
-[[Iggi Tarn]]
+[[producers/Iggi Tarn]]
 [[Okfella]]
 [[NOK1D]]
 [[Rosc]]

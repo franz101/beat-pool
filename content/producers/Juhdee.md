@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/24d9sNTNhXNqM61T0QvDzW
 
 **Related artists:**
 
-[[Frio]]
+[[producers/Frio]]
 [[Mosh36]]
 [[Young Mesh]]
-[[Kyree]]
-[[Michael Jackson]]
+[[producers/Kyree]]
+[[producers/Michael Jackson]]
 [[Kianush]]
 [[MoTrip]]
 [[Ali As]]

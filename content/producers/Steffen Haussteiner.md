@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6FVz3ZJNYUkGKo7M3DKyNt
 
 **Related artists:**
 
-[[Artox]]
+[[producers/Artox]]
 [[LUNA]]
-[[KrisKraus]]
+[[producers/KrisKraus]]
 [[Sarah Bäder]]

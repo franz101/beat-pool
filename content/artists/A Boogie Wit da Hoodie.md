@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdc5bc8ceb2d2d42e992c8f40)
 **Related artists:**
 
-[[Pzy]]
+[[producers/Pzy]]
 [[Olexesh]]

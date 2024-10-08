@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3tgmbgqiGB7vB5RyqpZt0J
 **Related artists:**
 
 [[2raumwohnung]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]
 [[Inga Humpe]]

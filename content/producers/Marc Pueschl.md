@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0lfM04pwrr9G95GTFzZHk7
 **Related artists:**
 
 [[Kilomatik]]
-[[Tengo]]
-[[Tengobeatz]]
+[[producers/Tengo]]
+[[producers/Tengobeatz]]

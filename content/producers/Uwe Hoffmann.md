@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4dQxurXcfQavvgmZfL8eGq
 
 [[Die Ärzte]]
 [[Extrabreit]]
-[[Den Artzen]]
+[[producers/Den Artzen]]
 [[Sportfreunde Stiller]]
 [[Ulla Meinecke]]

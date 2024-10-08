@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7qJXmZ2xqVs9DjP9kYDo0Y
 **Related artists:**
 
 [[TOMMY & TIBBY]]
-[[T. Schleh]]
-[[S.Petrovic jr.]]
+[[producers/T. Schleh]]
+[[producers/S.Petrovic jr.]]

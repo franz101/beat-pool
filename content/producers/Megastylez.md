@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/45aid2ljdzWaaCDaP4UA0b
 **Related artists:**
 
 [[Springstil]]
-[[Tribune]]
-[[X-Cess!]]
-[[DJ Restlezz]]
+[[producers/Tribune]]
+[[producers/X-Cess!]]
+[[producers/DJ Restlezz]]
 [[Euphorizon]]
 [[Dj Cap]]
 [[DJ Gollum]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5QRRDuzutmikrSxdDqCTN0
 **Related artists:**
 
 [[Alpa Gun]]
-[[Soul534]]
+[[producers/Soul534]]

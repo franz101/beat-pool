@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3T9yXAecvK7yMMUP0zTNq5
 
 [[Reda Rwena]]
 [[Nimo]]
-[[Choukri]]
+[[producers/Choukri]]

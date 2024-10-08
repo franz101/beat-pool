@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/50YCYTy01CqEdekPvmgi5Y
 
 **Related artists:**
 
-[[Uwe Hassbecker]]
-[[Ritchie Barton]]
+[[producers/Uwe Hassbecker]]
+[[producers/Ritchie Barton]]
 [[Silly]]

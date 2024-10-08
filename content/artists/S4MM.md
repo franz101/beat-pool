@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/24tgW981WbS01Lg41cvybf
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb27e19e292ce3ae2a7f488575)
 **Related artists:**
 
-[[SlemBeatz]]
+[[producers/SlemBeatz]]
 [[Don Gima]]
 [[Eno]]

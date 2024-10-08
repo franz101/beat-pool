@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2OqqI7vN56uujgmGHvuwnF
 
 **Related artists:**
 
-[[COLLEGE]]
+[[producers/COLLEGE]]
 [[OMAR]]
-[[Zinatra]]
+[[producers/Zinatra]]

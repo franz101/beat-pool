@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2bt8KU8DHsOEdAbFBWqVyl
 
 **Related artists:**
 
-[[Jochen Konerding]]
+[[producers/Jochen Konerding]]
 [[Jürgen Drews]]

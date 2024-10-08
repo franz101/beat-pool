@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2wnxgxuPc8nT6c1r3WPrwS
 **Related artists:**
 
 [[Hustensaft Jüngling]]
-[[Jura Kez]]
+[[producers/Jura Kez]]
 [[Sierra Kidd]]
 [[Money Boy]]
 [[Kid Cairo]]

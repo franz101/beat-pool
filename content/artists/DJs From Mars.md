@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD
 **Related artists:**
 
 [[Pulsedriver]]
-[[db Pure]]
+[[producers/db Pure]]
 [[Topmodelz]]
 [[DJ Gollum]]
 [[Lori Glori]]
-[[Rico Bernasconi]]
+[[producers/Rico Bernasconi]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/6QWl1IZfOJCldAZUkQvM3z
 
 **Related artists:**
 
-[[Chima Onyele]]
+[[producers/Chima Onyele]]
 [[Capo]]
 [[Animus]]
 [[Beatgees]]
-[[Crada]]
+[[producers/Crada]]
 [[Götz Gottschalk]]
-[[Konrad Sommermeyer]]
+[[producers/Konrad Sommermeyer]]
 [[Yvonne Catterfeld]]
 [[Megaloh]]
 [[Elmo]]

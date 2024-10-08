@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0vVJHsVtwv6x346H0ZR9CE
 
 **Related artists:**
 
-[[Henrik Steigerwald]]
+[[producers/Henrik Steigerwald]]
 [[Henry And The Waiter]]
 [[Lupid]]
 [[Majoe]]
-[[Markus Sebastian Harbauer]]
-[[Tobias Hundt]]
+[[producers/Markus Sebastian Harbauer]]
+[[producers/Tobias Hundt]]
 [[Juh-Dee]]
 [[Jasmin Shakeri]]

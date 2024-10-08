@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0SUeXtOdJFtXkUCGS4jcuk
 ![Artist]()
 **Related artists:**
 
-[[Veteran]]
-[[Sott]]
-[[Jimmy Torrio]]
+[[producers/Veteran]]
+[[producers/Sott]]
+[[producers/Jimmy Torrio]]

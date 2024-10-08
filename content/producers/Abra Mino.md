@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/09OFzmTpBkxP4ar7TOuiR7
 
 **Related artists:**
 
-[[UNIK]]
+[[producers/UNIK]]
 [[Moe Phoenix]]
-[[Caid]]
+[[producers/Caid]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4q3ElXAe4MM5dq9j25HemM
 
 **Related artists:**
 
-[[Edo Zanki]]
-[[J. Horn-Bernges]]
+[[producers/Edo Zanki]]
+[[producers/J. Horn-Bernges]]
 [[Florian]]
 [[Nino de Angelo]]

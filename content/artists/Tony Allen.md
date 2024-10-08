@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi
 **Related artists:**
 
 [[Megaloh]]
-[[Christian Prommer]]
+[[producers/Christian Prommer]]

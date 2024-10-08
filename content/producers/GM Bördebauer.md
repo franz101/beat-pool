@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/07Fp7z9jwlaYjIGsuKH4IL
 
 **Related artists:**
 
-[[Kaiser SK]]
+[[producers/Kaiser SK]]
 [[Sondaschule]]

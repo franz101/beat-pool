@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3hHXEkpZXd1Oggae7bdB9m
 **Related artists:**
 
 [[MERO]]
-[[Who's Wylerc ZLRBeatr]]
+[[producers/Who's Wylerc ZLRBeatr]]

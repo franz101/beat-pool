@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4aO8OecLl60QdIAax6Zrdr
 
 **Related artists:**
 
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Doezis]]

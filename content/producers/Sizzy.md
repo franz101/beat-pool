@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/4wsU4OpesvEcANE9VvUJgb
 
 **Related artists:**
 
-[[Estidee]]
+[[producers/Estidee]]
 [[Jamule]]
 [[Torro West]]
 [[Aylo]]
 [[PA Sports]]
 [[Veysel]]
 [[Miksu - Macloud]]
-[[Murda Beatz]]
+[[producers/Murda Beatz]]
 [[Miksu]]
 [[Macloud]]
-[[Deats]]
+[[producers/Deats]]
 [[MoTrip]]
-[[Christopher „Lee“ Plowman]]
+[[producers/Christopher „Lee“ Plowman]]
 [[Luciano]]

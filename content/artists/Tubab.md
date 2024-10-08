@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/204oFiJJlKndf8zIgyFE0F
 
 **Related artists:**
 
-[[Thelonius Coltrane]]
+[[producers/Thelonius Coltrane]]
 [[Gianni Suave]]

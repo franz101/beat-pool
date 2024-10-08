@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/7qfKjRGrO1By4TujWvUA8F
 [[Pulsedriver]]
 [[Tiscore]]
 [[Rocketeers]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]
 [[Axel Coon Remix]]
-[[Axel Coon]]
+[[producers/Axel Coon]]

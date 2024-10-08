@@ -20,5 +20,5 @@ url: https://open.spotify.com/artist/24dGZY6y6TCmgxzM9HmVCs
 [[Jemma Endersby]]
 [[Ulrich Matthes]]
 [[Judith Holofernes]]
-[[Ekimas]]
+[[producers/Ekimas]]
 [[Désirée Nosbusch]]

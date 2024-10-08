@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1qE4nqPMyz1QWaeW7iO40f
 **Related artists:**
 
 [[Torch]]
-[[Boulevard Bou]]
+[[producers/Boulevard Bou]]

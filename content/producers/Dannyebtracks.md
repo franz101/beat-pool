@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/61hwl7tR4JTKCuONHFAUnY
 
 **Related artists:**
 
-[[Patrick Faubert]]
+[[producers/Patrick Faubert]]
 [[SAMY]]
 [[LOC 079]]
 [[Ramo]]
-[[Tengo]]
-[[Lennart Voigt]]
+[[producers/Tengo]]
+[[producers/Lennart Voigt]]
 [[Lil Lano]]
-[[Future Moguls]]
+[[producers/Future Moguls]]
 [[Marlo]]
 [[Trippie Boi]]
 [[Niqo Nuevo]]
-[[Dominik Felsmann]]
+[[producers/Dominik Felsmann]]
 [[Mikael]]
-[[Zero Beatz]]
+[[producers/Zero Beatz]]

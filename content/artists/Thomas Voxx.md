@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7kpZqSYClbkrUd5331o16r
 **Related artists:**
 
 [[MC Bilal]]
-[[Timo Ueckert]]
+[[producers/Timo Ueckert]]

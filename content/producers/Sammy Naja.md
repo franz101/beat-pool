@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3IMxFTyfaOZBYfRXa7ZyVU
 **Related artists:**
 
 [[TEAM 5ÜNF]]
-[[Jay Khan]]
+[[producers/Jay Khan]]

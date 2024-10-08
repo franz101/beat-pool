@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2inAfRB6Pz8ymb4Cv57vvr
 **Related artists:**
 
 [[Mickie Krause]]
-[[Andy Berger]]
+[[producers/Andy Berger]]

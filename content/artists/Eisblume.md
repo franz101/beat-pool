@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3yL1vGQDzaXGQfiSYLoPeK
 ![Artist](https://i.scdn.co/image/33c070a6d8e2671351f3e6f20f7cb0937f0f5e0b)
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[Ingo Politz]]
+[[producers/Kiko Masbaum]]
+[[producers/Ingo Politz]]
 [[Scala]]
-[[Various Artists]]
-[[Phil Schardt]]
+[[producers/Various Artists]]
+[[producers/Phil Schardt]]

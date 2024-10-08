@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1y7ZxBnmgRpUhznRHrM5Fx
 **Related artists:**
 
 [[Mortel]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]

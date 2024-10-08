@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/3KONxMgS3dmc9ypAYxOJ85
 **Related artists:**
 
 [[Nimo]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
-[[Iad Aslan]]
+[[producers/Beatzarre]]
+[[producers/Iad Aslan]]
 [[Summer Cem]]

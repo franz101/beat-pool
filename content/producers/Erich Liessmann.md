@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0jtk2TG5x00cv4sBRwSYoV
 
 **Related artists:**
 
-[[Joja Wendt]]
+[[producers/Joja Wendt]]
 [[Michelle]]

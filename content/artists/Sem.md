@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/14TNqCZSmFUlFDuDTCXUED
 **Related artists:**
 
 [[Pulsedriver]]
-[[Sascha "sem" Ebert]]
+[[producers/Sascha "sem" Ebert]]
 [[Rob Mayth]]

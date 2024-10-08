@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6pF4Vo8b7eTWNV7LDkUKXp
 
 **Related artists:**
 
-[[Sven Greiner]]
+[[producers/Sven Greiner]]
 [[Ole Van Dansk]]
-[[Stephan Drobez]]
-[[Sascha Mulder]]
+[[producers/Stephan Drobez]]
+[[producers/Sascha Mulder]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/63HiedWzgtoyJZr4bD03Wf
 
 **Related artists:**
 
-[[Raphael Schalz]]
+[[producers/Raphael Schalz]]
 [[Grossstadtgeflüster]]

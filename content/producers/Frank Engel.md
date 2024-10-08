@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3YtBi6wtyWRyxig8XnxPFP
 
 **Related artists:**
 
-[[Live Legend Konzertagentur GmbH]]
+[[producers/Live Legend Konzertagentur GmbH]]
 [[Pamela Bürger]]
-[[Bernie Haefner]]
+[[producers/Bernie Haefner]]
 [[Adel Tawil]]

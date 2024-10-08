@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3YpEUCjdLuPmBspkmoPYnX
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Alice Rose]]
-[[Tommi Eckart]]
+[[producers/Alice Rose]]
+[[producers/Tommi Eckart]]

@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/30BILCsHOk1YmBgLC9hgvf
 
 **Related artists:**
 
-[[Th. Lang]]
+[[producers/Th. Lang]]
 [[Nazar]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[Dietz]]
-[[David Bronner]]
+[[producers/David Bronner]]
 [[Falco]]
-[[Dietmar Tinhof]]
-[[Thomas Lang]]
+[[producers/Dietmar Tinhof]]
+[[producers/Thomas Lang]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3YRjnEJHlmMiRZoJKUSpER
 **Related artists:**
 
 [[Greeny]]
-[[Broke Boys]]
+[[producers/Broke Boys]]

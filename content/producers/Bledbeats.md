@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6aUEDhmN7uhcLnD1hFIxob
 [[Mert]]
 [[Burry Soprano]]
 [[Mikael]]
-[[Larkin]]
+[[producers/Larkin]]
 [[JIGGO]]

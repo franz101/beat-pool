@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/2IdLPxN4m04cmVJg1ShhFf
 [[Pulsedriver]]
 [[Benjamin Zane]]
 [[DJ Stardust]]
-[[M. Kornschober]]
+[[producers/M. Kornschober]]

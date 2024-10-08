@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/1nhDwjhoQvACpTRTIsMDq3
 **Related artists:**
 
 [[Jush]]
-[[Lorik Shaqiri]]
-[[Gerrit Arnold]]
+[[producers/Lorik Shaqiri]]
+[[producers/Gerrit Arnold]]
 [[Momo Chahine]]

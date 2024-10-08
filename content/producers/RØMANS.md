@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4b8dLpJgJpNQYzu4AtXLt3
 **Related artists:**
 
 [[Rea Garvey]]
-[[Andy Chatterley]]
+[[producers/Andy Chatterley]]

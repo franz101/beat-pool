@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/0cnLh4kbUEGBLQ2qs4SFjk
 **Related artists:**
 
 [[Duzoe]]
-[[outakey]]
+[[producers/outakey]]

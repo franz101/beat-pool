@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/71Mhcxg35K9lVI3PMg1sQA
 **Related artists:**
 
 [[Fatoni]]
-[[Cap Kendricks]]
+[[producers/Cap Kendricks]]
 [[Edgar Wasser]]

@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb552450196d7577ed8cc8acfc)
 **Related artists:**
 
-[[Tim Tautorat]]
-[[Fabian Langer]]
+[[producers/Tim Tautorat]]
+[[producers/Fabian Langer]]
 [[KitschKrieg]]
 [[Cro]]
 [[Trettmann]]
 [[Giant Rooks]]
 [[SFR]]
-[[Moses Schneider]]
+[[producers/Moses Schneider]]
 [[K.I.Z]]
-[[Severin Kantereit]]
-[[Markus Ganter]]
+[[producers/Severin Kantereit]]
+[[producers/Markus Ganter]]

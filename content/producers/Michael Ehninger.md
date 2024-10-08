@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0NeXc6egsJPnGDhSDZAQUj
 **Related artists:**
 
 [[Sören Hild]]
-[[Thomas Spitzer]]
+[[producers/Thomas Spitzer]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

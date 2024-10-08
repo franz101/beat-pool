@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/5SN0wm80IwtuslCgjGFPJK
 [[Mike Rötgens]]
 [[Florian Timm]]
 [[Anna-Maria Zimmermann]]
-[[Dirk Fiebich]]
+[[producers/Dirk Fiebich]]
 [[Michael Rötgens]]
 [[Jürgen Drews]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5dK1aTARS2YfxGdG3zmtYu
 
 **Related artists:**
 
-[[Benny Blanco]]
+[[producers/Benny Blanco]]
 [[Azad]]

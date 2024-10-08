@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/46YZi6bZ3GLC5rvDZqOxNs
 
 [[Konstantin Wecker]]
 [[Alexa Rodrian]]
-[[Klaus Strazicky]]
+[[producers/Klaus Strazicky]]
 [[Hanns Dieter Hüsch]]
 [[John Jones]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3ylpc8P9o7giMljMyDgcrg
 
 **Related artists:**
 
-[[Kevin Bents]]
+[[producers/Kevin Bents]]
 [[Westernhagen]]
 [[Billy King]]

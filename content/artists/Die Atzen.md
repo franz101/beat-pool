@@ -24,5 +24,5 @@ url: https://open.spotify.com/artist/1huEHiP7LUQ8QJHXbzrtDu
 [[Swiss & Die Andern]]
 [[Jürgen Drews]]
 [[Blokkmonsta]]
-[[DJ Antoine]]
+[[producers/DJ Antoine]]
 [[Bass Sultan Hengzt]]

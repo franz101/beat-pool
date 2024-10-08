@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY
 
 [[AzudemSK]]
 [[DJ Robert Smith]]
-[[Fabian Pfitzer]]
+[[producers/Fabian Pfitzer]]

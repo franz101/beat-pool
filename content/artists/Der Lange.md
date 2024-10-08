@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2UP0RG12G5heQTMj12E9nK
 
 **Related artists:**
 
-[[DJ Chris]]
+[[producers/DJ Chris]]
 [[RAG]]

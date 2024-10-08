@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/47WHOzYzxHTcB3DopvNQAz
 **Related artists:**
 
 [[Andreas Bayless]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

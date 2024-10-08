@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7k9zCRGYBtagEXRFFcXdIE
 
 **Related artists:**
 
-[[Thomas Kukuck]]
+[[producers/Thomas Kukuck]]
 [[Udo Lindenberg]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/67aNGdJMriEc3eXcOVZQHD
 
 **Related artists:**
 
-[[The Royals]]
+[[producers/The Royals]]
 [[Apache 207]]

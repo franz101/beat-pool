@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6sPBPRtyswY6QM8gypioyh
 
 **Related artists:**
 
-[[Alex Henke]]
+[[producers/Alex Henke]]
 [[Culcha Candela]]

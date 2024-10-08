@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/1wMKPEAO71Vj0kTI0SFu8o
 [[Fettes Brot]]
 [[DJ Deadline]]
 [[Revolverheld]]
-[[Cecil Remmler]]
+[[producers/Cecil Remmler]]
 [[Stephan Remmler]]
 [[Björn Beton]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1gK6LMYXbVDxda5eklBK1e
 **Related artists:**
 
 [[Yassin]]
-[[Joe Joaquin]]
+[[producers/Joe Joaquin]]
 [[Audio88]]
 [[Maeckes]]

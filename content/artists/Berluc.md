@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/21ENE4BnSW0mTSonjcSNLE
 
 **Related artists:**
 
-[[Rainer Oleak]]
+[[producers/Rainer Oleak]]

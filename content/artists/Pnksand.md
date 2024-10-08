@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3qAkatLIGwcJzvgt3wRGeD
 **Related artists:**
 
 [[YAEL]]
-[[Chriskey]]
+[[producers/Chriskey]]

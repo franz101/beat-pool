@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5Lii8AGVM6OdXmCuU0OwaC
 **Related artists:**
 
 [[Main Concept]]
-[[Glammerlicious]]
+[[producers/Glammerlicious]]

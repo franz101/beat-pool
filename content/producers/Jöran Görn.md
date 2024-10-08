@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/59vwwa7xoyLgbbWBXbQI4S
 
 **Related artists:**
 
-[[Paul Tetzlaff]]
-[[Niklas Kraft]]
+[[producers/Paul Tetzlaff]]
+[[producers/Niklas Kraft]]
 [[Clueso]]
 [[Martin Rödiger]]

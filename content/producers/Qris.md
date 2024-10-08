@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/56SAwGxde03mE0hobSMcss
 [[XATAR]]
 [[Remoe]]
 [[Tua]]
-[[LIA]]
+[[producers/LIA]]
 [[Maestro]]

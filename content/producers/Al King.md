@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1qqJsPaqUi5LWmKIctAwxJ
 
 **Related artists:**
 
-[[Alexs White]]
+[[producers/Alexs White]]
 [[Andrea Berg]]
 [[René Baumann]]

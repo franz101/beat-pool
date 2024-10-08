@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0TjZoKIJKpq17aGn3bAfYR
 **Related artists:**
 
 [[D-Flame]]
-[[Bassrunner]]
-[[Sam Gilly]]
+[[producers/Bassrunner]]
+[[producers/Sam Gilly]]
 [[Jahmali]]

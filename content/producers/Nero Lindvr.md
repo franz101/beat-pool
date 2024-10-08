@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4mb5Bxh06foybsmXal4gAp
 
 **Related artists:**
 
-[[Fonty]]
+[[producers/Fonty]]
 [[Ardian Bujupi]]

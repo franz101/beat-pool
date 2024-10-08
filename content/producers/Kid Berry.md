@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5jJwKufmNb5sxwRZBYIpy5
 
 [[AzudemSK]]
 [[Pöbel MC]]
-[[Score34]]
+[[producers/Score34]]

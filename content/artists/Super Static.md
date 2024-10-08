@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0Bth6SDuK4U3aaI4xieTzg
 
 **Related artists:**
 
-[[Staticbeatz]]
-[[Nozad]]
+[[producers/Staticbeatz]]
+[[producers/Nozad]]
 [[Bainshe]]
 [[Marvin Game]]

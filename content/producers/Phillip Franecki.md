@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7mSmHjiE9U2yO5WHHlhZZM
 
 **Related artists:**
 
-[[Sven Greiner]]
-[[Achim Hox]]
+[[producers/Sven Greiner]]
+[[producers/Achim Hox]]
 [[Dream Dance Alliance]]

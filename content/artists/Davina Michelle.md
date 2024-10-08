@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7d779667a6889c3df14317bd)
 **Related artists:**
 
-[[Noah Seelmann]]
-[[Sebastiaan Brouwer]]
+[[producers/Noah Seelmann]]
+[[producers/Sebastiaan Brouwer]]

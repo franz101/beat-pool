@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/29ZfgngTjiuYf3vqhrM1Ba
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb37b13c1126f4be692306b03)
 **Related artists:**
 
-[[Fabian Isaak Langer]]
+[[producers/Fabian Isaak Langer]]
 [[Juli Zeh]]
 [[Oli Zülch]]
-[[Mario Thaler]]
+[[producers/Mario Thaler]]

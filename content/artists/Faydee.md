@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5v7efr4mqt3RQxkT0Mmh5g
 
 **Related artists:**
 
-[[The Royals]]
-[[Gorex]]
+[[producers/The Royals]]
+[[producers/Gorex]]
 [[Kay One]]
 [[Mudi]]
-[[Dirty Beats]]
+[[producers/Dirty Beats]]

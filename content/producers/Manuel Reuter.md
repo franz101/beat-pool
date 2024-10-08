@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/0zFBGzwdfRMV2O4kgtF5SZ
 
 **Related artists:**
 
-[[Anna Rainer-Josko]]
+[[producers/Anna Rainer-Josko]]
 [[Lars “Gollum” Böge]]
 [[Jerome]]
 [[United Beats]]
 [[Angel]]
 [[Diamond]]
 [[Pulsedriver]]
-[[Kai Horstmann]]
+[[producers/Kai Horstmann]]
 [[Base Attack]]
-[[Yann Peifer]]
+[[producers/Yann Peifer]]
 [[Safiya]]
-[[Johannes Berger]]
+[[producers/Johannes Berger]]
 [[Jürgen Drews]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5TYmIvvYggK0NWXO23KSIu
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
+[[producers/Bartosch Jeznach]]
 [[Deichkind]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Philipp Grütering]]

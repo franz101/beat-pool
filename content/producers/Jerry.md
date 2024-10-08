@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5MOPYIShiNhw4t9176Lll8
 
 **Related artists:**
 
-[[Klaus Eberhartinger]]
-[[Thomas Spitzer]]
+[[producers/Klaus Eberhartinger]]
+[[producers/Thomas Spitzer]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

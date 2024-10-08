@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/10TZt85jPH91lNe5xGl94e
 
 [[AchtVier]]
 [[Kolja Goldstein]]
-[[Jmxj]]
-[[ISOTOPE]]
-[[SOYiLL]]
+[[producers/Jmxj]]
+[[producers/ISOTOPE]]
+[[producers/SOYiLL]]
 [[Haiyti]]

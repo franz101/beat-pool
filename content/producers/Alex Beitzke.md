@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3pNimvtRuUTRuwtrABKpcN
 **Related artists:**
 
 [[Wildwood Kin]]
-[[Bradley Spence]]
+[[producers/Bradley Spence]]
 [[Michael Patrick Kelly]]

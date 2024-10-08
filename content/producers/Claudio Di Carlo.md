@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/52izDrb8DoYUgb0cOLyK8m
 **Related artists:**
 
 [[Mickie Krause]]
-[[Michael Voss]]
+[[producers/Michael Voss]]
 [[Mallorca Allstars]]
-[[Smiley Jay]]
+[[producers/Smiley Jay]]

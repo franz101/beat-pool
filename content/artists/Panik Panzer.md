@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/1dlXjOwrdKeYv0zH73OxyU
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb6b9d7abfc073c1d91a465fb)
 **Related artists:**
 
-[[Daniel Pongratz]]
+[[producers/Daniel Pongratz]]
 [[Juse Ju]]
 [[NMZS]]
-[[Tobias Pongratz]]
+[[producers/Tobias Pongratz]]
 [[Bonzi Stolle]]
-[[Enaka]]
+[[producers/Enaka]]
 [[Koljah]]
 [[Tai Phun]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Danger Dan]]
 [[Vandalismus]]

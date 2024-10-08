@@ -12,13 +12,13 @@ url: https://open.spotify.com/artist/3UQK7Aw2BKNopxvrjWMd6u
 **Related artists:**
 
 [[Gzuz]]
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[Haiyti]]
 [[Klapse Mane]]
 [[Opti Mane]]
 [[LX & Maxwell]]
 [[BABYLON MAYNE]]
-[[Project X]]
+[[producers/Project X]]
 [[Sa4]]
 [[KDM Shey]]
 [[Waddah]]

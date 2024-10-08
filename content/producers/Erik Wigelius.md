@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0SUxi9emg5wqMjnlnN88g0
 **Related artists:**
 
 [[Luca Hänni]]
-[[Mathias Ramson]]
+[[producers/Mathias Ramson]]

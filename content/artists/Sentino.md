@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/6DAQjwwMGZ9QgqHhIkU7H0
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba82f9256f4e613d8f6631a7e)
 **Related artists:**
 
-[[Phat Crispy]]
-[[Iad Aslan]]
+[[producers/Phat Crispy]]
+[[producers/Iad Aslan]]
 [[Bedoes]]
 [[Fler]]
 [[Eko Fresh]]
 [[Kollegah]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

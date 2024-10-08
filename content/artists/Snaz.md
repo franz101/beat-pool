@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5crUT9ET35espiRkJnRqGI
 **Related artists:**
 
 [[Clueso]]
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[Axel Hilgenstöhler]]
 [[Remarkable]]

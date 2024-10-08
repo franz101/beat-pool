@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/468XobaUhrILLXnYCv013o
 **Related artists:**
 
 [[In Extremo]]
-[[Resetti Brothers]]
+[[producers/Resetti Brothers]]

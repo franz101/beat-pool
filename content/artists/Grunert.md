@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5rd2E8CUOnbVXrUR5jy01v
 
 **Related artists:**
 
-[[Tobias Kuhn]]
+[[producers/Tobias Kuhn]]
 [[Clueso]]

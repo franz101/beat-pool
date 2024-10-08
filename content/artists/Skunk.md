@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/30yheqr2HNohtKCssu5bkL
 
 [[Mart n Jay]]
 [[Dextar]]
-[[Diggy Mac Dirt]]
+[[producers/Diggy Mac Dirt]]
 [[Ogee]]
 [[Hypnotize]]
 [[Snaer.]]
-[[SkunkJunk]]
+[[producers/SkunkJunk]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2FeP1a73L0qqkt9nMvlawX
 
 **Related artists:**
 
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Vendetta Beats]]

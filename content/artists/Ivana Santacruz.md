@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/1cAU5q0s8zKdMTNAZ8CJht
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebceb424c67442073e087e2edb)
 **Related artists:**
 
-[[Vincent Stein]]
-[[Djorkaeff]]
-[[Phil The Beat]]
+[[producers/Vincent Stein]]
+[[producers/Djorkaeff]]
+[[producers/Phil The Beat]]
 [[Ir Sais]]
-[[Maxe]]
+[[producers/Maxe]]
 [[Bausa]]
 [[Monet192]]
-[[Gabox]]
-[[Chaz Mishan]]
+[[producers/Gabox]]
+[[producers/Chaz Mishan]]

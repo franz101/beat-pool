@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/4g13Ijg1O4TOT4sPL8Sh8V
 
 **Related artists:**
 
-[[Brecht]]
+[[producers/Brecht]]
 [[Flo Mega]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Bausa]]
 [[Kool Savas]]
 [[Wanja Janeva]]
 [[Jugglerz]]
 [[The Cratez]]
 [[Karen]]
-[[Sir Jai]]
+[[producers/Sir Jai]]

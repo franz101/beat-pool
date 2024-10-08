@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/49QEef1W7D2H0y3yyFPSWu
 **Related artists:**
 
 [[KAFVKA]]
-[[Stephan Ifkovits]]
+[[producers/Stephan Ifkovits]]
 [[Roger Rekless]]

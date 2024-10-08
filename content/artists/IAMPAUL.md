@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1mBlZPMpRL8wT9aHBnBBph
 **Related artists:**
 
 [[dude26]]
-[[Georg Ziegler]]
+[[producers/Georg Ziegler]]
 [[Eloquent]]
 [[fLOwTEC]]
 [[Chezz.One]]

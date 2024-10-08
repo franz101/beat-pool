@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4RuQTdO8WTpTMsLfMoVPyT
 **Related artists:**
 
 [[Falco]]
-[[Rob Bolland]]
-[[Ferdinand Bolland]]
-[[Ferdi Bolland]]
+[[producers/Rob Bolland]]
+[[producers/Ferdinand Bolland]]
+[[producers/Ferdi Bolland]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/31daKQW8BPtYs1RqbUeFvb
 **Related artists:**
 
 [[Tiavo]]
-[[Matteo Schwanengel]]
+[[producers/Matteo Schwanengel]]
 [[absent]]
 [[REEZA]]
 [[Edo Saiya]]
-[[David Turco]]
+[[producers/David Turco]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5YQFlNWfCXVhmk64zbaOec
 
 **Related artists:**
 
-[[Mionel]]
+[[producers/Mionel]]
 [[Azan]]

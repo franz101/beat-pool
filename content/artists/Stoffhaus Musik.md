@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7EQPKPoQhXeTyqWPH7seFQ
 
 **Related artists:**
 
-[[P-Koss]]
+[[producers/P-Koss]]
 [[Punch Arogunz]]

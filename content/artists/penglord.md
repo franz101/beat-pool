@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/2DTVU6DwbfC2wMt3YIdiv4
 [[Timmy T]]
 [[Pa$ta Pat]]
 [[Melki808]]
-[[Berko]]
+[[producers/Berko]]
 [[pasta p.a.t.]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0jGHN4Q2PUT3R9ZQ4ILA7j
 
 **Related artists:**
 
-[[Richard Rudolph]]
+[[producers/Richard Rudolph]]
 [[Marsimoto]]
 [[Deichkind]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2OiRLm3KVbAyUj8U4SoUCM
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfc2e0c2dfe5ffa67f1ec6d61)
 **Related artists:**
 
-[[stickle]]
+[[producers/stickle]]
 [[Andrewextendo]]
-[[Genius Mercy]]
+[[producers/Genius Mercy]]

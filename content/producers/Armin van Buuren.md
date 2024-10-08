@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5
 **Related artists:**
 
 [[Re:Locate]]
-[[Benno De Goeij]]
+[[producers/Benno De Goeij]]
 [[Pulsedriver]]

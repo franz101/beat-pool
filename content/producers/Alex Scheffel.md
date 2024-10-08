@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/76YQiJyy7M4eqOJwDMo1Ee
 
 **Related artists:**
 
-[[DJ 5ter Ton]]
+[[producers/DJ 5ter Ton]]
 [[Afrob]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/3IIBqtZVfCcYzVJljAevLq
 **Related artists:**
 
 [[40CRWNS]]
-[[Cobra]]
+[[producers/Cobra]]
 [[Jhony Kaze]]
 [[Kevin Miller]]
-[[Mathias Ramson]]
+[[producers/Mathias Ramson]]

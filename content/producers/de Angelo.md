@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/56QfJafsXcRQU3i7H4y7Oh
 **Related artists:**
 
 [[Nino de Angelo]]
-[[Bartels]]
+[[producers/Bartels]]

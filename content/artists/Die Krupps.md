@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0iDagYU2nu7gTWMdtCxzxW
 
 **Related artists:**
 
-[[Noel Pix]]
-[[Maximilian Schauer]]
+[[producers/Noel Pix]]
+[[producers/Maximilian Schauer]]
 [[Eisbrecher]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/5f3QuVW3u7P8vxmJqESEMW
 [[Moses Pelham]]
 [[Rödelheim Hartreim Projekt]]
 [[Xavier Naidoo]]
-[[Martin Haas]]
+[[producers/Martin Haas]]
 [[Moses P.]]

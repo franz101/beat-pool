@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3XblYf2FLBX59yq3vchF54
 
 **Related artists:**
 
-[[Michael Buschjan]]
+[[producers/Michael Buschjan]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0ikq0Kz9luxcUkZkPAKHQG
 **Related artists:**
 
 [[Mason Family]]
-[[Artem]]
+[[producers/Artem]]
 [[Punch Arogunz]]

@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/13HCSe8J92zo90TYuzjeHB
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcd32c0d2595ba73d72db26f7)
 **Related artists:**
 
-[[Misho]]
+[[producers/Misho]]
 [[Marc Garcia]]
-[[Snoddy]]
+[[producers/Snoddy]]
 [[Lyran Dasz]]
 [[LEXIKA]]
 [[Sin Davis]]
-[[OM]]
+[[producers/OM]]
 [[Rico]]
 [[Endzone]]
 [[ShutoGrey]]

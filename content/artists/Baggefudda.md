@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1R6WOn8b4xWnDr7KU3FErz
 **Related artists:**
 
 [[Mädness]]
-[[Iron]]
+[[producers/Iron]]

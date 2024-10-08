@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1vkYQMWQrfBzvXrMCwe50Y
 **Related artists:**
 
 [[Sido]]
-[[Daniel Nitt]]
-[[Moritz Limmer]]
-[[Michael Geldreich]]
+[[producers/Daniel Nitt]]
+[[producers/Moritz Limmer]]
+[[producers/Michael Geldreich]]
 [[Mark Forster]]

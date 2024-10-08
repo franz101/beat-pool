@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3ZY6BSqXZI6q7tUpvoURSD
 **Related artists:**
 
 [[G-Mac]]
-[[Abija]]
+[[producers/Abija]]
 [[Nu51]]
 [[Sugar MMFK]]
 [[Des]]

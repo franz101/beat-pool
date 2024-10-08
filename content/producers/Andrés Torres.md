@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4KLOMib6zqzNayKwLWTs2Q
 **Related artists:**
 
 [[Helene Fischer]]
-[[SILVERJAM]]
-[[Mauricio Rengifo]]
+[[producers/SILVERJAM]]
+[[producers/Mauricio Rengifo]]
 [[Luis Fonsi]]

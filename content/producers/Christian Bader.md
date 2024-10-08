@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2IJgHf5ioTHG4fyslHsN7z
 
 **Related artists:**
 
-[[Werner "Dr. Roc" Krumme]]
+[[producers/Werner "Dr. Roc" Krumme]]
 [[Das Bo]]
 [[King Chronic]]
 [[Jennifer Rostock]]
-[[Werner Krumme]]
+[[producers/Werner Krumme]]

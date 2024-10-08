@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1cZcwqmoVhY3BleYZq8TRg
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Conny Bader]]
 [[Michael Janz]]

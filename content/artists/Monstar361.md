@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/5BQP3vtXK4u9P6eSs2mMjZ
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd0ddb327a322ab5f073c2df5)
 **Related artists:**
 
-[[Aksit Ugurlu]]
+[[producers/Aksit Ugurlu]]
 [[Massaka]]
-[[Murat Ilhan]]
+[[producers/Murat Ilhan]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5g0r5uqlTmIAPnSyhLZ3LK
 **Related artists:**
 
 [[JuJu Rogers]]
-[[Like]]
+[[producers/Like]]
 [[Hypnotize]]
-[[Smuv]]
+[[producers/Smuv]]

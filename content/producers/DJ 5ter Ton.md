@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4ITyC3uS8ADuDr6a5HWWns
 **Related artists:**
 
 [[Afrob]]
-[[Alex Scheffel]]
+[[producers/Alex Scheffel]]

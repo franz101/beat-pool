@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4ZaUXNaebEQrSWFq4att4m
 
 **Related artists:**
 
-[[Cem Tomak]]
+[[producers/Cem Tomak]]
 [[Luqe]]
 [[MC Bilal]]
-[[Timo Ueckert]]
+[[producers/Timo Ueckert]]

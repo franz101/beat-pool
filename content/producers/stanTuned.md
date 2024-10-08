@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5on7INo9K1tV6x7RiMhwSa
 **Related artists:**
 
 [[Ramo]]
-[[Tengo]]
-[[Denibeatzz]]
+[[producers/Tengo]]
+[[producers/Denibeatzz]]
 [[Freshmaker]]

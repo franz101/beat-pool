@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0gyABQigeucfKGEULuWgHT
 
 **Related artists:**
 
-[[Joznez]]
+[[producers/Joznez]]
 [[Hanybal]]
 [[Gzuz]]

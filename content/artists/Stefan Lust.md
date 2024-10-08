@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/10o7B7qTRKZW0k6RbLG3Fn
 
 **Related artists:**
 
-[[Vajna]]
+[[producers/Vajna]]
 [[Eko Fresh]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/020JaNnI80BI0920t9lbE0
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb08901bab9ee167213bb2eb19)
 **Related artists:**
 
-[[Daniel "Danzo" Gast]]
+[[producers/Daniel "Danzo" Gast]]
 [[Nord Nord Muzikk]]

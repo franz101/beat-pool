@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5EJT6YinJkR8dg20aTwHti
 **Related artists:**
 
 [[Sven Bünger]]
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Oli. P]]
 [[Nino de Angelo]]
 [[Manfred Lohse]]

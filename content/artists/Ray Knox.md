@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6TrdjW0oo5MDQe216AzUYx
 
 **Related artists:**
 
-[[Awaline]]
+[[producers/Awaline]]
 [[Stefania]]
-[[Rijkaard]]
-[[Gollers]]
-[[Andre Ahuis]]
+[[producers/Rijkaard]]
+[[producers/Gollers]]
+[[producers/Andre Ahuis]]

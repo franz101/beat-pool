@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3DQQA7JVJvdcdcKArfwitT
 **Related artists:**
 
 [[AnalogBassCamp]]
-[[Umberto Echo]]
+[[producers/Umberto Echo]]
 [[Jamaram]]
-[[Guido Craveiro]]
+[[producers/Guido Craveiro]]

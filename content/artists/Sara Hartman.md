@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1Vx5fzRUd7A1j40B8E3Yqo
 
 **Related artists:**
 
-[[Tobias Kuhn]]
+[[producers/Tobias Kuhn]]
 [[Clueso]]
 [[Egotron]]

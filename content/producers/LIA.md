@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/4fhRf8EJAzXky7wKbq0fJt
 
 **Related artists:**
 
-[[DJ DeeVoe]]
-[[Sirhat]]
+[[producers/DJ DeeVoe]]
+[[producers/Sirhat]]
 [[Menju]]
-[[Qris]]
+[[producers/Qris]]
 [[Remoe]]
 [[Jalil]]
 [[MEL]]
-[[Kemelion]]
+[[producers/Kemelion]]

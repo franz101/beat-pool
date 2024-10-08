@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4NA78m7MOpwSztq62BBI2k
 **Related artists:**
 
 [[Nimo]]
-[[Ez Elpee]]
+[[producers/Ez Elpee]]
 [[Olexesh]]

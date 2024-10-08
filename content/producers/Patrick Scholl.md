@@ -13,11 +13,11 @@ url: https://open.spotify.com/artist/7HE8b1QYnAQrq7WMSC6Et2
 
 [[Tale & Dutch]]
 [[RainDropz!]]
-[[Dennis Logemann]]
+[[producers/Dennis Logemann]]
 [[Adassa]]
 [[Chris van Dutch]]
 [[Prayer]]
 [[Dj Tht]]
-[[Enrico Di Giorno]]
+[[producers/Enrico Di Giorno]]
 [[Henrik Münchow]]
 [[Giorno]]

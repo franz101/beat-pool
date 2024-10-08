@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/4CWjJL1BdyoyEgffTfomqQ
 
 [[Sady K.]]
 [[Tiger104er]]
-[[DJ Zirk]]
+[[producers/DJ Zirk]]
 [[Frauenarzt]]
 [[Schwartz]]
 [[Opti Mane]]

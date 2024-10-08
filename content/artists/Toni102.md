@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7estJE1m5cJnQs3Rc4iar0
 **Related artists:**
 
 [[102 Boyz]]
-[[THEHASHCLIQUE]]
+[[producers/THEHASHCLIQUE]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4JVkRl0EKQJePThs2wiqhN
 **Related artists:**
 
 [[Pashanim]]
-[[Kev Koko]]
+[[producers/Kev Koko]]

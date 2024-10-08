@@ -19,4 +19,4 @@ url: https://open.spotify.com/artist/0ZFKdY3NfrjZeXooumanm8
 [[KazOnDaBeat]]
 [[MotB]]
 [[BABYJOY]]
-[[THEMBA]]
+[[producers/THEMBA]]

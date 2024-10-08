@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6o9POhHURgijLSMghKeTka
 **Related artists:**
 
 [[Pulsedriver]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]

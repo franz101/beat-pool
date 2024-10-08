@@ -17,13 +17,13 @@ url: https://open.spotify.com/artist/1AzY6fJYpYIOxfckbx2iRn
 **Related artists:**
 
 [[Beatgees]]
-[[Brisk Fingaz]]
-[[Zwieback]]
-[[Chrizmatic]]
+[[producers/Brisk Fingaz]]
+[[producers/Zwieback]]
+[[producers/Chrizmatic]]
 [[toksi]]
 [[MoTrip]]
 [[Tim Bendzko]]
 [[KAIND]]
 [[Valentine]]
-[[Ivan Georgiev]]
+[[producers/Ivan Georgiev]]
 [[Namika]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/329QiRiJaw8B8Nd8igR1J1
 
 **Related artists:**
 
-[[qfilm Produktion]]
+[[producers/qfilm Produktion]]
 [[In Extremo]]

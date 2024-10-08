@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb775679680c390d0abf7a135f)
 **Related artists:**
 
-[[Fabian Langer]]
+[[producers/Fabian Langer]]
 [[Giant Rooks]]
-[[Dennis Borger]]
+[[producers/Dennis Borger]]

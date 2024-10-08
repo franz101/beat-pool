@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/28PA8UoiyFqAihd85HxFAv
 
 **Related artists:**
 
-[[Kavo]]
-[[Bjet]]
+[[producers/Kavo]]
+[[producers/Bjet]]
 [[Olexesh]]
-[[P1A Beats]]
+[[producers/P1A Beats]]
 [[Haze]]
 [[2ara]]

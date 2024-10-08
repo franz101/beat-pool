@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/5GnRHCbhnGp57tp4whNvOo
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb12c9c3b2b1d9fcbf0c6c99d6)
 **Related artists:**
 
-[[ALEXANDER KAHR]]
-[[Eki von Nice]]
+[[producers/ALEXANDER KAHR]]
+[[producers/Eki von Nice]]
 [[Thorsten Brötzmann]]
-[[Michael Herberger]]
-[[Olaf Opal]]
-[[Alex Kahr]]
-[[Christian Neander]]
+[[producers/Michael Herberger]]
+[[producers/Olaf Opal]]
+[[producers/Alex Kahr]]
+[[producers/Christian Neander]]
 [[Xavier Naidoo]]
 [[Boris Uran]]
-[[Harald Hanisch]]
+[[producers/Harald Hanisch]]
 [[David Jürgens]]

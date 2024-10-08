@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/3L0djJm2FSPciCF4NvNBxd
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8d85f9db7eab3d555bc247a2)
 **Related artists:**
 
-[[Stephan Ifkovits]]
-[[Sebastian Ganso]]
+[[producers/Stephan Ifkovits]]
+[[producers/Sebastian Ganso]]
 [[Sookee]]
-[[Fabian Jung]]
-[[7apes]]
+[[producers/Fabian Jung]]
+[[producers/7apes]]
 [[Roger Rekless]]
-[[Dog Young]]
+[[producers/Dog Young]]

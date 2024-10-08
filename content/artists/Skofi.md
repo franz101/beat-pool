@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6Fip3yMOPnSLEhRRj99Olt
 
 [[Baba Rico]]
 [[Sol93]]
-[[Pengg]]
+[[producers/Pengg]]
 [[BIBIZA]]
 [[Danju]]

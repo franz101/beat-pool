@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4CzSJDrYcLZN2fjRR6IRzx
 **Related artists:**
 
 [[Ohrbooten]]
-[[Markus Lingner]]
+[[producers/Markus Lingner]]

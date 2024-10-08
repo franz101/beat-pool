@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3HWQ0miWsFSpzwg9YIP6yX
 
 **Related artists:**
 
-[[Barish Beats]]
+[[producers/Barish Beats]]
 [[JURI]]

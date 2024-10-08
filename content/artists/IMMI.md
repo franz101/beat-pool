@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/01FZ7tHzCf6gILWXztfbOP
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbcdc052566af5efc9ff432e3)
 **Related artists:**
 
-[[3li]]
-[[Blurry]]
-[[Babyblue]]
-[[Bruferr Beatz]]
+[[producers/3li]]
+[[producers/Blurry]]
+[[producers/Babyblue]]
+[[producers/Bruferr Beatz]]

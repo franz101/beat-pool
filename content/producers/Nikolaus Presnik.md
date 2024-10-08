@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2DfzWiA1UX8eATOZP7PmDb
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Nik P.]]
 [[Thorsten Brötzmann]]

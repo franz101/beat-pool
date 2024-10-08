@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1HbAbrzSXwv0rzkQpzCJ9F
 [[Bela B.]]
 [[Bop de Narr]]
 [[Farin Urlaub]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]
 [[Les Soeurs Dion]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/31ewsty6sg67C5UuOZmDcr
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb166e2346e1b49e40bb0bbb10)
 **Related artists:**
 
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[Holy Modee]]
-[[SBM]]
+[[producers/SBM]]

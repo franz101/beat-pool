@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c
 **Related artists:**
 
 [[Alle Farben]]
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[Peter Jürgens]]

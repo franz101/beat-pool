@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/28qh7pfCaUNYFAhYGI4ksg
 **Related artists:**
 
 [[Westernhagen]]
-[[Peter Hesslein]]
+[[producers/Peter Hesslein]]

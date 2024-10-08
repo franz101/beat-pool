@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/0o2O5RnWB4kKz79p7XRw4o
 [[Farid Bang]]
 [[Majoe]]
 [[KC Rebell]]
-[[JOZNEZ & HNDRC]]
+[[producers/JOZNEZ & HNDRC]]
 [[Summer Cem]]

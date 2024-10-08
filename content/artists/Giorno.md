@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/4RIn2Qwk5M58CmYBg1Bzqo
 
 **Related artists:**
 
-[[X-Cess!]]
-[[Patrick Scholl]]
+[[producers/X-Cess!]]
+[[producers/Patrick Scholl]]
 [[Sunset Project]]
-[[Kai Pokall]]
+[[producers/Kai Pokall]]
 [[BAKER, MCFLY & GEE]]
 [[Prayer]]
 [[Pulsedriver]]
-[[Enrico Di Giorno]]
-[[Sascha Hundertmark]]
+[[producers/Enrico Di Giorno]]
+[[producers/Sascha Hundertmark]]
 [[MrG!]]

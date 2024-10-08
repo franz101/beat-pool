@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1mLRHb8iE7rNpgQbV1dNcg
 
 **Related artists:**
 
-[[Markus Ganter]]
+[[producers/Markus Ganter]]
 [[AnnenMayKantereit]]
-[[Kahedi]]
+[[producers/Kahedi]]
 [[KitschKrieg]]
-[[Christopher Annen]]
+[[producers/Christopher Annen]]
 [[Max Herre]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5hILr2YBo8yelhjFkNUaV0
 
 **Related artists:**
 
-[[Tobias Kuhn]]
+[[producers/Tobias Kuhn]]
 [[Sara Hartman]]
 [[Clueso]]

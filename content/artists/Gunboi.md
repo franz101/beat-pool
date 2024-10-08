@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5QjpMO9VqsILYLa5fNKYbB
 **Related artists:**
 
 [[Jalle]]
-[[PVLACE]]
+[[producers/PVLACE]]
 [[Kwadi]]
 [[IND1GO]]
 [[Danju]]
@@ -27,11 +27,11 @@ url: https://open.spotify.com/artist/5QjpMO9VqsILYLa5fNKYbB
 [[Dardan]]
 [[Minhtendo]]
 [[Middlez]]
-[[Malcolm Heid]]
+[[producers/Malcolm Heid]]
 [[reezy]]
 [[Mena]]
 [[RIN]]
 [[Lil Teezy]]
 [[Sierra Kidd]]
 [[TYM]]
-[[MENJU]]
+[[producers/MENJU]]

@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds
 **Related artists:**
 
 [[MERO]]
-[[Ariya Rahimianpour]]
+[[producers/Ariya Rahimianpour]]
 [[Mert]]
-[[E.M Beats]]
+[[producers/E.M Beats]]
 [[Veysel]]

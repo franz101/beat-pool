@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5E9zI9RXeRV9fOcoDxkB3v
 
 **Related artists:**
 
-[[Montana]]
+[[producers/Montana]]
 [[Udo Jürgens]]

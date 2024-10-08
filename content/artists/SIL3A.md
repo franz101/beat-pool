@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/1dEhRvKJYEXBg55HN7MD4U
 **Related artists:**
 
 [[AK 33]]
-[[NMD Beats]]
-[[Ozett]]
-[[Nisbeatz]]
+[[producers/NMD Beats]]
+[[producers/Ozett]]
+[[producers/Nisbeatz]]

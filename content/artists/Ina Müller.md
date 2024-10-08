@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/4sX5aHE7Jnbl4bTrah2aDu
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0db6a2fa152f66dea1611c8e)
 **Related artists:**
 
-[[Frank Ramond]]
-[[Stephan Gade]]
-[[Jan-Philipp Kelber]]
+[[producers/Frank Ramond]]
+[[producers/Stephan Gade]]
+[[producers/Jan-Philipp Kelber]]
 [[Johannes Oerding]]
-[[Mark Smith]]
-[[Benni Dernhoff]]
-[[Hardy Kayser]]
+[[producers/Mark Smith]]
+[[producers/Benni Dernhoff]]
+[[producers/Hardy Kayser]]
 [[Joachim Schlüter]]

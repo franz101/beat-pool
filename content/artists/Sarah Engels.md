@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6oNTMBcVle4G47ymHtEGmF
 
 **Related artists:**
 
-[[Dieter Bohlen]]
-[[Jeo]]
+[[producers/Dieter Bohlen]]
+[[producers/Jeo]]
 [[Pietro Lombardi]]

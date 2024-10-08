@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4PSKuJ4TmzYNDgYswvgeAm
 **Related artists:**
 
 [[Pulsedriver]]
-[[D.K. Booth]]
+[[producers/D.K. Booth]]
 [[DJ Gollum]]
-[[Matthias Gehrmann]]
-[[Marshall Mc Luhen]]
+[[producers/Matthias Gehrmann]]
+[[producers/Marshall Mc Luhen]]
 [[Tunnel Allstars]]

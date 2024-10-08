@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/5SvTdw7YJCcrlILU5FMc1F
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb502950e115b226ff76d55616)
 **Related artists:**
 
-[[Kushbringer]]
-[[Maegli]]
+[[producers/Kushbringer]]
+[[producers/Maegli]]
 [[Koushino]]
 [[Bonez MC]]
 [[GAMBINO 36]]

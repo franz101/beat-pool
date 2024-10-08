@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1XFJHGPncUPWxFOn5iviKP
 
 **Related artists:**
 
-[[Tito Tentaculo]]
+[[producers/Tito Tentaculo]]
 [[Seboeff]]
 [[MC Bomber]]
 [[Ivo]]

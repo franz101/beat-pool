@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1EPBnjrl1kPQHhjkGYGutn
 
 **Related artists:**
 
-[[Ole Wierk]]
+[[producers/Ole Wierk]]
 [[Groove Coverage]]
-[[Axel Konrad]]
+[[producers/Axel Konrad]]

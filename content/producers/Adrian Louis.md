@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1BkKCAUYkhRJG309GGiZk4
 
 **Related artists:**
 
-[[Chekaa]]
+[[producers/Chekaa]]
 [[Moe Phoenix]]
-[[Chrizmatic]]
+[[producers/Chrizmatic]]

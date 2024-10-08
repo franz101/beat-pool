@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3FkwhBl3e9ktuTbKnWOcm6
 **Related artists:**
 
 [[Seeed]]
-[[Pierre Baigorry]]
+[[producers/Pierre Baigorry]]

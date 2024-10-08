@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6JwttrY97ohmhDMFaaUmvy
 **Related artists:**
 
 [[Konstantin Wecker]]
-[[Gerd Baumann]]
+[[producers/Gerd Baumann]]

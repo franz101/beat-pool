@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0AMPAoyOLeuWEVZnG14qvB
 **Related artists:**
 
 [[18 Karat]]
-[[Cano]]
+[[producers/Cano]]
 [[Jeyz]]
-[[Zinobeatz]]
-[[OceanWAV]]
+[[producers/Zinobeatz]]
+[[producers/OceanWAV]]
 [[CALO]]

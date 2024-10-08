@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/7mYMOwpduul48upxZCfFBS
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6a6fc760dd3de0863827bed4)
 **Related artists:**
 
-[[Thomas Porzig]]
-[[Frio]]
+[[producers/Thomas Porzig]]
+[[producers/Frio]]
 [[Young Mesh]]
 [[Kontra K]]
-[[Maxe]]
-[[Pascal Reinhardt]]
-[[Kyree]]
+[[producers/Maxe]]
+[[producers/Pascal Reinhardt]]
+[[producers/Kyree]]
 [[The Cratez]]

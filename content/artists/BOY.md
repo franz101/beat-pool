@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/7I7ObCLzhAnOchc4fCQiRX
 **Related artists:**
 
 [[Fettes Brot]]
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]
-[[Stefan Lenkeit]]
-[[Sonja Glass]]
-[[Philipp Steinke]]
+[[producers/Stefan Lenkeit]]
+[[producers/Sonja Glass]]
+[[producers/Philipp Steinke]]

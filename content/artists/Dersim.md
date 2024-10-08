@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1wS3BKAJ4pLRulKyOrWwbA
 **Related artists:**
 
 [[Eren]]
-[[Germoneystudio]]
+[[producers/Germoneystudio]]

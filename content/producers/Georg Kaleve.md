@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/78Hll0Pj7i0JHud4T9IPY7
 **Related artists:**
 
 [[AndyBiotika]]
-[[Ingo Hampf]]
+[[producers/Ingo Hampf]]
 [[Uli Wolf]]
 [[Andy E]]
 [[Subway To Sally]]

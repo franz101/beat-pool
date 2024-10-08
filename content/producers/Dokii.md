@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6wezI7x1veZ1I1zmHP5PvF
 [[Noah]]
 [[Brudi030]]
 [[SEKOZAZA]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]
 [[NGEE]]

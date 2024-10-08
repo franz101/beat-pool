@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2hi2KZkm3xXaMrbUXdxGHo
 
 **Related artists:**
 
-[[Rio]]
+[[producers/Rio]]
 [[Gianni Suave]]
-[[Toby John]]
+[[producers/Toby John]]

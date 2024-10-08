@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1xsI4RlfD8nJiuQsA6y5fS
 
 **Related artists:**
 
-[[Matthias Vogt]]
+[[producers/Matthias Vogt]]
 [[Stephan Remmler]]
 [[[re:jazz]]]

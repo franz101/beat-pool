@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0wrXBaqXLjMAraipqAbPVY
 **Related artists:**
 
 [[Sonus030]]
-[[MIKSU]]
+[[producers/MIKSU]]
 [[Ufo361]]
 [[Loredana]]
-[[Jacob Manson]]
+[[producers/Jacob Manson]]

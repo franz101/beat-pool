@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/3mO6r0aFklynvP4OwjBEj7
 **Related artists:**
 
 [[fliggsy]]
-[[Riccardo Fratello]]
+[[producers/Riccardo Fratello]]
 [[lilmido]]
 [[Lyran Dasz]]
 [[mokuba]]

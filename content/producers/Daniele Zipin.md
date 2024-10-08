@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3hDUJbLah8DdwYoNaZ36ng
 
 **Related artists:**
 
-[[Daniele Zippin]]
+[[producers/Daniele Zippin]]
 [[Kontra K]]
 [[The Cratez]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7736EnPtEY9r0YWQD1gnaa
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2ba07a22f73937d2be34f253)
 **Related artists:**
 
-[[XarBeats]]
+[[producers/XarBeats]]
 [[Okfella]]
 [[makko]]
 [[65amor]]

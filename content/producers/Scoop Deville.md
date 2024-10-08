@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0LJri3xvwsHWKErcNKnZxg
 
 **Related artists:**
 
-[[Snoop Dogg]]
+[[producers/Snoop Dogg]]
 [[Samy Deluxe]]
 [[Punch Arogunz]]

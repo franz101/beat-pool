@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/4rBuKL2RNn0X7ZRpqGSO3a
 [[Marie Antoinette]]
 [[Alphonzo]]
 [[Figub Brazlevic]]
-[[Classic Der Dicke]]
-[[Marc Junge]]
+[[producers/Classic Der Dicke]]
+[[producers/Marc Junge]]
 [[Netik Deputee]]

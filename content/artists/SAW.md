@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4p9p3Mstxg9j2TcNEwzapI
 
 [[Azad]]
 [[Manuellsen]]
-[[X-Plosive]]
-[[Gee Futuristic]]
+[[producers/X-Plosive]]
+[[producers/Gee Futuristic]]

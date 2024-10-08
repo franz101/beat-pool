@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/59A1jPemq7e95YYhSP05OT
 **Related artists:**
 
 [[Eno]]
-[[Iceberg]]
+[[producers/Iceberg]]

@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/7xCzwxwDwXTTCtjcWBoNow
 
 [[Söhne Mannheims GmbH]]
 [[Xavier Naidoo]]
-[[Michael Herberger]]
-[[Markus Born]]
+[[producers/Michael Herberger]]
+[[producers/Markus Born]]

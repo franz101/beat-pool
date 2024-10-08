@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4YNTjoy8VtK6SlKn8Ndrqb
 
 [[Wise Guys]]
 [[Edzard Hüneke]]
-[[Uwe Baltrusch]]
+[[producers/Uwe Baltrusch]]

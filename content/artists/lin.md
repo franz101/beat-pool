@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7DD0nztFn6fBcP0oyvlJLW
 **Related artists:**
 
 [[neverlandboys]]
-[[yungbs]]
+[[producers/yungbs]]

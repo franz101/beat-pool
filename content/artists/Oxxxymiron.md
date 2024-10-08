@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcd6cac25227b3c837af74191)
 **Related artists:**
 
-[[Supersonic]]
+[[producers/Supersonic]]
 [[Laskah]]
 [[Kool Savas]]

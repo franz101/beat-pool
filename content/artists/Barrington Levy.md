@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u
 
 [[Gentleman]]
 [[Daddy Rings]]
-[[Jr. Blender]]
+[[producers/Jr. Blender]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7FilgWqLeVSl3pxZ5ApNnK
 
 **Related artists:**
 
-[[The Krauts, Dead Rabbit & P. Baigorry]]
+[[producers/The Krauts, Dead Rabbit & P. Baigorry]]
 [[Marteria]]

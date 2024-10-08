@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/2SxLNXXcBhIYkH8EkSfJm5
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd8f30e558d82af40d1c2a255)
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]
 [[Gestört aber GeiL]]
-[[Oliver Kleissle]]
+[[producers/Oliver Kleissle]]
 [[Stevio]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Anstandslos & Durchgeknallt]]
 [[Maria Dürrling]]
-[[Cubeatz]]
-[[Daniel Volpe]]
-[[Vitali Zestovskih]]
+[[producers/Cubeatz]]
+[[producers/Daniel Volpe]]
+[[producers/Vitali Zestovskih]]

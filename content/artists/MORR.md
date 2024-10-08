@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/0HGsRKOdZgtxScG5GFR1we
 **Related artists:**
 
 [[Sonus030]]
-[[Sam Salam]]
+[[producers/Sam Salam]]
 [[Fux Ausserkontrolle]]
-[[YUNG MOJI]]
+[[producers/YUNG MOJI]]
 [[Faroon]]
-[[Fire On Black]]
+[[producers/Fire On Black]]
 [[AK AUSSERKONTROLLE]]
-[[AT Beatz]]
+[[producers/AT Beatz]]

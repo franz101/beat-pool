@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/41Bl9IRXEjepLPcXMMuEMz
 **Related artists:**
 
 [[Holmes & Watson]]
-[[Maarten Kleekamp]]
+[[producers/Maarten Kleekamp]]
 [[DBN]]
 [[Scooter]]

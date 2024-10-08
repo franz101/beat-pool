@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/0JtqpeaEMyEl8WbGnEDlLo
 
 [[TJ_beastboy]]
 [[Mary Man]]
-[[Thani]]
+[[producers/Thani]]
 [[Young Kira]]

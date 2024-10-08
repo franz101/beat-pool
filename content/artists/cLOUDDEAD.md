@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5LNpPvvMgrH9lgJLFa1uev
 
 **Related artists:**
 
-[[Jonathan Avram Wolf]]
-[[Michael Sandison]]
-[[Marcus Eoin]]
-[[David Madson]]
+[[producers/Jonathan Avram Wolf]]
+[[producers/Michael Sandison]]
+[[producers/Marcus Eoin]]
+[[producers/David Madson]]
 [[Boards of Canada]]
-[[Adam Drucker]]
+[[producers/Adam Drucker]]

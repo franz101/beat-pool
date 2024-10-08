@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0WfdC8rfPxrkSrNSCaC4xU
 
 [[AzudemSK]]
 [[Dennis Real]]
-[[Adlib Swayze]]
+[[producers/Adlib Swayze]]
 [[Paul Prime]]
 [[Slowy]]

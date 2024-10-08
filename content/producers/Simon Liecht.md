@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/48rqnq3RHQBZ4gPQSotqEz
 
 **Related artists:**
 
-[[Erdem Pancarcı]]
-[[Zinobeatz]]
+[[producers/Erdem Pancarcı]]
+[[producers/Zinobeatz]]
 [[Kurdo]]

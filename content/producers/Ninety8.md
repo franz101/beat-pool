@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2HIlc51J5hyhdqVi3bPphq
 **Related artists:**
 
 [[Pedaz]]
-[[Tilia]]
+[[producers/Tilia]]
 [[Antifuchs]]

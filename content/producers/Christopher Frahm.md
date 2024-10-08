@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4HULaqOAmYyvEFjlnFf535
 
 **Related artists:**
 
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Hermann K.]]
 [[Dj Biene]]
 [[Ikke Hüftgold]]
-[[Stephan Endemann]]
-[[Thomas Fenske]]
+[[producers/Stephan Endemann]]
+[[producers/Thomas Fenske]]
 [[ZIGGY X]]
 [[Dominik De León]]
 [[Lorenz Büffel]]

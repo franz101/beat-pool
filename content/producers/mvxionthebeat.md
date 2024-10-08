@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3hBaHfprFPVdSm5goiuKXr
 
 **Related artists:**
 
-[[Patrick Faubert]]
+[[producers/Patrick Faubert]]
 [[Ramo]]
-[[Dominik Felsmann]]
-[[Lennart Voigt]]
+[[producers/Dominik Felsmann]]
+[[producers/Lennart Voigt]]

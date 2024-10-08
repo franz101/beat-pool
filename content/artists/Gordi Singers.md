@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2QDHrMKay7gu7EAhILQiBV
 
 **Related artists:**
 
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]
 [[Glasperlenspiel]]
-[[Michael Geldreich]]
+[[producers/Michael Geldreich]]

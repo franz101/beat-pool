@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0kGGkgl2qYgVzrMKw2KjY2
 
 **Related artists:**
 
-[[Dalton]]
+[[producers/Dalton]]
 [[Beyazz]]
-[[Chris Ishida]]
+[[producers/Chris Ishida]]
 [[Baranov]]
 [[Kalazh44]]
 [[Brudi030]]

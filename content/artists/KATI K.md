@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbbf3eb52b4bdc7b0812652d6)
 **Related artists:**
 
-[[Kevin Zaremba]]
-[[Alexander Hauer]]
+[[producers/Kevin Zaremba]]
+[[producers/Alexander Hauer]]
 [[Edo Saiya]]

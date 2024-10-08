@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1Phrm6FHpQEjPG1E9O07sU
 
 **Related artists:**
 
-[[Peter Pangerl]]
+[[producers/Peter Pangerl]]
 [[Maxim]]
 [[Max Wählen]]
 [[Chakuza]]

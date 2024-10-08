@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0KfZ5Guf0Y2Elyhmc8xXpS
 
 **Related artists:**
 
-[[Hausmarke]]
-[[And.Ypsilon]]
+[[producers/Hausmarke]]
+[[producers/And.Ypsilon]]
 [[Die Fantastischen Vier]]

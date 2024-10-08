@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/1eQIVn4cQ4f8crRwW7yRoT
 
 **Related artists:**
 
-[[Innocent Ray]]
-[[Amaterasu]]
-[[Phil The Beat]]
-[[Amaterasu & Philippe Heithier]]
+[[producers/Innocent Ray]]
+[[producers/Amaterasu]]
+[[producers/Phil The Beat]]
+[[producers/Amaterasu & Philippe Heithier]]
 [[Fard]]
-[[Stefan Zepp]]
-[[Phil Da Beat]]
+[[producers/Stefan Zepp]]
+[[producers/Phil Da Beat]]
 [[Kay One]]
 [[Pietro Lombardi]]
 [[Majoe]]
-[[Wolfgang Stach]]
+[[producers/Wolfgang Stach]]
 [[Sarah Lombardi]]
 [[Mo-Torres]]

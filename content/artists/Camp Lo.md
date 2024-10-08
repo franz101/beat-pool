@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB
 **Related artists:**
 
 [[D-Flame]]
-[[phreQuincy]]
+[[producers/phreQuincy]]

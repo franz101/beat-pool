@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/3bZt7bWqjIcgZcOqWQxl0X
 [[Frank White]]
 [[Jalil]]
 [[PA Sports]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Fler]]
 [[Kurdo]]

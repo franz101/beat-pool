@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/41g2y82Z8CADYGlzujOzKp
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfb8c0b166fdaef723d25eb00)
 **Related artists:**
 
-[[Lucas Adlhoch]]
-[[Sophie Lindinger]]
+[[producers/Lucas Adlhoch]]
+[[producers/Sophie Lindinger]]

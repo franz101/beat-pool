@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3C9LbQJ7zrM3AyTuT7qv9S
 
 **Related artists:**
 
-[[Mark "Big Smith" Smith]]
+[[producers/Mark "Big Smith" Smith]]
 [[Johannes Oerding]]

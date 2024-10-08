@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/71tcBgIz3pSRTHFrwjtksd
 
 [[Wolfgang Wendland]]
 [[Drama Kuba]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[Bärbel Rotzky]]
 [[Antilopen Gang]]
 [[K.I.Z]]

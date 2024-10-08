@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/28eLrVsohdXynlnIzQ2VvI
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebff9a53064b30a29c4a3f4dad)
 **Related artists:**
 
-[[Benjamin Lawrenz]]
-[[Chris Harms]]
+[[producers/Benjamin Lawrenz]]
+[[producers/Chris Harms]]

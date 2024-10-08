@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0nCccFfNlKnmmucuETk6PP
 
 **Related artists:**
 
-[[Philippe Heithier]]
+[[producers/Philippe Heithier]]
 [[Kay One]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/33dHtD1kgKQRBMpf0Quy6O
 
 **Related artists:**
 
-[[Sven Greiner]]
+[[producers/Sven Greiner]]
 [[Trigoya]]
-[[Tommaso De Donatis]]
+[[producers/Tommaso De Donatis]]

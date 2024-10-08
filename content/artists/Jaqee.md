@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/31JCx1UPkfVSDBMVr1UQOR
 **Related artists:**
 
 [[Maxim]]
-[[TEKA]]
+[[producers/TEKA]]

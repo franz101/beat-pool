@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3HwDtanBO33EmHFaoGNSQ6
 
 **Related artists:**
 
-[[The Titans]]
+[[producers/The Titans]]
 [[Punch Arogunz]]
 [[Baba Saad]]
 [[Charles Clear]]

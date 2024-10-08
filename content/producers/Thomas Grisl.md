@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2ZiOKD6t2oAvETcogYB5bO
 **Related artists:**
 
 [[Discotronic]]
-[[Steve Twain]]
+[[producers/Steve Twain]]
 [[Pulsedriver]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6KcA5EUvOw1W7xVuX83VcL
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Mirko von Schlieffen]]
-[[Achim Jannsen]]
+[[producers/Mirko von Schlieffen]]
+[[producers/Achim Jannsen]]

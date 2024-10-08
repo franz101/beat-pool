@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6ZKqNOAQhnpGMfrQdawqrU
 
 **Related artists:**
 
-[[The Royals]]
+[[producers/The Royals]]
 [[Dante YN]]
 [[Beyazz]]
 [[Mudi]]

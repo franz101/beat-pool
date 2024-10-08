@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1Kq8tXdeQDnTOdyHIILM2A
 
 **Related artists:**
 
-[[Crew]]
+[[producers/Crew]]
 [[TM]]
 [[Dj Crew]]

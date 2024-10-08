@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5wjaIonNi44YFJV38G9Wp6
 **Related artists:**
 
 [[Kurdo]]
-[[Jermaine Penniston]]
-[[Zinobeatz]]
+[[producers/Jermaine Penniston]]
+[[producers/Zinobeatz]]

@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/48a7nVFcbbNSpsOHtpWnt2
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7923a63460f510b659edad43)
 **Related artists:**
 
-[[Johannes Herbst]]
+[[producers/Johannes Herbst]]
 [[Johannes Römer]]
 [[Dame]]
-[[Florian Jahrstorfer]]
+[[producers/Florian Jahrstorfer]]
 [[Harald Mörth]]
 [[Michael Zöttl]]

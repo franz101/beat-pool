@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5VJGDCZY11PUSrGX8oPb2K
 
 **Related artists:**
 
-[[Schahabedin Azodifar]]
+[[producers/Schahabedin Azodifar]]
 [[Brous One]]
 [[Eloquent]]

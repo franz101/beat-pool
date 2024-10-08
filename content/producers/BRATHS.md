@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6LPBlu0oc9VLa1Z6K9SiRS
 
 **Related artists:**
 
-[[Timwan]]
+[[producers/Timwan]]
 [[RAPK]]

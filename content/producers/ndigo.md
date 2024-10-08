@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4dgy3l82lVRS2cuQgNn169
 **Related artists:**
 
 [[PTK]]
-[[86kiloherz]]
+[[producers/86kiloherz]]

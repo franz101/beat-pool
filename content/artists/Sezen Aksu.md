@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd
 
 **Related artists:**
 
-[[Hendrik Schaper]]
+[[producers/Hendrik Schaper]]
 [[Udo Lindenberg]]

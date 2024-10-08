@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4q8Kr8KxzCCQgWQTcia1dD
 
 **Related artists:**
 
-[[Kwame]]
+[[producers/Kwame]]
 [[Psycho]]
 [[Blackstar]]
 [[Nate57]]

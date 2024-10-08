@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/64hJwJas2snPX2t0qGs1QK
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb38d2ccbba7e4b40b68e1cfba)
 **Related artists:**
 
-[[Marvin Webb]]
-[[Jens Schneider]]
+[[producers/Marvin Webb]]
+[[producers/Jens Schneider]]
 [[Philipp Dittberner]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1gFu0qkhaBsarzMxq8LF6i
 
 **Related artists:**
 
-[[Tim Tautorat]]
+[[producers/Tim Tautorat]]
 [[Faber]]
 [[Goran Koč y Vokalist Orkestar]]

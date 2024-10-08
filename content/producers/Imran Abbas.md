@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2KYFVfJrry77c5mgPq0tGv
 
 **Related artists:**
 
-[[Sebastian Henzl]]
-[[Anna Rolf]]
+[[producers/Sebastian Henzl]]
+[[producers/Anna Rolf]]
 [[G-Hot]]
 [[PA Sports]]
 [[Silla]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/1ZMZPShdaV7SHHydNutrtv
 
 [[Fard]]
 [[Manuellsen]]
-[[Gorex]]
+[[producers/Gorex]]
 [[Pedaz]]
-[[Necrow]]
+[[producers/Necrow]]

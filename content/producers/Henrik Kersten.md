@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/127ozsVNiOAghIZqTMSDl5
 
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[Claudio Pagonis]]
-[[Martin Fliegenschmidt]]
-[[Jens Rodenberg]]
+[[producers/Kiko Masbaum]]
+[[producers/Claudio Pagonis]]
+[[producers/Martin Fliegenschmidt]]
+[[producers/Jens Rodenberg]]
 [[Maite Kelly]]
 [[F.A.M.E.'S. Macedonian Radio Symphonic Orchestra]]
-[[Florian Peil]]
+[[producers/Florian Peil]]
 [[Michelle]]

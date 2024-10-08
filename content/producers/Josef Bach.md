@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/5H3z8JeZnr3O4Vk0WvGTZm
 **Related artists:**
 
 [[Helene Fischer]]
-[[Simon Hughes]]
+[[producers/Simon Hughes]]
 [[Ricardo Muñoz]]
-[[Nisse Ingwersen]]
+[[producers/Nisse Ingwersen]]
 [[Ginger Mukula]]
-[[Patrick Pyke Salmy]]
+[[producers/Patrick Pyke Salmy]]
 [[Matthias Schweighöfer]]
-[[Alex Knolle]]
+[[producers/Alex Knolle]]
 [[MoTrip]]
-[[Arne Schumann]]
+[[producers/Arne Schumann]]

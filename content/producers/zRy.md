@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/4RYzrrVtzTI4Pn576TWYft
 [[Daev Yung]]
 [[Olli Banjo]]
 [[Julian Rößner]]
-[[Mathias Karrer]]
+[[producers/Mathias Karrer]]
 [[Boz]]
 [[Kool Savas]]
 [[Cr7z]]

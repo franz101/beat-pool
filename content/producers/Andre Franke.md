@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5tZCJG52vJj3w5LNYVdJpy
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Wolfgang Moroder]]
+[[producers/Wolfgang Moroder]]
 [[Matthias Reim]]

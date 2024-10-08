@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5I4RELEW7k1y5WjuJAnfyn
 
 **Related artists:**
 
-[[Panorama]]
+[[producers/Panorama]]
 [[Eloquent]]
 [[Delicious Chrischuzz]]

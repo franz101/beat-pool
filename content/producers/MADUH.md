@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1rwm1FCFrIdSN0isfAe4z8
 **Related artists:**
 
 [[Nena]]
-[[Marcel Heym]]
+[[producers/Marcel Heym]]

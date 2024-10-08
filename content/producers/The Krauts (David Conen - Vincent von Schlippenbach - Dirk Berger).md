@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0AowfNKyNh8djktADXcReR
 **Related artists:**
 
 [[Miss Platnum]]
-[[Farhad Samadzada]]
-[[Benjamin Bazzazian]]
+[[producers/Farhad Samadzada]]
+[[producers/Benjamin Bazzazian]]
 [[Yasha]]
 [[Teutilla]]
 [[Marteria]]

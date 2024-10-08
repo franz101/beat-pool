@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0RYgrAvogfsh8xjuNFC0nw
 
 **Related artists:**
 
-[[Zen]]
+[[producers/Zen]]
 [[2Ton]]
 [[King Khalil]]

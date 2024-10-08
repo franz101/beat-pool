@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7mM2BICZ7vyt7oYsvCXmrg
 **Related artists:**
 
 [[KAFFKIEZ]]
-[[Johann Seifert]]
+[[producers/Johann Seifert]]

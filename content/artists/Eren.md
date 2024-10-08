@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5a1lFYTTtfDeWioyE6VwOh
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6f312920d765223447f31139)
 **Related artists:**
 
-[[Germoneystudio]]
+[[producers/Germoneystudio]]
 [[Dersim]]

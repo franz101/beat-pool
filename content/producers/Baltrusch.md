@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5qxdy5RCHMUkko7vz2SyFO
 **Related artists:**
 
 [[Wise Guys]]
-[[Uwe]]
+[[producers/Uwe]]
 [[Brings]]

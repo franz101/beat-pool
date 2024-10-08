@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5nxxvutVQ2DGxVAdHR3sGD
 
 **Related artists:**
 
-[[Downtown]]
+[[producers/Downtown]]
 [[Franci$]]

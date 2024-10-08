@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0e1TxvUWuGc1P9KS9WDSaX
 **Related artists:**
 
 [[AK 33]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Freshmaker]]
 [[Eazim]]

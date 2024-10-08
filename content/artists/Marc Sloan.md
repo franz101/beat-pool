@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3OvcvWcF5pxQidnkzqqcSE
 **Related artists:**
 
 [[Chakuza]]
-[[Andre Ulmke]]
+[[producers/Andre Ulmke]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0lSTzj1EH50mFm5hkVTdx6
 
 **Related artists:**
 
-[[Pierre Bost]]
+[[producers/Pierre Bost]]
 [[Tamika]]
 [[Martin Jondo]]
-[[Pierre Brost]]
+[[producers/Pierre Brost]]
 [[Gentleman]]

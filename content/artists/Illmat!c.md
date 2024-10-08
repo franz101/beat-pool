@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3uNOEzgtTHz3mNOxMwZ18B
 [[Cassandra Steen]]
 [[Moses Pelham]]
 [[Kool Savas]]
-[[Martin Haas]]
+[[producers/Martin Haas]]
 [[DJ Katch]]

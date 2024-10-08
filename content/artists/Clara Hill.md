@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc
 [[Oli. P]]
 [[AndyBiotika]]
 [[Uli Wolf]]
-[[Georg Kaleve]]
+[[producers/Georg Kaleve]]
 [[Andy E]]

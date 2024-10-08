@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6O8Kkn0PHWrihRNJnilQb7
 
 **Related artists:**
 
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[B-Lash]]
 [[Mosh36]]
 [[Destan]]

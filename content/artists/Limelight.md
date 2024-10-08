@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6yCsJiCnYI7oviMAXu5T7O
 [[HDM]]
 [[Pulsedriver]]
 [[Davis Redfield]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]
 [[Justin Corza]]

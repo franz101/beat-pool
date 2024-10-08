@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3JIy27fQoGFO8TIWDKa7AT
 
 **Related artists:**
 
-[[Nonhitproducers]]
+[[producers/Nonhitproducers]]
 [[Tua]]
 [[Maeckes]]

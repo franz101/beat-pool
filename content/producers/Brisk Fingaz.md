@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/5xoHH7diEgRpbLgudC3rcB
 [[Kool Savas]]
 [[Havoc]]
 [[Haze]]
-[[Hight-Hat]]
+[[producers/Hight-Hat]]
 [[Hanybal]]
 [[G-Hot]]
 [[Moe Mitchell]]

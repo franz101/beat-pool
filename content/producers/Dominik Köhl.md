@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1vismwdoff35V8KjrmSCkA
 
 **Related artists:**
 
-[[Joshua Stolten]]
+[[producers/Joshua Stolten]]
 [[Matthias Zürkler]]
 [[Vanessa Mai]]
 [[Stereoact]]

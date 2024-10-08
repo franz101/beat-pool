@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4iiEdRlpL7LDPxa1Wa0jkj
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd897b34aeb71fd78b86029e2)
 **Related artists:**
 
-[[Slurm]]
-[[Basobeats]]
-[[Beatlian]]
+[[producers/Slurm]]
+[[producers/Basobeats]]
+[[producers/Beatlian]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/7qIRDM14h1dQ5czcLaHnjN
 
 **Related artists:**
 
-[[Bertram Engel]]
-[[Peter Keller]]
+[[producers/Bertram Engel]]
+[[producers/Peter Keller]]
 [[Peter Maffay]]
 [[Gerd Köthe]]
 [[Joris Bartsch Buhle]]
-[[Carl Carlton]]
-[[Pascal Kravetz]]
-[[Roland Heck]]
+[[producers/Carl Carlton]]
+[[producers/Pascal Kravetz]]
+[[producers/Roland Heck]]

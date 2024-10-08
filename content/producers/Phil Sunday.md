@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0N9W3gFtywZvNcG2TLRq9k
 
 **Related artists:**
 
-[[Sebastian Biesler]]
+[[producers/Sebastian Biesler]]
 [[SDP]]
-[[Beatzarre]]
-[[Sky van Hoff]]
+[[producers/Beatzarre]]
+[[producers/Sky van Hoff]]
 [[Lostboi Lino]]

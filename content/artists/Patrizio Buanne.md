@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/14JwkiGRzeex4jLuDoWpQ5
 ![Artist](https://i.scdn.co/image/694f1bd3cd651fbac246bab007814197e959f8ed)
 **Related artists:**
 
-[[Florian Richter]]
+[[producers/Florian Richter]]
 [[Florian Silbereisen]]
 [[Ella Endlich]]

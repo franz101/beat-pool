@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7e7xp1fVxNYqASlZB0WlGm
 
 [[Feiert Jesus!]]
 [[Julia Schonke]]
-[[Nathanael Wendt]]
+[[producers/Nathanael Wendt]]
 [[Götz Bergmann]]
 [[Katrin Kober]]
-[[Daniel Scheufler]]
+[[producers/Daniel Scheufler]]

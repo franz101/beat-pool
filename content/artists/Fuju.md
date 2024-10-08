@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/73akvnhYbXyhD1Dwzh8ExN
 **Related artists:**
 
 [[Glasperlenspiel]]
-[[Pascal Reinhardt]]
+[[producers/Pascal Reinhardt]]
 [[Daniel Großmann]]
-[[Daniel Grunenberg]]
-[[Matthias Mania]]
+[[producers/Daniel Grunenberg]]
+[[producers/Matthias Mania]]

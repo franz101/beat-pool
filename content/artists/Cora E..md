@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/3wcy0JxgHtn8cJD4vOlQi8
 
 [[Moses Pelham]]
 [[Rah Digga]]
-[[Efe & Mo]]
+[[producers/Efe & Mo]]
 [[Eko Fresh]]

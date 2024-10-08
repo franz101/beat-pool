@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/6I2ltIA2qwnHYOkS0pSHaR
 ![Artist]()
 **Related artists:**
 
-[[Le Saint]]
+[[producers/Le Saint]]
 [[Toni-L]]
 [[Ebony Prince]]
 [[Torch]]
-[[Temp]]
+[[producers/Temp]]
 [[CNN199]]

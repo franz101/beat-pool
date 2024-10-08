@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4b4cLd3pZMeQxhmb0YIjPm
 
 **Related artists:**
 
-[[Vecz]]
+[[producers/Vecz]]
 [[Acaz]]

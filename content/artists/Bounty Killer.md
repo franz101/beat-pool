@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s
 **Related artists:**
 
 [[Gentleman]]
-[[Richard "Richie Stephens" Stephenson]]
-[[DJ Friction]]
+[[producers/Richard "Richie Stephens" Stephenson]]
+[[producers/DJ Friction]]

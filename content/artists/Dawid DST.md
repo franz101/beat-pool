@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1fFHr666jpmfxJG508RHjb
 
 **Related artists:**
 
-[[Trapstasy]]
+[[producers/Trapstasy]]
 [[John ODMGDIA]]
 [[Høyin]]
 [[Tschappy]]
@@ -19,11 +19,11 @@ url: https://open.spotify.com/artist/1fFHr666jpmfxJG508RHjb
 [[Mach One]]
 [[Karmo Kaputto]]
 [[Crystal F]]
-[[Sansimo]]
+[[producers/Sansimo]]
 [[Nils Davis]]
-[[Provo]]
-[[Belarus]]
-[[Jrmentals]]
+[[producers/Provo]]
+[[producers/Belarus]]
+[[producers/Jrmentals]]
 [[Mike Martn]]
 [[Ratok]]
-[[Bulletbeats]]
+[[producers/Bulletbeats]]

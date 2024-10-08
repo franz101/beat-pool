@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/0lj0jMp5dbtjLB5S1MxYFc
 **Related artists:**
 
 [[Doktor Sterben]]
-[[unknown productions]]
+[[producers/unknown productions]]
 [[Nicone]]
-[[ProofOnTheTrack]]
+[[producers/ProofOnTheTrack]]
 [[Tacka77]]
 [[Maho]]
-[[El G]]
+[[producers/El G]]
 [[Fruchtmax]]
 [[Rooq]]
 [[Mista Meta]]

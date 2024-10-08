@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4EPTo7FSdeZpMSFIHKmJ7A
 
 **Related artists:**
 
-[[Hubertus Dahlem]]
-[[Ingo Politz]]
+[[producers/Hubertus Dahlem]]
+[[producers/Ingo Politz]]
 [[Marie Bothmer]]

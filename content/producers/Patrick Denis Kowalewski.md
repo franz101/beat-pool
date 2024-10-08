@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7Lbb99GCrpEgtgve26YK2u
 **Related artists:**
 
 [[Casper]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

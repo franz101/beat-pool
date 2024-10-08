@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/02gYEYnXhiAPbGoCwk0E7M
 
 **Related artists:**
 
-[[Alan Delabie]]
-[[Alan Frijns]]
+[[producers/Alan Delabie]]
+[[producers/Alan Frijns]]
 [[DJ RAVEN]]
 [[Thomas Petersen]]

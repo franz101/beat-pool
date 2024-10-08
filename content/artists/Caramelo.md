@@ -38,7 +38,7 @@ url: https://open.spotify.com/artist/2ys9SAXsASXGKyUDTrHCQ2
 [[Pakkal78]]
 [[NARU]]
 [[JONNY5]]
-[[Amedeo Malagia]]
+[[producers/Amedeo Malagia]]
 [[BADBOYBLONDEY]]
 [[KKUBA 102]]
 [[Kobe Grind]]

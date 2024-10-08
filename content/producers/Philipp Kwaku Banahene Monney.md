@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5eN921EafrumfOjYiA05aP
 **Related artists:**
 
 [[Jean-Cyrille]]
-[[Marvin Kammerer]]
-[[Jean-Cyrille Nama Djipie Wittmann]]
+[[producers/Marvin Kammerer]]
+[[producers/Jean-Cyrille Nama Djipie Wittmann]]

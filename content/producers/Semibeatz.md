@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/1JxYASYDpNrSlGKrOD3MDG
 **Related artists:**
 
 [[Massiv]]
-[[Chryziz]]
+[[producers/Chryziz]]
 [[Hanybal]]
-[[DJ Durak]]
-[[Tengo]]
+[[producers/DJ Durak]]
+[[producers/Tengo]]
 [[Dardan]]
 [[Mozzik]]
 [[Silla]]

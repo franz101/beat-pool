@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3Mk2KKQ7k2cfquGv0oi0HR
 **Related artists:**
 
 [[Yin Kalle]]
-[[Alecto]]
+[[producers/Alecto]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7qYRzUobqscmDICmZQ2joM
 
 **Related artists:**
 
-[[Hayrettin Acar]]
+[[producers/Hayrettin Acar]]
 [[D3cay & R3lay]]

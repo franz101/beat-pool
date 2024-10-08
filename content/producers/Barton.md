@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6FR7yHei2tzsjcqLXo6qUu
 
 **Related artists:**
 
-[[Hassbecker]]
-[[Grott]]
-[[Klick]]
+[[producers/Hassbecker]]
+[[producers/Grott]]
+[[producers/Klick]]
 [[Karat]]
 [[Haßbecker]]

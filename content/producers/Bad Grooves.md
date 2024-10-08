@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4vOTTx4k0c0lpUuRBIXtU0
 
 **Related artists:**
 
-[[Simes Branxons]]
-[[Iad Aslan]]
+[[producers/Simes Branxons]]
+[[producers/Iad Aslan]]
 [[Fler]]
 [[Farid Bang]]

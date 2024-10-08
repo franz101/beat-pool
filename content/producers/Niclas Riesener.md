@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5umdoYyOUXcTwEHHkxkfeb
 
 **Related artists:**
 
-[[Murabeats]]
+[[producers/Murabeats]]
 [[Olexesh]]

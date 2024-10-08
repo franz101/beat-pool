@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10
 [[Marie Gold]]
 [[Unik]]
 [[Fler]]
-[[Ruck P]]
-[[Freedo]]
+[[producers/Ruck P]]
+[[producers/Freedo]]

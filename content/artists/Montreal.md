@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1WBgY3ppwWenEynLyKUNRk
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4b2b7e4d6488822cb3d3161d)
 **Related artists:**
 
-[[Florian Nowak]]
-[[Sebastian Blaschke]]
+[[producers/Florian Nowak]]
+[[producers/Sebastian Blaschke]]
 [[Sascha Höhm]]
 [[Sascha Höhm, Florian Nowak]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2z6t0UGq0WAM8X6zDeXKXj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3351f1408898bb527787ac0b)
 **Related artists:**
 
-[[Rzon]]
+[[producers/Rzon]]
 [[Çelik Lipa]]

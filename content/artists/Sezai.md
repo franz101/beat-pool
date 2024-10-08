@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/1ZCbqAWMHMV6njgR5gLIME
 [[Azad]]
 [[Dú Maroc]]
 [[Real Jay]]
-[[IZ]]
+[[producers/IZ]]
 [[Lunafrow]]
 [[PBC]]

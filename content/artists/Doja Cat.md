@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb727a2ac15afe659be999beba)
 **Related artists:**
 
-[[Dr. Luke for Prescription Songs]]
-[[Rocco Did It Again!]]
+[[producers/Dr. Luke for Prescription Songs]]
+[[producers/Rocco Did It Again!]]
 [[Saweetie]]
 [[Katja Krasavice]]

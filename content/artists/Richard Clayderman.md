@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0h885xmyK9xHfhyXQr37L6
 ![Artist](https://i.scdn.co/image/2ef03677b44602c662a88c995b1c1adb3a4a38ca)
 **Related artists:**
 
-[[Armand Volker]]
-[[Harald Steinbauer]]
+[[producers/Armand Volker]]
+[[producers/Harald Steinbauer]]
 [[Claudia Jung]]

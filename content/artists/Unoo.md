@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1XhP7Nh0nvw1OnM3QyOhZq
 
 [[B-Tight]]
 [[Viruz]]
-[[Beathoavenz]]
+[[producers/Beathoavenz]]

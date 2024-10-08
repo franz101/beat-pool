@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4gBknRZF4Fcb4go6zjtL0v
 
 **Related artists:**
 
-[[Illvibe]]
-[[Based]]
+[[producers/Illvibe]]
+[[producers/Based]]
 [[Berger]]
 [[Stephan Remmler]]
-[[Berger & Seeed's Illvibe and Based feat. the incredible Seeed Horns]]
+[[producers/Berger & Seeed's Illvibe and Based feat. the incredible Seeed Horns]]

@@ -23,6 +23,6 @@ url: https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F
 [[Niel Brown]]
 [[Flex Mathews]]
 [[Naranjuano]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Prince Po]]
 [[Damu The Fudgemunk]]

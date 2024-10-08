@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1vkmHO5IHl0ey8gpzRsmCO
 
 **Related artists:**
 
-[[Radoslaw Rozbicki]]
+[[producers/Radoslaw Rozbicki]]

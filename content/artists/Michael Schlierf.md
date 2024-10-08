@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2scrRIkUBwOBdyegnS0oEn
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Gerhard Schnitter]]
+[[producers/Gerhard Schnitter]]

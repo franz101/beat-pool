@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/5xqCAe8etRk2mwtVvhL9cV
 **Related artists:**
 
 [[Nico Suave]]
-[[Matteo Capreoli]]
+[[producers/Matteo Capreoli]]
 [[Flo Mega]]
-[[Daniel Nitt]]
+[[producers/Daniel Nitt]]
 [[Samy Deluxe]]
 [[Xavier Naidoo]]
 [[Nima]]

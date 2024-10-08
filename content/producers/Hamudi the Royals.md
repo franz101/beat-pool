@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5j2yooH6mtItnR28n3XbA6
 **Related artists:**
 
 [[Zuna]]
-[[Lucry]]
+[[producers/Lucry]]
 [[Azet]]
 [[The Cratez]]
 [[RAF Camora]]

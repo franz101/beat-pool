@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1RUmhpVX8n1dPg1fxI8ep2
 
 [[Gringo]]
 [[Goldfinger]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[Hasan.K]]

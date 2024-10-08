@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1uVlxzx7r6LBQsY4yqyxSa
 **Related artists:**
 
 [[Swiss & Die Andern]]
-[[Flo V. Schwarz]]
+[[producers/Flo V. Schwarz]]
 [[Waterdown]]
-[[Not Documented]]
+[[producers/Not Documented]]
 [[Donots]]

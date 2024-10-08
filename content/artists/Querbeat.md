@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3bUA5ltyxKcuYe5G2U0GA4
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb54d04ebe7e50254824509cf0)
 **Related artists:**
 
-[[Brobotik]]
+[[producers/Brobotik]]
 [[Brings]]
-[[Raoul Vychodil]]
-[[Harry Alfter]]
+[[producers/Raoul Vychodil]]
+[[producers/Harry Alfter]]
 [[Helmuth Rüssmann]]
-[[Guido Craveiro]]
+[[producers/Guido Craveiro]]

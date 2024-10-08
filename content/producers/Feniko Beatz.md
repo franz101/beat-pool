@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2N7NBvAkz0W6eYBgOXoWyU
 
 **Related artists:**
 
-[[GMP Sound]]
-[[Evince]]
+[[producers/GMP Sound]]
+[[producers/Evince]]
 [[MU$A386]]

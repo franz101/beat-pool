@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3reLnEsIeVXtNcTL3HfTxd
 **Related artists:**
 
 [[Liquit Walker]]
-[[Lennard Oestmann]]
-[[Vecz]]
-[[Christoph Reuß]]
+[[producers/Lennard Oestmann]]
+[[producers/Vecz]]
+[[producers/Christoph Reuß]]

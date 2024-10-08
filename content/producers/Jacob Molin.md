@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2wT9aBocSBykCes6fc282B
 
 **Related artists:**
 
-[[Robin Grubert]]
+[[producers/Robin Grubert]]
 [[Rea Garvey]]
-[[Andy Chatterley]]
+[[producers/Andy Chatterley]]

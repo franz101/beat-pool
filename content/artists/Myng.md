@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0IbSQXOB0NAHFDe6MU9iFn
 ![Artist](https://i.scdn.co/image/ab67616d0000b273b70db88cff76bbbef30a8cb8)
 **Related artists:**
 
-[[Scome]]
-[[Halluzinogen]]
-[[Koshi]]
+[[producers/Scome]]
+[[producers/Halluzinogen]]
+[[producers/Koshi]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1SMlHG8Iq1rnifg0lM5mui
 
 **Related artists:**
 
-[[AL-X]]
+[[producers/AL-X]]

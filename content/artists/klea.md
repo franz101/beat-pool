@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4rGnzz844Jg1IWAnw9iy37
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb368032512619ae160dc81523)
 **Related artists:**
 
-[[Johannes Weber]]
-[[Chris Brenner]]
+[[producers/Johannes Weber]]
+[[producers/Chris Brenner]]

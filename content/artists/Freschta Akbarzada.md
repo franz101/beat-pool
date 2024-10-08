@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3Xe69Zmna6TRo8hr5tyoVS
 
 **Related artists:**
 
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Sido]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]

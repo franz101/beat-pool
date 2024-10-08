@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/50ZS5pgDE9DJCu62pv62sL
 
 **Related artists:**
 
-[[Illvibe]]
+[[producers/Illvibe]]
 [[The Incredible Seeed Horns]]
-[[Based]]
+[[producers/Based]]
 [[Berger]]
 [[Stephan Remmler]]

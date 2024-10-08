@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2FLD9BlhwpWDKoPsvkZAMT
 **Related artists:**
 
 [[Gentleman]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]

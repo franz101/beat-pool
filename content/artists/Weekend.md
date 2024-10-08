@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/2bIsBfbHR5YjmBUa646ZoF
 **Related artists:**
 
 [[emkay]]
-[[MazeOne]]
+[[producers/MazeOne]]
 [[Tiemo Hauer]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[KAAS]]
 [[Fatoni]]
 [[SDP]]
@@ -33,7 +33,7 @@ url: https://open.spotify.com/artist/2bIsBfbHR5YjmBUa646ZoF
 [[JoJo]]
 [[eMKay]]
 [[Edgar Wasser]]
-[[Marq Figuli]]
+[[producers/Marq Figuli]]
 [[Sorgenkind]]
-[[Friedrich VanZandt]]
+[[producers/Friedrich VanZandt]]
 [[Pimf]]

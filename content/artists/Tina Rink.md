@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/11Ma31VM3eDQkeRubnt010
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Albert Frey]]
+[[producers/Albert Frey]]

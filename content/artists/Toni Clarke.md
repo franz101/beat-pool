@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4u92mvUwm7VdXIPaAFvRqP
 **Related artists:**
 
 [[Shacke One]]
-[[Achim Funk]]
+[[producers/Achim Funk]]

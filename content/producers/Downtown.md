@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2N1fIjVYI4Ji4iPtqn28gC
 **Related artists:**
 
 [[Midnight7k]]
-[[Beatsbyslade]]
+[[producers/Beatsbyslade]]
 [[Franci$]]

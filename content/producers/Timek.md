@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7zhC0Vow2CtqMg9TuazxpT
 
 **Related artists:**
 
-[[J.atori]]
+[[producers/J.atori]]
 [[Jamule]]
 [[KALIM]]
-[[Bawer]]
+[[producers/Bawer]]

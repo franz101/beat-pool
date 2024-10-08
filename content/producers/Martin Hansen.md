@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0fqiIYCiorgvRrmp4BB9x7
 
 **Related artists:**
 
-[[Lars Stalfors]]
+[[producers/Lars Stalfors]]
 [[Stanfour]]
-[[Alex Rethwisch]]
+[[producers/Alex Rethwisch]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2XHwVPqhVMaraRFWvKNjKP
 **Related artists:**
 
 [[Milow]]
-[[Daniel Bryer]]
-[[Jo Francken]]
+[[producers/Daniel Bryer]]
+[[producers/Jo Francken]]

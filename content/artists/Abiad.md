@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/2OPzYzeP8z9wUaPLPOzCDE
 [[Tarit]]
 [[Samo104]]
 [[Said]]
-[[Bovskey]]
+[[producers/Bovskey]]
 [[Bangs]]
 [[Chapo]]
 [[Haki]]

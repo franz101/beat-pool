@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/79XCxN8yLadwo9vNTSpFJn
 
 [[Howard Carpendale]]
 [[Reim]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Back to the Roots]]
 [[Matthias Reim]]
 [[Thorsten Brötzmann]]

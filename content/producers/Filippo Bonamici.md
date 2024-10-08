@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/45TLvIo81juTvGaA2I4mre
 
 **Related artists:**
 
-[[Felix Anton Remm]]
+[[producers/Felix Anton Remm]]
 [[FIL BO RIVA]]
-[[Robert Stephenson]]
+[[producers/Robert Stephenson]]

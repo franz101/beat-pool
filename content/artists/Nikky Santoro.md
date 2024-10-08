@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/7ptddrxOpfsiwkwqb91Fuz
 
 **Related artists:**
 
-[[Deemah]]
-[[C.Numan]]
-[[Xavior Jordan]]
+[[producers/Deemah]]
+[[producers/C.Numan]]
+[[producers/Xavior Jordan]]
 [[Luciano]]
-[[Desue]]
-[[L'uZine]]
-[[Friday Slow]]
-[[Hamed Anousheh]]
+[[producers/Desue]]
+[[producers/L'uZine]]
+[[producers/Friday Slow]]
+[[producers/Hamed Anousheh]]

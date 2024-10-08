@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6BjGYysQBmaE3AJTMbM7k0
 **Related artists:**
 
 [[Helene Fischer]]
-[[Jean Frankfurter]]
+[[producers/Jean Frankfurter]]

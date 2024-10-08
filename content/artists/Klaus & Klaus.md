@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/24islXXqJ3A4A3C2hArZjL
 **Related artists:**
 
 [[Mickie Krause]]
-[[Hartmut Weßling]]
+[[producers/Hartmut Weßling]]
 [[Michael Rötgens]]

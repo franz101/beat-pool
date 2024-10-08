@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/0GL6E8UVgOeDR9oLAnwFFH
 
 **Related artists:**
 
-[[Kiko Masbaum]]
+[[producers/Kiko Masbaum]]
 [[Carolin Kebekus]]
 [[Gentleman]]
 [[Kasalla]]
-[[Henrik Kersten]]
-[[Jens Rodenberg]]
+[[producers/Henrik Kersten]]
+[[producers/Jens Rodenberg]]
 [[Maite Kelly]]
 [[Cat Ballou]]
-[[Wolfgang Stach]]
-[[Nikolaus Faust]]
+[[producers/Wolfgang Stach]]
+[[producers/Nikolaus Faust]]

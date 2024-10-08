@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/44lzFVYV0WHYP9vSX9angX
 **Related artists:**
 
 [[Haiyti]]
-[[Project X]]
+[[producers/Project X]]

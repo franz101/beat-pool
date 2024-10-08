@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2
 [[Kozee]]
 [[M0DE$T]]
 [[Emmms]]
-[[A3]]
+[[producers/A3]]
 [[lilmido]]
 [[LEXIKA]]
 [[Sin Davis]]

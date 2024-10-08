@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/355MGSTKZ7I2jE45QE8geq
 **Related artists:**
 
 [[Gisbert Zu Knyphausen]]
-[[Frenzy Suhr]]
-[[Jens Fricke]]
-[[Sebastian Deufel]]
+[[producers/Frenzy Suhr]]
+[[producers/Jens Fricke]]
+[[producers/Sebastian Deufel]]

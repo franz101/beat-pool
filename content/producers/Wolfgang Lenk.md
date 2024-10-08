@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/4Hrur3cRCWSGAefQ1Y6022
 
 **Related artists:**
 
-[[Stefan Raab]]
-[[Jens Sembdner]]
-[[Graham Laybourne]]
-[[Achim Hagemann]]
+[[producers/Stefan Raab]]
+[[producers/Jens Sembdner]]
+[[producers/Graham Laybourne]]
+[[producers/Achim Hagemann]]
 [[Tobias Künzel]]
-[[Annette Humpe]]
-[[Mathias Dietrich]]
+[[producers/Annette Humpe]]
+[[producers/Mathias Dietrich]]
 [[Die Prinzen]]
-[[Sebastian Kirchner]]
+[[producers/Sebastian Kirchner]]

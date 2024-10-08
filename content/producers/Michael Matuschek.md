@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5ygDUFiaGjuA5VwdXQp16L
 **Related artists:**
 
 [[Die halbtoten Bierologen]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[Tom Bräutigam]]
 [[Ikke Hüftgold]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3mUHAiDazZq75gh6If5zoD
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Smoove]]
+[[producers/Smoove]]
 [[Kool Savas]]

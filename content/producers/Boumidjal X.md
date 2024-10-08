@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3i2AdhSP4YeSYY1m5JoUnK
 
 **Related artists:**
 
-[[Holomobb]]
-[[David Mems]]
+[[producers/Holomobb]]
+[[producers/David Mems]]
 [[Loredana]]

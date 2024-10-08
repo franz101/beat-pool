@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/483YHkMx0PM6zSrUW6Owqe
 **Related artists:**
 
 [[Querbeat]]
-[[Guido Craveiro]]
-[[Brobotik]]
+[[producers/Guido Craveiro]]
+[[producers/Brobotik]]

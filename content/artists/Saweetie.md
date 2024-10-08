@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb08508fea5d4e92cf4d221834)
 **Related artists:**
 
-[[Dr. Luke for Prescription Songs]]
+[[producers/Dr. Luke for Prescription Songs]]
 [[Doja Cat]]
-[[Rocco Did It Again!]]
+[[producers/Rocco Did It Again!]]
 [[Katja Krasavice]]

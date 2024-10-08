@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/26BYkwZEmvmnNn0T6lcqRC
 
 [[Westernhagen]]
 [[Billy King]]
-[[Kevin Bents]]
+[[producers/Kevin Bents]]
 [[Booz]]

@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/5Sgh8z06D6uMnM0lGEUvOi
 **Related artists:**
 
 [[Bustek]]
-[[Christoph Rehseburg]]
+[[producers/Christoph Rehseburg]]
 [[Holy Smokez]]

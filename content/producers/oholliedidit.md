@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5FBPFfHvoEmlnyVgp7f875
 **Related artists:**
 
 [[NKSN]]
-[[Kenika]]
+[[producers/Kenika]]
 [[Micel O.]]
 [[Laruzo]]

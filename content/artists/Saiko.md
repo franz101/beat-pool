@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/1ux1cA3N0QiscFolXpfbni
 **Related artists:**
 
 [[Brenk Sinatra]]
-[[Sinch]]
-[[Branko Jordanovic]]
-[[Typhoon]]
+[[producers/Sinch]]
+[[producers/Branko Jordanovic]]
+[[producers/Typhoon]]

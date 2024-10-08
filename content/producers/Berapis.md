@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1g14YhQuaoSPCtct5lOUgW
 
 **Related artists:**
 
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Krime]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/2kCpKuMbZMeZoQIUcFKAZy
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Maciej Puchalski]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Maciej Puchalski]]
+[[producers/Dennis Bierbrodt]]
 [[ILIRA]]
 [[Lahos]]
 [[Alle Farben]]
-[[Jurgen Dohr]]
+[[producers/Jurgen Dohr]]
 [[Martin Gallop]]
-[[Daniel Deimann]]
+[[producers/Daniel Deimann]]

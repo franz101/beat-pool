@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3dlwo8K7iJwKUahCazeCeC
 
 [[OMG]]
 [[Bausa]]
-[[Banshee The Great]]
+[[producers/Banshee The Great]]
 [[Miami Yacine]]

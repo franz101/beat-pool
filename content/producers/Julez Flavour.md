@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/79mBxbtTqnfG3uhNTdhnzt
 
 **Related artists:**
 
-[[DLS]]
-[[DJ DeeVoe]]
+[[producers/DLS]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]
 [[Maxwell]]
 [[Joshi Mizu]]

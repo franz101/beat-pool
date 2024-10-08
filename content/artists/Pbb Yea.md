@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0LMiaB3r5vBn8zYpfZWeg9
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb148b0934acedd7d27fca0ef4)
 **Related artists:**
 
-[[Benjamin Factor]]
+[[producers/Benjamin Factor]]

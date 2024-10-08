@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/2Hs8cOvYj1oHQIA47sDo5P
 ![Artist]()
 **Related artists:**
 
-[[Chima Onyele]]
+[[producers/Chima Onyele]]
 [[Bushido]]
-[[Konrad Sommermeyer]]
+[[producers/Konrad Sommermeyer]]
 [[Farhot]]
-[[Joshimixu]]
+[[producers/Joshimixu]]
 [[Chima]]
 [[MoTrip]]

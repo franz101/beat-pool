@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5VJPswMctuMiC8vrZukG0Q
 
 **Related artists:**
 
-[[Holomobb]]
-[[Boumidjal X]]
+[[producers/Holomobb]]
+[[producers/Boumidjal X]]
 [[Loredana]]

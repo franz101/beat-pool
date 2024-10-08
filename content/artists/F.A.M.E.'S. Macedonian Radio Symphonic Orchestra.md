@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6980fuZj8ltWQnl7QDpFhH
 
 **Related artists:**
 
-[[Martin Fliegenschmidt]]
-[[Henrik Kersten]]
-[[Claudio Pagonis]]
+[[producers/Martin Fliegenschmidt]]
+[[producers/Henrik Kersten]]
+[[producers/Claudio Pagonis]]
 [[Michelle]]

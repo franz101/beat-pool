@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/32gNuWoUAsO66j8N1TphdE
 
 **Related artists:**
 
-[[Steffen Wilmking]]
-[[Ben Bazzazian]]
+[[producers/Steffen Wilmking]]
+[[producers/Ben Bazzazian]]
 [[Haftbefehl]]
 [[MoTrip]]
 [[Abdi]]

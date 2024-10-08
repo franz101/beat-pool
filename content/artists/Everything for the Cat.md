@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4eToCesOc3jWcAKFoE2YdE
 **Related artists:**
 
 [[Kreisligalegende]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[Ikke Hüftgold]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7wAbJsjY2pE8k0ICLgfdR5
 
 [[Mädness]]
 [[Döll]]
-[[Enaka]]
-[[TRIBEZ.]]
+[[producers/Enaka]]
+[[producers/TRIBEZ.]]

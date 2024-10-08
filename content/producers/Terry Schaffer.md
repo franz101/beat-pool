@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5mTCvIQlW7FYXYJ8PtRKeo
 **Related artists:**
 
 [[Pulsedriver]]
-[[Sven Greiner]]
+[[producers/Sven Greiner]]
 [[DJ Shog]]
 [[Dream Dance Alliance]]

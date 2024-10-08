@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5TPUugwiGRLMEgsr5pGcSx
 
 **Related artists:**
 
-[[Klaus Voormann]]
+[[producers/Klaus Voormann]]
 [[Joachim Witt]]

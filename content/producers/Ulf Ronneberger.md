@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0dTNE7VxcYatKCE0rKwL4M
 **Related artists:**
 
 [[Pur]]
-[[Ingo Reidl]]
-[[Hartmut Engler]]
-[[Martin Ansel]]
+[[producers/Ingo Reidl]]
+[[producers/Hartmut Engler]]
+[[producers/Martin Ansel]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4K2pDlvQkVp94MxGBif0en
 **Related artists:**
 
 [[Holmes & Watson]]
-[[Steve Brian]]
-[[Nicolas Perrottey]]
+[[producers/Steve Brian]]
+[[producers/Nicolas Perrottey]]
 [[Cloud 7]]
 [[DBN]]
 [[Jay Frog]]

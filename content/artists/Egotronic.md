@@ -25,7 +25,7 @@ url: https://open.spotify.com/artist/7qOSGBeln5EB97texe71QD
 [[Mirco]]
 [[Jeans Team]]
 [[Frittenbude]]
-[[Sebastian Madsen]]
+[[producers/Sebastian Madsen]]
 [[Phil De Gap]]
 [[Die Supererbin]]
 [[Koljah]]

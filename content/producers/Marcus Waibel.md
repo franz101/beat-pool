@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/10FRdUCuWxTDRnfL5IzayJ
 
 **Related artists:**
 
-[[Klaus Thiemann]]
+[[producers/Klaus Thiemann]]
 [[Joy Denalane]]
 [[Tocotronic]]
 [[Monchi Fromm]]

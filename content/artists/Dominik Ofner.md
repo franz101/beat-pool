@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6i8upMQpHmyjgaChNFKs3H
 
 **Related artists:**
 
-[[Michael Macher]]
+[[producers/Michael Macher]]
 [[Mickie Krause]]
-[[Dominik Hemmer]]
+[[producers/Dominik Hemmer]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0q3QpDWFc2LKrLF9ur3iMM
 **Related artists:**
 
 [[Axel Jäger]]
-[[The Nation]]
-[[Andreas Bruhn]]
-[[DiVen]]
-[[Leon Cebeci]]
+[[producers/The Nation]]
+[[producers/Andreas Bruhn]]
+[[producers/DiVen]]
+[[producers/Leon Cebeci]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4zfOSkTMi7CtRD8jbYARZS
 
 [[Dj Thomilla]]
 [[Die Fantastischen Vier]]
-[[Paul Mogg]]
+[[producers/Paul Mogg]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4shXxyUmF0EitKGuhVFIMG
 **Related artists:**
 
 [[King Orgasmus One]]
-[[MP Beatz]]
+[[producers/MP Beatz]]
 [[Freshmaker]]

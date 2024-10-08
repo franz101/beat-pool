@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5RFYkK0FtFcjXvg10q0WWR
 
 **Related artists:**
 
-[[Bawer]]
+[[producers/Bawer]]
 [[KALIM]]

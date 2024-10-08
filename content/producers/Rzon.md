@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/2AlYFGL4ffsU32uBIq6STZ
 **Related artists:**
 
 [[Butrint Imeri]]
-[[Pllumb]]
-[[Kitza]]
+[[producers/Pllumb]]
+[[producers/Kitza]]
 [[Getinjo]]
 [[Mozzik]]
 [[Kida]]
-[[Xon Oxa]]
+[[producers/Xon Oxa]]
 [[Macloud]]
 [[Dafina Zeqiri]]
 [[Don Xhoni]]

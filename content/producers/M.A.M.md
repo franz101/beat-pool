@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/19Z6WCQ2sHX5xS22Y243ey
 
 [[Remoe]]
 [[Nazar]]
-[[Paul Blaze]]
+[[producers/Paul Blaze]]
 [[Ajay]]
-[[Paul Becker]]
+[[producers/Paul Becker]]

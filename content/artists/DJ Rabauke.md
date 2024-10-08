@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4o1TzQkL66ZdsTJKUqSx0X
 **Related artists:**
 
 [[Stereo Total]]
-[[Cem Oral]]
+[[producers/Cem Oral]]
 [[Eins Zwo]]
 [[Fettes Brot]]
 [[Der Tobi]]

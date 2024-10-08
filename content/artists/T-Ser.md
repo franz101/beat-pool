@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5srWr95fUzONU7fMEIbpN1
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Mortel]]
 [[Peti Free]]
 [[Eunique]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7LfukFlLx7ZeqtaouRLs8p
 
 **Related artists:**
 
-[[Aidan]]
+[[producers/Aidan]]
 [[Ahzumjot]]

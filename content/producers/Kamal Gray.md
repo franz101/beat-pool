@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1XT6j0a7lDrVqemYQr9lvY
 
 **Related artists:**
 
-[[Larry Gold]]
+[[producers/Larry Gold]]
 [[Curse]]

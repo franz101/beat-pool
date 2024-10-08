@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/583D4MicNImtI9URI0fIFT
 
 **Related artists:**
 
-[[Eased]]
-[[Based]]
+[[producers/Eased]]
+[[producers/Based]]
 [[Seeed]]
-[[Pete Fox]]
+[[producers/Pete Fox]]

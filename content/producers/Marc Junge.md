@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1XVwQkO8er2kAGTnscvi7h
 **Related artists:**
 
 [[Mortis]]
-[[Mario Radzom]]
+[[producers/Mario Radzom]]

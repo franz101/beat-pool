@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/09c0UM68zxRr6WobGm2DGW
 
 [[Rob Money]]
 [[BoomTown]]
-[[Rico Bernasconi]]
+[[producers/Rico Bernasconi]]

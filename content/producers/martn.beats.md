@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0bpuiNhEJVMir4LEO9ndGQ
 **Related artists:**
 
 [[LUIS]]
-[[Montanaonthetrack]]
+[[producers/Montanaonthetrack]]

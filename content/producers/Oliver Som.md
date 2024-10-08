@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2Lv3K44y7HMGoZ6PJF9FiC
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Mic Schroeder]]
+[[producers/Mic Schroeder]]
 [[Madeline Juno]]
 [[Thorsten Brötzmann]]

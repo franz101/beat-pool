@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0sKPMxOnw8QmhPMag8kgcv
 **Related artists:**
 
 [[Helene Fischer]]
-[[JMC Music]]
-[[Andreas John]]
+[[producers/JMC Music]]
+[[producers/Andreas John]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1Ol0dFI9VIsH7BnEf6p7qA
 
 **Related artists:**
 
-[[Mark Nissen]]
+[[producers/Mark Nissen]]
 [[Nicole Lorenzen]]
 [[Santiano]]
 [[Andreas Gabalier]]

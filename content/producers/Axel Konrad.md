@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6AJsQaz9OxSHeBvd6A5XgL
 
 **Related artists:**
 
-[[Ole Wierk]]
+[[producers/Ole Wierk]]
 [[Baracuda]]
 [[DJane HouseKat]]
 [[Pulsedriver]]
-[[Ole Wier]]
+[[producers/Ole Wier]]
 [[Groove Coverage]]
-[[Verena Rehm]]
+[[producers/Verena Rehm]]

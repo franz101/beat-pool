@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/79LA9qlGnhBc8OwYhfFeTR
 **Related artists:**
 
 [[Max Hüttl]]
-[[yungbs]]
+[[producers/yungbs]]
 [[lin]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4lgARnuH864KNkSDXGqYmR
 **Related artists:**
 
 [[Mashkal]]
-[[Kiid Cody]]
+[[producers/Kiid Cody]]
 [[YA]]

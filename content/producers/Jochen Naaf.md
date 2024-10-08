@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/4xvRV2T4JvwTRtRPwkVCJt
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]
-[[Sven Ludwig]]
+[[producers/Sven Ludwig]]
 [[Maxim]]
 [[Lena]]
 [[Marteria]]
 [[Lina Maly]]
 [[Anna Loos]]
 [[Giant Rooks]]
-[[Tobias Kuhn]]
-[[Swen Meyer]]
+[[producers/Tobias Kuhn]]
+[[producers/Swen Meyer]]
 [[Disarstar]]
-[[Markus Ganter]]
+[[producers/Markus Ganter]]

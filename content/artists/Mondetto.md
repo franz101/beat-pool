@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4uZjiCgLj2mow6evui8ybw
 
 [[Bato]]
 [[CALO]]
-[[Chekaa]]
+[[producers/Chekaa]]
 [[JIGGO]]

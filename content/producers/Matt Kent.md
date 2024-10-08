@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/17Zi2mE7cDoK8X56GFiikD
 **Related artists:**
 
 [[Patrice]]
-[[Cameron McVey]]
+[[producers/Cameron McVey]]

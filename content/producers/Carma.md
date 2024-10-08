@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4dgzsxfu1KbJ3irAS7PxtY
 
 **Related artists:**
 
-[[Johnny Illstrument]]
-[[Dirty Beatz]]
-[[X-Plosive]]
+[[producers/Johnny Illstrument]]
+[[producers/Dirty Beatz]]
+[[producers/X-Plosive]]
 [[METRICKZ]]

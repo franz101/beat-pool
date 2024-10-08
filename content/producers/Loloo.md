@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/0W1c4OWgs9YOVAWTcDY5e8
 
 **Related artists:**
 
-[[Chryziz]]
+[[producers/Chryziz]]
 [[Sarhad]]
-[[Sebolb]]
-[[Chris Jarbee]]
-[[Erx]]
+[[producers/Sebolb]]
+[[producers/Chris Jarbee]]
+[[producers/Erx]]
 [[Ra'is]]
 [[NGEE]]
-[[HEKU]]
+[[producers/HEKU]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4NXA3Ymfrk1IzfusgtjMm3
 
 **Related artists:**
 
-[[Jo Barnikel]]
+[[producers/Jo Barnikel]]
 [[Konstantin Wecker]]
 [[Sarah Straub]]

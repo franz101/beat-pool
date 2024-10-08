@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5DSVjHy2YWufmRUHBM3PLX
 **Related artists:**
 
 [[Kidd Azzurra]]
-[[Gwiz]]
+[[producers/Gwiz]]

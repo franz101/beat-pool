@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2vDvMfJpMSmDcmSJRCfbR9
 **Related artists:**
 
 [[Pulsedriver]]
-[[Michael Bein]]
+[[producers/Michael Bein]]
 [[G4bby]]
 [[BazzBoyz]]

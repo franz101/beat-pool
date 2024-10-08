@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1eznSku2RY9VSvkhWxXdmx
 **Related artists:**
 
 [[Joka]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Silla]]
 [[Moé]]

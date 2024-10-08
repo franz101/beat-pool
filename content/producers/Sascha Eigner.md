@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6dCHtjZEFO7xqv83A88M29
 
 **Related artists:**
 
-[[O.L.A.F. Opal]]
-[[ARKADI]]
+[[producers/O.L.A.F. Opal]]
+[[producers/ARKADI]]
 [[Jupiter Jones]]
 [[Jörkk Mechenbier]]
-[[Timo Xanke]]
+[[producers/Timo Xanke]]

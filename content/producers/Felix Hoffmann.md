@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0KyBwg5D3MbaKZt1cs4NjH
 **Related artists:**
 
 [[Lina Maly]]
-[[Christian Hartung]]
+[[producers/Christian Hartung]]
 [[Antje Schomaker]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5Ez8ETe2lJQunMh8O17a8T
 
 **Related artists:**
 
-[[Chris Harms]]
-[[Georg Kaleve]]
+[[producers/Chris Harms]]
+[[producers/Georg Kaleve]]
 [[Subway To Sally]]
 [[Syrah]]
 [[Santiano]]
 [[Dero Goi]]
-[[Simon Michael Schmitt]]
-[[Michael Boden]]
+[[producers/Simon Michael Schmitt]]
+[[producers/Michael Boden]]

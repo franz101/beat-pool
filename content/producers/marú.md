@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/31ewsty6sg67C5UuOZmDcr
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Holy Modee]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[Lord Sesshomaru]]
 [[Yxng Paper]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[JACE]]
 [[morten]]
 [[Telly Tellz]]

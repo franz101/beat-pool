@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/20zrzzJuX5c8aYZkyBMtxE
 
 **Related artists:**
 
-[[Udo Lindenberg and Steffi Stephan]]
+[[producers/Udo Lindenberg and Steffi Stephan]]
 [[Udo Lindenberg]]

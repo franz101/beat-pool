@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4dHKsHg86cKIX3nMymIPpd
 
 **Related artists:**
 
-[[Losaddos]]
+[[producers/Losaddos]]
 [[Young Richie Rich]]
 [[Dardan]]
 [[Luciano]]

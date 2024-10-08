@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1dbkdFw6aL2GZzoDsuRVfM
 
 **Related artists:**
 
-[[db Pure]]
+[[producers/db Pure]]
 [[DJs From Mars]]
-[[Rico Bernasconi]]
+[[producers/Rico Bernasconi]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/2CeR6Im0m6eV1YFsLA5jFQ
 
 **Related artists:**
 
-[[Kev'beats]]
-[[Philipp Hoppen]]
-[[Nico Seyfrid]]
+[[producers/Kev'beats]]
+[[producers/Philipp Hoppen]]
+[[producers/Nico Seyfrid]]
 [[Aret]]
-[[Beat Gottwald]]
+[[producers/Beat Gottwald]]
 [[K.I.Z]]
-[[Moses Schneider]]
+[[producers/Moses Schneider]]
 [[Massimo]]
 [[Cannibal Rob]]
 [[Kuba]]

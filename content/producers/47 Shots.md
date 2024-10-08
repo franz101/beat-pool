@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/58LbOqGgMa1YWFQVKLrirV
 
 **Related artists:**
 
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[Mikael]]
 [[Milano]]

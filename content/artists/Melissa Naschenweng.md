@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/00unybLgvbIqKxx0OTyYYZ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb935cb533375ed827e86fe22a)
 **Related artists:**
 
-[[Sebastian Steinhauser]]
+[[producers/Sebastian Steinhauser]]

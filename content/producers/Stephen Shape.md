@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2kvsNhe75WT73EMMn13mlE
 
 **Related artists:**
 
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Sarah Connor]]
-[[Brock Landers]]
+[[producers/Brock Landers]]

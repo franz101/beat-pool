@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7nIbL3s1DQLwNkajUVdGcy
 
 [[Jim Tonic]]
 [[Oser]]
-[[Reatsch]]
+[[producers/Reatsch]]
 [[Sorti Sikz]]
 [[Silla]]
 [[Ha$$anfall]]

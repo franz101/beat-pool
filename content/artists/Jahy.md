@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2tLixxayHMzuKimLZvo59l
 
 **Related artists:**
 
-[[Killa M]]
+[[producers/Killa M]]
 [[PA Sports]]
 [[Mosh36]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4tGxWZaAkt50t9VZxSxOGZ
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Matthias Lohmöller]]

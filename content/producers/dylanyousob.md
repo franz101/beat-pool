@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/665xXWgOV6Ce08sZ6iNGP2
 **Related artists:**
 
 [[Ramo]]
-[[Tengo]]
-[[Liam Callen]]
-[[oustonproducedit]]
+[[producers/Tengo]]
+[[producers/Liam Callen]]
+[[producers/oustonproducedit]]

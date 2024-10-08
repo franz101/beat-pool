@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/58OU2y8s0HKVAOs0ZRZn3X
 **Related artists:**
 
 [[Fettes Brot]]
-[[Maurice Summen]]
-[[Arne Diedrichson]]
-[[Ramin Bijan]]
-[[Markus Pauli]]
+[[producers/Maurice Summen]]
+[[producers/Arne Diedrichson]]
+[[producers/Ramin Bijan]]
+[[producers/Markus Pauli]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0sgAalJAoYJdPAmso1yeKf
 **Related artists:**
 
 [[BLVTH]]
-[[Jordan Blackmon]]
+[[producers/Jordan Blackmon]]

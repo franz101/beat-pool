@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/50FqrnW6UyuZyyXGRcV60l
 
 **Related artists:**
 
-[[RUDY VALENTINO]]
+[[producers/RUDY VALENTINO]]
 [[Samy Deluxe]]
-[[Nigel Asher]]
-[[Ninjaneer]]
+[[producers/Nigel Asher]]
+[[producers/Ninjaneer]]

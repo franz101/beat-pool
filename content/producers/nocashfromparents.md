@@ -23,6 +23,6 @@ url: https://open.spotify.com/artist/4Gbk6ozXSv4YT3PqQyY7EZ
 [[Doezis]]
 [[Intus]]
 [[Lucio101]]
-[[Retake]]
+[[producers/Retake]]
 [[65Goonz]]
 [[Polo65]]

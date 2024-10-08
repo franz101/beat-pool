@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6AQEVB5dyLUsFdBbymolKb
 
 **Related artists:**
 
-[[ProdByHxrV]]
+[[producers/ProdByHxrV]]
 [[overshiaat]]
 [[Yung Vision]]

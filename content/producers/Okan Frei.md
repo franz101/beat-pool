@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0XKlHiRI0JQUKzjoiRztno
 
 **Related artists:**
 
-[[stickle]]
+[[producers/stickle]]
 [[Olson]]

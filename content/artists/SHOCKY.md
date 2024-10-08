@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/2g6p1w2hA4TTCtsvKgrZR0
 [[Ferris MC]]
 [[Swiss]]
 [[Reeperbahn Kareem]]
-[[Devin Beats]]
+[[producers/Devin Beats]]
 [[Swiss & Die Andern]]
 [[Tamas]]
 [[SDP]]

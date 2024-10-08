@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7pcYXVj39DKOS6X4V2VnS3
 
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[Xidir]]
 [[Mario Novembre]]

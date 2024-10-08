@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk
 
 **Related artists:**
 
-[[Modha]]
+[[producers/Modha]]
 [[JuJu Rogers]]
 [[Jennifer Allendörfer]]

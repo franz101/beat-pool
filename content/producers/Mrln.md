@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/393akmgl1avV5ypa2CbySC
 
 **Related artists:**
 
-[[Psaiko.Dino]]
+[[producers/Psaiko.Dino]]
 [[Weekend]]

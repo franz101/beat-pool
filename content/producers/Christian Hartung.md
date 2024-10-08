@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1aOQkPNZmRqCERrrY9l54S
 
 **Related artists:**
 
-[[Felix Hoffmann]]
+[[producers/Felix Hoffmann]]
 [[Lina Maly]]
 [[Antje Schomaker]]

@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/5F96KjVVl5nnGRkXs8E8Za
 
 **Related artists:**
 
-[[Absolute]]
+[[producers/Absolute]]
 [[Maxwell]]
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[P.M.B.]]
-[[DLS]]
-[[Minti]]
-[[The Royals]]
+[[producers/DLS]]
+[[producers/Minti]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[187 Strassenbande]]
-[[DeeVoe]]
-[[Bass Charity]]
+[[producers/DeeVoe]]
+[[producers/Bass Charity]]

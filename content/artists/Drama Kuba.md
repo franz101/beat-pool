@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/34xCrGH0RYRHukK7lkhOLG
 
 [[Defi]]
 [[Wolfgang Wendland]]
-[[Philipp Hoppen]]
-[[Nico Seyfrid]]
+[[producers/Philipp Hoppen]]
+[[producers/Nico Seyfrid]]
 [[Said]]
 [[Mach One]]
 [[Bärbel Rotzky]]

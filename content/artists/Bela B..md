@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/1BOTcSZvfl1F4kui1f95dk
 **Related artists:**
 
 [[Die Ärzte]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Bonaparte]]
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]
 [[SDP]]
 [[Cédric Knavaro]]
 [[Farin Urlaub]]
 [[K.I.Z]]
-[[Manne Praeker]]
+[[producers/Manne Praeker]]

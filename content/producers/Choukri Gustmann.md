@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0XdbG3Nz14EZwLUls0SMlm
 **Related artists:**
 
 [[XATAR]]
-[[Reaf]]
-[[Enginearz]]
-[[Firat]]
+[[producers/Reaf]]
+[[producers/Enginearz]]
+[[producers/Firat]]
 [[Teesy]]
 [[Schwesta Ewa]]

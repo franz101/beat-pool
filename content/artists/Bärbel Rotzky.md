@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6VdO5KlN1lCtq2ouDidlyI
 
 [[Wolfgang Wendland]]
 [[Drama Kuba]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[K.I.Z]]
 [[MC Motherfucker]]

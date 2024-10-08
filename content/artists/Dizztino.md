@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/76OM3JIQXIgcpOWn434T0d
 
 [[Nicone]]
 [[G-Hot]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Silla]]
 [[Fler]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]

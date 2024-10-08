@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1bp9y0lyzSPhnB6Dk8CUaW
 **Related artists:**
 
 [[Portable]]
-[[Alan Abrahams]]
+[[producers/Alan Abrahams]]

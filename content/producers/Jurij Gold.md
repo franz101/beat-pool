@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/3tTSuo4uRIfD5Ipe9ZGztS
 **Related artists:**
 
 [[Capo]]
-[[Greedo]]
-[[Falconi]]
-[[Robin Pace]]
-[[Team Gold]]
+[[producers/Greedo]]
+[[producers/Falconi]]
+[[producers/Robin Pace]]
+[[producers/Team Gold]]
 [[JIGGO]]

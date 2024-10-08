@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7kqQ5hhbtnKD0G8P5rBbSr
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Nathanael Wendt]]
+[[producers/Nathanael Wendt]]
 [[Götz Bergmann]]
-[[Daniel Scheufler]]
+[[producers/Daniel Scheufler]]

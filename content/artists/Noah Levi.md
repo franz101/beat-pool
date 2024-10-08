@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/0XuWJAWSbqjnBobY4XeHfS
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2845dcd8927b8c6bb2798997)
 **Related artists:**
 
-[[Thomas Porzig]]
-[[Jens Schneider]]
-[[SAIN]]
-[[Jan van der Toorn]]
+[[producers/Thomas Porzig]]
+[[producers/Jens Schneider]]
+[[producers/SAIN]]
+[[producers/Jan van der Toorn]]
 [[Benedikt Schöller]]
-[[Timothy Auld]]
-[[Marius 'Mary' Ley]]
-[[Jules Kalmbacher]]
+[[producers/Timothy Auld]]
+[[producers/Marius 'Mary' Ley]]
+[[producers/Jules Kalmbacher]]

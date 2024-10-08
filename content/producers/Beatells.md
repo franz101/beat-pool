@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/598I6AKuxGUhppddQcZlDg
 [[Olexesh]]
 [[ERRdeKa]]
 [[Ajé]]
-[[Che.Agyn]]
-[[Nico Chiara]]
+[[producers/Che.Agyn]]
+[[producers/Nico Chiara]]

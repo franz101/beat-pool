@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6lrN7en8MiffjivPF3rL6N
 
 **Related artists:**
 
-[[Jan-Philipp Kelber]]
+[[producers/Jan-Philipp Kelber]]
 [[Ina Müller]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6J27OpWAed4qul0dvYIAom
 
 **Related artists:**
 
-[[Tengo]]
-[[Danny Autlaw]]
+[[producers/Tengo]]
+[[producers/Danny Autlaw]]
 [[Kool Savas]]

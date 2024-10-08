@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D
 
 **Related artists:**
 
-[[Roland Spremberg]]
+[[producers/Roland Spremberg]]
 [[No Angels]]

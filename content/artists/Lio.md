@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/63FkGNSVb9VB4Is1V3Q9Nj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb06824cbb1722ff44121367e5)
 **Related artists:**
 
-[[Gxldjunge]]
-[[Seyfo]]
-[[Cozy q]]
+[[producers/Gxldjunge]]
+[[producers/Seyfo]]
+[[producers/Cozy q]]

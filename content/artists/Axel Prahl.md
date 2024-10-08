@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2O9HTyF1CXcrKWbX71gPZB
 
 **Related artists:**
 
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Udo Lindenberg]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Vanessa Mai]]
-[[Jules Kalmbacher]]
-[[Peter "Jem" Seifert]]
+[[producers/Jules Kalmbacher]]
+[[producers/Peter "Jem" Seifert]]

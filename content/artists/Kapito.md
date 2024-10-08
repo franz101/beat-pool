@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4ZGJeBADU8ThR08upiArNj
 **Related artists:**
 
 [[Raffi Balboa]]
-[[HARDY]]
+[[producers/HARDY]]
 [[SLAV]]

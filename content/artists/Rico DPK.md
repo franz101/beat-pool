@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3x43zFR2NVO3WCFRi5YhuP
 
 [[Brudi030]]
 [[Sugar MMFK]]
-[[Thomas "Latches" Porzig]]
+[[producers/Thomas "Latches" Porzig]]

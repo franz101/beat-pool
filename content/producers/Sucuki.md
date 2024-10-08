@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3sgkbGY6eTx2QHtU8bHmZX
 **Related artists:**
 
 [[Mehnersmoos]]
-[[Paul Mond]]
+[[producers/Paul Mond]]
 [[Drunken Masters]]
 [[K.I.Z]]
-[[Voddi257]]
+[[producers/Voddi257]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5HBd5KMnAyxKrL3yUB5z9J
 
 **Related artists:**
 
-[[Christian Beermann]]
+[[producers/Christian Beermann]]
 [[Udo Lindenberg]]

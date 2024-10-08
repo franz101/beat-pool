@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/42KIeZmuydog0qFwp0VVnX
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9f26eea5fffa175f8a9c5d12)
 **Related artists:**
 
-[[Martin Wiegel]]
-[[Jeriel Devendraraj]]
+[[producers/Martin Wiegel]]
+[[producers/Jeriel Devendraraj]]

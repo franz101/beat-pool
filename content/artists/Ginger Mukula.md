@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2jP8NtiCx5myAiuLGkY4ew
 
 **Related artists:**
 
-[[Josef Bach]]
+[[producers/Josef Bach]]
 [[Matthias Schweighöfer]]
 [[MoTrip]]
-[[Arne Schumann]]
+[[producers/Arne Schumann]]

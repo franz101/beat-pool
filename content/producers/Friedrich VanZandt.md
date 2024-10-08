@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1nCyZANZ5cvoL97h4AH9lV
 **Related artists:**
 
 [[Fatoni]]
-[[MazeOne]]
+[[producers/MazeOne]]
 [[Weekend]]
 [[DJINJO]]
 [[JoJo]]

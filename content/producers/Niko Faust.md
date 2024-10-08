@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/39rcHwr9jprNBLPvmANIX1
 
 [[Albrecht Schrader]]
 [[Das Lumpenpack]]
-[[Alexander Werth]]
-[[Alex Werth]]
+[[producers/Alexander Werth]]
+[[producers/Alex Werth]]

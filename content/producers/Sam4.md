@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0rlugRpyDBWP8Nwlxdyhyu
 
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[JACE]]
 [[Haiyti]]

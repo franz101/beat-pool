@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4qWhFGYDdbqMz7wIZDzSX1
 
 **Related artists:**
 
-[[Alexander Sprave]]
+[[producers/Alexander Sprave]]
 [[Nico Suave]]
 [[Marvin Game]]

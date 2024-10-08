@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6t7JHy1jSJMCpU4aJzf7td
 ![Artist](https://i.scdn.co/image/ab67616d0000b273d1e5583a7ff775f5f17cc991)
 **Related artists:**
 
-[[Mystxry]]
+[[producers/Mystxry]]
 [[Aytee]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/04BPMc4UK0jl02vRrl8cIO
 
 **Related artists:**
 
-[[Micki Meuser]]
+[[producers/Micki Meuser]]
 [[Ideal]]
-[[Micky Meuser]]
+[[producers/Micky Meuser]]

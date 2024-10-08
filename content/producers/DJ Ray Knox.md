@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1wLGIjmUOm8hEqHcJ2yb7p
 **Related artists:**
 
 [[Ray Knox]]
-[[Andre Ahuis]]
+[[producers/Andre Ahuis]]
 [[Ti-Mo]]

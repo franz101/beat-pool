@@ -34,7 +34,7 @@ url: https://open.spotify.com/artist/1jU3IyZYaoYSMAWSeq1N2c
 [[Olexesh]]
 [[Bausa]]
 [[Sipo]]
-[[Riddla]]
+[[producers/Riddla]]
 [[YA]]
 [[Mashkal]]
 [[Boysindahood]]

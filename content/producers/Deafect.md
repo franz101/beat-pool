@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/18w9QnnXzOm0j4N2ZPeLJj
 
 [[Kalazh44]]
 [[MERO]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5ccc4e8ff45054a4429f155e)
 **Related artists:**
 
-[[Sebastian Schilde]]
+[[producers/Sebastian Schilde]]
 [[Scooter]]
 [[le Shuuk]]

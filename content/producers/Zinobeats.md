@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3borEva8TBI39LIDnJPbXH
 
 **Related artists:**
 
-[[Tyrann Beats]]
-[[Jermaine]]
+[[producers/Tyrann Beats]]
+[[producers/Jermaine]]
 [[Kalazh44]]
-[[KK47]]
+[[producers/KK47]]
 [[Bass Sultan Hengzt]]

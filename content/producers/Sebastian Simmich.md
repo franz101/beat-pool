@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/1pmWcDCPXeeIY3OfvviT44
 [[Helmuth Rüßmann]]
 [[Chris Thompson]]
 [[Brings]]
-[[Harry Alfter]]
+[[producers/Harry Alfter]]
 [[Bläck Fööss]]

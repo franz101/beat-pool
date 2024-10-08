@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4toouVkBXkS9bkDoZLg6dO
 
 **Related artists:**
 
-[[Pelle Ankarberg]]
+[[producers/Pelle Ankarberg]]
 [[No Angels]]

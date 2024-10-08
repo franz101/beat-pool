@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0EK326SvhcfNF59P0qa1dZ
 
 **Related artists:**
 
-[[Stephane Akenan]]
-[[Nils Karsten]]
-[[Michael-Lee Bock]]
+[[producers/Stephane Akenan]]
+[[producers/Nils Karsten]]
+[[producers/Michael-Lee Bock]]
 [[Apollo vs. Mackenzie]]

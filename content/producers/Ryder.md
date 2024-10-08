@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6aaJeC4tRAYfEx5sA9LvXI
 **Related artists:**
 
 [[Ardian Bujupi]]
-[[Seno]]
+[[producers/Seno]]

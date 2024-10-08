@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0rMP6P9MIjrSYLMlYKSwx9
 
 **Related artists:**
 
-[[Robin Karow]]
+[[producers/Robin Karow]]
 [[Antje Schomaker]]

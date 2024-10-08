@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2vPaILDYBQBDB1LhvLOVHl
 
 **Related artists:**
 
-[[Dennis Westermann]]
+[[producers/Dennis Westermann]]
 [[Punch Arogunz]]

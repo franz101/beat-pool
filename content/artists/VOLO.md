@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/0PPCPsuv0iOAYKGR2SkFal
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb77ce1962ab582c09984af04b)
 **Related artists:**
 
-[[Voluptyk]]
+[[producers/Voluptyk]]
 [[LX]]
-[[Lotuseffekt]]
+[[producers/Lotuseffekt]]
 [[Seboib]]
-[[Wicked & Nif]]
+[[producers/Wicked & Nif]]
 [[P.M.B.]]
-[[Mxney]]
-[[Wicked Track]]
+[[producers/Mxney]]
+[[producers/Wicked Track]]
 [[Bonez MC]]
-[[Narcotics]]
-[[DeeVoe]]
+[[producers/Narcotics]]
+[[producers/DeeVoe]]

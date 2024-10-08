@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Uuw1MHNH56xL76bTOVJE8
 
 **Related artists:**
 
-[[Cactus-von Finsterwalde]]
+[[producers/Cactus-von Finsterwalde]]
 [[Stereo Total]]
 [[Laila France]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2X1tHIKMWxTu5m8pzbcFol
 
 **Related artists:**
 
-[[Roger & Shorty]]
+[[producers/Roger & Shorty]]
 [[Luciano]]
 [[Gentleman]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2CQDaXsE8rehDyVuNGTr5j
 ![Artist](https://i.scdn.co/image/ab67616d0000b2733b7c289586314bd59346465a)
 **Related artists:**
 
-[[Smochi]]
+[[producers/Smochi]]
 [[Le Mietz]]

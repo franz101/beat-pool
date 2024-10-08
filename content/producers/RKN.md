@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2uwNJk0D4kj70Q93ler5ot
 
 **Related artists:**
 
-[[ThisisYT]]
+[[producers/ThisisYT]]
 [[Play69]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5JBq6Jd6H250oviYBSlzND
 
 **Related artists:**
 
-[[Lovus]]
-[[Kemelion]]
+[[producers/Lovus]]
+[[producers/Kemelion]]
 [[Apache 207]]

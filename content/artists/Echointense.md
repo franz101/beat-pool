@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7bh20tOGVCKtYXPlz3zIr0
 **Related artists:**
 
 [[Laruzo]]
-[[FOB]]
-[[Tengobeatz]]
+[[producers/FOB]]
+[[producers/Tengobeatz]]

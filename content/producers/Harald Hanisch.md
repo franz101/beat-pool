@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2rYlgM6ANG8XppfIXXihYL
 **Related artists:**
 
 [[Christina Stürmer]]
-[[Alex Kahr]]
+[[producers/Alex Kahr]]

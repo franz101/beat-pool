@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/15B9ZmmgDysKO1mJggYWgU
 [[Wyl]]
 [[AzudemSK]]
 [[Dennis Real]]
-[[Adlib Swayze]]
+[[producers/Adlib Swayze]]
 [[Slowy]]

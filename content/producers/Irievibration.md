@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1X9ngcVFY1Sykz8uBtZBIa
 
 **Related artists:**
 
-[[Dominik Lieder]]
-[[Benno Calmbach]]
+[[producers/Dominik Lieder]]
+[[producers/Benno Calmbach]]
 [[Bonez MC]]
 [[Silla]]
 [[RAF Camora]]

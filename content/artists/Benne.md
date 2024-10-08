@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/0eS2ZGOnJi5Cp4ASTy4aBc
 **Related artists:**
 
 [[Revelle]]
-[[Wim Treuner]]
-[[Jan Listing]]
+[[producers/Wim Treuner]]
+[[producers/Jan Listing]]
 [[Gestört aber GeiL]]
-[[Sebastian Kirchner]]
-[[Joschka Bender]]
+[[producers/Sebastian Kirchner]]
+[[producers/Joschka Bender]]

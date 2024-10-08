@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/4BZPhDFs7Vl1XsCiHjRA9H
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[JORIS]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[LOTTE]]
 [[Gentleman]]
-[[Max Hesselbarth]]
+[[producers/Max Hesselbarth]]
 [[Karat]]
-[[Joris Buchholz]]
-[[Maximilian Hesselbarth]]
+[[producers/Joris Buchholz]]
+[[producers/Maximilian Hesselbarth]]
 [[Jugglerz]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/16y42LlZUdbcyb5qxk6l6D
 
 **Related artists:**
 
-[[X-Cess!]]
+[[producers/X-Cess!]]
 [[Carmen & Camille]]
 [[Punkrockerz]]
 [[Giorno]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6410YQUaxoE5JBabjo32Kt
 **Related artists:**
 
 [[Rocko Schamoni]]
-[[Konrad Halver]]
-[[Marko Peter Bachmann]]
+[[producers/Konrad Halver]]
+[[producers/Marko Peter Bachmann]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6ahKu4wWK1hcsQY696aB6h
 **Related artists:**
 
 [[Bount]]
-[[okaymika]]
+[[producers/okaymika]]

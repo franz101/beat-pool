@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2Pb8xb1Svyq3FZf7MKEjx0
 **Related artists:**
 
 [[Clinton Sparks]]
-[[T. Pfund]]
+[[producers/T. Pfund]]
 [[DJ Sweep]]

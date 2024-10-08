@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/5519qQ4H5p0qIIidEWUOB6
 **Related artists:**
 
 [[Butrint Imeri]]
-[[BIGBANG]]
+[[producers/BIGBANG]]
 [[Kida]]
 [[Lumi B]]
 [[Çelik Lipa]]
 [[Dafina Zeqiri]]
-[[Deard Sylejmani]]
+[[producers/Deard Sylejmani]]

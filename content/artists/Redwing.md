@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1t4T9L30b68XupdEvmr39f
 
 **Related artists:**
 
-[[Fridge]]
+[[producers/Fridge]]
 [[Pulsedriver]]
-[[Walter]]
-[[Mandrysch]]
-[[Hastik]]
+[[producers/Walter]]
+[[producers/Mandrysch]]
+[[producers/Hastik]]
 [[Special D]]

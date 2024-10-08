@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4KdOlzgquyDPqR2Fi8EcnB
 **Related artists:**
 
 [[Stieber Twins]]
-[[Luxus Chris]]
+[[producers/Luxus Chris]]
 [[The Arsonists]]
-[[Mr. Mar]]
+[[producers/Mr. Mar]]
 [[Martin Stieber]]
 [[Christian Stieber]]
 [[Curse]]

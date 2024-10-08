@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/6JHB0QTIZMUHCbjsnrHIYb
 
 **Related artists:**
 
-[[Paul Fuhrmann]]
-[[Mzumplakativ]]
-[[dbbb]]
+[[producers/Paul Fuhrmann]]
+[[producers/Mzumplakativ]]
+[[producers/dbbb]]
 [[Spaze Windu]]
 [[Nils Alexander Müller]]
 [[Ali Whales]]
 [[Flughand]]
-[[Maddai]]
-[[b]]
+[[producers/Maddai]]
+[[producers/b]]
 [[Fubu]]
 [[Florian Döring]]
 [[b & dbbb]]
-[[Smoke Trees]]
+[[producers/Smoke Trees]]

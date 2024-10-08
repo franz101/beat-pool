@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0r3lkDQEHlqpNs7GDeTrae
 
 **Related artists:**
 
-[[Distinct]]
+[[producers/Distinct]]

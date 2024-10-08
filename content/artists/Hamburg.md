@@ -12,13 +12,13 @@ url: https://open.spotify.com/artist/3xAyWh8CVW3cvC4a5tmcuY
 **Related artists:**
 
 [[B. Ekambi im Tonofen]]
-[[Bartosch Jeznach]]
+[[producers/Bartosch Jeznach]]
 [[C.L.A.S.]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
 [[Nina]]
-[[C.L.A.S. Productions]]
+[[producers/C.L.A.S. Productions]]
 [[Prinz Pi]]
 [[Deichkind]]
 [[Don Dougie]]

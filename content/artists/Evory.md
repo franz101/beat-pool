@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0W6GsPhY1gHDu9CJh5974m
 
 **Related artists:**
 
-[[Panorama]]
+[[producers/Panorama]]
 [[Loki]]
 [[Eloquent]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6AtjcomJ1mUSPsTAGVIhJN
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Die Toten Hosen]]

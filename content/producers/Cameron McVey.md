@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/76gR6Jm3ugIPMifQOlZLJ4
 
 **Related artists:**
 
-[[Matt Kent]]
-[[Paul Simm]]
-[[Pearson]]
-[[M. McVey]]
+[[producers/Matt Kent]]
+[[producers/Paul Simm]]
+[[producers/Pearson]]
+[[producers/M. McVey]]
 [[Patrice]]
-[[Pacini]]
+[[producers/Pacini]]

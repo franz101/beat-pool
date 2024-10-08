@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/6Rm11FWARVtpnVR52qvpSL
 [[Plusmacher]]
 [[B-Real]]
 [[Sen Dog]]
-[[Phatal Beatz]]
+[[producers/Phatal Beatz]]
 [[Omik K]]
 [[Rob Moro]]

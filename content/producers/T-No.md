@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6dRexHsx9smd64kX4W4Izu
 **Related artists:**
 
 [[Rola]]
-[[Bounce Brothas]]
+[[producers/Bounce Brothas]]
 [[Wanja Janeva]]
 [[Teesy]]

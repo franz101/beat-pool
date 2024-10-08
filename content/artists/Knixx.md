@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/6PRn7MT1xsNAAtAfV1Y8hN
 **Related artists:**
 
 [[Mädness]]
-[[TRIBEZ.]]
+[[producers/TRIBEZ.]]

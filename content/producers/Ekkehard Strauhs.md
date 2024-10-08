@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/047vHY1PFoVcFSMOYX2ZUC
 
 **Related artists:**
 
-[[produced by Ingo Hampf]]
-[[Ronald Prent]]
+[[producers/produced by Ingo Hampf]]
+[[producers/Ronald Prent]]
 [[Subway To Sally]]

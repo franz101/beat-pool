@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/42yPy5nUMZc8xwuN3yzhrt
 **Related artists:**
 
 [[Gentleman]]
-[[Marek Pompetzki]]
-[[Cecil Remmler]]
+[[producers/Marek Pompetzki]]
+[[producers/Cecil Remmler]]
 [[Stefanie Heinzmann]]

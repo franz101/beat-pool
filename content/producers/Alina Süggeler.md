@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7dWSb1MJ9A0CEwLq11bJnN
 
 **Related artists:**
 
-[[Robin Grubert]]
+[[producers/Robin Grubert]]
 [[Frida Gold]]
-[[Andreas Weizel]]
+[[producers/Andreas Weizel]]

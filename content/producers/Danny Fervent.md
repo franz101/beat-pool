@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/7Iu0GPE3JK8RdSrnnL2Xf6
 [[Fervent]]
 [[Aleeze]]
 [[Marc Hill]]
-[[UltraBooster]]
+[[producers/UltraBooster]]
 [[Elena]]
 [[DJ Decron]]
 [[Hadl]]

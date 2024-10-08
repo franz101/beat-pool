@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4EySud7Ww0GNvkwhRYZHLV
 
 **Related artists:**
 
-[[Toby Neumann]]
+[[producers/Toby Neumann]]
 [[Malaria!]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5C17AOnmu1qtcRBRUGUUEm
 
 **Related artists:**
 
-[[Tobias Schlechtrimen]]
+[[producers/Tobias Schlechtrimen]]
 [[Julius Mücke]]

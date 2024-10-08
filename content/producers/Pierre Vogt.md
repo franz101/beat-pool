@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5Hp1i262R5pGdNZx2W1Qvt
 **Related artists:**
 
 [[YONII]]
-[[RGB1]]
+[[producers/RGB1]]

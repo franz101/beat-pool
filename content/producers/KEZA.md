@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5lpNre14C7cmcHz4uja7Ri
 
 **Related artists:**
 
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[ROTE MÜTZE RAPHI]]

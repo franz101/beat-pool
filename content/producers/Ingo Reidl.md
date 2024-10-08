@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/06QPf0b0QwH6BvSGT7mujg
 
 **Related artists:**
 
-[[Ulf Ronneberger]]
+[[producers/Ulf Ronneberger]]
 [[Helene Fischer]]
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Pur]]
-[[Hartmut Engler]]
-[[Martin Ansel]]
+[[producers/Hartmut Engler]]
+[[producers/Martin Ansel]]

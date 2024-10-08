@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4T3hWxWH9jxIQxJgKuI8Zh
 **Related artists:**
 
 [[D-Flame]]
-[[Bassrunner]]
-[[Sam Gilly]]
+[[producers/Bassrunner]]
+[[producers/Sam Gilly]]
 [[Detecta]]

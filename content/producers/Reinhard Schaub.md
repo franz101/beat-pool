@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2NV17k4xTZf8Ouy45dP8Jg
 
 **Related artists:**
 
-[[Stefan Raab]]
+[[producers/Stefan Raab]]
 [[Lena]]

@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/3BwoftJqRbE1yKMjzLKiPQ
 [[Mark Forster]]
 [[Kurdo]]
 [[Sido]]
-[[Richy Rich]]
-[[M.A.M]]
+[[producers/Richy Rich]]
+[[producers/M.A.M]]
 [[Milonair]]

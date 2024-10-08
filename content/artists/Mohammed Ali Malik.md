@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1jB7WCg5jX7PqP0ZwSl6rB
 
 **Related artists:**
 
-[[Killam]]
+[[producers/Killam]]
 [[Disarstar]]

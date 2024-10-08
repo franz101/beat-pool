@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV
 **Related artists:**
 
 [[Felix Schorn]]
-[[Aside]]
+[[producers/Aside]]
 [[Aylo]]

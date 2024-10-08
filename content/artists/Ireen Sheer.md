@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6DtzOuUkjukrHLwgG4EnDw
 
 **Related artists:**
 
-[[Pierre Kartner]]
+[[producers/Pierre Kartner]]
 [[Stereoact]]

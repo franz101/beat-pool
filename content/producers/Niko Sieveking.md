@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4HlAAnvF8ZdETcyH6ksnVd
 
 **Related artists:**
 
-[[Franz Plasa]]
-[[Christoph Maria Kaiser]]
+[[producers/Franz Plasa]]
+[[producers/Christoph Maria Kaiser]]
 [[London Session Orchestra]]
 [[Echt]]

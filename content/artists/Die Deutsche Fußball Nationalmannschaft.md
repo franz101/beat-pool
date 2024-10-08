@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6euthd4hvttLoKTnxbFdiF
 
 **Related artists:**
 
-[[Peter Wagner]]
-[[Joachim Heider]]
+[[producers/Peter Wagner]]
+[[producers/Joachim Heider]]
 [[Udo Jürgens]]

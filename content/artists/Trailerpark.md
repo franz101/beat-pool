@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1eeWVOCazGzGQXOGhnDHTB
 **Related artists:**
 
 [[Pater Vortex]]
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Timi Hendrix]]
 [[SDP]]
 [[Mach One]]

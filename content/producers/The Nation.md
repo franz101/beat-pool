@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7iCUjBVjbgHmDmlfJV31mT
 [[Alex Megane]]
 [[Axel Jäger]]
 [[BlackBonez]]
-[[Sven Blaikz Schwarz]]
+[[producers/Sven Blaikz Schwarz]]
 [[Alex M.]]
-[[DiVen]]
+[[producers/DiVen]]

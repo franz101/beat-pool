@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1bVXntDWimvB7WNTAzhOOR
 **Related artists:**
 
 [[DJ Herzbeat]]
-[[SILVERJAM]]
+[[producers/SILVERJAM]]

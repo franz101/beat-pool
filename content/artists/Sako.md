@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/58Ev7Ff73gAli8Rkgf8vSE
 **Related artists:**
 
 [[Azad]]
-[[FdA-Productions]]
+[[producers/FdA-Productions]]

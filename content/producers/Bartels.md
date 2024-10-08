@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/19KinTdEv1kxElDrbnPjcB
 **Related artists:**
 
 [[Nino de Angelo]]
-[[de Angelo]]
+[[producers/de Angelo]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4UZ5FiUj3GtUSdrk7Kz9Q4
 **Related artists:**
 
 [[German Dream Allstars]]
-[[Zero]]
+[[producers/Zero]]
 [[Ink Monstarr]]
 [[Coolio]]
 [[Eko Fresh]]
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Hakan Abi]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5QEbdGT3Gi9cdkwQzNz9TO
 **Related artists:**
 
 [[Miss Platnum]]
-[[The Krauts]]
+[[producers/The Krauts]]

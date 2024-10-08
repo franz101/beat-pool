@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3f9UyCtS61O4QajePVYZuu
 
 **Related artists:**
 
-[[Perino]]
+[[producers/Perino]]
 [[Freshmaker]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Ramo]]
-[[Alex Gregory Mullarkey]]
+[[producers/Alex Gregory Mullarkey]]

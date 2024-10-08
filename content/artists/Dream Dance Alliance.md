@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3aEyfaWZ9zrpMC8azlL1ee
 
 **Related artists:**
 
-[[Terry Schaffer]]
+[[producers/Terry Schaffer]]
 [[Thomas Petersen]]
 [[Pulsedriver]]
-[[Sven Greiner]]
+[[producers/Sven Greiner]]
 [[Milo.nl]]
-[[Achim Hox]]
-[[Phillip Franecki]]
+[[producers/Achim Hox]]
+[[producers/Phillip Franecki]]
 [[CJ Stone]]
 [[Ina Morgan]]

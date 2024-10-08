@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0pbMvthOLC84zYKlA5FR1w
 **Related artists:**
 
 [[YONII]]
-[[riico]]
-[[Robin Hunt]]
-[[Sifedine Serour]]
+[[producers/riico]]
+[[producers/Robin Hunt]]
+[[producers/Sifedine Serour]]

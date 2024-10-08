@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3
 **Related artists:**
 
 [[Non]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]
 [[VIZE]]

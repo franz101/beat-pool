@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7cPKwU1hqW6er2tePeQMyp
 **Related artists:**
 
 [[DJ Analyzer]]
-[[Matthias Gehrmann]]
-[[Cary August]]
+[[producers/Matthias Gehrmann]]
+[[producers/Cary August]]

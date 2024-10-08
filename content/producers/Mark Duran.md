@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/3E5MVyUWzYgP4G10OA25ig
 
 **Related artists:**
 
-[[Martin Kromar]]
-[[Peter Schmidtbauer]]
-[[Harald-Ingemar Noiges]]
-[[Fritz Jerey]]
-[[Kurt Keinrath]]
+[[producers/Martin Kromar]]
+[[producers/Peter Schmidtbauer]]
+[[producers/Harald-Ingemar Noiges]]
+[[producers/Fritz Jerey]]
+[[producers/Kurt Keinrath]]
 [[Malle-Kalle]]
-[[David Bronner]]
-[[Thomas Spitzer]]
-[[Franz Kreimer]]
+[[producers/David Bronner]]
+[[producers/Thomas Spitzer]]
+[[producers/Franz Kreimer]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

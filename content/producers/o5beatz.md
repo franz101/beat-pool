@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0d7nHXd8RTBUyN8LZemsqb
 **Related artists:**
 
 [[Jerome]]
-[[DVDN]]
+[[producers/DVDN]]

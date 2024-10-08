@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2eYQ3xCgZtpkVQNgXlpuRs
 
 **Related artists:**
 
-[[Patrick Lange]]
+[[producers/Patrick Lange]]

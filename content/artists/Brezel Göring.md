@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/41yfCvrv6VIYLyIDCLqTKM
 
 [[Beatsteaks]]
 [[Stereo Total]]
-[[Moses Schneider]]
+[[producers/Moses Schneider]]

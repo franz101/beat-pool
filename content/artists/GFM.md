@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/1FXGKRiVzLEDCebusyZEfh
 **Related artists:**
 
 [[Haci Bey]]
-[[Beatzeps]]
+[[producers/Beatzeps]]
 [[Manuellsen]]
 [[SYK]]
 [[Ado Novo]]
-[[Hamudy]]
+[[producers/Hamudy]]
 [[Juh-Dee]]
 [[Mesh]]

@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/4SGKq6xctms5RtoGaFnCnc
 **Related artists:**
 
 [[Julia Engelmann]]
-[[Ali Zuckowski]]
-[[Marcel Heym]]
-[[Djorkaeff]]
-[[Beatzarre]]
-[[Daniel Grunenberg]]
-[[Simon Triebel]]
+[[producers/Ali Zuckowski]]
+[[producers/Marcel Heym]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
+[[producers/Daniel Grunenberg]]
+[[producers/Simon Triebel]]
 [[Glasperlenspiel]]
 [[SDP]]
 [[Sarah Connor]]

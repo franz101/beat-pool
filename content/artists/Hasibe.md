@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1xyNnZuKZlrJqxFRg43JyV
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2015d106364b9f9c3fc63a58)
 **Related artists:**
 
-[[Joost Jellema]]
+[[producers/Joost Jellema]]
 [[Umut Timur]]

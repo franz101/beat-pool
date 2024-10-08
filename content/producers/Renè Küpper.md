@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/0zTjNTA17tqwHBaG6RlqnR
 
 [[DJ Digress]]
 [[Pulsedriver]]
-[[Dennis Horstmann]]
+[[producers/Dennis Horstmann]]

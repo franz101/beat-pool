@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/4RVBHXd0cu2qrEyv8jVjQZ
 **Related artists:**
 
 [[Extrabreit]]
-[[Joachim Heider]]
-[[Manfred Neuner]]
-[[H.S. Produktion]]
+[[producers/Joachim Heider]]
+[[producers/Manfred Neuner]]
+[[producers/H.S. Produktion]]

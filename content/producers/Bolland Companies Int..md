@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0KlgI6uQCQLJ5URL8bvFy0
 
 **Related artists:**
 
-[[Rob Bolland & Ferdi Bolland for Le Disque Holland B.V.]]
+[[producers/Rob Bolland & Ferdi Bolland for Le Disque Holland B.V.]]
 [[Falco]]

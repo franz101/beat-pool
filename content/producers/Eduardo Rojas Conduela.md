@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/3eeJKkd3CKUiMuArehZ0T3
 [[Sadat X]]
 [[Matiah Chinaski]]
 [[El Da Sensei]]
-[[Kurt Tallert]]
+[[producers/Kurt Tallert]]
 [[Raw Poetic]]
 [[Plastic Surgeon]]
 [[Fleur Earth]]

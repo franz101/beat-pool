@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/4lRkNAQP2nJV4rj3CjkdXd
 **Related artists:**
 
 [[Specktakel]]
-[[Daniel Barbosa]]
+[[producers/Daniel Barbosa]]
 [[Mia Julia]]
 [[Sabbotage]]
 [[Jay Ventura]]

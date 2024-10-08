@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/5GBl1D2wTdYnNbmOVBfl87
 **Related artists:**
 
 [[Loop]]
-[[Dollaphil]]
+[[producers/Dollaphil]]
 [[YAEL]]
 [[Peso]]
 [[essow]]
 [[Meydo]]
-[[Johnny Good]]
+[[producers/Johnny Good]]
 [[Luciano]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1K0l2Gvaj3A7rsoxg86Hw2
 
 **Related artists:**
 
-[[Max Martin]]
+[[producers/Max Martin]]
 [[E-Type]]
-[[John Amatiello]]
+[[producers/John Amatiello]]
 [[Nana Hedin]]
-[[Rami]]
+[[producers/Rami]]

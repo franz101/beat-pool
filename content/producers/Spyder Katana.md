@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3GYxki5LbWDYqBlUfyzuCu
 
 **Related artists:**
 
-[[CADENCE]]
+[[producers/CADENCE]]
 [[LUVRE47]]

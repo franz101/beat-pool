@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/4Jd9XCHzRXTB7ZPPVzJoUm
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba218155d6e927f4814452ce3)
 **Related artists:**
 
-[[Sonnek]]
-[[47 Shots]]
+[[producers/Sonnek]]
+[[producers/47 Shots]]
 [[AriBeatz]]
-[[Nikolai Potthoff]]
-[[Kostas Karagiozidis]]
-[[Kyree]]
-[[The Placements]]
+[[producers/Nikolai Potthoff]]
+[[producers/Kostas Karagiozidis]]
+[[producers/Kyree]]
+[[producers/The Placements]]
 [[Mikael]]

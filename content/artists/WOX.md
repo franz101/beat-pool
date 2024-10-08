@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9
 
 [[Krey]]
 [[AzudemSK]]
-[[Maximilian Woltering]]
+[[producers/Maximilian Woltering]]
 [[Posti]]
 [[Firstar]]
 [[Slowy]]

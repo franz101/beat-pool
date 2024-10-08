@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/647lzSJQDyYGmPtTl6LWjH
 
 **Related artists:**
 
-[[Boys Noize]]
-[[S1KK]]
+[[producers/Boys Noize]]
+[[producers/S1KK]]
 [[Ralph Möbius]]
 [[Rio Reiser]]
 [[MU$A386]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6xgjGi1VcGindoaxTwGvti
 
 **Related artists:**
 
-[[Simes Branxons]]
+[[producers/Simes Branxons]]
 [[Bass Sultan Hengzt]]

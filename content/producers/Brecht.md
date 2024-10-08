@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/01ubxuz7YpUfQEpm6tyy6T
 
 **Related artists:**
 
-[[David Hofmann]]
+[[producers/David Hofmann]]
 [[Bausa]]
 [[Jugglerz]]
 [[The Cratez]]

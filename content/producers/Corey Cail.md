@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6Et608wPPvkh22NeroT01q
 
 **Related artists:**
 
-[[Don Alfonso]]
+[[producers/Don Alfonso]]
 [[Estikay]]

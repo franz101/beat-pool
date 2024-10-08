@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/6deCZDhOif2UZ62Cjx7sra
 ![Artist](https://i.scdn.co/image/ab67616d0000b27384fd626acbd08d5c64fd2841)
 **Related artists:**
 
-[[Djorkaeff]]
-[[Beatzarre]]
-[[Abaz]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
+[[producers/Abaz]]
 [[Eko Fresh]]
 [[Baader-Meinhof Bande]]
 [[Timati]]
 [[Kay One]]
 [[Kns Tha Engineer]]
-[[3nity]]
+[[producers/3nity]]

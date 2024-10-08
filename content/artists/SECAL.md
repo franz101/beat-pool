@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0JvFrVdseLny1IRN5enIG5
 **Related artists:**
 
 [[Xhea]]
-[[Pascal Hendrick]]
+[[producers/Pascal Hendrick]]

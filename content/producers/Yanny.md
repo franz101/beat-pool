@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7o250NwRTOtcp4aCF5P291
 **Related artists:**
 
 [[Pulsedriver]]
-[[Schuby]]
+[[producers/Schuby]]
 [[Langenhagen]]
 [[Gollum]]

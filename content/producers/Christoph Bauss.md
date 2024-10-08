@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7zkzbBZeSS1A8LYmQksel0
 
 **Related artists:**
 
-[[Ruck P]]
+[[producers/Ruck P]]
 [[Cro]]
-[[BASTi]]
+[[producers/BASTi]]

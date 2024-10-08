@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/01z33APS3baBySwHtLZuhK
 
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[Da Hool]]
 [[Patrick Pöhl]]
 [[Harris & Ford]]

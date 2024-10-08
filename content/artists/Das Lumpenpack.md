@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/1yoERhqOE1iKKzKELHhEWM
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb657278107a7804c5736802e6)
 **Related artists:**
 
-[[Alexander Werth]]
-[[Alex Werth]]
+[[producers/Alexander Werth]]
+[[producers/Alex Werth]]
 [[Kurt Ebelhäuser]]
 [[Albrecht Schrader]]
-[[Christian Becker]]
-[[Milan Hofmann]]
-[[Niko Faust]]
+[[producers/Christian Becker]]
+[[producers/Milan Hofmann]]
+[[producers/Niko Faust]]

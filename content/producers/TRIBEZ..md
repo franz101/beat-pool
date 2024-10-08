@@ -21,7 +21,7 @@ url: https://open.spotify.com/artist/5xokgYo3SoZ7alvWyTrWJ8
 [[Afrob]]
 [[Roger Rekless]]
 [[Knixx]]
-[[Gibmafuffi]]
+[[producers/Gibmafuffi]]
 [[Meli]]
 [[Ferris MC]]
 [[Gentleman]]

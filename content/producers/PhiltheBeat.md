@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7DpX9vBq1Jd51upi4Vlxfy
 **Related artists:**
 
 [[Mike Singer]]
-[[Joshimixu]]
+[[producers/Joshimixu]]
 [[Henrik Böhl]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Juh-Dee]]
 [[Fabian F.R. Römer]]

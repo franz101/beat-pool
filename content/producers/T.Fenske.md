@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/1dKDcbqgMfr9iC14lTQ91x
 **Related artists:**
 
 [[Pulsedriver]]
-[[A.Coon]]
+[[producers/A.Coon]]
 [[ZIGGY X]]
 [[Coon & ZX]]
 [[Jumper]]
-[[P. Wiechmann]]
+[[producers/P. Wiechmann]]

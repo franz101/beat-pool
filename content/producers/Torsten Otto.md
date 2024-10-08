@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5wJacKQu4Nx9h50pfdYfmd
 
 **Related artists:**
 
-[[Moses Schneider]]
+[[producers/Moses Schneider]]
 [[Bosse]]

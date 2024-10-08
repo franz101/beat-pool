@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3L4jZjtow279IvWfZHvQCw
 
 **Related artists:**
 
-[[oholliedidit]]
+[[producers/oholliedidit]]
 [[Laruzo]]

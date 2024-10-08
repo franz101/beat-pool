@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/4vEIMa1vuh2eKBryiepN8c
 **Related artists:**
 
 [[Yung Jannky]]
-[[bzad]]
+[[producers/bzad]]

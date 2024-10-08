@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6HfgI8PY2rkpmYpRdjU6bb
 
 [[KAY AY]]
 [[Azan]]
-[[Maikel Schulist]]
+[[producers/Maikel Schulist]]
 [[King Khalil]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5ilcQj79vxjS1ZwOHL9Lrl
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb54edb7afd85d5fe61a6844c0)
 **Related artists:**
 
-[[Mathias Roska]]
-[[Jeo Koba]]
+[[producers/Mathias Roska]]
+[[producers/Jeo Koba]]

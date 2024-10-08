@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4D3x3RIhNJZJiRMmAKmKt7
 **Related artists:**
 
 [[Glasperlenspiel]]
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]

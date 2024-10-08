@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7MN09WaRG1dsz6PtZg0CCD
 
 **Related artists:**
 
-[[TwoSeven]]
+[[producers/TwoSeven]]
 [[Sugar MMFK]]

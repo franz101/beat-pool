@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2rptU0EMP0UeffCpxnP27s
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Andre Ulmke]]
+[[producers/Andre Ulmke]]

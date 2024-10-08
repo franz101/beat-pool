@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/5VCHtSQ6ny9UKiBiRBwbtk
 [[Lukas Hällgren]]
 [[Luca Hänni]]
 [[Sunlike Brothers]]
-[[Laurell Barker]]
-[[Pele Loriano]]
+[[producers/Laurell Barker]]
+[[producers/Pele Loriano]]

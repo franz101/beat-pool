@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2C96EiC31j0ktYhHpUutPC
 
 **Related artists:**
 
-[[DJ Vito]]
-[[Jake]]
+[[producers/DJ Vito]]
+[[producers/Jake]]
 [[Samy Deluxe]]
-[[Johannes Arzberger]]
+[[producers/Johannes Arzberger]]

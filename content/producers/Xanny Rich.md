@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1yRIsRyZNtZjAyzpkOUQYO
 **Related artists:**
 
 [[Murcy]]
-[[Steve Giant]]
+[[producers/Steve Giant]]
 [[Aidy]]

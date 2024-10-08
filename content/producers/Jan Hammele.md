@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/5VXqxOKZBWbafMEN5O03MI
 
 **Related artists:**
 
-[[Andreas Huber]]
-[[Frans Zimmer]]
-[[Marian Heim]]
+[[producers/Andreas Huber]]
+[[producers/Frans Zimmer]]
+[[producers/Marian Heim]]
 [[Schmyt]]
 [[Megaloh]]
 [[Alle Farben]]
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]
 [[Graham Candy]]

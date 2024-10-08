@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5SpHQasdZkIx2RFJzvBBsD
 **Related artists:**
 
 [[Mert]]
-[[Bledbeats]]
+[[producers/Bledbeats]]

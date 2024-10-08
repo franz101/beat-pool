@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6JgU5XycK1JQ9FUUv0v1Sh
 **Related artists:**
 
 [[Satellite Robots]]
-[[Andy Jay Powell]]
+[[producers/Andy Jay Powell]]
 [[Sal De Sol]]
-[[Faith Albrecht]]
-[[Fait Albrecht]]
+[[producers/Faith Albrecht]]
+[[producers/Fait Albrecht]]
 [[Satelite Robots]]
-[[Drop Box]]
+[[producers/Drop Box]]

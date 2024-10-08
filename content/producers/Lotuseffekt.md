@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6sfEOiyxFsTyBCozlxsl1H
 **Related artists:**
 
 [[G.G.B]]
-[[Youslaccin]]
+[[producers/Youslaccin]]
 [[VOLO]]
 [[Skew]]
 [[Kwam.E]]

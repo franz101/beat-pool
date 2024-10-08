@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/383oETDEKIqNlLQKbse82n
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6447a4df71e8b1f2a6511467)
 **Related artists:**
 
-[[RJacksProdz & Masta]]
-[[Darko Beats]]
-[[NIF]]
+[[producers/RJacksProdz & Masta]]
+[[producers/Darko Beats]]
+[[producers/NIF]]

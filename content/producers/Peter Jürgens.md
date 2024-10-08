@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/02Q8XJbW5aGlxhbokidDjt
 
 **Related artists:**
 
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[H. Kenneth]]
 [[Chill Mafia]]
 [[Alle Farben]]

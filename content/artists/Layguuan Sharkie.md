@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4d4yM4RYWL7DgJhBJ8xsvI
 **Related artists:**
 
 [[Clueso]]
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[MC Metaphysics]]
 [[Stir M]]
 [[Axel Hilgenstöhler]]

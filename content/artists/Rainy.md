@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5xErDcZ0jfe480FJdN7dMj
 **Related artists:**
 
 [[Giga Dance]]
-[[Denis Lehmann]]
-[[Dennis Logemann]]
+[[producers/Denis Lehmann]]
+[[producers/Dennis Logemann]]

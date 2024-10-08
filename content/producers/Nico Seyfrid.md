@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/7eTgHvznEgWXtzQZ7HqUHD
 
 **Related artists:**
 
-[[Benny Blanco]]
+[[producers/Benny Blanco]]
 [[Said]]
 [[Mach One]]
-[[Moses Schneider]]
-[[Grzegorz Olszowka]]
+[[producers/Moses Schneider]]
+[[producers/Grzegorz Olszowka]]
 [[Sefo]]
 [[Smokey Jones]]
 [[MC Motherfucker]]
@@ -23,10 +23,10 @@ url: https://open.spotify.com/artist/7eTgHvznEgWXtzQZ7HqUHD
 [[Kuba]]
 [[Defi]]
 [[Wolfgang Wendland]]
-[[Kev'beats]]
+[[producers/Kev'beats]]
 [[Yassin]]
-[[Philipp Hoppen]]
-[[Gee Futuristic]]
+[[producers/Philipp Hoppen]]
+[[producers/Gee Futuristic]]
 [[Henning May]]
 [[Bärbel Rotzky]]
 [[K.I.Z]]

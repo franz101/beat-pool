@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/29V61i5jmVdfLSUWb5CP12
 
 **Related artists:**
 
-[[DJ DeeVoe]]
-[[Issa Vibe]]
+[[producers/DJ DeeVoe]]
+[[producers/Issa Vibe]]
 [[Jalil]]

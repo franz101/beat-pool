@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/3N9gWfcwa6002PZnaKfe4v
 
 [[Kristoffer Hünecke]]
 [[Revolverheld]]
-[[Johannes Strate]]
-[[Jakob Sinn]]
+[[producers/Johannes Strate]]
+[[producers/Jakob Sinn]]
 [[Marta Jandová]]
 [[Niels Grötsch]]
-[[Moritz Enders]]
-[[Florian Speer]]
+[[producers/Moritz Enders]]
+[[producers/Florian Speer]]

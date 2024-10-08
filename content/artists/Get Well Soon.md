@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/747B3lhFN6MsexRBAdYC9s
 [[Sam Vance-Law]]
 [[Kat Frankie]]
 [[Ghalia Benali]]
-[[Marcus Wuest]]
-[[Konstantin Gropper]]
+[[producers/Marcus Wuest]]
+[[producers/Konstantin Gropper]]

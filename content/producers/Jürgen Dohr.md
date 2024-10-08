@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/40iCFTViGfF5OeXV13or0J
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Dennis Bierbrodt]]
 [[Alle Farben]]
 [[Stefanie Heinzmann]]

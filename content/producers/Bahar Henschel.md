@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2EQtt793NdMKX0TOE7941o
 
 **Related artists:**
 
-[[Andreas John]]
+[[producers/Andreas John]]
 [[Samra]]
-[[Lukas Piano]]
-[[Djorkaeff]]
+[[producers/Lukas Piano]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
+[[producers/Beatzarre]]

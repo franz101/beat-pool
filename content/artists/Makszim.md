@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0mU42fyKw8E5ZMzyeLCp2X
 **Related artists:**
 
 [[Klubbingman]]
-[[Naksi & Brunner]]
+[[producers/Naksi & Brunner]]
 [[RainDropz!]]

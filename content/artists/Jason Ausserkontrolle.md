@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/7dTGk2ERMRXfrc2FE9oxQp
 [[Goldfinger]]
 [[AK AUSSERKONTROLLE]]
 [[Pablokk Ausserkontrolle]]
-[[Hndrc]]
+[[producers/Hndrc]]

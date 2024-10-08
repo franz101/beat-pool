@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4Vogd5udttAXvImji1Pz9u
 
 **Related artists:**
 
-[[DJ Salicious]]
+[[producers/DJ Salicious]]
 [[ABS]]

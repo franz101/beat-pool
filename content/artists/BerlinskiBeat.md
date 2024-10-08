@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4LshsguRJVXyzCUZMxv2I7
 **Related artists:**
 
 [[Corvus Corax]]
-[[Norbert Drescher]]
-[[Karsten Liehm]]
+[[producers/Norbert Drescher]]
+[[producers/Karsten Liehm]]

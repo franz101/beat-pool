@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7bMATPPvkKghrJukA4MtKu
 
 [[TJ_beastboy]]
 [[fliggsy]]
-[[Simon Vogt]]
+[[producers/Simon Vogt]]
 [[lulu]]
 [[TJ_babybrain]]

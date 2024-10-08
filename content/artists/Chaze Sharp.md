@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0LxE6wVYaO1r5GEL1eiBeQ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb24c57b72b43b9d11a1d0132b)
 **Related artists:**
 
-[[Cozy From Earth]]
-[[Yottsu]]
+[[producers/Cozy From Earth]]
+[[producers/Yottsu]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz
 ![Artist](https://i.scdn.co/image/8d3e5e7bf70fe107b338556fcffbe575e9ac453c)
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[G-Style]]
 [[Kool Savas]]
 [[DJ Tomekk]]

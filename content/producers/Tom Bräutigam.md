@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0Zfsg7cMYadsrQAeoP4mn4
 **Related artists:**
 
 [[Die halbtoten Bierologen]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[Ikke Hüftgold]]
-[[Michael Matuschek]]
+[[producers/Michael Matuschek]]
 [[Lorenz Büffel]]

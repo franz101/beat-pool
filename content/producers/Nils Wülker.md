@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/0GvUvYAa4rXdQt217NuE7o
 
 [[Samy Deluxe]]
 [[Lina Maly]]
-[[Michael Vajna]]
+[[producers/Michael Vajna]]

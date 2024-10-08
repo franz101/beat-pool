@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3EmYIqAvz1smFsjZrnC0Av
 
 **Related artists:**
 
-[[Pat Benzner]]
+[[producers/Pat Benzner]]
 [[Madeline Juno]]
-[[Christian Fleps]]
-[[Valentin Stilu]]
+[[producers/Christian Fleps]]
+[[producers/Valentin Stilu]]
 [[Yvonne Catterfeld]]

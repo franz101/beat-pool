@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/23yioBsjIiAuTWzNdbgGQf
 **Related artists:**
 
 [[Stanfour]]
-[[Alex Rethwisch]]
-[[Nikodem Milewski]]
+[[producers/Alex Rethwisch]]
+[[producers/Nikodem Milewski]]

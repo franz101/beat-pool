@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/5tP111bWPxt7roBUsLxYOB
 
 **Related artists:**
 
-[[Artem]]
-[[Murat Weshah]]
+[[producers/Artem]]
+[[producers/Murat Weshah]]
 [[Sero]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Noah]]
 [[Xiara]]
-[[Christoph Bauer]]
-[[Murad Weshah]]
+[[producers/Christoph Bauer]]
+[[producers/Murad Weshah]]
 [[Fero47]]

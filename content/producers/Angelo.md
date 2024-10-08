@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/55KoQNSCptepnIXLUJPZvJ
 **Related artists:**
 
 [[Sokko167]]
-[[Perino]]
+[[producers/Perino]]
 [[Albozz]]

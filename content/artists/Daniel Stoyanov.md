@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/0ifWmj8tpb72PmMFjY23JC
 **Related artists:**
 
 [[Megaloh]]
-[[Cronite]]
+[[producers/Cronite]]
 [[Max Herre]]
 [[Farhot]]
 [[Azad]]
 [[Xavier Naidoo]]
 [[Tino Oac]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]

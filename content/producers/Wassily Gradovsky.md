@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2j4joiRDjBohCT17FlqgXN
 **Related artists:**
 
 [[Jonas Monar]]
-[[Pascal Reinhardt]]
-[[Tom Deininger]]
+[[producers/Pascal Reinhardt]]
+[[producers/Tom Deininger]]
 [[Ambre Vallet]]

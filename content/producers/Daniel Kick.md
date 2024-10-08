@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2XZUaZCi8yaCAu3Xlyllrt
 **Related artists:**
 
 [[H-Blockx]]
-[[George Glueck]]
-[[Jan Loechel]]
+[[producers/George Glueck]]
+[[producers/Jan Loechel]]

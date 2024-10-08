@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4ER6hXMrXHYDiTtE8Zn24y
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Peter Miklis]]
-[[Heiner Lurig]]
+[[producers/Peter Miklis]]
+[[producers/Heiner Lurig]]

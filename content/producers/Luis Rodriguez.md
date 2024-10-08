@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3UVoBPCrKG8mz9NVFgmAPn
 **Related artists:**
 
 [[Azuquita]]
-[[Dieter Weidenfeld]]
-[[Amadeus Crotti]]
+[[producers/Dieter Weidenfeld]]
+[[producers/Amadeus Crotti]]
 [[Matthias Reim]]
 [[Philippe Escaño]]

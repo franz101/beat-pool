@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4nwiv0ZarqoPeEOroLuW8E
 
 **Related artists:**
 
-[[YenoBeatz]]
+[[producers/YenoBeatz]]
 [[Seronym]]
 [[Cemo]]

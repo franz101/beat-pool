@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6nu7K2oEe8fufHOnHIAGm4
 **Related artists:**
 
 [[Nikky Santoro]]
-[[C.Numan]]
+[[producers/C.Numan]]
 [[Luciano]]

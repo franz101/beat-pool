@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7vk4kF6jEUJSO0OwCYiEE2
 
 **Related artists:**
 
-[[Shootdown]]
+[[producers/Shootdown]]
 [[Olexesh]]
 [[La Fouine]]
 [[CALO]]

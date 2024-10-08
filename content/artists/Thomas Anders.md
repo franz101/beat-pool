@@ -24,7 +24,7 @@ url: https://open.spotify.com/artist/5YST2BJLoQVVhyXoZfbCZ0
 [[Stefan Mross]]
 [[Semino Rossi]]
 [[Sotiria]]
-[[Christian Geller]]
+[[producers/Christian Geller]]
 [[DJ Ötzi]]
 [[Ross Antony]]
 [[Hartmut Wessling]]

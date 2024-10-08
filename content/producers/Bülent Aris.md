@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5uiibYRpd1EQ79uwULf5Kr
 
 **Related artists:**
 
-[[George Glueck]]
-[[Sugar P.]]
+[[producers/George Glueck]]
+[[producers/Sugar P.]]
 [[Sarah Connor]]
-[[Dirk van Gercum]]
+[[producers/Dirk van Gercum]]
 [[TQ]]

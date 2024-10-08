@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27
 [[Rim'K]]
 [[Farid Bang]]
 [[Majoe]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Juh-Dee]]
-[[XPLOSIVE]]
+[[producers/XPLOSIVE]]

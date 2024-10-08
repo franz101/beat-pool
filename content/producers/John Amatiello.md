@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3rkdifhh6aXL0fqoeqz1Lo
 
 **Related artists:**
 
-[[Kristian Lundin]]
-[[Max Martin]]
+[[producers/Kristian Lundin]]
+[[producers/Max Martin]]
 [[E-Type]]
 [[Nana Hedin]]
-[[Rami]]
+[[producers/Rami]]

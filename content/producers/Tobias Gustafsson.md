@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1YZsJEiY1ipKZGN8ZYwD8I
 
 **Related artists:**
 
-[[Vincent Pontare]]
-[[Michel Zitron]]
+[[producers/Vincent Pontare]]
+[[producers/Michel Zitron]]
 [[No Angels]]

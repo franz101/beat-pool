@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1We5uNTBRiUPhx6IRbM929
 
 **Related artists:**
 
-[[The Royals]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[Bonez MC]]
 [[RAF Camora]]

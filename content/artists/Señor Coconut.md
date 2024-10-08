@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6rATWMhuTXfhBqtB3IQRWd
 
 **Related artists:**
 
-[[Senior Coconut]]
+[[producers/Senior Coconut]]
 [[Stephan Remmler]]

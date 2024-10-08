@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3077p6JBlU54xTNsgDWPBt
 **Related artists:**
 
 [[Dirk Michaelis]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Matthias Reim]]
-[[Werner Becker]]
+[[producers/Werner Becker]]

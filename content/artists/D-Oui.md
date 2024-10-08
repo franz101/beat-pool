@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0zAAlDku2WCUVq7IOs8THh
 **Related artists:**
 
 [[Bato]]
-[[Gorex]]
+[[producers/Gorex]]

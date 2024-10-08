@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/2FWdtw1n0CyZtpCAA7TLos
 [[Noahweh]]
 [[Vitus04]]
 [[Caso]]
-[[WELLBEATZ]]
+[[producers/WELLBEATZ]]
 [[Gabrielatino]]

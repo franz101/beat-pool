@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0JBmbbV6ealraDlDlWDMdS
 
 **Related artists:**
 
-[[HARDY]]
+[[producers/HARDY]]
 [[SLAV]]
 [[Disko Jürgen]]

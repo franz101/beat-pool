@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1vWdziedgsLXS3wfCczUrd
 
 **Related artists:**
 
-[[Tobias Cordes]]
+[[producers/Tobias Cordes]]
 [[Demba Nabé]]
 [[Seeed]]
-[[Dubmaster Reibold]]
+[[producers/Dubmaster Reibold]]

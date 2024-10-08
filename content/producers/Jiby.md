@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7bATZAB5MwrIBF2VNOOHjM
 
 **Related artists:**
 
-[[24seven]]
+[[producers/24seven]]
 [[24Seven]]
 [[MAJAN]]
 [[Savvy]]
-[[HARDY]]
+[[producers/HARDY]]
 [[SLAV]]

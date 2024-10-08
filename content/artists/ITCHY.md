@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/42pWilgI9MEZARoTtGHNR4
 
 [[Guido Donots]]
 [[Charlotte the Subways]]
-[[Sebastian Madsen]]
+[[producers/Sebastian Madsen]]
 [[Christoph von Freydorf]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2b6e1tOaVlLfBEOOvoJUZ4
 
 **Related artists:**
 
-[[Dee Mullen]]
+[[producers/Dee Mullen]]
 [[Jürgen Drews]]

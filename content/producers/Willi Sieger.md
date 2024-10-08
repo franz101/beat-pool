@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/394i0t6xzVNBsGAswBnaco
 
 **Related artists:**
 
-[[Johannes Bruhns]]
+[[producers/Johannes Bruhns]]
 [[Tristan Brusch]]
-[[Joe Joaquin]]
+[[producers/Joe Joaquin]]
 [[Daniel Strohhäcker]]
-[[Marlon Tubach]]
+[[producers/Marlon Tubach]]
 [[Charlotte Brandi]]
-[[Fabian Simon]]
+[[producers/Fabian Simon]]

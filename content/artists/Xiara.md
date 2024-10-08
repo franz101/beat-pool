@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/0A6OfD8GWLEGjoudKJqadn
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1a9a9bf12b2442da8062ee96)
 **Related artists:**
 
-[[DJ Gan-G]]
-[[Alex Isaak]]
+[[producers/DJ Gan-G]]
+[[producers/Alex Isaak]]
 [[Dardan]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Noah]]
-[[Lars Wiedemann]]
-[[Christoph Bauer]]
-[[MENJU]]
+[[producers/Lars Wiedemann]]
+[[producers/Christoph Bauer]]
+[[producers/MENJU]]

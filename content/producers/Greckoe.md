@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/4SjZ5jaqEsCWqN9Fi1csOH
 
 **Related artists:**
 
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[B-Tight]]
 [[Schwartz]]
-[[Kordi]]
+[[producers/Kordi]]
 [[Samra]]
 [[Grüne Medizin]]
 [[Sido]]
@@ -23,6 +23,6 @@ url: https://open.spotify.com/artist/4SjZ5jaqEsCWqN9Fi1csOH
 [[Freddy Cool]]
 [[Capital Bra]]
 [[Ano]]
-[[Lukas Piano]]
+[[producers/Lukas Piano]]
 [[Blokkmonsta]]
 [[MOK]]

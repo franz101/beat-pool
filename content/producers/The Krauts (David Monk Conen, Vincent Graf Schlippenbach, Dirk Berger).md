@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3hH8vaCclBNcbrvVVFte00
 
 **Related artists:**
 
-[[Ben Burgwinkel]]
+[[producers/Ben Burgwinkel]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

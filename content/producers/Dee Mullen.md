@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2BT6NEuRThFJXDnEvKIbve
 **Related artists:**
 
 [[Jürgen Drews]]
-[[Sam Tyson]]
+[[producers/Sam Tyson]]

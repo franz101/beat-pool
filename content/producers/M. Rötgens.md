@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3f6z4ILcOuUD3lSANXamfz
 
 **Related artists:**
 
-[[H. Weßling]]
+[[producers/H. Weßling]]
 [[Jürgen Drews]]
-[[Schotten]]
-[[Wessling]]
+[[producers/Schotten]]
+[[producers/Wessling]]
 [[Anna-Maria Zimmermann]]

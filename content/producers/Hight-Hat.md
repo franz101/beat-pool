@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3q4toTdgtoPJv3bluKUeeC
 **Related artists:**
 
 [[Azad]]
-[[Brisk Fingaz]]
+[[producers/Brisk Fingaz]]
 [[Kool Savas]]
 [[Havoc]]
 [[Moe Mitchell]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0ZCbxUPZReHqmDsGmiRvL1
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb302b577483ea4170a5556234)
 **Related artists:**
 
-[[Hitimpulse]]
-[[Jules Kalmbacher]]
-[[Michael Geldreich]]
+[[producers/Hitimpulse]]
+[[producers/Jules Kalmbacher]]
+[[producers/Michael Geldreich]]

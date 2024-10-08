@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/3PihrdYPum427GB47aMw9b
 
 **Related artists:**
 
-[[Alex Christensen]]
+[[producers/Alex Christensen]]

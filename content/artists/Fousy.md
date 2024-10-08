@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/5m5jOEY3vP5uJvzzKcuXYS
 **Related artists:**
 
 [[Ardian Bujupi]]
-[[Jermaine P.]]
-[[Zinobeatz]]
+[[producers/Jermaine P.]]
+[[producers/Zinobeatz]]
 [[Kurdo]]
-[[Reflectionz]]
+[[producers/Reflectionz]]
 [[Payy]]
-[[6 AM]]
+[[producers/6 AM]]
 [[Majoe]]

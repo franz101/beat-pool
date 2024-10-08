@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6v0Yp5tDocoXO2P7snApiE
 
 **Related artists:**
 
-[[Sven Greiner]]
-[[Stephan Drobez]]
+[[producers/Sven Greiner]]
+[[producers/Stephan Drobez]]
 [[2-4 Grooves]]
 [[2g]]

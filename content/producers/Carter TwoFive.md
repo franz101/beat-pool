@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3wNpZc3Tu1hNpYR2nwlF6b
 
 **Related artists:**
 
-[[MulaGoHard]]
-[[Richie The God]]
+[[producers/MulaGoHard]]
+[[producers/Richie The God]]
 [[negatiiv OG]]
 [[FGUN $HAKI]]

@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/33IbBrUgSIJefbsC9aZ5Cr
 
 [[Azad]]
 [[Godsilla]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]

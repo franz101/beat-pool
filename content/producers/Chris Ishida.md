@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2LnLLBdWh2hUFrJM5KPeq9
 **Related artists:**
 
 [[Kalazh44]]
-[[JYDN]]
+[[producers/JYDN]]

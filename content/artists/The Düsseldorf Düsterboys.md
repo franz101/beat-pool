@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/42hIWukHXzWTMKks7XoD5F
 
 [[Erobique]]
 [[Die Sterne]]
-[[Jan Philipp Janzen]]
+[[producers/Jan Philipp Janzen]]

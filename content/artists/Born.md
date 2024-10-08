@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5Yu5XyitBvE2HBcYHa024Q
 
 **Related artists:**
 
-[[Drumz N' Roses]]
+[[producers/Drumz N' Roses]]
 [[Bleck]]
 [[Lean]]
 [[Twin]]

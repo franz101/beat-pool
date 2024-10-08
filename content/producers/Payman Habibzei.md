@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1u4vYdoxfBLR7bh4Jbb3c5
 **Related artists:**
 
 [[Paula Douglas]]
-[[Alican Yilmaz]]
+[[producers/Alican Yilmaz]]

@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy
 **Related artists:**
 
 [[Tizudemjay]]
-[[Palazzo]]
-[[24seven]]
+[[producers/Palazzo]]
+[[producers/24seven]]
 [[Kapito]]
 [[Savvy]]
 [[Raffi Balboa]]
 [[SLAV]]
-[[LOSTTOURIST]]
-[[Jiby]]
+[[producers/LOSTTOURIST]]
+[[producers/Jiby]]

@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/6yGWFeQnzd4husIekn4Qa0
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3bd71e8c4ee8c050234437e5)
 **Related artists:**
 
-[[Odean]]
+[[producers/Odean]]
 [[Young Richie Rich]]
 [[OJ]]
-[[Kushbringer]]
+[[producers/Kushbringer]]
 [[JEEZA]]
 [[NOK1D]]
 [[dusy]]
-[[Moula020]]
+[[producers/Moula020]]
 [[basi]]
-[[Yung Swisher]]
+[[producers/Yung Swisher]]
 [[Yung Vision]]
-[[Yungfuel]]
+[[producers/Yungfuel]]
 [[absent]]

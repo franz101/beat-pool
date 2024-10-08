@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/41wLmqyw1y8xvPOwUmADpR
 **Related artists:**
 
 [[Das Lumpenpack]]
-[[Alexander Werth]]
-[[Florian Sievers]]
-[[Niko Faust]]
+[[producers/Alexander Werth]]
+[[producers/Florian Sievers]]
+[[producers/Niko Faust]]
 [[Das Paradies]]

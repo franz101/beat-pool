@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2X5oksAOXeErzcrx8ClaJn
 **Related artists:**
 
 [[Milow]]
-[[Yannick Ernst]]
+[[producers/Yannick Ernst]]
 [[Julia Engelmann]]
 [[Nico Santos]]
 [[Philipp Schwär]]
@@ -20,8 +20,8 @@ url: https://open.spotify.com/artist/2X5oksAOXeErzcrx8ClaJn
 [[Nisse]]
 [[Michael Schulte]]
 [[Lena]]
-[[Steddy]]
+[[producers/Steddy]]
 [[Sarah Connor]]
 [[Sunrise Avenue]]
-[[Tommy D]]
-[[Beatzarre & Djorkaeff]]
+[[producers/Tommy D]]
+[[producers/Beatzarre & Djorkaeff]]

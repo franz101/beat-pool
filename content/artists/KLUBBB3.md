@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2GgpRPMDuW81boDje4soKs
 **Related artists:**
 
 [[Jürgen Drews]]
-[[Ralf Schedler]]
-[[Wolfgang Moroder]]
+[[producers/Ralf Schedler]]
+[[producers/Wolfgang Moroder]]

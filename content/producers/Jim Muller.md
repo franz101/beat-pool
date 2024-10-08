@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1fHB61xoanJLU9drUOCYMP
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Marc Schettler]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Marc Schettler]]
+[[producers/Hardy Krech]]
 [[Nathan Evans]]
 [[Santiano]]

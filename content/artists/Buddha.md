@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/5tVhlO1blEw862NE6d06ab
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2b3e3881ebe702ef7e4aca94)
 **Related artists:**
 
-[[Erk Gotti]]
+[[producers/Erk Gotti]]
 [[Ayet]]
-[[NVProduction]]
-[[Loony Bin]]
-[[Asic]]
+[[producers/NVProduction]]
+[[producers/Loony Bin]]
+[[producers/Asic]]
 [[AchtVier]]
 [[babyGwolf]]
 [[ZMY DaBeat]]
 [[Ulysse]]
 [[Dennis Kill]]
-[[Kevo]]
+[[producers/Kevo]]

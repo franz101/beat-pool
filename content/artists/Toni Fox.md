@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2QTQp9XLJCNzY0attoZpso
 
 **Related artists:**
 
-[[Sascha Knodel]]
+[[producers/Sascha Knodel]]
 [[Addicted Craze]]

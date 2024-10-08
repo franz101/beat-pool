@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6tNZHg8DS7zzXnIxp3ZTEP
 
 **Related artists:**
 
-[[7evenbeats]]
+[[producers/7evenbeats]]
 [[Diamant]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0DXWXiKdzeKQrTCo8Cyk8P
 
 **Related artists:**
 
-[[Pascal Dickmann]]
+[[producers/Pascal Dickmann]]

@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/16Wkf1RGXdKw4Ncb6iDt7U
 
 [[Nu51]]
 [[Des]]
-[[Emmo]]
+[[producers/Emmo]]
 [[Milonair]]
-[[Kesto]]
+[[producers/Kesto]]

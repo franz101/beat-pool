@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3N4cYzn6HQGkiGCVwdZNPd
 **Related artists:**
 
 [[Sido]]
-[[DJ Desue]]
+[[producers/DJ Desue]]
 [[Figub Brazlevic]]

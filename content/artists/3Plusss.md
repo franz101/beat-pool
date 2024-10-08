@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/7gn8FSibCqWvm96uubcEJk
 **Related artists:**
 
 [[Weekend]]
-[[Bennett On]]
+[[producers/Bennett On]]
 [[Edgar Wasser]]
 [[Fatoni]]
 [[Falco]]
-[[Benjamin Schmidt]]
-[[Peet]]
-[[Peter Winkler]]
+[[producers/Benjamin Schmidt]]
+[[producers/Peet]]
+[[producers/Peter Winkler]]

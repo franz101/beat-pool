@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6aUPvz2DtgDLZABXqhn9dv
 
 **Related artists:**
 
-[[Stefan Wittich]]
+[[producers/Stefan Wittich]]
 [[Moritz Krämer]]

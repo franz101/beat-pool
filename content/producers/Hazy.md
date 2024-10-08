@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5PRzhmLdhRAnx7ofdwNQM7
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Vecz]]
+[[producers/Vecz]]

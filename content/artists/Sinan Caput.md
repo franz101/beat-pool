@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6RUn3ddmDi3EwF5jBp3Za9
 
 **Related artists:**
 
-[[DJ Nicon]]
+[[producers/DJ Nicon]]
 [[Dina Rae]]
 [[Kool Savas]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ
 
 [[Salsa 359]]
 [[Seeed]]
-[[The Krauts]]
+[[producers/The Krauts]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6vttdgYs5mu35jnSb0m3xp
 
 **Related artists:**
 
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]
 [[Diana King]]
 [[Gentleman]]

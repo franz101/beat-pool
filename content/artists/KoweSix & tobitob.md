@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6MAzH3BrEDHEmFDvLSFLMV
 **Related artists:**
 
 [[Beatsteaks]]
-[[Moses Schneider]]
-[[Arnim Teutoburg-Weiß]]
+[[producers/Moses Schneider]]
+[[producers/Arnim Teutoburg-Weiß]]

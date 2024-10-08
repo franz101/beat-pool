@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/38XzWqVgCrssbZ6RdcWwsj
 
 **Related artists:**
 
-[[Eric Philippi]]
+[[producers/Eric Philippi]]
 [[EstA]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1tXnbI4dEr745qceH5hQwa
 
 [[LUIVI]]
 [[YGT]]
-[[Dieter Dietrich]]
+[[producers/Dieter Dietrich]]
 [[Dietrich]]
 [[Inoffiziell.Goldenboy]]
 [[42]]

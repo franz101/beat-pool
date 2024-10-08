@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4TY0CM739ctbIQcWJV5luV
 
 **Related artists:**
 
-[[Mecs Treem]]
+[[producers/Mecs Treem]]
 [[MXM]]
 [[MC Bomber]]
 [[MC Shacke]]
 [[GGB]]
-[[Tis L]]
+[[producers/Tis L]]

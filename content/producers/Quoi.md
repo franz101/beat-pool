@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4KKkIzQeqsWuFcrbbAtkYq
 
 **Related artists:**
 
-[[Marcel Heym]]
+[[producers/Marcel Heym]]
 [[Nena]]

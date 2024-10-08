@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/04tp0kW9Ejo7vuzV3Is41H
 
 **Related artists:**
 
-[[Friedrich Betz]]
+[[producers/Friedrich Betz]]
 [[Wincent Weiss]]

@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/22KJ20qDY03QX0gWqMaqRy
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Richard Franke]]
-[[Marian Heim]]
+[[producers/Frans Zimmer]]
+[[producers/Richard Franke]]
+[[producers/Marian Heim]]
 [[Schmyt]]
 [[Megaloh]]
 [[Alle Farben]]
-[[Sam Schlatow]]
-[[Kilian & Jo]]
+[[producers/Sam Schlatow]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]
 [[Sway Clarke]]
-[[Jan Hammele]]
+[[producers/Jan Hammele]]
 [[Graham Candy]]

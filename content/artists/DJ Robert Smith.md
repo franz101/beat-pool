@@ -19,7 +19,7 @@ url: https://open.spotify.com/artist/0lCIf7rlZEMULTkKq5nBZp
 [[dédé]]
 [[Morlockk Dilemma]]
 [[AzudemSK]]
-[[SkunkJunk]]
+[[producers/SkunkJunk]]
 [[Morlockko Plus]]
 [[Devaloop]]
 [[Lord Folter]]

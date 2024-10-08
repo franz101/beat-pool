@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2N08qNNEjJJtXLrpPb5KL4
 **Related artists:**
 
 [[DJ Analyzer]]
-[[Matthias Gehrmann]]
-[[Dom Toulon]]
+[[producers/Matthias Gehrmann]]
+[[producers/Dom Toulon]]

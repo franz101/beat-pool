@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3hxJ7exqIsY8CkbNh26b4P
 
 **Related artists:**
 
-[[Imre Kis]]
+[[producers/Imre Kis]]
 [[Dj Tht]]
 [[DJ Selecta]]

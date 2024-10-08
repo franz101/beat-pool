@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5l5RxxtywxwYKaKJrl5Vrh
 
 **Related artists:**
 
-[[Tokapi]]
+[[producers/Tokapi]]
 [[Mickie Krause]]
-[[Ully Jonas]]
+[[producers/Ully Jonas]]

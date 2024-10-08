@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/0yLdjHeEDu3Jo5ubIgWDeP
 
 **Related artists:**
 
-[[Tito Tentaculo]]
+[[producers/Tito Tentaculo]]
 [[MXM]]
 [[Tiger]]
-[[Tis L]]
-[[Mecs Treem]]
+[[producers/Tis L]]
+[[producers/Mecs Treem]]
 [[MC Bomber]]
 [[MC Shacke]]

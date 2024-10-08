@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6fXssLzQYpoxghct2qwnTC
 **Related artists:**
 
 [[Shadow030]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

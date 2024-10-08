@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6Q0Ve4LmaLYg6frt75HS9L
 
 [[Moses Pelham]]
 [[Xavier Naidoo]]
-[[Martin Haas]]
-[[Robert Sattler]]
+[[producers/Martin Haas]]
+[[producers/Robert Sattler]]

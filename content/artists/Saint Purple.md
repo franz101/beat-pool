@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3BDtK6hrPUvgbfs6fEo2jQ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1be71ee0fda283c5914f2df1)
 **Related artists:**
 
-[[SMR]]
-[[ben_effes_music]]
+[[producers/SMR]]
+[[producers/ben_effes_music]]
 [[NOK1D]]
 [[Laer Xirtam]]
 [[Julz02]]

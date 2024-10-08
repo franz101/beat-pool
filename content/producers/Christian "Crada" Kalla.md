@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7EWsqkXyQR8vV6xSneLvAf
 **Related artists:**
 
 [[Cassandra Steen]]
-[[Daniel Russ]]
+[[producers/Daniel Russ]]
 [[Tim Bendzko]]

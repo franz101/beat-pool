@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/2bDVI1xb0BmNwCVvadKyF6
 [[Ryko-J]]
 [[ESSENTIAL.WAV]]
 [[Juri]]
-[[Kai Baudach]]
+[[producers/Kai Baudach]]
 [[buildaroof]]

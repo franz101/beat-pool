@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/4SRcqpHh8tpriZdTnwQ4dI
 [[Low.K]]
 [[K-Fly]]
 [[Marpel]]
-[[Wolfgang Stach]]
+[[producers/Wolfgang Stach]]
 [[Mo-Torres]]

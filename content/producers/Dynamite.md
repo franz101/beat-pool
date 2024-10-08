@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/310WbEagnNRZMPXJGWBIw2
 
 **Related artists:**
 
-[[Instrumens]]
-[[Tropf]]
+[[producers/Instrumens]]
+[[producers/Tropf]]
 [[Dashenn]]
-[[Rhaatid]]
+[[producers/Rhaatid]]
 [[Samy Deluxe]]
 [[Neo]]

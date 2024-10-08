@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4cXG16kH6cFD2Tv6mCczlj
 
 **Related artists:**
 
-[[Simon Wilhelm]]
+[[producers/Simon Wilhelm]]
 [[Glaubenszentrum Live]]
 [[Lena Garofalo]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Jessica Friesen]]

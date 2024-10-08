@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1L9hOwgmwVUkUftkPH0JU1
 **Related artists:**
 
 [[D-Flame]]
-[[Lex Barkey]]
+[[producers/Lex Barkey]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z
 
 **Related artists:**
 
-[[Manni Leuchter]]
-[[Peter Wagner]]
+[[producers/Manni Leuchter]]
+[[producers/Peter Wagner]]
 [[Reinhard Mey]]
 [[Udo Jürgens]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2pLBQqQWf125MmsxfXJ72g
 
 **Related artists:**
 
-[[Sizzy]]
+[[producers/Sizzy]]
 [[Aylo]]

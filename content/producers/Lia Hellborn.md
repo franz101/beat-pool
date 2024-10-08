@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5RgxZZWBzBZqr2G0zl3cLf
 **Related artists:**
 
 [[Bosca]]
-[[Anubeatz]]
+[[producers/Anubeatz]]
 [[AJÉ]]
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]
 [[FACE]]
 [[JIGGO]]

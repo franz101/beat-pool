@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6CLwWoMdCCQf5X5rl9GXKt
 **Related artists:**
 
 [[Nino de Angelo]]
-[[Michael Reinecke]]
+[[producers/Michael Reinecke]]

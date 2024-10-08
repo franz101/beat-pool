@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4BlwXBpFzYLxk5eSEj6DU9
 
 **Related artists:**
 
-[[Ulrich Maske]]
+[[producers/Ulrich Maske]]
 [[Hannes Wader]]

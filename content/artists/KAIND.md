@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5IJ9tpDaRKgVbttKdyn3ub
 **Related artists:**
 
 [[Beatgees]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]
 [[Fabian Römer]]
 [[Prinz Pi]]
 [[Daniel Großmann]]

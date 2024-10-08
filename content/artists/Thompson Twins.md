@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5jVeqi3PNaTOajfvBa4uFn
 ![Artist](https://i.scdn.co/image/d192241f8d790091af097a62eaa28a9c23ce8c98)
 **Related artists:**
 
-[[Tom Bailey]]
-[[Alex Sadkin]]
+[[producers/Tom Bailey]]
+[[producers/Alex Sadkin]]

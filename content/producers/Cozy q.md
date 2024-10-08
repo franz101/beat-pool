@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6kdknkv8S48ERolXiswlf8
 **Related artists:**
 
 [[Lio]]
-[[Seyfo]]
+[[producers/Seyfo]]

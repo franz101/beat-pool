@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6B1ZXE0999SXaXPhCidy09
 
 **Related artists:**
 
-[[Shaun Baker]]
-[[Markus Kornschober]]
+[[producers/Shaun Baker]]
+[[producers/Markus Kornschober]]

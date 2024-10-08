@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0RmaaEzZzHX6B6VhqkAVf7
 
 **Related artists:**
 
-[[Paul Simm]]
-[[Pearson]]
-[[Cameron McVey]]
+[[producers/Paul Simm]]
+[[producers/Pearson]]
+[[producers/Cameron McVey]]
 [[Patrice]]
-[[Pacini]]
+[[producers/Pacini]]

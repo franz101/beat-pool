@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/05Wvq2Dppd6kAAcddqeOvG
 
 **Related artists:**
 
-[[Stror Bros.]]
+[[producers/Stror Bros.]]
 [[Ströer Bros.]]
 [[Udo Lindenberg]]
 [[Horst Königstein]]

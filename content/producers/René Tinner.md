@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4FWgiygxSl1Xcggx5OaZlA
 **Related artists:**
 
 [[Westernhagen]]
-[[Klaus Voormann und Joachim Witt]]
-[[Hubert von Goisern]]
+[[producers/Klaus Voormann und Joachim Witt]]
+[[producers/Hubert von Goisern]]
 [[Hubert von Goisern und die Alpinkatzen]]
-[[Wolfgang Spannberger]]
+[[producers/Wolfgang Spannberger]]
 [[Joachim Witt]]

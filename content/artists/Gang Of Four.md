@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Alex Silva]]
+[[producers/Alex Silva]]

@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/0V0DZZPBAG5HlhMnbpl5ko
 
 [[Jush]]
 [[Albi X]]
-[[Rahim Erbil]]
-[[Palazzo]]
-[[Bulletproof]]
+[[producers/Rahim Erbil]]
+[[producers/Palazzo]]
+[[producers/Bulletproof]]
 [[Ego]]
 [[Capuz]]
 [[Maaf]]
@@ -24,4 +24,4 @@ url: https://open.spotify.com/artist/0V0DZZPBAG5HlhMnbpl5ko
 [[Shqiptar]]
 [[Asadjohn]]
 [[Veysel]]
-[[Eastside]]
+[[producers/Eastside]]

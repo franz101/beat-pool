@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6QANyKELlow8Vk7tXQPHqB
 
 **Related artists:**
 
-[[Swen Meyer]]
+[[producers/Swen Meyer]]
 [[Azzido Da Bass]]
 [[Tim Bendzko]]

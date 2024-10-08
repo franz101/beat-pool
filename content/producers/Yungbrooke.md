@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3d3qbCfRj6tBS1ku424UVB
 
 **Related artists:**
 
-[[Joznez]]
+[[producers/Joznez]]
 [[Kianush]]
-[[Johnny Illstrument]]
-[[Saiya Beats]]
+[[producers/Johnny Illstrument]]
+[[producers/Saiya Beats]]
 [[18 Karat]]
-[[Mayjuran Ragunathan]]
+[[producers/Mayjuran Ragunathan]]
 [[Majoe]]

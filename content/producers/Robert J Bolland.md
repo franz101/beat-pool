@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5ELNS7VA8hUwXmd2fqewSF
 
 **Related artists:**
 
-[[Ferdinand Bolland]]
+[[producers/Ferdinand Bolland]]
 [[Falco]]

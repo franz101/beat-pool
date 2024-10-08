@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3ibKkTW5xxo1f8uXihYE0A
 
 **Related artists:**
 
-[[Robin Karow]]
+[[producers/Robin Karow]]
 [[Nico Santos]]
 [[Malik Harris]]
-[[Pascal 'Kalli' Reinhardt]]
-[[Kalli]]
+[[producers/Pascal 'Kalli' Reinhardt]]
+[[producers/Kalli]]
 [[HBz]]
 [[Franzi Harmsen]]
 [[Stereoact]]

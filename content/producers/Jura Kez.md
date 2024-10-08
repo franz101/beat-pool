@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/6P1kDethY1BhIsRlf4m7PX
 
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
-[[David Conen]]
+[[producers/Vincent von Schlippenbach]]
+[[producers/David Conen]]
 [[Casper]]
 [[Kid Cairo]]
 [[Silla]]
 [[Marteria]]
 [[Spinning 9]]
 [[Fard]]
-[[Dirk Berger]]
+[[producers/Dirk Berger]]
 [[B-Case]]
 [[Sierra Kidd]]

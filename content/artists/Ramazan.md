@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/1GV2bQBJ2SbeaG3gOBcBjF
 
 **Related artists:**
 
-[[Jay Urban music]]
+[[producers/Jay Urban music]]
 [[AJÉ]]
 [[Yassin]]
-[[Beatells]]
-[[Gee Futuristic]]
+[[producers/Beatells]]
+[[producers/Gee Futuristic]]
 [[Bilel]]
-[[Pzy]]
-[[Lucry]]
+[[producers/Pzy]]
+[[producers/Lucry]]
 [[Olexesh]]
 [[Ajé]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

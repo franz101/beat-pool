@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/6T6Gxb4GCGZqv9RNnpgSWp
 
 **Related artists:**
 
-[[Benny Blanco]]
-[[Ben Bazzazian]]
+[[producers/Benny Blanco]]
+[[producers/Ben Bazzazian]]
 [[Chakuza]]
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Kool Savas]]
 [[Veysel]]
 [[K.I.Z]]
-[[Shuko]]
+[[producers/Shuko]]
 [[Maeckes]]
 [[SD]]
 [[Warheit]]

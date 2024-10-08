@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0KgnzhUAK2MxshCTozBe7u
 **Related artists:**
 
 [[Camaeleon]]
-[[Kushbringer]]
+[[producers/Kushbringer]]
 [[Koushino]]
 [[Bonez MC]]

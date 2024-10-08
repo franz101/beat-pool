@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5VVIRPwpMpyRyqUbeCKSdd
 
 [[Jim Tonic]]
 [[Oser]]
-[[Reatsch]]
+[[producers/Reatsch]]
 [[Sorti Sikz]]
 [[Big Maxxx]]
 [[Silla]]

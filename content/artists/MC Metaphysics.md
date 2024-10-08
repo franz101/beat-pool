@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/50zMRUDd5ChzcTAdF411rU
 **Related artists:**
 
 [[Clueso]]
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[Layguuan Sharkie]]
 [[Axel Hilgenstöhler]]

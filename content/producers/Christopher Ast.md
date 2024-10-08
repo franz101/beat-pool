@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4pIj1STqIORlHgRYQKnICB
 
 **Related artists:**
 
-[[Mike Pecher]]
+[[producers/Mike Pecher]]
 [[DJ Mikesh]]

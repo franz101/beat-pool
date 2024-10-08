@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5Df7MC7Uj5MXxXc8x7TCPi
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
-[[Walte Pittner]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Walte Pittner)]]
-[[Malte Pittner]]
+[[producers/Bartosch Jeznach]]
+[[producers/Walte Pittner]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Walte Pittner)]]
+[[producers/Malte Pittner]]
 [[Deichkind]]
 [[Philipp Grütering]]

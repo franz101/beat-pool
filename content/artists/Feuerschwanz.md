@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/2Ct54gNxKnYLnXk9HhviMI
 **Related artists:**
 
 [[Schandmaul]]
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Patty Gurdy]]
 [[MajorVoice]]
 [[Subway To Sally]]
 [[Saltatio Mortis]]
 [[Melissa Bonny]]
-[[Simon Michael Schmitt]]
-[[Simon Michael]]
+[[producers/Simon Michael Schmitt]]
+[[producers/Simon Michael]]

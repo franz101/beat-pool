@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5rDV0p2nAsg7aTYXBHxhgN
 
 [[Clueso]]
 [[f i s c h e r]]
-[[Tobias Kuhn]]
+[[producers/Tobias Kuhn]]

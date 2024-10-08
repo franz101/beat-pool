@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8
 
 [[Nizi19]]
 [[Omar101]]
-[[SMR]]
+[[producers/SMR]]
 [[Lucio101]]
 [[Yung Kafa & Kücük Efendi]]
 [[Karamel19]]
-[[Safyre]]
+[[producers/Safyre]]
 [[Booz]]

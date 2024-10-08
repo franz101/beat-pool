@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4gb0urcyLTTCyzvXKNLAlE
 **Related artists:**
 
 [[Luca Hänni]]
-[[Jochem Fluitsma]]
-[[Fabian Egge]]
+[[producers/Jochem Fluitsma]]
+[[producers/Fabian Egge]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4fXNqqbk3H4ajnhnvPJUdd
 **Related artists:**
 
 [[Elen]]
-[[Philip Krause]]
+[[producers/Philip Krause]]

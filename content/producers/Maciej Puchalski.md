@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1e9XUXP4hV3x1rzTjOjIWI
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Kevin Zuber]]
+[[producers/Frans Zimmer]]
+[[producers/Kevin Zuber]]
 [[Lahos]]
 [[Alle Farben]]
 [[Martin Gallop]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2PQjQ4LLrCAZMHATblyG17
 
 **Related artists:**
 
-[[Smudo]]
-[[Silly Walks Movement]]
-[[And.Ypsilon]]
+[[producers/Smudo]]
+[[producers/Silly Walks Movement]]
+[[producers/And.Ypsilon]]
 [[Die Fantastischen Vier]]

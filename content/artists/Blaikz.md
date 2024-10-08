@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/0uqlT7M0lAL931lCyQLkde
 **Related artists:**
 
 [[Mindblast]]
-[[Abel Romez]]
+[[producers/Abel Romez]]
 [[Get Scarlet]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Phillerz]]
-[[Sven Blaikz Schwarz]]
+[[producers/Sven Blaikz Schwarz]]
 [[Ti-Mo]]
 [[CJ Stone]]
 [[Mad Blu]]

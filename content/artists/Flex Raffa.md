@@ -28,7 +28,7 @@ url: https://open.spotify.com/artist/1MYVm9bjv48o6nrnnY0gI4
 [[MC Basstard]]
 [[Klatsche]]
 [[Hugo Nameless]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[Feind]]
 [[dop]]

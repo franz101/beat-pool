@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf
 
 **Related artists:**
 
-[[Mark Nissen]]
+[[producers/Mark Nissen]]
 [[Eisbrecher]]
-[[Hannes Braun]]
+[[producers/Hannes Braun]]
 [[In Extremo]]
 [[Oonagh]]
 [[Wincent Weiss]]
 [[Angelo Kelly]]
 [[Ben Zucker]]
-[[Hardy Krech]]
+[[producers/Hardy Krech]]
 [[Santiano]]

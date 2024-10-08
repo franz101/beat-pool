@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0bQgpCnEkCcQxfuVJdqbEp
 
 **Related artists:**
 
-[[Derek von Krogh]]
+[[producers/Derek von Krogh]]
 [[Nena]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1YO2VA6HyeocaVhjPTivod
 
 **Related artists:**
 
-[[Kingsize]]
-[[Phat Crispy, Allrounda]]
+[[producers/Kingsize]]
+[[producers/Phat Crispy, Allrounda]]
 [[Eko Fresh]]

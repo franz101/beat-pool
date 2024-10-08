@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/4NrTubOlSIB4K14Rkww83h
 
 **Related artists:**
 
-[[SILVERJAM]]
+[[producers/SILVERJAM]]
 [[Helene Fischer]]
-[[Ali Zuckowski]]
+[[producers/Ali Zuckowski]]
 [[Thorsten Brötzmann]]
-[[Robin Grubert]]
-[[David Gold]]
-[[Martin Fliegenschmidt]]
+[[producers/Robin Grubert]]
+[[producers/David Gold]]
+[[producers/Martin Fliegenschmidt]]
 [[Stefan Schrupp]]

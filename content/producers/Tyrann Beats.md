@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2MJgltbHxsyKdJDnlcDPgK
 
 **Related artists:**
 
-[[Zinobeats]]
-[[Zinobeatz]]
+[[producers/Zinobeats]]
+[[producers/Zinobeatz]]
 [[Bass Sultan Hengzt]]

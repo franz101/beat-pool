@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/3ZbsMG5DdBUF8Zd1xCHilQ
 
 **Related artists:**
 
-[[Ingo Politz]]
+[[producers/Ingo Politz]]
 [[Silly]]
-[[Alexander Freund]]
+[[producers/Alexander Freund]]
 [[Anna Loos]]
-[[Bernd Wendlandt]]
+[[producers/Bernd Wendlandt]]
 [[City]]
-[[Moritz Enders]]
+[[producers/Moritz Enders]]
 [[Jäcki Reznicek]]
-[[Ritchie Barton]]
-[[Tamara Danz]]
+[[producers/Ritchie Barton]]
+[[producers/Tamara Danz]]
 [[Jan Josef Liefers]]

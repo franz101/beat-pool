@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/3Lfn5Dl1gfkwuLxjVDKaGE
 **Related artists:**
 
 [[Ardian Bujupi]]
-[[MB]]
+[[producers/MB]]
 [[Aylo]]
-[[Churchboy]]
+[[producers/Churchboy]]
 [[Xhensila]]
 [[Azzi Memo]]
 [[Finem]]

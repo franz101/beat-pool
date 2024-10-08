@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6gtaUm1LstbQjSiWD0GSuW
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Behrang]]

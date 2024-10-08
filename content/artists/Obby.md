@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1pBccbv3v7UcYXaqvfMl59
 
 **Related artists:**
 
-[[Glazzy]]
+[[producers/Glazzy]]
 [[Dina]]
 [[Snipe]]

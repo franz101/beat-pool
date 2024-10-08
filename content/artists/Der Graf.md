@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0WNXaU3wqBQEthn9a9zNlZ
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[In Extremo]]
 [[Markus Tombült]]
 [[Unheilig]]

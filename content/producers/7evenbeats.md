@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/34KDap3DIH6dDkccPwsYmd
 
 **Related artists:**
 
-[[Play]]
+[[producers/Play]]
 [[Diamant]]

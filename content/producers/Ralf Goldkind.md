@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5VODknbdVucYeafUwOSagr
 **Related artists:**
 
 [[Die Fantastischen Vier]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]

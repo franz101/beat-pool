@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2kG3JzoEtCTUPvOAbTADJR
 
 **Related artists:**
 
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Sarah Lombardi]]
 [[Tina Naderer]]

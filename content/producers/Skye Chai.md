@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/61MZJ8Pe9EIYxNl4VWc1vq
 
 **Related artists:**
 
-[[Modha]]
+[[producers/Modha]]
 [[JuJu Rogers]]

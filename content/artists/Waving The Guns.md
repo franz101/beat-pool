@@ -22,6 +22,6 @@ url: https://open.spotify.com/artist/1b6KZ6XeJLiFJkFghmkbe8
 [[Haszcara]]
 [[Cheddar Mike]]
 [[AzudemSK]]
-[[Snice]]
+[[producers/Snice]]
 [[Sketchone]]
 [[Genosse Soselo]]

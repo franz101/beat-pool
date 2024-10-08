@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/5QRfisV8rQud0pFnrUMMkm
 ![Artist](https://i.scdn.co/image/ab67616d0000b273ac4262b5a3ec16f6f51810ca)
 **Related artists:**
 
-[[Vendetta]]
-[[Ilan Schulz]]
-[[Voodoo]]
-[[NightOne]]
-[[Leveller]]
+[[producers/Vendetta]]
+[[producers/Ilan Schulz]]
+[[producers/Voodoo]]
+[[producers/NightOne]]
+[[producers/Leveller]]
 [[Bass Sultan Hengzt]]

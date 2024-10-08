@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1OqCJBzAi3rbGAe37WddBI
 
 **Related artists:**
 
-[[Lord Scan]]
+[[producers/Lord Scan]]
 [[Sascha Bühren]]
 [[Curse]]
-[[James Loughrey]]
+[[producers/James Loughrey]]

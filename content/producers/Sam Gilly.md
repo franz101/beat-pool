@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6L4ZgKgN1YwwFyRopDZKMK
 **Related artists:**
 
 [[D-Flame]]
-[[Bassrunner]]
+[[producers/Bassrunner]]
 [[Jahmali]]
 [[Detecta]]

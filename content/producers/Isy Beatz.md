@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/4MdPaYdRGO7a7foXtwlGHa
 **Related artists:**
 
 [[Gstar348_]]
-[[C55]]
+[[producers/C55]]
 [[Frauenarzt]]
 [[Uzi]]
 [[BETO]]
 [[Karaz]]
-[[Andrej Timofeev]]
+[[producers/Andrej Timofeev]]
 [[KAY AY]]
 [[Perverz]]
 [[AP]]

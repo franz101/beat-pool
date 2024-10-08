@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0xiwREQwXKwHvweGD2Whck
 
 **Related artists:**
 
-[[torsten urbanski]]
+[[producers/torsten urbanski]]

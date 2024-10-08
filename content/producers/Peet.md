@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1mSveHHqVJP7XSIXCMk5wt
 
 **Related artists:**
 
-[[Bennett On]]
+[[producers/Bennett On]]
 [[3Plusss]]
 [[Falco]]

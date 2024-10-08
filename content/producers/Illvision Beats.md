@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/1R9cmfI0BnN9YyA69gtCnk
 [[Lai Raw]]
 [[Wanja Janeva]]
 [[DISSY]]
-[[Torn Palk]]
+[[producers/Torn Palk]]

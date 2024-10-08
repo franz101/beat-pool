@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/7ftDP5ZxHkJGm02tQjxtag
 
 **Related artists:**
 
-[[Frank Plasa]]
+[[producers/Frank Plasa]]

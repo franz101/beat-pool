@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/0iHHj7ioSd8nmRqdrB3vzI
 
 **Related artists:**
 
-[[2dirtyy]]
+[[producers/2dirtyy]]
 [[Lugatti & 9ine]]
 [[Blokkboy$]]
 [[Raresy]]
-[[Ffjodor]]
-[[Bronko Bammer]]
+[[producers/Ffjodor]]
+[[producers/Bronko Bammer]]
 [[Bada Dinero]]
 [[Cgoon]]
-[[6blokz]]
-[[ATP]]
+[[producers/6blokz]]
+[[producers/ATP]]
 [[snice1]]

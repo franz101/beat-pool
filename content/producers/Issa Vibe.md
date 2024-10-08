@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5kebr99YXvBlZhntd06izu
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]
-[[BrendiIsThatYou]]
+[[producers/BrendiIsThatYou]]

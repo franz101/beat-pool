@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4zS8Ddu7VyywBFvx8ki7qw
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc17e2b2ec15ca30348a58c89)
 **Related artists:**
 
-[[HAVS]]
+[[producers/HAVS]]
 [[Disarstar]]

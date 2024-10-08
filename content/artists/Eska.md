@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2Bb60cGSy1n5CAo6tzJkKA
 
 [[Fresh Daniels]]
 [[Moskape]]
-[[Prala]]
+[[producers/Prala]]
 [[Mosenu]]

@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6susBfnX9O1YNk1osTHj27
 **Related artists:**
 
 [[YONII]]
-[[Hannes Butzer]]
-[[Ryan Lisse]]
-[[Didier the Producer]]
+[[producers/Hannes Butzer]]
+[[producers/Ryan Lisse]]
+[[producers/Didier the Producer]]
 [[Nino de Angelo]]
 [[Felix Gauder]]

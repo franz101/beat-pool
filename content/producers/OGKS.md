@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6r73ozU1Xob5VdQy999rxI
 **Related artists:**
 
 [[Lazy Lizzard Gang]]
-[[Jeff Adams]]
+[[producers/Jeff Adams]]

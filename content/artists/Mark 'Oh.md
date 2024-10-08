@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/3eLW10XmpXVzwszGQ9gDXX
 
 [[John Davies]]
 [[Cecile]]
-[[Marko Albrecht]]
+[[producers/Marko Albrecht]]
 [[André Schöttler]]

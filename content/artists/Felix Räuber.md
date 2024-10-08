@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/16msWAQnQ3L2GIIWPSVcfL
 
 **Related artists:**
 
-[[Nhoah]]
+[[producers/Nhoah]]
 [[Mia.]]

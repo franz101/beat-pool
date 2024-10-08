@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3F3fGzkv2pjsQnIbmEYpWh
 
 **Related artists:**
 
-[[Ikarus]]
+[[producers/Ikarus]]
 [[Crystal F]]

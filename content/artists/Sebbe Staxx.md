@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2PQ0dKMMDle5scqjI1XOPK
 ![Artist](https://i.scdn.co/image/ab67616d0000b273d21faaaa9d94e1a7437d7496)
 **Related artists:**
 
-[[Can "Stress" Canatan]]
+[[producers/Can "Stress" Canatan]]
 [[Kartellen]]
 [[Dani M]]

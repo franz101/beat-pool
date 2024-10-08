@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2XskR4BwFaiftwDs1BLhnu
 
 **Related artists:**
 
-[[Wout Van Dessel]]
+[[producers/Wout Van Dessel]]
 [[Sylver]]

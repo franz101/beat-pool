@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/3oo88ul6DPnYZwZG4CZBTY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9b7bb4786bae50e9ebb8c37f)
 **Related artists:**
 
-[[BIGBANG]]
+[[producers/BIGBANG]]
 [[Kida]]
 [[Çelik Lipa]]
 [[Nora Istrefi]]
-[[Rzon]]
+[[producers/Rzon]]
 [[Majk]]
 [[Ledri Vula]]
 [[Gjiko]]

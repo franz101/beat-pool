@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5UxpTROrGTVxd7YXb8C2X2
 
 **Related artists:**
 
-[[Peter Pangerl]]
+[[producers/Peter Pangerl]]
 [[Maxim]]
 [[Chakuza]]
-[[Jan Bruschke]]
+[[producers/Jan Bruschke]]
 [[Jonathan Walter]]
 [[RAF Camora]]

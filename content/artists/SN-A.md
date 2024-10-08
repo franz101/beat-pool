@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0rie8o7f7dTBhrnsbxNfRD
 
 [[Niza]]
 [[Mazen X]]
-[[KD-Beatz]]
-[[Zinobeatz]]
+[[producers/KD-Beatz]]
+[[producers/Zinobeatz]]
 [[Silla]]

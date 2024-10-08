@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/6CCyMgUulSFvnxfA4pzJCs
 
 [[Ryko-J]]
 [[ESSENTIAL.WAV]]
-[[Tom Hanke]]
+[[producers/Tom Hanke]]
 [[Juri]]
-[[Kai Baudach]]
+[[producers/Kai Baudach]]

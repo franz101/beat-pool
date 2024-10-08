@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/3WpV3VzvzmTpu2gTeKvhtd
 [[DJ Tomekk]]
 [[Eko Fresh]]
 [[Shindy]]
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Kurupt]]
 [[MoTrip]]
 [[Ali As]]

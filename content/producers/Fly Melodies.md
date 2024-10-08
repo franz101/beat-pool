@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/4hH4IqFACXSCsgdQFSyy4W
 
 **Related artists:**
 
-[[Tokyoszn]]
+[[producers/Tokyoszn]]
 [[Minhtendo]]
 [[Luciano]]
-[[Cmtheplug]]
+[[producers/Cmtheplug]]
 [[RIN]]
 [[Skeeniboi]]
 [[Sevi Rin]]

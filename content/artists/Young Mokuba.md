@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7J65CyGLxoh5FSErKXoVVt
 
 **Related artists:**
 
-[[Kop Karbeen]]
+[[producers/Kop Karbeen]]
 [[Sierra Kidd]]

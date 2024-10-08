@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4HqaVJLsD2AVQf5MFzB7OK
 
 **Related artists:**
 
-[[umru]]
+[[producers/umru]]
 [[Haiyti]]

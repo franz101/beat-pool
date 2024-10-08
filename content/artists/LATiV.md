@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/2qcKVGR8nE7tt37T5Y1JDx
 **Related artists:**
 
 [[Mosenu]]
-[[Finch]]
+[[producers/Finch]]
 [[O.G.]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2btRGVA6p58EDmAHzOa5Er
 **Related artists:**
 
 [[Richter]]
-[[Platinum Sellers]]
+[[producers/Platinum Sellers]]

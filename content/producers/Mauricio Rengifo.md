@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7p3ipw2PvGG0X2x6zL1DLO
 **Related artists:**
 
 [[Helene Fischer]]
-[[SILVERJAM]]
+[[producers/SILVERJAM]]
 [[Andrés Torres]]
 [[Luis Fonsi]]

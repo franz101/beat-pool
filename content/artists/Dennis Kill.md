@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0fOA8zlyP8f44CavQTNuhr
 **Related artists:**
 
 [[Buddha]]
-[[Kevo]]
+[[producers/Kevo]]

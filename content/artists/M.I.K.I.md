@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3PLdJr5nc7DHP1varmZUkC
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb1be0d8a17eaa6d7d7170ded6)
 **Related artists:**
 
-[[Reece]]
+[[producers/Reece]]
 [[Hagen Stoll]]
 [[Freshmaker]]
 [[Sonikk]]

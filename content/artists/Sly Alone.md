@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4UCAuuEJ6iOposme0I5f9I
 
 [[Doktor Sterben]]
 [[Lando]]
-[[Riccardo Fratello]]
+[[producers/Riccardo Fratello]]
 [[mokuba]]

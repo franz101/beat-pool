@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1bpI6QDUqmfKmV0Tlhj0Jm
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Lucry]]
-[[Suena]]
+[[producers/Lucry]]
+[[producers/Suena]]

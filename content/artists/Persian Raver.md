@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6BuNVw2Lz2QR2lOxqN7S9y
 
 **Related artists:**
 
-[[Mohsen Arabasadi]]
+[[producers/Mohsen Arabasadi]]
 [[T-Punch]]

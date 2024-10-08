@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/12VqRZpDfMpvyBU0MMg85s
 **Related artists:**
 
 [[René Tinner]]
-[[Hubert von Goisern]]
+[[producers/Hubert von Goisern]]
 [[Hubert von Goisern und die Alpinkatzen]]

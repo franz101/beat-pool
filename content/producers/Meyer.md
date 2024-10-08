@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5VhDA9FF5lPkOpkL4FZwJr
 
 **Related artists:**
 
-[[Birr]]
+[[producers/Birr]]
 [[Puhdys]]

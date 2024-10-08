@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6PArBeoxLI40GUk54HN5Yg
 **Related artists:**
 
 [[Stefanie Kloß]]
-[[Andreas Nowak]]
-[[Thomas Stolle]]
+[[producers/Andreas Nowak]]
+[[producers/Thomas Stolle]]
 [[Silbermond]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7GD8oRxXDMen2kXvzXWV7S
 **Related artists:**
 
 [[Nazar]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]
 [[B-Case]]

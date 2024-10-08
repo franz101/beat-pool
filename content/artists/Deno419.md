@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3YVjSNOTyXBeEisqAJ2EAG
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7ef868c1b5f28887609af084)
 **Related artists:**
 
-[[Kyree]]
-[[Frio]]
-[[Bujaa Beats]]
+[[producers/Kyree]]
+[[producers/Frio]]
+[[producers/Bujaa Beats]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7ai8RtJjjo72IjVLcXS1UB
 
 **Related artists:**
 
-[[Tribune]]
+[[producers/Tribune]]
 [[Euphorizon]]
 [[Dj Cap]]
 [[DJ Gollum]]
-[[Megastylez]]
+[[producers/Megastylez]]

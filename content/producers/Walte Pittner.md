@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/25cd0F39QpIwPk6jsNFlAu
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
+[[producers/Bartosch Jeznach]]
 [[Deichkind]]
-[[Boogieman]]
+[[producers/Boogieman]]
 [[DEICHKIND (Philipp Grütering]]

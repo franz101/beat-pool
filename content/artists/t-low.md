@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD
 [[LEXIKA]]
 [[CAN MIT ME$$R]]
 [[grabsteyn]]
-[[Jelle Grubert]]
+[[producers/Jelle Grubert]]
 [[Kidnfinity]]
 [[Sevi Rin]]
 [[absent]]

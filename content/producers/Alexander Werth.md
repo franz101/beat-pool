@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7aTrd9XNdg8L0ICS6R2AXe
 
 [[Albrecht Schrader]]
 [[Das Lumpenpack]]
-[[Niko Faust]]
+[[producers/Niko Faust]]

@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/2XcAc8bNzRwG0qWhirIvs9
 [[j.bac]]
 [[HeXer]]
 [[Dirtykil]]
-[[bzad]]
+[[producers/bzad]]
 [[Purple Ace]]
 [[Jonta]]

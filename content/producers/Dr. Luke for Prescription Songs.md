@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3uVrp04Oy7gjRGfWgxX7vn
 **Related artists:**
 
 [[Doja Cat]]
-[[Rocco Did It Again!]]
+[[producers/Rocco Did It Again!]]
 [[Saweetie]]
 [[Katja Krasavice]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7w5qgBWvF4388AE0oFo2ks
 
 **Related artists:**
 
-[[Abaz]]
-[[Alex Lys]]
+[[producers/Abaz]]
+[[producers/Alex Lys]]
 [[Jennifer Rostock]]

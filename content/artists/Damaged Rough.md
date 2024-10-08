@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0vlcg9gB6QcJNXnlbJhiZz
 **Related artists:**
 
 [[AzudemSK]]
-[[Czientist]]
+[[producers/Czientist]]

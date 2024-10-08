@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5fV9EDqMjeYte2g53gHpkT
 **Related artists:**
 
 [[Marcella McCrae]]
-[[Cubeatz]]
+[[producers/Cubeatz]]
 [[Twin]]
 [[Koloss]]

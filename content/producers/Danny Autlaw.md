@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2lO6D7xnhYoBkuOSlqktYt
 
 **Related artists:**
 
-[[Kaso Keys]]
-[[Tengo]]
+[[producers/Kaso Keys]]
+[[producers/Tengo]]
 [[Kool Savas]]

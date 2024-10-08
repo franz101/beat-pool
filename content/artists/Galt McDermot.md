@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0IYCo00Fp8QGWYM44QX7xS
 
 **Related artists:**
 
-[[Schahabedin Azodifar]]
+[[producers/Schahabedin Azodifar]]
 [[Eloquent]]

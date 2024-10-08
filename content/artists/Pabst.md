@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb26f51db05be555bc2b62d19f)
 **Related artists:**
 
-[[Magnus Wichmann]]
+[[producers/Magnus Wichmann]]
 [[Leoniden]]
-[[Markus Ganter]]
-[[Moses Schneider]]
+[[producers/Markus Ganter]]
+[[producers/Moses Schneider]]

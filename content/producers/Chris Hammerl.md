@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1cUF9SEa7AiQnoh2ykveKX
 
 **Related artists:**
 
-[[Herr Kaschke]]
-[[Johannes Stankowski]]
-[[Niko Floss]]
+[[producers/Herr Kaschke]]
+[[producers/Johannes Stankowski]]
+[[producers/Niko Floss]]
 [[Barbara Schöneberger]]
-[[Tom Albrecht]]
+[[producers/Tom Albrecht]]

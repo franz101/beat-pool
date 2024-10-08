@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3nHS9uMM90zYNwutuR4icz
 
 **Related artists:**
 
-[[heyelevxted]]
+[[producers/heyelevxted]]
 [[Murcy]]

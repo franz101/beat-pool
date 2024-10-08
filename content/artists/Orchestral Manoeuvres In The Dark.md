@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe3ca493fd7c489de5911113f)
 **Related artists:**
 
-[[Richard Manwaring]]
+[[producers/Richard Manwaring]]

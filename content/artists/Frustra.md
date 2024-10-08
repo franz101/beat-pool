@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1bsTXjLsnYDY3FvFyZcUVb
 **Related artists:**
 
 [[PTK]]
-[[Vecz]]
+[[producers/Vecz]]

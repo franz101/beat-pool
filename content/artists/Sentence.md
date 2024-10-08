@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1SzNej2DCmmqi6Z0wSKS5c
 
 **Related artists:**
 
-[[Therapy]]
-[[X-Plosive]]
+[[producers/Therapy]]
+[[producers/X-Plosive]]
 [[G-Hot]]
 [[Toni der Assi]]
 [[Fler]]
@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/1SzNej2DCmmqi6Z0wSKS5c
 [[Francisco]]
 [[MoTrip]]
 [[Ali As]]
-[[Ilan]]
+[[producers/Ilan]]
 [[Pillath]]

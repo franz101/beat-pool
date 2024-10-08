@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/35sJEyRSPH56h35N9aK16Y
 
 [[ASD]]
 [[Afrob]]
-[[TRIBEZ.]]
+[[producers/TRIBEZ.]]
 [[Brooke Russell]]
 [[Max Herre]]

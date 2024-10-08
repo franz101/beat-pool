@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6Hmh6Z9CERsrz4Jx8fcm2x
 **Related artists:**
 
 [[Harald Mörth]]
-[[Johannes Herbst]]
+[[producers/Johannes Herbst]]
 [[Dame]]
 [[Onk Lou]]
-[[Mario Skakalo]]
+[[producers/Mario Skakalo]]
 [[Tina Naderer]]

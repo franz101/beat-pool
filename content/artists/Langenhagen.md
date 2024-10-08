@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2Q6WkMt4FG4ipneN0y5XVU
 **Related artists:**
 
 [[Pulsedriver]]
-[[Schuby]]
+[[producers/Schuby]]
 [[Gollum]]
-[[Yanny]]
+[[producers/Yanny]]
 [[Scooter]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG
 **Related artists:**
 
 [[Gentleman]]
-[[Clay]]
+[[producers/Clay]]

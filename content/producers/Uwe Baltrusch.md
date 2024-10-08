@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/0WwNqc5wlL22DxZsEWsF8T
 [[Edzard Hüneke]]
 [[A.Hürth]]
 [[Edzard "Eddi" Hüneke]]
-[[Daniel Dickopf]]
+[[producers/Daniel Dickopf]]
 [[Daniel "Dän" Dickopf]]
 [[Wise Guys]]
 [[Hannes Schöner]]

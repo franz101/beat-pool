@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4JVZ1PiTdX98Eogl16tdNj
 **Related artists:**
 
 [[Hannes Büscher]]
-[[David Vogt]]
+[[producers/David Vogt]]
 [[KAYEF]]
-[[Kai Fichtner]]
+[[producers/Kai Fichtner]]
 [[Philip Böllhoff]]
 [[Yanek Stärk]]

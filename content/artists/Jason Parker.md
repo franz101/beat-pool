@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2VlMR1pRdBcwhUsoWCfzfj
 **Related artists:**
 
 [[Fluxstyle]]
-[[Henry Strecker]]
+[[producers/Henry Strecker]]

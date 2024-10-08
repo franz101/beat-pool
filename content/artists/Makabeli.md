@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/47vrodiBCFFVy4tYgzz9Qb
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Mortel]]
 [[Akkurat]]
 [[OTW]]

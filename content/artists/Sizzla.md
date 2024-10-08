@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv
 **Related artists:**
 
 [[D-Flame]]
-[[George "Dusty" Miller]]
+[[producers/George "Dusty" Miller]]
 [[Gentleman]]
 [[RAF 3.0]]
 [[RAF Camora]]
-[[KD Supier]]
+[[producers/KD Supier]]

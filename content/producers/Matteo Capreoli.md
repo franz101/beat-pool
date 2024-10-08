@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/07Zqs7paUhKyaL6K5SemsI
 
 **Related artists:**
 
-[[DJ Vito]]
+[[producers/DJ Vito]]
 [[Nico Suave]]
 [[Bengio]]
 [[Samy Deluxe]]
@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/07Zqs7paUhKyaL6K5SemsI
 [[Bazzazian]]
 [[Lina Maly]]
 [[toksi]]
-[[Alexander Sprave]]
+[[producers/Alexander Sprave]]
 [[Max Raabe]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/6iMl7oaj7pKDWW0YB6p9Ie
 
 **Related artists:**
 
-[[Freddie Erdmann]]
-[[Peter Ries]]
+[[producers/Freddie Erdmann]]
+[[producers/Peter Ries]]
 [[Münchener Freiheit]]
-[[Aron Strobel]]
-[[Armand Volker]]
-[[Unknown]]
-[[Kai Matthiesen]]
+[[producers/Aron Strobel]]
+[[producers/Armand Volker]]
+[[producers/Unknown]]
+[[producers/Kai Matthiesen]]
 [[Spider Murphy Gang]]

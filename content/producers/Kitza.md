@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7vHthS2e6tYSUBenh70Vo4
 
 **Related artists:**
 
-[[Rzon]]
+[[producers/Rzon]]
 [[Mozzik]]
-[[Xon Oxa]]
+[[producers/Xon Oxa]]

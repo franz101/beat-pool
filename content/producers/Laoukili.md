@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2goyFZdWjj1LMjoK8grbdu
 
 **Related artists:**
 
-[[Brcan]]
+[[producers/Brcan]]
 [[Oli. P]]
-[[Otis]]
-[[Hanisch]]
+[[producers/Otis]]
+[[producers/Hanisch]]

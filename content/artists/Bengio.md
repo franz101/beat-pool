@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/0gfGtWOKV78OjwmQ0iGcE3
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0806cfe1aa6f4c137712a857)
 **Related artists:**
 
-[[Thomas Porzig]]
-[[Matteo Capreoli]]
+[[producers/Thomas Porzig]]
+[[producers/Matteo Capreoli]]
 [[Beatgees]]
-[[DJ Vito]]
+[[producers/DJ Vito]]
 [[Samy Deluxe]]
 [[Yvonne Catterfeld]]
 [[Lina Maly]]
 [[toksi]]
-[[Samy Sorge]]
-[[TTeo]]
-[[Lev]]
+[[producers/Samy Sorge]]
+[[producers/TTeo]]
+[[producers/Lev]]

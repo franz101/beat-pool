@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5WKzugWG5YDTHQWOlX82D5
 
 **Related artists:**
 
-[[Dalool]]
+[[producers/Dalool]]
 [[Ardian Bujupi]]
 [[Genta Ismajli]]
 [[Mark Hardy]]

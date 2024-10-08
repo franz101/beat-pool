@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/72KjzHfrwVwY0L5PKRqJzc
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb60057d0bdbaff9ab9cf17c92)
 **Related artists:**
 
-[[SBM]]
+[[producers/SBM]]
 [[Lord Space]]
 [[Lugatti & 9ine]]
-[[Quentin Krug]]
+[[producers/Quentin Krug]]
 [[B. Bilbo]]
 [[Wandl]]
 [[Lord Sesshomaru]]
 [[Snaer.]]
 [[Joe Space]]
 [[JACE]]
-[[Cizzvrp]]
-[[Made in M]]
+[[producers/Cizzvrp]]
+[[producers/Made in M]]
 [[Lord Folter]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4GeW91ZSf4Yy2eUHvvt81l
 
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]

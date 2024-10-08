@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/4vLa1FM36gam1btAKHhzL9
 
 [[Gzuz]]
 [[Almany]]
-[[Zimzala]]
+[[producers/Zimzala]]
 [[XATAR]]
 [[Fler]]
 [[Maestro]]
 [[Bonez MC]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

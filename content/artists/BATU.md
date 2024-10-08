@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/61qEJugYCqQv1OiqJBKVeK
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb00746e5e5cb139eaa484a59d)
 **Related artists:**
 
-[[Erk Gotti]]
-[[DVDN]]
+[[producers/Erk Gotti]]
+[[producers/DVDN]]
 [[EREN CAN]]
 [[AVO]]
-[[prodbykendox]]
-[[PAIX]]
-[[Dalton]]
+[[producers/prodbykendox]]
+[[producers/PAIX]]
+[[producers/Dalton]]
 [[Monet192]]
-[[Larkin]]
+[[producers/Larkin]]

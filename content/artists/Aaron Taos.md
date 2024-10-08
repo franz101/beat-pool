@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3f8228b3ef8948376ac5f931)
 **Related artists:**
 
-[[7KCALLS]]
+[[producers/7KCALLS]]
 [[BLVTH]]

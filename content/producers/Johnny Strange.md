@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6wzLAsUUupmtcIPVBTFMkT
 **Related artists:**
 
 [[Mr. Reedoo]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/19Fzyo2xWi9Wv314ZjNftz
 
 **Related artists:**
 
-[[Sascha Knodel]]
+[[producers/Sascha Knodel]]
 [[Justin Corza]]

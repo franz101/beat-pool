@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/4CefZM5UsS1y5rvzq8M8S7
 
 **Related artists:**
 
-[[Nena Kerner]]
-[[Herwig Mitteregger]]
+[[producers/Nena Kerner]]
+[[producers/Herwig Mitteregger]]
 [[Juliane Werding]]
 [[Nena]]
-[[Udo Arndt]]
+[[producers/Udo Arndt]]
 [[Ulla Meinecke]]
-[[Uwe Fahrenkrog-Petersen]]
-[[George Glueck]]
+[[producers/Uwe Fahrenkrog-Petersen]]
+[[producers/George Glueck]]
 [[Falco]]
-[[Derek von Krogh]]
-[[Manne Praeker]]
+[[producers/Derek von Krogh]]
+[[producers/Manne Praeker]]

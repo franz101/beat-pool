@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz
 
 **Related artists:**
 
-[[Charlie Charles]]
+[[producers/Charlie Charles]]
 [[Miami Yacine]]

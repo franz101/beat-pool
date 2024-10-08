@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5SgGJqVf3YWHr2ciwJX22L
 **Related artists:**
 
 [[H-Blockx]]
-[[Steffen Wilmking]]
-[[Daniel Kick]]
-[[George Glueck]]
-[[Andreas Herbig]]
-[[Tim Humpe]]
+[[producers/Steffen Wilmking]]
+[[producers/Daniel Kick]]
+[[producers/George Glueck]]
+[[producers/Andreas Herbig]]
+[[producers/Tim Humpe]]

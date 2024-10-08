@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7KehDymY7mczxuChmMXnXY
 
 **Related artists:**
 
-[[Kool DJ GQ]]
+[[producers/Kool DJ GQ]]
 [[Curse]]

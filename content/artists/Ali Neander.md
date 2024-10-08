@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1Ac7TDhyUnUoNR37z08m06
 
 **Related artists:**
 
-[[Reiner Zufall]]
+[[producers/Reiner Zufall]]
 [[Moses Pelham]]
 [[Tice]]

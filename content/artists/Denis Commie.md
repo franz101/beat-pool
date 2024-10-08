@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5HmOJhao6FC6BPQVyBAwWO
 
 **Related artists:**
 
-[[Ostbass]]
+[[producers/Ostbass]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0SynfeDjp6cRbduvtjry7n
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba9ebad6920620c07934a418c)
 **Related artists:**
 
-[[Amedeo Malagia]]
+[[producers/Amedeo Malagia]]
 [[Prinz Porno]]
 [[Shawn The Savage Kid]]
 [[Corssen]]
@@ -24,11 +24,11 @@ url: https://open.spotify.com/artist/0SynfeDjp6cRbduvtjry7n
 [[Frauenarzt]]
 [[Laskah]]
 [[Kwam.E]]
-[[Danny Drama]]
-[[Beatells]]
+[[producers/Danny Drama]]
+[[producers/Beatells]]
 [[Oliver Gottwald]]
 [[Goldroger]]
-[[Che.Agyn]]
+[[producers/Che.Agyn]]
 [[Curly]]
 [[Ahzumjot]]
 [[Donvtello]]

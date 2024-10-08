@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0Yo7BL634zEisWu8RIhCXK
 
 **Related artists:**
 
-[[Ciaga]]
+[[producers/Ciaga]]
 [[Hell Yes]]
 [[Olexesh]]

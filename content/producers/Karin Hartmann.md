@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0dRaXsdWJhKlGdeF1J2lSt
 
 **Related artists:**
 
-[[Tony Hendrik]]
+[[producers/Tony Hendrik]]
 [[TOBI PFLUG]]
 [[Juliane Werding]]

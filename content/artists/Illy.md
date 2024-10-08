@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6NFyaN9PMCDZ3LKxGwHAXt
 **Related artists:**
 
 [[Rea Garvey]]
-[[Imran "Abaz" Abbas]]
-[[Thomas "X-Plosive" Kessler]]
+[[producers/Imran "Abaz" Abbas]]
+[[producers/Thomas "X-Plosive" Kessler]]
 [[Nessi]]

@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/30vrenVnQWKWHe1rG3AwIy
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf0955d85bf4eb400d9890427)
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[Timo Langner]]
 [[Davee]]
 [[WORD]]
-[[Tillmann Loch]]
-[[Ruben Rodriguez]]
-[[Ruben Rodriguez Alarcon]]
+[[producers/Tillmann Loch]]
+[[producers/Ruben Rodriguez]]
+[[producers/Ruben Rodriguez Alarcon]]

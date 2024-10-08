@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5lYEKIuZQ2R3JsIcMoM6RK
 
 **Related artists:**
 
-[[Sadikbeatz]]
+[[producers/Sadikbeatz]]
 [[Fifty Vinc]]
 [[Vendetta Beats]]

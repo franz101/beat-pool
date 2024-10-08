@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3MDN9XwjU6FjfQLjuexnjn
 
 **Related artists:**
 
-[[Boris Rogowski]]
+[[producers/Boris Rogowski]]
 [[PeterLicht]]

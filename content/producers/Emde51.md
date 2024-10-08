@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/24EVf5ptftERWjFNu7V7FL
 [[Massiv]]
 [[Ramo]]
 [[Z]]
-[[Perino]]
+[[producers/Perino]]
 [[Fard]]
 [[Kontra K]]
 [[KAY AY]]

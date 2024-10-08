@@ -18,9 +18,9 @@ url: https://open.spotify.com/artist/6yfgM1rkLSenhFIW3iV9hm
 
 [[Minhtendo]]
 [[Shindy]]
-[[Dez Wright]]
-[[Cooper Douglas Mitchell]]
+[[producers/Dez Wright]]
+[[producers/Cooper Douglas Mitchell]]
 [[Gunboi]]
-[[Nils]]
+[[producers/Nils]]
 [[The Cratez]]
-[[Nico Chiara]]
+[[producers/Nico Chiara]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3myiDm6LPC3w8CW9gWhRmR
 
 **Related artists:**
 
-[[Peter Miklis und Heinz Rudolf Kunze]]
-[[Peter Miklis]]
+[[producers/Peter Miklis und Heinz Rudolf Kunze]]
+[[producers/Peter Miklis]]
 [[Heinz Rudolf Kunze]]

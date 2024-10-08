@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6LCHqoBojrwhbG4Og5lvq6
 
 [[Jah Meek]]
 [[D-Flame]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

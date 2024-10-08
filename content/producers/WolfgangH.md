@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5TEDGN6G47mXfSEnBWEfeE
 
 [[Tamas]]
 [[DCVDNS]]
-[[Schlick Rick]]
-[[Pyer]]
-[[Sikk-da-kid]]
+[[producers/Schlick Rick]]
+[[producers/Pyer]]
+[[producers/Sikk-da-kid]]
 [[Genetikk]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/046y2OnTNBVtUwH6rZwgM8
 
 **Related artists:**
 
-[[Style Warz]]
+[[producers/Style Warz]]
 [[Ferris MC]]

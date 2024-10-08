@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM
 **Related artists:**
 
 [[C-Alvin]]
-[[Edward Ferrell]]
-[[Darren Lighty]]
+[[producers/Edward Ferrell]]
+[[producers/Darren Lighty]]

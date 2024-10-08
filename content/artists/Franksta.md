@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/75EN9TAPCZAV1W3fbt02H7
 
 **Related artists:**
 
-[[DJ Eule]]
+[[producers/DJ Eule]]
 [[Cr7z]]

@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/6Nemkrm6JC4v6UPUs5bVrI
 [[Udo Sandmann for off beat music production]]
 [[André Kuntze]]
 [[Puhdys]]
-[[Rainer Oleak]]
-[[Peter Meyer]]
+[[producers/Rainer Oleak]]
+[[producers/Peter Meyer]]

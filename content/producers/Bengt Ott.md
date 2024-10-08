@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/79DkvpX0iBxZRPEBL5xHpe
 **Related artists:**
 
 [[Alphonzo]]
-[[HTN]]
+[[producers/HTN]]
 [[Sonne Ra]]

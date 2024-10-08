@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7eFSMUiiI0IQ2ILeVejAH6
 
 [[Anthony B]]
 [[Tanya Stephens]]
-[[Pierre Baigorry]]
+[[producers/Pierre Baigorry]]
 [[Elephant Man]]
 [[Seeed]]
 [[Seeed's Pharaoh Riddim Feat. General Degree]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4ZnIwZbBZfyO55wMvZeVTS
 
 **Related artists:**
 
-[[Peter S. Brugger]]
-[[Florian Weber]]
+[[producers/Peter S. Brugger]]
+[[producers/Florian Weber]]
 [[Sportfreunde Stiller]]
 [[Oliver Zülch]]
-[[Rudiger Linhof]]
+[[producers/Rudiger Linhof]]

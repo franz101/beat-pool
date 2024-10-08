@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0FmijmKJPx6QK6KSaFkkfU
 **Related artists:**
 
 [[Airbeat One Project]]
-[[Michael Bein]]
+[[producers/Michael Bein]]
 [[DJ G4bby]]
 [[L.A.R.5]]
 [[G4bby]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P
 
 **Related artists:**
 
-[[Vybe Beatz]]
+[[producers/Vybe Beatz]]
 [[Olexesh]]

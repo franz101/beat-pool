@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3ia6KsnCGQxgixSVn5u24R
 
 **Related artists:**
 
-[[DJ Vito]]
+[[producers/DJ Vito]]
 [[Bengio]]
 [[Samy Deluxe]]
-[[TTeo]]
-[[Lev]]
+[[producers/TTeo]]
+[[producers/Lev]]

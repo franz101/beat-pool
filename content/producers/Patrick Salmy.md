@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4aASlEtfFVWDbNnBgE2gpr
 
 **Related artists:**
 
-[[Patrick Pyke Salmy]]
-[[Marcel "Juh-Dee" Uhde]]
-[[Robin Grubert]]
+[[producers/Patrick Pyke Salmy]]
+[[producers/Marcel "Juh-Dee" Uhde]]
+[[producers/Robin Grubert]]
 [[Adel Tawil]]

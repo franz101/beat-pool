@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1qvFDj12cZAuqZOJkQrs7Y
 
 **Related artists:**
 
-[[Swae]]
+[[producers/Swae]]
 [[Sarhad]]

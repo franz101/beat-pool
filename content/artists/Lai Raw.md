@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/0MfrPIzUgcWVg2uaS4u856
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9bca5dbbfdaba3f1f9e43e3c)
 **Related artists:**
 
-[[Phil Koch]]
-[[Kilian Lamothe]]
+[[producers/Phil Koch]]
+[[producers/Kilian Lamothe]]
 [[John Known]]
-[[Torn Palk]]
-[[Fynn]]
-[[Illvision Beats]]
+[[producers/Torn Palk]]
+[[producers/Fynn]]
+[[producers/Illvision Beats]]
 [[DISSY]]
-[[Melina Paxinos]]
+[[producers/Melina Paxinos]]

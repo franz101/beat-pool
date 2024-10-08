@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/16BKbuQa7EGfTuvU7khdlb
 **Related artists:**
 
 [[Oli. P]]
-[[Mark van Klark for Tymeforce Music]]
-[[Tobias Dinter]]
-[[Mark van Klark]]
+[[producers/Mark van Klark for Tymeforce Music]]
+[[producers/Tobias Dinter]]
+[[producers/Mark van Klark]]

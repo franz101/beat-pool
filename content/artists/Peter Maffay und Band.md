@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4FdJWMaEgOhoIWhDmN07Ue
 
 [[Rainhard Fendrich]]
 [[Peter Maffay]]
-[[Bertram Engel]]
-[[Carl Carlton]]
+[[producers/Bertram Engel]]
+[[producers/Carl Carlton]]
 [[Gregor Rottschalk]]
-[[Tato Gomez]]
+[[producers/Tato Gomez]]

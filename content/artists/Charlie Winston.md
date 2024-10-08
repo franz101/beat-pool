@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3
 
 **Related artists:**
 
-[[Christian Lohr]]
+[[producers/Christian Lohr]]
 [[Gregor Meyle]]

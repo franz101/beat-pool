@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5HY6tCLEBrfMyDvkrXlgIr
 
 **Related artists:**
 
-[[Christopher Lee-Joe]]
+[[producers/Christopher Lee-Joe]]
 [[Sarah Connor]]

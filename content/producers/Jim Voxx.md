@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7h9aCxYBRhKvPsnnLcrHSm
 **Related artists:**
 
 [[Udo Lindenberg]]
-[[Becker]]
+[[producers/Becker]]
 [[Karat]]
-[[Dave King]]
-[[M. Becker]]
+[[producers/Dave King]]
+[[producers/M. Becker]]

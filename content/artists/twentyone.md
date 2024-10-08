@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/1skApTtTVJYS5gj4PavSBJ
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf8843252142ad1616a813d8d)
 **Related artists:**
 
-[[Tillill]]
+[[producers/Tillill]]
 [[FROST-E]]
 [[Musso]]
 [[morten]]
-[[PressPlay]]
+[[producers/PressPlay]]
 [[Rojas]]

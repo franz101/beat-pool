@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4Q7SixHPl8KyDwY0r3xomy
 **Related artists:**
 
 [[Culcha Candela]]
-[[VitaliZe]]
+[[producers/VitaliZe]]

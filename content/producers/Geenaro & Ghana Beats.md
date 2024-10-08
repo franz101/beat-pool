@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz
 **Related artists:**
 
 [[Summer Cem]]
-[[Tigran]]
-[[GiUZZY BEATS]]
-[[PRODDXDEK]]
+[[producers/Tigran]]
+[[producers/GiUZZY BEATS]]
+[[producers/PRODDXDEK]]

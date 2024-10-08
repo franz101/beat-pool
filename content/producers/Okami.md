@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2ty3hsy1uBfmAexvChBsyU
 **Related artists:**
 
 [[Bozza]]
-[[Ambezza]]
+[[producers/Ambezza]]
 [[Bausa]]

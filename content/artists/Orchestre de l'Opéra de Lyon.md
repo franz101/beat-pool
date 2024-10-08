@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6WCGYZ3JK22TKnOzLUwtI1
 
 **Related artists:**
 
-[[Dan Broatman]]
+[[producers/Dan Broatman]]
 [[Westernhagen]]
 [[Kent Nagano]]
-[[Martin Sauer]]
+[[producers/Martin Sauer]]

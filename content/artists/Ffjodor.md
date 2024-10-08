@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/4wLnHjoM5zFqc0kyWUBoSA
 **Related artists:**
 
 [[Cgoon]]
-[[Basey]]
+[[producers/Basey]]
 [[LeonLucci]]
 [[Blokkboy$]]
-[[Bronko Bammer]]
+[[producers/Bronko Bammer]]

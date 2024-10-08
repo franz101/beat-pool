@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6sDHglatWWXIZ8ODKwI4At
 
 **Related artists:**
 
-[[Keno]]
+[[producers/Keno]]
 [[Fatoni]]
 [[Dramadigs]]

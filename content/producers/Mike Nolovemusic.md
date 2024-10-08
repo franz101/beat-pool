@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0JEaVMa0s8lIe7CnM3NFBM
 
 **Related artists:**
 
-[[M6]]
-[[Pieter]]
+[[producers/M6]]
+[[producers/Pieter]]
 [[Kalazh44]]
-[[Mateo]]
+[[producers/Mateo]]

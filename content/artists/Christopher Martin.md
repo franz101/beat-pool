@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj
 
 **Related artists:**
 
-[[The Evolution]]
-[[Ben Bazzazian]]
+[[producers/The Evolution]]
+[[producers/Ben Bazzazian]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
-[[Richard „Richie Loops“ Webb]]
+[[producers/Stephan Schulmeister]]
+[[producers/Richard „Richie Loops“ Webb]]

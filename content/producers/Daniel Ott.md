@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2cNan0vwbh0xtyb76sPbpp
 
 [[Bizzy Montana]]
 [[Bosca]]
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Vega]]

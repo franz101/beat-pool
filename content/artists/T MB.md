@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5TBI2eY3XYuIagGwdFhvpF
 **Related artists:**
 
 [[T. Börger]]
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Falco]]

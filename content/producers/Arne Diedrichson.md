@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0YPMYFCYeFFXeLUi8boZkI
 **Related artists:**
 
 [[Fettes Brot]]
-[[Taco Van Hettinga]]
-[[Markus Pauli]]
+[[producers/Taco Van Hettinga]]
+[[producers/Markus Pauli]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2d6zNlB77PzuJ63saqnIEK
 
 **Related artists:**
 
-[[Constantin Krieg]]
+[[producers/Constantin Krieg]]
 [[JORIS]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[LOTTE]]
-[[Max Hesselbarth]]
+[[producers/Max Hesselbarth]]

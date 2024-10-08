@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/5pw5N0pRg8HUPlvpmsSktU
 
 **Related artists:**
 
-[[Moses Schneider]]
+[[producers/Moses Schneider]]

@@ -18,8 +18,8 @@ url: https://open.spotify.com/artist/7jQYzUpPshdP6jZS7lJSDU
 
 [[DIZE]]
 [[Jerome]]
-[[Oliver Kleissle]]
-[[Kraans de Lutin]]
+[[producers/Oliver Kleissle]]
+[[producers/Kraans de Lutin]]
 [[Anstandslos & Durchgeknallt]]
 [[Maria Dürrling]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

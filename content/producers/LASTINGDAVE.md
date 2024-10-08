@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1N3YfbyngT1sHYN2MhOd62
 **Related artists:**
 
 [[Ahzumjot]]
-[[ninio]]
+[[producers/ninio]]

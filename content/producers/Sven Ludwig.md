@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/3vn0sRRgvZNARr4rVKR4pN
 **Related artists:**
 
 [[Gerard]]
-[[Jochen Naaf]]
+[[producers/Jochen Naaf]]
 [[Frank Spilker]]
 [[Megaloh]]
 [[Olli Banjo]]
-[[Robot Koch]]
+[[producers/Robot Koch]]
 [[Lina Maly]]
 [[Disarstar]]
 [[OK KID]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4deez7WShO8KuBcfaaWnTW
 
 **Related artists:**
 
-[[RUDY VALENTINO]]
+[[producers/RUDY VALENTINO]]
 [[Samy Deluxe]]
-[[Van Der Zorn]]
-[[Ninjaneer]]
+[[producers/Van Der Zorn]]
+[[producers/Ninjaneer]]

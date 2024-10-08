@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3qZkkwcwfqAI79149RZcSU
 
 **Related artists:**
 
-[[Marlon Tubach]]
+[[producers/Marlon Tubach]]
 [[Tristan Brusch]]
 [[Maxim]]
-[[Willi Sieger]]
+[[producers/Willi Sieger]]
 [[Daniel Strohhäcker]]

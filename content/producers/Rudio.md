@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0OR91wWbH7te5Aq4Pt3EHx
 
 **Related artists:**
 
-[[Bogabeats]]
+[[producers/Bogabeats]]
 [[Battleboi Basti]]

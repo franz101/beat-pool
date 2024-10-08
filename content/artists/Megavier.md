@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2YcPXre5X3I0dDwHxYFO56
 
 **Related artists:**
 
-[[Andreas Rieke]]
+[[producers/Andreas Rieke]]

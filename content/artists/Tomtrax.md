@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6jm2tpdLWl1vuOE0UsfeKj
 **Related artists:**
 
 [[Pulsedriver]]
-[[Kent Base]]
+[[producers/Kent Base]]
 [[Sunset Project]]
 [[Crystal Lake]]
 [[Shaun Bate]]

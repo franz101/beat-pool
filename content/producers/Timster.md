@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/33TaagsM1UgR66wzJB8Zdv
 **Related artists:**
 
 [[Euphorizon]]
-[[Crooked Leg]]
-[[Central Stage of Music]]
+[[producers/Crooked Leg]]
+[[producers/Central Stage of Music]]
 [[Withard]]

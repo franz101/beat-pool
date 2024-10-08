@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/5W8PlqRp971TMgGNlBw2fV
 [[Martina K.]]
 [[KiiBeats]]
 [[Tarot]]
-[[Arzel]]
+[[producers/Arzel]]
 [[Edoby]]
 [[Zate]]
 [[Slyser]]

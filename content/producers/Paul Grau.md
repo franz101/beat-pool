@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5V9NOyWs4iBVZdcNOih8cK
 **Related artists:**
 
 [[Fury In The Slaughterhouse]]
-[[Jens Krause]]
+[[producers/Jens Krause]]
 [[Brings]]
-[[Franz Plasa]]
+[[producers/Franz Plasa]]
 [[Prez Brown]]

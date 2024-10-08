@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3hVxyYbTwQX7bfIxuq2gAA
 
 **Related artists:**
 
-[[Beatzeps]]
+[[producers/Beatzeps]]
 [[GFM]]
 [[Manuellsen]]

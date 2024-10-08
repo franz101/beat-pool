@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5qNnoaUWULUIwdGAbUm4wN
 **Related artists:**
 
 [[Jean-Cyrille]]
-[[Marvin Kammerer]]
-[[Philipp Kwaku Banahene Monney]]
+[[producers/Marvin Kammerer]]
+[[producers/Philipp Kwaku Banahene Monney]]

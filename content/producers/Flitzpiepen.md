@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6jljZQdZbGzPOLASSOScGu
 **Related artists:**
 
 [[Miss Platnum]]
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Nico K.I.Z]]

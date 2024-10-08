@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO
 
 [[Stieber Twins]]
 [[DJ Tomekk]]
-[[Tom-As]]
+[[producers/Tom-As]]
 [[Curse]]

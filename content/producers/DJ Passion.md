@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/43rTjGZOFnsnPW8Hoo4TSo
 **Related artists:**
 
 [[Schwesta Ewa]]
-[[Iceberg]]
+[[producers/Iceberg]]

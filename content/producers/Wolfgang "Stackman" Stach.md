@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/2KwQCQ0y0JIuZqcWTOHjKn
 [[Henning Wehland]]
 [[Bosse]]
 [[BAP]]
-[[Hubert von Goisern]]
+[[producers/Hubert von Goisern]]

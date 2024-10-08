@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/56l3zYVU89SjFJXyoOdsBg
 **Related artists:**
 
 [[SAMY]]
-[[DIONMAEDIT]]
+[[producers/DIONMAEDIT]]
 [[College]]
-[[Johnny Good]]
+[[producers/Johnny Good]]
 [[OMAR]]

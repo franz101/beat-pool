@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5LLBWMaVVuWoOmFmcN1hZd
 
 **Related artists:**
 
-[[Trapstasy]]
+[[producers/Trapstasy]]
 [[ZOMBIEZ]]
 [[Elias Fogg]]
 [[Dawid DST]]

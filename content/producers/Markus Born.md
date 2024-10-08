@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4FwSOwlf9Soqo0O2NQec4i
 
 [[Xavier Naidoo]]
 [[Söhne Mannheims]]
-[[Michael Herberger]]
+[[producers/Michael Herberger]]

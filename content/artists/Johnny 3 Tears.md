@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/74iE6rXyjSPl853bFQhlNF
 **Related artists:**
 
 [[GHØSTKID]]
-[[Sebastian Biesler]]
-[[Sky van Hoff]]
-[[Phil Sunday]]
+[[producers/Sebastian Biesler]]
+[[producers/Sky van Hoff]]
+[[producers/Phil Sunday]]

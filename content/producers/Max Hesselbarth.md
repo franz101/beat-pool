@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2fptgCEKvXuVH5LeuyoAdi
 
 **Related artists:**
 
-[[Joris Buchholz]]
-[[Constantin Krieg]]
+[[producers/Joris Buchholz]]
+[[producers/Constantin Krieg]]
 [[JORIS]]
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[LOTTE]]

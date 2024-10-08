@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/33mPy3EIExlhfc9asjLg2z
 **Related artists:**
 
 [[Dan Winter]]
-[[Sascha Linde]]
+[[producers/Sascha Linde]]
 [[Christopher S]]
 [[Mike Candys]]
 [[Slin Project]]

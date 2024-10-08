@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6cJa2jN7RQvExIQrxjYCDi
 [[RainDropz!]]
 [[Deltaforcez]]
 [[Ti-Mo]]
-[[Dual Playaz]]
+[[producers/Dual Playaz]]
 [[Madison]]

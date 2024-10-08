@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/59GjUu8RdcngtmhDbDgfGa
 **Related artists:**
 
 [[Josephin Busch]]
-[[Henrik Menzel]]
-[[Andreas Herbig]]
+[[producers/Henrik Menzel]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[Nathalie Dorra]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

@@ -21,6 +21,6 @@ url: https://open.spotify.com/artist/6MFULpkCpjw47aMa1Z5m1i
 [[Shadow030]]
 [[Eunique]]
 [[Freshmaker]]
-[[Mikky Juic]]
+[[producers/Mikky Juic]]
 [[Brecho]]
 [[Emiliano]]

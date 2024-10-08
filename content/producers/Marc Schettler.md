@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/15tkvYJVTHZW6B3bmht9Jf
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Jim Muller]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Jim Muller]]
+[[producers/Hardy Krech]]
 [[Nathan Evans]]
 [[Santiano]]

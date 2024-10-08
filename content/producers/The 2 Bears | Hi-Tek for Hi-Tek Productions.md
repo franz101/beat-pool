@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/72RQclt1cKGjNSZVCCsvhi
 
 [[The 2 Bears]]
 [[Hi-Tek]]
-[[Inc.]]
+[[producers/Inc.]]

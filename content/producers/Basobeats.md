@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5janAIAGM4T4dGhYROjMUC
 
 **Related artists:**
 
-[[Slurm]]
+[[producers/Slurm]]
 [[Okfella]]
-[[Clemens Dietrich]]
+[[producers/Clemens Dietrich]]
 [[SHINSKY x DIMA]]

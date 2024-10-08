@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3QenmnHAez4Srg9Ppfbphf
 
 **Related artists:**
 
-[[Nils Karsten]]
-[[DJ Dean]]
+[[producers/Nils Karsten]]
+[[producers/DJ Dean]]
 [[Powerface]]
 [[DJ Lee]]
 [[Apollo]]
-[[Michael-Lee Bock]]
-[[Dj T.H.]]
-[[N.Karsten]]
+[[producers/Michael-Lee Bock]]
+[[producers/Dj T.H.]]
+[[producers/N.Karsten]]
 [[Chemistry]]

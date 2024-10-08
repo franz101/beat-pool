@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/79Ox28ivqLSjMo8zjUQLAm
 **Related artists:**
 
 [[Sarah Connor]]
-[[Rufi-Oh]]
-[[Mekong Age]]
+[[producers/Rufi-Oh]]
+[[producers/Mekong Age]]
 [[TQ]]
-[[Jamahl Harris]]
+[[producers/Jamahl Harris]]

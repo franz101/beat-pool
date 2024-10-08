@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5LfECmuykPMwEK34iHeZ9k
 
 **Related artists:**
 
-[[A-Boom]]
+[[producers/A-Boom]]
 [[Nu51]]
 [[SAMY]]
-[[North]]
-[[DIONMAEDIT]]
+[[producers/North]]
+[[producers/DIONMAEDIT]]
 [[KC Rebell]]
 [[Ufo361]]
-[[Johnny Good]]
+[[producers/Johnny Good]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3OqgnoaUHWX4ih4oAL0zzQ
 
 **Related artists:**
 
-[[BVRGER]]
+[[producers/BVRGER]]
 [[Crack Ignaz]]

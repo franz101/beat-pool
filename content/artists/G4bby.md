@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5bztKoBziXdiDwXw3QnOMc
 **Related artists:**
 
 [[Airbeat One Project]]
-[[Michael Bein]]
+[[producers/Michael Bein]]
 [[BazzBoyz]]

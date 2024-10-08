@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7zTl4SbKFCUdQsRHyiWoSK
 
 **Related artists:**
 
-[[Chekaa]]
+[[producers/Chekaa]]
 [[Eddin]]

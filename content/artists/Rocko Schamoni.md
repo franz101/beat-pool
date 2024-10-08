@@ -25,5 +25,5 @@ url: https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS
 [[Little Machine]]
 [[Monty Arnold]]
 [[IBM Citystar]]
-[[Konrad Halver]]
-[[Marko Peter Bachmann]]
+[[producers/Konrad Halver]]
+[[producers/Marko Peter Bachmann]]

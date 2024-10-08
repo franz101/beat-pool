@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3xNJydmx5VXHfY50SANION
 
 **Related artists:**
 
-[[Peter Keller]]
-[[Pascal Kravetz]]
+[[producers/Peter Keller]]
+[[producers/Pascal Kravetz]]
 [[Peter Maffay]]

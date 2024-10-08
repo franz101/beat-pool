@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0L1flakSYY3OyHY0v3owBT
 
 **Related artists:**
 
-[[Matthias Reiling]]
+[[producers/Matthias Reiling]]
 [[Session Victim]]
 [[DJ Koze]]

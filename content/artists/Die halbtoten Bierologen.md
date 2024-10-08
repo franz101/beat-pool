@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1isFyAQBzKTqTdLcoIUIvM
 
 **Related artists:**
 
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]
 [[Tom Bräutigam]]
 [[Ikke Hüftgold]]
-[[Michael Matuschek]]
+[[producers/Michael Matuschek]]
 [[Lorenz Büffel]]

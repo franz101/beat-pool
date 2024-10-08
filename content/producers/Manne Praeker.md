@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4JEl6PY7a1Q7a2vMOLkaKP
 
 **Related artists:**
 
-[[Reinhold Heil]]
+[[producers/Reinhold Heil]]
 [[Die Ärzte]]
 [[Bela B.]]
 [[Farin Urlaub]]

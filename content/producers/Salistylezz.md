@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2DL2QLSsFpfLVIKbovRVPP
 **Related artists:**
 
 [[Qzeng]]
-[[Mydas Morris]]
-[[Doki]]
+[[producers/Mydas Morris]]
+[[producers/Doki]]

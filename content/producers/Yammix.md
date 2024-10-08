@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7bNiD3TbWzpuoG7GLGsNnl
 **Related artists:**
 
 [[Sugar MMFK]]
-[[Zimzala]]
+[[producers/Zimzala]]

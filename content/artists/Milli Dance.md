@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/7yThIMtkdJQvUKT1RynPZC
 
 [[Juse Ju]]
 [[Pöbel MC]]
-[[Cap Kendricks]]
+[[producers/Cap Kendricks]]
 [[U.N.O.]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Gossenboss mit Zett]]

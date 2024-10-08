@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2CFkufX1PaPNZRcRCpNNYl
 **Related artists:**
 
 [[Silly]]
-[[Tom Cunningham]]
-[[Helmar Federowski]]
-[[Micky Meuser]]
+[[producers/Tom Cunningham]]
+[[producers/Helmar Federowski]]
+[[producers/Micky Meuser]]
 [[City]]

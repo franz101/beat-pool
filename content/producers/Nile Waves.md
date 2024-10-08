@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Y8tCWIzmjWzwTogek4h5Z
 
 **Related artists:**
 
-[[FlemDawg 1hunna]]
+[[producers/FlemDawg 1hunna]]
 [[negatiiv OG]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa
 
 [[Gentleman]]
 [[Seeed]]
-[[P. Baigorry]]
+[[producers/P. Baigorry]]

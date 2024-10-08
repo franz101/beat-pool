@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6JsfksC4jrZkoNJrI1yfyp
 
 **Related artists:**
 
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[Apache 207]]

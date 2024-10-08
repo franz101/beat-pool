@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/49uOaSHIqPy9xzpGq972b1
 
 **Related artists:**
 
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Silla]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng
 
 **Related artists:**
 
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Die Prinzen]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

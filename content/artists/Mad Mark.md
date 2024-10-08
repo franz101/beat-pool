@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3yBEHAINorE3uSvsCmyCwQ
 **Related artists:**
 
 [[Die Atzen]]
-[[DJ Antoine]]
+[[producers/DJ Antoine]]

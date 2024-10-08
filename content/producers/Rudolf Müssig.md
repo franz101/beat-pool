@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/78aigt8AWPBAJEuIIMU6kb
 
 **Related artists:**
 
-[[Christoph Leis-Bendorff]]
+[[producers/Christoph Leis-Bendorff]]
 [[Schürzenjäger]]
 [[Jürgen Drews]]

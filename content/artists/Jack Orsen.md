@@ -24,6 +24,6 @@ url: https://open.spotify.com/artist/7fNjr8ALzlbt9640bJKxTG
 [[King Orgasmus One]]
 [[Capkekz]]
 [[Justus]]
-[[Kingsly Defounga]]
+[[producers/Kingsly Defounga]]
 [[Mach One]]
 [[Taktloss]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7hKAytQNcdipsKsUqqqzuI
 
 **Related artists:**
 
-[[Jeo]]
+[[producers/Jeo]]
 [[Jürgen Drews]]
-[[Lalo Titenkov]]
+[[producers/Lalo Titenkov]]
 [[Yvonne Catterfeld]]
 [[Rudolf Müssig]]

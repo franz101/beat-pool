@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6Y62oaBL2PQ1e7B2rcgMbb
 
 **Related artists:**
 
-[[Iggi Tarn]]
+[[producers/Iggi Tarn]]
 [[Okfella]]
 [[j.bac]]
 [[HeXer]]
 [[Dirtykil]]
 [[Purple Ace]]
-[[Clemens Dietrich]]
+[[producers/Clemens Dietrich]]

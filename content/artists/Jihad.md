@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/7Dje5YoA0QAHGp3euuqMen
 **Related artists:**
 
 [[Animus]]
-[[MMinx]]
-[[Produes]]
+[[producers/MMinx]]
+[[producers/Produes]]
 [[Silla]]
 [[Fler]]
-[[Sascha Kunstmann]]
+[[producers/Sascha Kunstmann]]
 [[Miksu]]
-[[Hijackers]]
-[[Bo Diggler]]
+[[producers/Hijackers]]
+[[producers/Bo Diggler]]

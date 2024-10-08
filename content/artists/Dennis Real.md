@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/7cVJR7Ox7dkV8TdMiN7L0A
 [[AzudemSK]]
 [[Mighty Maigl]]
 [[12Vince]]
-[[Adlib Swayze]]
+[[producers/Adlib Swayze]]
 [[Slowy]]
 [[Maulheld]]

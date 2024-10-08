@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5evN9MbRelUAqiiiZZcwSL
 
 **Related artists:**
 
-[[Markus Schulz]]
+[[producers/Markus Schulz]]
 [[RainDropz!]]

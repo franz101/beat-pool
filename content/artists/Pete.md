@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/69kKe6ae6SU0tJQq9XkWjq
 **Related artists:**
 
 [[Monkey]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Die Toten Hosen]]

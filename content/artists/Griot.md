@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1ZlwEX8zytc6Qgxaml4aHZ
 
 **Related artists:**
 
-[[Moris]]
-[[Mr.Lee]]
+[[producers/Moris]]
+[[producers/Mr.Lee]]
 [[Kool Savas]]
-[[Yvan]]
+[[producers/Yvan]]

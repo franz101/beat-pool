@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3wdwtCiABu0hmNSLeAKW0a
 **Related artists:**
 
 [[Lee One]]
-[[Liam Griesbach]]
+[[producers/Liam Griesbach]]

@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/0glTQRwh31DVFOyj5VJCys
 ![Artist](https://i.scdn.co/image/ab67616d0000b2730db33442a024d56004f94ce8)
 **Related artists:**
 
-[[Daniele Zippin]]
-[[DJ DeeVoe]]
+[[producers/Daniele Zippin]]
+[[producers/DJ DeeVoe]]
 [[Maximilian Diehn]]
 [[Freshmaker]]
 [[Kontra K]]
-[[The Royals]]
+[[producers/The Royals]]
 [[Rico]]
-[[Pascal Kalli Reinhardt]]
+[[producers/Pascal Kalli Reinhardt]]
 [[The Cratez]]

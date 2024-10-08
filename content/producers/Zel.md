@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1vA2W0UXGpEVkEunfiIjN2
 
 [[Lil Zey]]
 [[Luciano]]
-[[Exquisite Beats]]
+[[producers/Exquisite Beats]]

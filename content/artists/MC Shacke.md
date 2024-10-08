@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1vQhmXnxukRfUimX1RcjII
 
 **Related artists:**
 
-[[Tito Tentaculo]]
+[[producers/Tito Tentaculo]]
 [[MXM]]
 [[MC Bomber]]
 [[GGB]]
 [[Tiger]]
-[[Tis L]]
+[[producers/Tis L]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/4Zzi46qU37VmBMfZ1VOW4x
 
 **Related artists:**
 
-[[DJ Fait]]
+[[producers/DJ Fait]]

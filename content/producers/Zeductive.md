@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4TzTXAUFP36xIehtrRRllV
 **Related artists:**
 
 [[Gianni Suave]]
-[[Toby John]]
+[[producers/Toby John]]

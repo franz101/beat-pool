@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb
 
 **Related artists:**
 
-[[DJ Desue]]
+[[producers/DJ Desue]]
 [[Fler]]

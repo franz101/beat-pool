@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/04DrRhJl9kUV8XkjBo3wIv
 
 [[Lostboi Lino]]
 [[Gökhan Güler]]
-[[Dennis Neuer]]
+[[producers/Dennis Neuer]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4sy5qWfwUwpGYBnCKnwfcW
 **Related artists:**
 
 [[GHØSTKID]]
-[[Sebastian Biesler]]
+[[producers/Sebastian Biesler]]
 [[In Extremo]]
 [[Jörg Umbreit]]
-[[Sky van Hoff]]
-[[Phil Sunday]]
-[[Vincent Sorg]]
+[[producers/Sky van Hoff]]
+[[producers/Phil Sunday]]
+[[producers/Vincent Sorg]]

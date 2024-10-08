@@ -17,14 +17,14 @@ url: https://open.spotify.com/artist/6unlJzXiZHb2FEojHfe2mw
 **Related artists:**
 
 [[40CRWNS]]
-[[Supersonic]]
+[[producers/Supersonic]]
 [[Oxxxymiron]]
-[[Beatells]]
+[[producers/Beatells]]
 [[Timatic]]
 [[Backz]]
 [[ERRdeKa]]
 [[Yaikess]]
 [[Kool Savas]]
-[[Che.Agyn]]
+[[producers/Che.Agyn]]
 [[Money Boy]]
 [[Zarrus]]

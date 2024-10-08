@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4ejmjFOWw33SXo2STzyslO
 
 **Related artists:**
 
-[[Frans Torell]]
+[[producers/Frans Torell]]
 [[ELI]]
-[[Martin Wave]]
+[[producers/Martin Wave]]

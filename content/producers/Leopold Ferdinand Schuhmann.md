@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3pDTUBE37fHEOj2j3G2KXI
 
 **Related artists:**
 
-[[Jonas Nikolaus Lang]]
+[[producers/Jonas Nikolaus Lang]]
 [[Olexesh]]
-[[Haschim Elobied]]
-[[Martin Peter Willumeit]]
+[[producers/Haschim Elobied]]
+[[producers/Martin Peter Willumeit]]

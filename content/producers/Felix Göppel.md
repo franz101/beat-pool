@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6EGzKrFkjf0LhgRYyKyfVG
 [[Fatoni]]
 [[Liquid]]
 [[doZ9]]
-[[Keno]]
+[[producers/Keno]]
 [[Kuchenmann]]
 [[Sonne Ra]]
 [[Kryptik Joe]]

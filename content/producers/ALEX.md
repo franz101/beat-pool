@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2nEKRTE6la5urCEnpNnMKZ
 **Related artists:**
 
 [[Ardian Bujupi]]
-[[Maxe]]
+[[producers/Maxe]]
 [[NGEE]]
-[[Neal.]]
+[[producers/Neal.]]

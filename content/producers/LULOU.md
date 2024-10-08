@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4z1DlUNCDbPLARmtqVQ9dz
 
 [[Anstandslos & Durchgeknallt]]
 [[Vanessa Mai]]
-[[Choukri]]
+[[producers/Choukri]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4b0e71d795999d6650233011)
 **Related artists:**
 
-[[Anouk Teeuwe]]
-[[Cliff Norrell]]
+[[producers/Anouk Teeuwe]]
+[[producers/Cliff Norrell]]

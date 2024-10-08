@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/7mg4oIXqpd9Y8qHSGlZ0M2
 **Related artists:**
 
 [[dude26]]
-[[Panorama]]
+[[producers/Panorama]]
 [[Dude & Phaeb]]
 [[KOOLaction]]
-[[Georg Ziegler]]
+[[producers/Georg Ziegler]]
 [[Eloquent]]

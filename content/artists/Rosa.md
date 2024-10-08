@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2SSdZmCGOSQyUdjsyNaYhy
 **Related artists:**
 
 [[Kontra K]]
-[[DieserMorten]]
-[[Big Flexx]]
-[[7inch]]
+[[producers/DieserMorten]]
+[[producers/Big Flexx]]
+[[producers/7inch]]

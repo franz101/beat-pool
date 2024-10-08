@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/1qCOnl1CJuFOAL2DeXtghw
 **Related artists:**
 
 [[Notren]]
-[[Renzyy]]
+[[producers/Renzyy]]
 [[Flamekid]]
 [[Kidnfinity]]
-[[Pale Beats]]
+[[producers/Pale Beats]]

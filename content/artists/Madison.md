@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/34klcC7joUsjOh6wjHej43
 **Related artists:**
 
 [[Ti-Mo]]
-[[Andre Otterbach]]
+[[producers/Andre Otterbach]]

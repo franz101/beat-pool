@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/5BIC9q4A7TvcmVanbZcROP
 [[Flashmaster D]]
 [[Schu]]
 [[Armageddonman]]
-[[Siba Giba]]
+[[producers/Siba Giba]]
 [[Mungo Dave]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5AC5GGOsKPejqMNK00NM2g
 **Related artists:**
 
 [[Yassin]]
-[[Jakob Hoff]]
+[[producers/Jakob Hoff]]
 [[Sonne Ra]]
 [[Audio88]]
 [[Torky Tork]]

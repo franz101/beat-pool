@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0NWaHJO1pKCF9NHGjtjeve
 **Related artists:**
 
 [[Zizi]]
-[[sezbeatz]]
+[[producers/sezbeatz]]

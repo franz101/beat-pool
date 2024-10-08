@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5w2Ve0XItcCKXjoZQRDOMt
 
 **Related artists:**
 
-[[Rzon]]
+[[producers/Rzon]]
 [[Mozzik]]
 [[Getinjo]]

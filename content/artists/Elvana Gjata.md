@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/6Cej574CUx7dHKuRHBPNp0
 **Related artists:**
 
 [[Jumpa]]
-[[Darko Dimitrov]]
+[[producers/Darko Dimitrov]]
 [[2po2]]
-[[Florjan Mumajesi]]
+[[producers/Florjan Mumajesi]]
 [[Ardian Bujupi]]
 [[Unik]]
 [[Capital T]]

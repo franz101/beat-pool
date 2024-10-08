@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5DP1O2E2VeWpAeDslexqws
 
 [[Pulsedriver]]
 [[Mikkas]]
-[[Michael-Lee Bock]]
-[[Kasper Smed Nielsen]]
-[[Nicholas Søbye]]
+[[producers/Michael-Lee Bock]]
+[[producers/Kasper Smed Nielsen]]
+[[producers/Nicholas Søbye]]

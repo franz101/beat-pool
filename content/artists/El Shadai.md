@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6oT9ct7VG84dWeDl9SY1SB
 
 [[Main Concept]]
 [[Flashmaster D]]
-[[Glammerlicious]]
+[[producers/Glammerlicious]]
 [[Armageddonman]]
 [[Mungo Dave]]

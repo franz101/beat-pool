@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2IMXUGKPSdTtzJmFdUfFOW
 
 **Related artists:**
 
-[[Zebulon]]
+[[producers/Zebulon]]

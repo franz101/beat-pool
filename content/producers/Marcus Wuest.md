@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/22K8MJWoiJhBlJJc0jSGyL
 **Related artists:**
 
 [[Crack Ignaz]]
-[[Dennis Kopacz]]
-[[Dennis Keil]]
+[[producers/Dennis Kopacz]]
+[[producers/Dennis Keil]]
 [[Get Well Soon]]
-[[Konstantin Gropper]]
+[[producers/Konstantin Gropper]]
 [[Sophie Hunger]]
 [[Kat Frankie]]
 [[Mine]]
@@ -24,5 +24,5 @@ url: https://open.spotify.com/artist/22K8MJWoiJhBlJJc0jSGyL
 [[Sam Vance-Law]]
 [[José]]
 [[Giulia Becker]]
-[[AB Syndrom]]
+[[producers/AB Syndrom]]
 [[Grossstadtgeflüster]]

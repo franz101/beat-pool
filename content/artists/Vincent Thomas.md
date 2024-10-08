@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/0dDVIdOWEx0Bir6UMvaNpq
 [[Beatgees]]
 [[Culcha Candela]]
 [[Deniz Koyu]]
-[[Krutsch]]
+[[producers/Krutsch]]

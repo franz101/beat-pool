@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0Z14dAcvBpGUXAUDKYwgb5
 **Related artists:**
 
 [[Mazila]]
-[[Marko Albrecht]]
+[[producers/Marko Albrecht]]

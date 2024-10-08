@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM
 
 **Related artists:**
 
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[AchtVier]]

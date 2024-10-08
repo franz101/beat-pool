@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5yw5vzC8bQOGOyQ47FSIjf
 
 [[Daniel Großmann]]
 [[Glasperlenspiel]]
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]

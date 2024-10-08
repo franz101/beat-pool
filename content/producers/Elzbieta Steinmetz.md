@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5dS2MsiqcuW6DkIYAXTQnC
 
 **Related artists:**
 
-[[Truva]]
-[[Nikolay Mohr]]
-[[Steffen Graef]]
+[[producers/Truva]]
+[[producers/Nikolay Mohr]]
+[[producers/Steffen Graef]]
 [[Ali As]]
 [[ela.]]

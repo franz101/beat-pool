@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/1Nmpo6wjNmBFScp8x1W0Ju
 
 [[Boris Granich]]
 [[Falco]]
-[[Ferdinand Bolland]]
-[[Rob Bolland]]
+[[producers/Ferdinand Bolland]]
+[[producers/Rob Bolland]]

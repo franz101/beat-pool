@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk
 
 [[German Dream Allstars]]
 [[Yukmouth]]
-[[Don Tone]]
+[[producers/Don Tone]]
 [[VD3]]
 [[Eko Fresh]]

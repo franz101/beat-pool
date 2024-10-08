@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/4VD7b3DaDHGO9vE6VXfasd
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd743333064f7ca79695530c1)
 **Related artists:**
 
-[[Konrad Janz]]
+[[producers/Konrad Janz]]
 [[Stereoact]]
 [[Gestört aber GeiL]]
-[[Hannes Sigl]]
-[[Eduward Wagner]]
-[[Matthias Mania]]
+[[producers/Hannes Sigl]]
+[[producers/Eduward Wagner]]
+[[producers/Matthias Mania]]

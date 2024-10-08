@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6zNLZkZOlLc976l2OileRF
 **Related artists:**
 
 [[Kidd Azzurra]]
-[[sketchmyname]]
-[[HXRXKILLER]]
+[[producers/sketchmyname]]
+[[producers/HXRXKILLER]]

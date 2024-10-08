@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7dgD9ahHI58usvac3690T9
 **Related artists:**
 
 [[Soultrain]]
-[[M.a.s. de Vries]]
+[[producers/M.a.s. de Vries]]
 [[C7]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7FygV5pivjX6Y6cH9iQXPL
 
 **Related artists:**
 
-[[Andy Richter]]
+[[producers/Andy Richter]]
 [[Special D.]]
-[[Dennis Horstmann]]
+[[producers/Dennis Horstmann]]

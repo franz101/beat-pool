@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/3PP4drc6wQuyKstnJfXpu1
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5a0d63aff8b8f734cf2f84ba)
 **Related artists:**
 
-[[Jurij Gold]]
+[[producers/Jurij Gold]]
 [[SOTT]]
 [[GENT]]
 [[Jigzaw]]
-[[Falconi]]
+[[producers/Falconi]]
 [[JIGGO]]

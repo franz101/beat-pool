@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/6GLUkWINsxtaHYMisSHm1i
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Dennis Bierbrodt]]
 [[Alle Farben]]
-[[Mushroom People]]
-[[Pelican]]
+[[producers/Mushroom People]]
+[[producers/Pelican]]
 [[Scooter]]
-[[Jurgen Dohr]]
+[[producers/Jurgen Dohr]]
 [[James Blunt]]
-[[Daniel Deimann]]
+[[producers/Daniel Deimann]]

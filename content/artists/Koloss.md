@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5LyqWRkzHI2VfDWzaPQq8D
 **Related artists:**
 
 [[Marcella McCrae]]
-[[Drumz N' Roses]]
-[[Cubeatz]]
+[[producers/Drumz N' Roses]]
+[[producers/Cubeatz]]
 [[Marc Reis]]
 [[Twin]]

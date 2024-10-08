@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0ZsQhGEshVqljzU29pJmsp
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Kool Savas]]
 [[Ali As]]
 [[Samy Deluxe]]

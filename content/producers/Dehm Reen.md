@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4ovXgOuZI3r7JKGYE6211R
 
 **Related artists:**
 
-[[Hadji]]
+[[producers/Hadji]]
 [[Holy Modee]]
 [[morten]]

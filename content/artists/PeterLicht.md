@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/0vr6IcFPFgjLKLUNPDlWmS
 **Related artists:**
 
 [[Benedikt Filleböck]]
-[[Proppe]]
-[[Ekimas]]
-[[Andreas Wodraschke]]
-[[Boris Rogowski]]
-[[Richard Ojijo]]
-[[Boris Bontempi]]
+[[producers/Proppe]]
+[[producers/Ekimas]]
+[[producers/Andreas Wodraschke]]
+[[producers/Boris Rogowski]]
+[[producers/Richard Ojijo]]
+[[producers/Boris Bontempi]]

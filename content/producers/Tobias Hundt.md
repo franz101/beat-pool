@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/2WobsYXfAu40nUGHREjMf4
 
 [[Lupid]]
 [[Majoe]]
-[[Thomas Eifert]]
-[[Markus Sebastian Harbauer]]
+[[producers/Thomas Eifert]]
+[[producers/Markus Sebastian Harbauer]]
 [[Juh-Dee]]
 [[Jasmin Shakeri]]

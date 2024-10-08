@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6b9twdKJko14GU077pHe6s
 **Related artists:**
 
 [[Kelvyn Colt]]
-[[Yung Swisher]]
+[[producers/Yung Swisher]]
 [[Ramo]]
-[[Tengo]]
+[[producers/Tengo]]

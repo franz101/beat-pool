@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3EdCR76Kvz8QJquuIi2Csq
 **Related artists:**
 
 [[Strong Arm Steady]]
-[[Jason Smith]]
-[[Phonte Lyshod Coleman]]
-[[Otis Jackson Jr.]]
+[[producers/Jason Smith]]
+[[producers/Phonte Lyshod Coleman]]
+[[producers/Otis Jackson Jr.]]

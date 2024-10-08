@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7mbdcJkkgnyrlLvFBg32U6
 **Related artists:**
 
 [[dude26]]
-[[MANIAC]]
+[[producers/MANIAC]]
 [[Toni-L]]
 [[Nepumuk]]
 [[MC Rene]]

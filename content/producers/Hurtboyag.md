@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4BEgeLnEvEDHWxBcssOv4v
 
 **Related artists:**
 
-[[Funke]]
-[[rythm]]
+[[producers/Funke]]
+[[producers/rythm]]
 [[Ufo361]]
 [[The Cratez]]
-[[Al B Smoove]]
+[[producers/Al B Smoove]]

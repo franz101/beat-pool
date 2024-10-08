@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5ywM5vg7oXZ90pXT7t4WPS
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Bosse]]
 [[Kaiser Quartett]]
 [[Kim Frank]]
 [[BOY]]
-[[Sebastian Madsen]]
+[[producers/Sebastian Madsen]]

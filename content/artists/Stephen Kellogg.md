@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/794GTZkztMS29PO7cTOnmY
 **Related artists:**
 
 [[Milow]]
-[[Jo Francken]]
+[[producers/Jo Francken]]

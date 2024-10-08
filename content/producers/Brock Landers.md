@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/56NMFaQwm0gaGoERAvOveX
 
 **Related artists:**
 
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Sarah Connor]]
-[[Stephen Shape]]
+[[producers/Stephen Shape]]

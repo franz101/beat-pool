@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7fKOzKGZVIsXRJ78El7ZcZ
 **Related artists:**
 
 [[EAV (Erste Allgemeine Verunsicherung)]]
-[[Kurt Keinrath]]
-[[Thomas Spitzer]]
+[[producers/Kurt Keinrath]]
+[[producers/Thomas Spitzer]]

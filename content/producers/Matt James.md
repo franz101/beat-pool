@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5fbbqdJPcqNyvJofPeAI1p
 
 **Related artists:**
 
-[[Frank Sanders]]
+[[producers/Frank Sanders]]
 [[Tom Gregory]]

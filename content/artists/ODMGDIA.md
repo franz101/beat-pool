@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3ewhuv1HutVqyyyVgO8ZkD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7cfcc8b274ee4ed0e55f30f5)
 **Related artists:**
 
-[[Maximilian Schulz]]
+[[producers/Maximilian Schulz]]
 [[Private Paul]]
 [[Ruffiction]]
 [[Taha]]

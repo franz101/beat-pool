@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6hpMMn8oYkqhAmMLRTwILi
 **Related artists:**
 
 [[Ferris MC]]
-[[Sventastic]]
+[[producers/Sventastic]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0UrMzLbIDbsCvkJGYFFg4J
 ![Artist]()
 **Related artists:**
 
-[[Stan Regal]]
+[[producers/Stan Regal]]
 [[Die Ärzte]]

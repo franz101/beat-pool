@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1ABMwAv23S0t7cd2z0vgQ4
 
 **Related artists:**
 
-[[The Evolution]]
+[[producers/The Evolution]]
 [[Rafael Rodriguez]]
 [[Gentleman]]
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4oCwzskKSGlgSfU1MgphMP
 
 **Related artists:**
 
-[[Olympia Musikproduktion]]
+[[producers/Olympia Musikproduktion]]
 [[Juergen Drews]]
 [[Jürgen Drews]]

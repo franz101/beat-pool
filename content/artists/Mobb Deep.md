@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap
 **Related artists:**
 
 [[Fard]]
-[[IGNAZIO]]
-[[Gorex]]
+[[producers/IGNAZIO]]
+[[producers/Gorex]]

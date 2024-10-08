@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6aiDa8qS5BDotRLL9SF9NA
 
 **Related artists:**
 
-[[Drumaddict]]
+[[producers/Drumaddict]]
 [[Ahzumjot]]

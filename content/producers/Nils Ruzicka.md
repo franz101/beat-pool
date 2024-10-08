@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1VP6zHsKF0tGWAjCyOwoIJ
 
 [[Die Prinzen]]
 [[Michael Patrick Kelly]]
-[[Mirko Schaffer]]
+[[producers/Mirko Schaffer]]

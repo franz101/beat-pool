@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2lVmg9N8uLFIdkML6ryqig
 
 **Related artists:**
 
-[[Beatlefield]]
+[[producers/Beatlefield]]
 [[Chakuza]]
 [[Bushido]]

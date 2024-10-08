@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3sTxgYsRyyQsqclPSUnTV0
 **Related artists:**
 
 [[Holy Modee]]
-[[Neco Beats]]
-[[27Corazones Beats]]
+[[producers/Neco Beats]]
+[[producers/27Corazones Beats]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/5iB5AWIa7qreioi0AF3Bxa
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb37df5a57340d57d76a66a1b9)
 **Related artists:**
 
-[[Brix]]
+[[producers/Brix]]
 [[Tom Astor]]
-[[Mathias Ramson]]
+[[producers/Mathias Ramson]]
 [[DJ Ötzi]]
-[[Klaus Lohmer]]
+[[producers/Klaus Lohmer]]

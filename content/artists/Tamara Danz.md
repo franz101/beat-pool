@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/50YCYTy01CqEdekPvmgi5Y
 **Related artists:**
 
 [[Silly]]
-[[Uwe Hassbecker]]
+[[producers/Uwe Hassbecker]]
 [[Gerhard Gundermann]]
 [[Gitarreros]]
-[[Ritchie Barton]]
+[[producers/Ritchie Barton]]
 [[Karat]]

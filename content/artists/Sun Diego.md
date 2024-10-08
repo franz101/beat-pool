@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/3TqfPVt0HX8GCzNOOjDcum
 **Related artists:**
 
 [[GReeeN]]
-[[Jan van der Toorn]]
-[[Digital Drama]]
+[[producers/Jan van der Toorn]]
+[[producers/Digital Drama]]
 [[SpongeBOZZ]]
 [[Patrick Bang]]
 [[John Webber]]

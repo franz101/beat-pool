@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3Cq5hwCSPJxvkfnzN71Gix
 
 **Related artists:**
 
-[[Marten Laciny]]
-[[Ben Burgwinkel]]
+[[producers/Marten Laciny]]
+[[producers/Ben Burgwinkel]]
 [[Chefket]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

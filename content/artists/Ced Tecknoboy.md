@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4urMGwByJkmN334Tkgoys5
 
 **Related artists:**
 
-[[Gino Montesano]]
+[[producers/Gino Montesano]]
 [[Dj Tht]]
 [[Sean Finn]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Pit Bailay]]

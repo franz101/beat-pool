@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5rhqvZOBzAgrxC8Ic0XMOV
 
 [[Prezident]]
 [[Elsta]]
-[[Erik Insbruck]]
+[[producers/Erik Insbruck]]

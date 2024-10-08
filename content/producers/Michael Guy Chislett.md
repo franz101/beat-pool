@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6uvf289KjtP5SIkXtHanr0
 **Related artists:**
 
 [[Hillsong Auf Deutsch]]
-[[Brooke Ligertwood]]
+[[producers/Brooke Ligertwood]]

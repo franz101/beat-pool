@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/51xoV0gcPJcgnGQSBl3x1q
 **Related artists:**
 
 [[Battleboi Basti]]
-[[Rudio]]
+[[producers/Rudio]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7ey7AEzNLJDQTizkhhYsWN
 **Related artists:**
 
 [[Chakuza]]
-[[Steffen "Steddy" Wilmking]]
+[[producers/Steffen "Steddy" Wilmking]]

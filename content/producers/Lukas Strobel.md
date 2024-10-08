@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/6mKGuKP55qcDWSyzjzrMNB
 [[Prinz Pi]]
 [[Shneezin 257]]
 [[Battleboi Basti]]
-[[Peet]]
+[[producers/Peet]]
 [[Alligatoah]]

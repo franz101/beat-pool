@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1qrYm7EQlVmOnUyHqEzt4z
 
 **Related artists:**
 
-[[Claus Zundel]]
+[[producers/Claus Zundel]]
 [[Hubert Kah]]
-[[Harry Gutowski]]
+[[producers/Harry Gutowski]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7MoGLqiP3hHnvLbdHwlvaZ
 
 **Related artists:**
 
-[[Guillaume Silvestri]]
+[[producers/Guillaume Silvestri]]
 [[Vega]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1P13ujwr4RcwhETgkrgtve
 **Related artists:**
 
 [[Mista Meta]]
-[[El Manito]]
+[[producers/El Manito]]

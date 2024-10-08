@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/1c2Bh9vYxrxmvKRUcv93du
 
 [[SSIO]]
 [[XATAR]]
-[[Choukri Gustmann]]
+[[producers/Choukri Gustmann]]
 [[2ara]]
 [[Olexesh]]
-[[Reaf]]
+[[producers/Reaf]]
 [[Maestro]]
 [[Gökhan Güler]]

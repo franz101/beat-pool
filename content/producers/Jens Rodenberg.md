@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0IDGufmRo61AWPG603CtWP
 
 **Related artists:**
 
-[[Kiko Masbaum]]
-[[Henrik Kersten]]
+[[producers/Kiko Masbaum]]
+[[producers/Henrik Kersten]]
 [[Maite Kelly]]
-[[Florian Peil]]
+[[producers/Florian Peil]]

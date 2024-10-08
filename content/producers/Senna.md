@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1bJ2sCtMJoE54n4aCInnYB
 **Related artists:**
 
 [[Massiv]]
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Kool Savas]]
 [[Moe Mitchell]]

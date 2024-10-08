@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/78KIwHwLGtz9Zm4mp7SzUb
 
 **Related artists:**
 
-[[Rokko Tronic]]
+[[producers/Rokko Tronic]]

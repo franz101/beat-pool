@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx
 
 [[Yvonne Catterfeld]]
 [[Anna-Maria Zimmermann]]
-[[Jeo Mezei]]
+[[producers/Jeo Mezei]]
 [[Pietro Lombardi]]
 [[Sarah Engels]]
 [[Nino de Angelo]]
@@ -22,7 +22,7 @@ url: https://open.spotify.com/artist/7z56WnIZOTB7LcEt7tg9sx
 [[Felix Gauder]]
 [[Jeo@Jeopark]]
 [[Luca Hänni]]
-[[Jeo]]
+[[producers/Jeo]]
 [[Andrea Berg]]
 [[Stefan Pössnicker]]
 [[Vanessa Mai]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4vyX4sR3iEMl5iDFaFXCW8
 
 **Related artists:**
 
-[[Josua Schlag]]
-[[Maximilian Schepp]]
+[[producers/Josua Schlag]]
+[[producers/Maximilian Schepp]]

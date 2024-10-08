@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4f9qROh62aqzZ3JLnoIry9
 **Related artists:**
 
 [[Die Fantastischen Vier]]
-[[Ismail Tuefekci]]
-[[Jens Moelle]]
+[[producers/Ismail Tuefekci]]
+[[producers/Jens Moelle]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3czjmEN9MFPz575cMtITi4
 
 **Related artists:**
 
-[[Amadeus Crotti]]
+[[producers/Amadeus Crotti]]
 [[Philippe Escaño]]
 [[Matthias Reim]]

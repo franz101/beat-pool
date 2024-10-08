@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5P7Dne0budJIa6TtlVntCY
 
 **Related artists:**
 
-[[Tobias Jundt]]
+[[producers/Tobias Jundt]]
 [[Bonaparte]]

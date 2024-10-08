@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4DbtUTi2WsBNdruAZL2pNz
 
 **Related artists:**
 
-[[DLS]]
-[[riico]]
+[[producers/DLS]]
+[[producers/riico]]
 [[Luciano]]
-[[eest.id]]
+[[producers/eest.id]]

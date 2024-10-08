@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1gSR5VBAdpdRLuTLsLr7gk
 **Related artists:**
 
 [[Michelle]]
-[[Martin Warnke]]
+[[producers/Martin Warnke]]

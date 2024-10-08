@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1KvzKYg6r21FxzuyWeKAoW
 
 **Related artists:**
 
-[[Basobeats]]
-[[Beatlian]]
+[[producers/Basobeats]]
+[[producers/Beatlian]]
 [[SHINSKY x DIMA]]

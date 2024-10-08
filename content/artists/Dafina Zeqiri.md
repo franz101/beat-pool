@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ
 **Related artists:**
 
 [[Ledri Vula]]
-[[Rzon]]
-[[Deard Sylejmani]]
+[[producers/Rzon]]
+[[producers/Deard Sylejmani]]
 [[Lumi B]]
 [[Cricket]]

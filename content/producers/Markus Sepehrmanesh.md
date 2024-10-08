@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/73qw9zygz8uHf9P22TmuWn
 **Related artists:**
 
 [[Stefanie Heinzmann]]
-[[Gustav Jonsson]]
+[[producers/Gustav Jonsson]]

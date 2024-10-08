@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3oiSQ3WQXWD8ITPvNg8Lhf
 
 **Related artists:**
 
-[[Loop Schrauber]]
+[[producers/Loop Schrauber]]
 [[Hypnotize]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/04603zcIWXlFLT7nytKonJ
 **Related artists:**
 
 [[Pulsedriver]]
-[[The Fource]]
+[[producers/The Fource]]

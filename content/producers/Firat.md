@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2tN247jaYkud3i1S3fVyvT
 
 **Related artists:**
 
-[[Choukri Gustmann]]
+[[producers/Choukri Gustmann]]
 [[XATAR]]

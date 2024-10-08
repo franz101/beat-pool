@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/6GFsaXWfGkzVO3OpbnD6ot
 
 **Related artists:**
 
-[[Raymatic]]
+[[producers/Raymatic]]
 [[Nazar]]
 [[Ardian Bujupi]]
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Kurdo]]
-[[BTM Soundz]]
+[[producers/BTM Soundz]]
 [[Eno]]
 [[Milonair]]
-[[Kiarash Hashemi]]
+[[producers/Kiarash Hashemi]]

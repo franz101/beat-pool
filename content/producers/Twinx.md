@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1QT6dvNKZnqBkQE6Tg3qAK
 
 **Related artists:**
 
-[[Pzy]]
+[[producers/Pzy]]
 [[Nimo]]
 [[Hava]]

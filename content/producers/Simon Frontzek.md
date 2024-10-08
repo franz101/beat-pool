@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4DPNMMcD6JZfdx1NNZeNP2
 **Related artists:**
 
 [[Madsen]]
-[[Tobias Kuhn]]
-[[Moritz Enders]]
+[[producers/Tobias Kuhn]]
+[[producers/Moritz Enders]]
 [[Thees Uhlmann]]
-[[Rudi Maier]]
-[[Sebastian Madsen]]
+[[producers/Rudi Maier]]
+[[producers/Sebastian Madsen]]

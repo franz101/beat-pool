@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/01b3oz8hzqtQ3yu1PNDV0Q
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebdb59ecadd99dd0ff784f9b51)
 **Related artists:**
 
-[[Maximilian Jaeger]]
-[[Jackson]]
+[[producers/Maximilian Jaeger]]
+[[producers/Jackson]]
 [[Left Boy]]

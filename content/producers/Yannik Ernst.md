@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1ndJkybdtfLl2MnZiwU3br
 
 **Related artists:**
 
-[[Matthias Oldofredi]]
+[[producers/Matthias Oldofredi]]
 [[KYTES]]

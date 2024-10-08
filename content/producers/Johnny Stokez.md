@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3kVVxuhmTT9HEPyt7VjYfi
 
 **Related artists:**
 
-[[Staticbeatz]]
-[[Golden Boy]]
+[[producers/Staticbeatz]]
+[[producers/Golden Boy]]
 [[Silla]]

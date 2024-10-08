@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3oLVgL3KbXIfXLOFtFjKPB
 **Related artists:**
 
 [[MU$A386]]
-[[Cymo]]
-[[Samon Kawamura]]
+[[producers/Cymo]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/5MKC7A8t2y0EXMkhU0tjZO
 ![Artist](https://i.scdn.co/image/ab67616d0000b2739fda4199b3250a976ddd44d2)
 **Related artists:**
 
-[[Unknown]]
-[[Reinhold Heil]]
-[[Udo Arndt]]
-[[Herwig Mitteregger]]
-[[Uwe Hoffmann]]
+[[producers/Unknown]]
+[[producers/Reinhold Heil]]
+[[producers/Udo Arndt]]
+[[producers/Herwig Mitteregger]]
+[[producers/Uwe Hoffmann]]

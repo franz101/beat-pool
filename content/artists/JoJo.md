@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6
 
 **Related artists:**
 
-[[Friedrich VanZandt]]
-[[MazeOne]]
+[[producers/Friedrich VanZandt]]
+[[producers/MazeOne]]
 [[Weekend]]

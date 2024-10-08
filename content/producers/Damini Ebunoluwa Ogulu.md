@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4jdQfimRrof4YhZsC1GdkZ
 
 **Related artists:**
 
-[[The Royals]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[Bonez MC]]
-[[Kelvin Peters]]
+[[producers/Kelvin Peters]]

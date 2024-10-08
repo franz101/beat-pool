@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2zaIFRxYI21GAaSZwq8vAZ
 **Related artists:**
 
 [[Pinball]]
-[[Axel Coon]]
+[[producers/Axel Coon]]

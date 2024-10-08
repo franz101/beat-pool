@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2w5wfLnrIocZhrnc6KkeEI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3430518942209e2c0d831a76)
 **Related artists:**
 
-[[Valious]]
-[[okaymika]]
+[[producers/Valious]]
+[[producers/okaymika]]

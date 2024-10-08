@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2PoVsLwoSbk8k9G7xTRyj6
 **Related artists:**
 
 [[YONII]]
-[[Isa Azier]]
-[[Tanoh Adjobi Saint Pierre aka Panda]]
+[[producers/Isa Azier]]
+[[producers/Tanoh Adjobi Saint Pierre aka Panda]]

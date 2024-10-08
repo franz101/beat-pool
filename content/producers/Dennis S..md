@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/28xS4nb1izKOkVJM0DEePk
 **Related artists:**
 
 [[Nullzweizwei]]
-[[Sinch]]
+[[producers/Sinch]]
 [[Antifuchs]]

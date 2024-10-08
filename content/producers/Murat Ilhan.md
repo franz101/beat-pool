@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4La9TwbIHgFB8raFks08x5
 
 **Related artists:**
 
-[[Aksit Ugurlu]]
+[[producers/Aksit Ugurlu]]
 [[Massaka]]
 [[Monstar361]]

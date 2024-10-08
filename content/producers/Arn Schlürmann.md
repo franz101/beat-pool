@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1AIVa5juqhivd8M9cB0zoa
 
 **Related artists:**
 
-[[den Prinzen]]
+[[producers/den Prinzen]]
 [[Lukas Hilbert]]
 [[Die Prinzen]]

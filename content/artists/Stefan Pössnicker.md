@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/1XtyDIJUNoaaObyiI6itmy
 ![Artist]()
 **Related artists:**
 
-[[Dieter Bohlen]]
+[[producers/Dieter Bohlen]]
 [[Silverjam]]
 [[Fantasy]]
 [[Sonia Liebing]]
 [[Andrea Berg]]
 [[Semino Rossi]]
-[[Armin Pertl]]
+[[producers/Armin Pertl]]
 [[Vanessa Mai]]
 [[Erich Öxler]]

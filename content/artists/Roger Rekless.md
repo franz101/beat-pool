@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4RrMoKqTVd3FhpfoYU0DKb
 
 **Related artists:**
 
-[[Stephan Ifkovits]]
-[[Sebastian Ganso]]
+[[producers/Stephan Ifkovits]]
+[[producers/Sebastian Ganso]]
 [[Blumentopf]]
 [[KAFVKA]]

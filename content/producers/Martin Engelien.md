@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1dQhTNS8uFmj2GfDCHQ7Iq
 
 **Related artists:**
 
-[[Harald Kloser]]
+[[producers/Harald Kloser]]
 [[Klaus Lage]]

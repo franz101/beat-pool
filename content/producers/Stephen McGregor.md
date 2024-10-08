@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4a45vrnUfnfYosGYvwZzSG
 **Related artists:**
 
 [[Gentleman]]
-[[Dwayne Chin-Quee]]
+[[producers/Dwayne Chin-Quee]]
 [[Ky-Mani Marley]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5MTA40Mcesbp7CZ1tigl6w
 **Related artists:**
 
 [[Gentleman]]
-[[The Far East Band]]
+[[producers/The Far East Band]]

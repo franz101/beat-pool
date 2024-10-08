@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7HI2uVrvZRBJltYxJPsOTM
 **Related artists:**
 
 [[JULIEN BOSS]]
-[[NightOne]]
+[[producers/NightOne]]

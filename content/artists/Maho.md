@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4IBcBM6KeJCRuQyF9wTlRE
 
 **Related artists:**
 
-[[unknown productions]]
+[[producers/unknown productions]]
 [[Mista Meta]]
 [[Quame65]]
-[[unkn0wnz productions]]
-[[El G]]
-[[Riddla]]
+[[producers/unkn0wnz productions]]
+[[producers/El G]]
+[[producers/Riddla]]

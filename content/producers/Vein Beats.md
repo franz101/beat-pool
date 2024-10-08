@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4GWRKShhdAC6mhguMKV6yA
 **Related artists:**
 
 [[Mudi]]
-[[The Royals]]
+[[producers/The Royals]]
 [[Enes]]

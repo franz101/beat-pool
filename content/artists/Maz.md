@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/6dBshEw6P9CdrDU34yw0Uu
 **Related artists:**
 
 [[LUVRE47]]
-[[Magestick]]
+[[producers/Magestick]]
 [[Skinnyblackboy]]
-[[RGB1]]
+[[producers/RGB1]]

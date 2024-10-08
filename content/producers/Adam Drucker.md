@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2fBsWTp0Uc6AqeV9cWMLy9
 
 **Related artists:**
 
-[[Jonathan Avram Wolf]]
-[[Michael Sandison]]
-[[Marcus Eoin]]
+[[producers/Jonathan Avram Wolf]]
+[[producers/Michael Sandison]]
+[[producers/Marcus Eoin]]
 [[cLOUDDEAD]]
-[[David Madson]]
+[[producers/David Madson]]
 [[Boards of Canada]]

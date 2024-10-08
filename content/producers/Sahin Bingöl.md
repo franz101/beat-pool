@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4guXLdvYcRoIAFzzUBF74U
 
 [[Kilomatik]]
 [[GENT]]
-[[Berat Piri]]
+[[producers/Berat Piri]]
 [[Belah]]
 [[Eddin]]
 [[Eazim]]

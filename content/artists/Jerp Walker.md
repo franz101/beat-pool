@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0F6yUtUtPpS0mfsIvLmnuh
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd77a0ff96f6de50a9d1cf385)
 **Related artists:**
 
-[[Enrico Agnello - Mastering]]
-[[Adrian Hugler - Beat]]
+[[producers/Enrico Agnello - Mastering]]
+[[producers/Adrian Hugler - Beat]]
 [[Fae August]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7017hCA60SwZz75uPg9oOO
 [[Glenn Kaiser]]
 [[Norm Strauss]]
 [[Sarah Kaiser]]
-[[Daniel Scheufler]]
+[[producers/Daniel Scheufler]]
 [[Andrew Smith]]
 [[Christoph Mangel]]
 [[Götz Bergmann]]

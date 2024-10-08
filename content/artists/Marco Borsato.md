@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb23f01efae69afc0fc67c3689)
 **Related artists:**
 
-[[John Ewbank]]
+[[producers/John Ewbank]]
 [[Trijntje Oosterhuis]]

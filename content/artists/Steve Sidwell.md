@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/07yjtvZLi2YnvZ3akOFff4
 
 **Related artists:**
 
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
 [[London Creative Orchestra]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/5WYv6kntD9u6dZZh92BG6i
 ![Artist](https://i.scdn.co/image/ab67616d0000b2738e18511c1511d999c352002c)
 **Related artists:**
 
-[[Claud]]
+[[producers/Claud]]
 [[Peter Fox]]
 [[D-Flame]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
-[[llvibe]]
-[[Mon'K]]
+[[producers/llvibe]]
+[[producers/Mon'K]]
 [[Curse]]

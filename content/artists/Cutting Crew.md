@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5677d41157dee225b3633737)
 **Related artists:**
 
-[[Steve Thompson]]
-[[Michael Barbiero]]
+[[producers/Steve Thompson]]
+[[producers/Michael Barbiero]]

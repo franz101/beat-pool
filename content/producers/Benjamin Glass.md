@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0cahvb2ps4WvFG5XNXQHCU
 
 **Related artists:**
 
-[[Uwe Melzer]]
-[[Mr. Finch]]
+[[producers/Uwe Melzer]]
+[[producers/Mr. Finch]]
 [[Gökhan Güler]]
 [[Lostboi Lino]]

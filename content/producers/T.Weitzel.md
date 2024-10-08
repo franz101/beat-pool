@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5xpvJ3fhK7hbJX6swnnseQ
 
 **Related artists:**
 
-[[T. Schleh]]
-[[A .Heck]]
+[[producers/T. Schleh]]
+[[producers/A .Heck]]
 [[Movetown]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7Kf3wymfUa25UVydm2296A
 
 **Related artists:**
 
-[[Dienst&Schulter]]
+[[producers/Dienst&Schulter]]
 [[Simon Meier]]
 [[Flitz&Suppe]]
 [[Leavv]]

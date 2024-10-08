@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1kJJf3Y5B4VatTp5CRhic7
 **Related artists:**
 
 [[Howard Carpendale]]
-[[James Morgan]]
+[[producers/James Morgan]]
 [[Royal Philharmonic Orchestra]]
-[[Juliette Pochin]]
+[[producers/Juliette Pochin]]

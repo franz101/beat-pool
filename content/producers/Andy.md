@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6och5AX3Hv0cOYcv4HbGH7
 
 [[Mario von Hacht]]
 [[Dj Thomilla]]
-[[Hausmarke]]
+[[producers/Hausmarke]]
 [[Die Fantastischen Vier]]
 [[DJ Koze]]

@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/273kLtncNvGXaUUhUKwjAl
 **Related artists:**
 
 [[Beatgees]]
-[[Dino Radosevic]]
-[[Kraans de Lutin]]
+[[producers/Dino Radosevic]]
+[[producers/Kraans de Lutin]]
 [[Benedikt Schöller]]
-[[Timothy Auld]]
+[[producers/Timothy Auld]]
 [[Culcha Candela]]
-[[Johnny Strange]]
-[[Mustardo On The Beat]]
+[[producers/Johnny Strange]]
+[[producers/Mustardo On The Beat]]

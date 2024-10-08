@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU
 
 [[Massiv]]
 [[Kay One]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]

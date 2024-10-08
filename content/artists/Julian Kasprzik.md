@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1bsCx6x3H9GCcGpYSvreWK
 
 **Related artists:**
 
-[[Impakt Musik]]
+[[producers/Impakt Musik]]
 [[Alpa Gun]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV
 **Related artists:**
 
 [[Azad]]
-[[Sti]]
+[[producers/Sti]]
 [[Bushido]]

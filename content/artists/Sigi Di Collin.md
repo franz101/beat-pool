@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6t3S4E5r1yXMTdfNlmyk3R
 
 **Related artists:**
 
-[[Dave Kelly]]
+[[producers/Dave Kelly]]
 [[Timmy G]]
 [[Genial]]

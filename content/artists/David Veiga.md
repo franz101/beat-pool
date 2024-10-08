@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2a8sDQPmyGdn485q5OZTKk
 **Related artists:**
 
 [[MC Bilal]]
-[[Andre Neves]]
+[[producers/Andre Neves]]

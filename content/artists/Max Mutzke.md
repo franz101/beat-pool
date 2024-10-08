@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2XTN4g2qnzFw0TG2NHuQxl
 
 [[Luxuslärm]]
 [[Vera Klima]]
-[[Sebastian Schubert]]
+[[producers/Sebastian Schubert]]
 [[Götz von Sydow]]

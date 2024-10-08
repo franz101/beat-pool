@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN
 
 **Related artists:**
 
-[[Beatzeps]]
+[[producers/Beatzeps]]
 [[Kool Savas]]

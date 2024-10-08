@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1dSo19skGjXwiVXYZggPUp
 
 **Related artists:**
 
-[[Hamid Chizari]]
+[[producers/Hamid Chizari]]
 [[Veysel]]

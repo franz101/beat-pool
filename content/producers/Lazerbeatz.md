@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0smqCizO4t0Nf2g51OGT7X
 
 **Related artists:**
 
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[KiezSpezial]]
 [[Kontra K]]
-[[BombenProdukt]]
+[[producers/BombenProdukt]]

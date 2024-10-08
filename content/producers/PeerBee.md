@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5MuoEhDrNPzzijx8RHDDBo
 
 **Related artists:**
 
-[[Peer Bießmann]]
+[[producers/Peer Bießmann]]
 [[Curse]]

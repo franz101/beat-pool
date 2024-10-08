@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/426fuHBrB8ZuXRnoCkYNq9
 
 **Related artists:**
 
-[[Mighty K.K.]]
-[[Oliver Pinelli]]
+[[producers/Mighty K.K.]]
+[[producers/Oliver Pinelli]]

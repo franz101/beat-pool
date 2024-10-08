@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3WihzF0LqdaXnqPnK0iSjU
 **Related artists:**
 
 [[Moses Pelham]]
-[[Taka Chanaiwa]]
+[[producers/Taka Chanaiwa]]
 [[Joel Brandenstein]]
 [[toksi]]
 [[Topic]]

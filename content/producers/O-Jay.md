@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7onazxZci28JDADmqqitmb
 
 **Related artists:**
 
-[[Chris Kusch]]
-[[Gary B.]]
+[[producers/Chris Kusch]]
+[[producers/Gary B.]]
 [[Oli. P]]

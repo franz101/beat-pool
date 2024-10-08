@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/3BYJl9McCY35iO9F0KHoiz
 [[MnYPnK]]
 [[76er Boys]]
 [[Drave]]
-[[Mazeg]]
+[[producers/Mazeg]]
 [[Bema]]
 [[Skinny Finsta]]
 [[6 Senz]]

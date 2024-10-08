@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1Dq4rIDjxFgkznEYI92K0y
 
 **Related artists:**
 
-[[7J]]
-[[Layz]]
+[[producers/7J]]
+[[producers/Layz]]
 [[YBRE]]
 [[SAMMY]]

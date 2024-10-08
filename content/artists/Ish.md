@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7nNyZMVQQgGf5UVDcJ52yI
 
 [[snice1]]
 [[Carlifornia]]
-[[Traya]]
-[[samssouci]]
+[[producers/Traya]]
+[[producers/samssouci]]

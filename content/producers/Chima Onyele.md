@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/3VDcTCMY4lY27nstEQsv1l
 [[Elmo]]
 [[Chima]]
 [[MoTrip]]
-[[Konrad Sommermeyer]]
+[[producers/Konrad Sommermeyer]]

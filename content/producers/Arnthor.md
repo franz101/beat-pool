@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1DZJEiiEwN2RCQCBlL33PJ
 
 **Related artists:**
 
-[[Max Martin]]
+[[producers/Max Martin]]
 [[No Angels]]

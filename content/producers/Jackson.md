@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5WEFHjy1T9g3u4IonLAEX6
 
 **Related artists:**
 
-[[Maximilian Jaeger]]
+[[producers/Maximilian Jaeger]]
 [[Ferdinand]]
 [[Left Boy]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5atnGQWQ8ua5XyMZRBkGAz
 
 [[Fard]]
 [[Kollegah]]
-[[Brian Uzna]]
+[[producers/Brian Uzna]]

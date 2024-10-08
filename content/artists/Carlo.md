@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/6NZXAPRchcxlVkbcFI0NdV
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb78b5bd0e6e5c44c56d47f5c2)
 **Related artists:**
 
-[[SMR]]
-[[Almnac]]
-[[Moula020]]
-[[Retake]]
+[[producers/SMR]]
+[[producers/Almnac]]
+[[producers/Moula020]]
+[[producers/Retake]]
 [[SEZA]]
-[[Wito]]
+[[producers/Wito]]

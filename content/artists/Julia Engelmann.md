@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/3yKyH3s5xOHdLDfsD0W9gK
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb618ce93c4485bef8fb279314)
 **Related artists:**
 
-[[Ali Zuckowski]]
-[[Marcel Heym]]
-[[Benjamin Bistram]]
-[[Nicolas Rebscher]]
-[[Martin Fliegenschmidt]]
-[[Alexander Freund]]
+[[producers/Ali Zuckowski]]
+[[producers/Marcel Heym]]
+[[producers/Benjamin Bistram]]
+[[producers/Nicolas Rebscher]]
+[[producers/Martin Fliegenschmidt]]
+[[producers/Alexander Freund]]
 [[David Jürgens]]

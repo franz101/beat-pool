@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6HiZI4NOWE1jhqmuATPdQz
 **Related artists:**
 
 [[Pulsedriver]]
-[[Shaun Baker]]
-[[Matthias Brocke]]
+[[producers/Shaun Baker]]
+[[producers/Matthias Brocke]]
 [[Money-G]]
 [[M-Traxx]]

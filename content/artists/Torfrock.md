@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4HijcnnHj54TnOXVwihTCH
 ![Artist](https://i.scdn.co/image/27fc05b8dc7c087b8b996c92eb31851f9adab1eb)
 **Related artists:**
 
-[[Dieter Dombrowski]]
+[[producers/Dieter Dombrowski]]

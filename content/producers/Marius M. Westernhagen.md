@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4DalgMLrOZI8uZcy6Rla8f
 
 **Related artists:**
 
-[[Pete Wingfield]]
+[[producers/Pete Wingfield]]
 [[Westernhagen]]

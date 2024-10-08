@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/3bhV1FCdRcGYpwG2HwLjet
 
 **Related artists:**
 
-[[C. Zippel]]
-[[Sebstian Kirchner]]
-[[Boogieman]]
+[[producers/C. Zippel]]
+[[producers/Sebstian Kirchner]]
+[[producers/Boogieman]]
 [[Mohamed Mounir]]
 [[Ich + Ich]]
-[[Annette Humpe]]
-[[Andreas Herbig]]
+[[producers/Annette Humpe]]
+[[producers/Andreas Herbig]]
 [[Adel Tawil]]
-[[Sebastian Kirchner]]
+[[producers/Sebastian Kirchner]]

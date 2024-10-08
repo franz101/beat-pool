@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5KhhhSBGpb0FUqM11aYImu
 
 **Related artists:**
 
-[[Alan Delabie]]
+[[producers/Alan Delabie]]
 [[DJ RAVEN]]
 [[Thomas Petersen]]
 [[Soulcry]]

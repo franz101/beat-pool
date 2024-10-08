@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0r1A7SSEoOw4awkAz0IL0H
 **Related artists:**
 
 [[ZOMBIEZ]]
-[[Pink Flex]]
+[[producers/Pink Flex]]

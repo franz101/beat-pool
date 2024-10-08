@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/6kI0ZZ0yjJ3Bf5JjEgUJLC
 **Related artists:**
 
 [[Christopher]]
-[[Frans Zimmer]]
+[[producers/Frans Zimmer]]
 [[Alle Farben]]
 [[Topic]]
 [[Vigiland]]
-[[Junkx]]
-[[Tobias Topic]]
+[[producers/Junkx]]
+[[producers/Tobias Topic]]

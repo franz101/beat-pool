@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/36shD4AAmiB9KClfwUMnA7
 
 **Related artists:**
 
-[[Stephan Zeh]]
+[[producers/Stephan Zeh]]
 [[Gil Ofarim]]

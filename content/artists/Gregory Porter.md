@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb19748a2c3fc8f0d888dcee1)
 **Related artists:**
 
-[[Christian Lohr]]
+[[producers/Christian Lohr]]
 [[Helene Fischer]]
-[[Samon Kawamura]]
-[[Christoph Papendieck]]
+[[producers/Samon Kawamura]]
+[[producers/Christoph Papendieck]]
 [[Sarah Connor]]
 [[Max Herre]]

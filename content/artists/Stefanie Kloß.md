@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/5nztAKyqbXsa6jTtmzkN2C
 **Related artists:**
 
 [[Moses Pelham]]
-[[Martin Haas]]
-[[Johannes Stolle]]
-[[Thomas Stolle]]
+[[producers/Martin Haas]]
+[[producers/Johannes Stolle]]
+[[producers/Thomas Stolle]]
 [[Silbermond]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
-[[Andreas Nowak]]
+[[producers/Andreas Nowak]]

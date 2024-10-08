@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/7nkSJXD0RL6Fy5Hmad0nVb
 **Related artists:**
 
 [[Kitty Kat]]
-[[Kid Crazy]]
-[[Philip Larsen]]
-[[Pete Kirtley]]
+[[producers/Kid Crazy]]
+[[producers/Philip Larsen]]
+[[producers/Pete Kirtley]]

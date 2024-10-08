@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/6QDLtviOBe5EaDc6XH948F
 
 [[OGT]]
 [[XATAR]]
-[[Zimzala]]
+[[producers/Zimzala]]
 [[Maestro]]
-[[CHEK Beatz]]
+[[producers/CHEK Beatz]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5N8JofVnGf0LsnRjg5eyt7
 
 [[Reda Rwena]]
 [[Sugar MMFK]]
-[[Zimzala]]
+[[producers/Zimzala]]

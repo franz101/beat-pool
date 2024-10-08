@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb24373db01a21eee92a5338a7)
 **Related artists:**
 
-[[Unleaded]]
+[[producers/Unleaded]]
 [[Ardian Bujupi]]
-[[MB]]
+[[producers/MB]]

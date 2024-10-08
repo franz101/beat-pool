@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv
 
 [[Ralph Möbius]]
 [[Rio Reiser]]
-[[Cymo]]
-[[Samon Kawamura]]
+[[producers/Cymo]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

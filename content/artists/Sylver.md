@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3213f7bdac2903e1072f0c33)
 **Related artists:**
 
-[[Regi Penxten]]
-[[Wout Van Dessel]]
+[[producers/Regi Penxten]]
+[[producers/Wout Van Dessel]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb118e09b3c214ea8f73d6214a)
 **Related artists:**
 
-[[Jeff Hazin]]
+[[producers/Jeff Hazin]]

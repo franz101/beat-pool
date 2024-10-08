@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/47PlThLkeouzT58n1Urjdm
 [[Moe Phoenix]]
 [[Ano]]
 [[Edin]]
-[[Chris Jarbee]]
+[[producers/Chris Jarbee]]
 [[toksi]]
 [[JONA]]
 [[Katja Krasavice]]

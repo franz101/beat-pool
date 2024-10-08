@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/5ouISZaktkPbcGy0ITavLO
 
 [[ZOMBIEZ]]
 [[Twisted Insane]]
-[[G-Ko]]
+[[producers/G-Ko]]

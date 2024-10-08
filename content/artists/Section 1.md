@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1eUs3gA8ifp4ovLgmDloXQ
 **Related artists:**
 
 [[Brooklyn Bounce]]
-[[Axel Coon]]
+[[producers/Axel Coon]]

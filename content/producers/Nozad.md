@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/751GYv8Gs0xQ4B3lwPEFOE
 
 **Related artists:**
 
-[[Staticbeatz]]
-[[Torky]]
+[[producers/Staticbeatz]]
+[[producers/Torky]]
 [[Marvin Game]]
 [[Noah]]
 [[YUN MUFASA]]

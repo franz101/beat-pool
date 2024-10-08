@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5BejWBTQHfYhYlb3ud353K
 
 **Related artists:**
 
-[[Zest]]
+[[producers/Zest]]
 [[Holy Modee]]
-[[Neco Beats]]
+[[producers/Neco Beats]]

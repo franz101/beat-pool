@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/4a3fdABxdLXx53d4YNJ0dc
 
 [[AchtVier]]
 [[TaiMO]]
-[[Aco Beatz]]
+[[producers/Aco Beatz]]
 [[Bonez MC]]
-[[Jambeatz]]
+[[producers/Jambeatz]]

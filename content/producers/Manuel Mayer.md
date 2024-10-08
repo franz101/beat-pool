@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2OeccPadSoCl7FZMqPoiJU
 
 **Related artists:**
 
-[[KD-Beatz]]
+[[producers/KD-Beatz]]
 [[Flo Mega]]
 [[Silla]]
 [[Fler]]

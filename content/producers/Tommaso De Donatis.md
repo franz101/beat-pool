@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5VUhQXMhyLUTqlW6VBXiSN
 
 [[Martin Sola]]
 [[Pulsedriver]]
-[[Sven Greiner]]
-[[Frank Eikam]]
+[[producers/Sven Greiner]]
+[[producers/Frank Eikam]]
 [[Gad Fadget]]
 [[Trigoya]]

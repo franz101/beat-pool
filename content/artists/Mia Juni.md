@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5mkf57rfAZ3NouGxc942J2
 **Related artists:**
 
 [[Juse Ju]]
-[[C.O.W. 牛]]
+[[producers/C.O.W. 牛]]
 [[Nikita Gorbunov]]

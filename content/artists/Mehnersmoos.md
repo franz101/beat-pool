@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/4v1lRzkxvSsxo1JVUxXEOK
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb3661984c5ff12a2825599a6)
 **Related artists:**
 
-[[Paul Mond]]
-[[DJ Spermaficker]]
-[[Sucuki]]
+[[producers/Paul Mond]]
+[[producers/DJ Spermaficker]]
+[[producers/Sucuki]]
 [[257ers]]
 [[K.I.Z]]
 [[Nico K.I.Z]]
 [[Drunken Masters]]
-[[Voddi257]]
+[[producers/Voddi257]]

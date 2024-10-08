@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3EgCH9MOfzBb5NcOP6dg5f
 
 **Related artists:**
 
-[[Daniel Kalbarczyk]]
+[[producers/Daniel Kalbarczyk]]
 [[Flo Mega]]
 [[Peppa]]
 [[kolex]]

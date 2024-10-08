@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7DnIoYesGllW3u3ZS5PSwH
 **Related artists:**
 
 [[2ara]]
-[[Bjet]]
+[[producers/Bjet]]

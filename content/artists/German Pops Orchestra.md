@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/41iM2TVnXEGbB1K02NA0WW
 **Related artists:**
 
 [[Wolfgang Drechsler]]
-[[Dieter Falk]]
+[[producers/Dieter Falk]]
 [[Juliane Werding]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6vHs68jS0s7N8oVuNQxTRn
 **Related artists:**
 
 [[DCVDNS]]
-[[WolfgangH]]
+[[producers/WolfgangH]]
 [[Genetikk]]
-[[Sikk-da-kid]]
+[[producers/Sikk-da-kid]]

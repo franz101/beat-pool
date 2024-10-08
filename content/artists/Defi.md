@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/7l90yfUsZhuXw64bzlVqqn
 [[MC Basstard]]
 [[Smokey Jones]]
 [[Orgasmus]]
-[[Nico Seyfrid]]
+[[producers/Nico Seyfrid]]
 [[Tony D]]
 [[Said]]
 [[Kalusha]]

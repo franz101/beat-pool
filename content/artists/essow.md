@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6FEklPrkIwbvGDSuoK7dNX
 **Related artists:**
 
 [[Loop]]
-[[Arpad]]
+[[producers/Arpad]]
 [[Meydo]]
 [[Peso]]
 [[YAEL]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6VKm3uaFkfP27nvoq6pcyw
 **Related artists:**
 
 [[Joy Denalane]]
-[[Saschliq]]
+[[producers/Saschliq]]

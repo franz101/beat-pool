@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3R12qDL0kEtqRN9NLXHUiZ
 
 **Related artists:**
 
-[[Berkan Akbiyik]]
+[[producers/Berkan Akbiyik]]
 [[BRKN]]
 [[Merlin]]

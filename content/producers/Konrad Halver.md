@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4IDgHSalSvj9Shadmmut7T
 **Related artists:**
 
 [[Rocko Schamoni]]
-[[Marko Peter Bachmann]]
+[[producers/Marko Peter Bachmann]]
 [[Monty Arnold]]

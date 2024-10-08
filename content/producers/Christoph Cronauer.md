@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2WxdDnilUiTCctDjtINQXo
 
 [[Matthias Zürkler]]
 [[Fourty]]
-[[Daniel Cronauer]]
+[[producers/Daniel Cronauer]]
 [[Vanessa Mai]]
 [[Stereoact]]

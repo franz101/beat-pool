@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2vFlaBEkd8zsswe41dY0m6
 
 **Related artists:**
 
-[[Axel Bosse]]
+[[producers/Axel Bosse]]
 [[Deichkind]]
 [[Bosse]]
-[[Nikolai Potthoff]]
+[[producers/Nikolai Potthoff]]
 [[ROY]]
 [[Philipp Grütering]]

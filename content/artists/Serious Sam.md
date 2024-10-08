@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4QLcqjkKen1gbixF3tSS4T
 
 [[Brutos Brutaloz]]
 [[Mr. Capone-E]]
-[[Phat Crispy]]
+[[producers/Phat Crispy]]
 [[Frauenarzt]]
 [[Lil Eazy-E]]
 [[Eko Fresh]]

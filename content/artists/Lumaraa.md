@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/7I2gNSzdQ2z04i1MZizCRK
 [[SXTN]]
 [[Frauenarzt]]
 [[Roxy]]
-[[Krutsch]]
+[[producers/Krutsch]]

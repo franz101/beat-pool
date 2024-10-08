@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7stGyr98mfLJOSc4nJLzPj
 
 **Related artists:**
 
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Kontra K]]
-[[BombenProdukt]]
+[[producers/BombenProdukt]]

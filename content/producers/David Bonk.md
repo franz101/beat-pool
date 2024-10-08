@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/62Sgyk7Sm2Bd4U6iUNbAHT
 
 **Related artists:**
 
-[[Biztram]]
+[[producers/Biztram]]
 [[KAYEF]]
-[[Peter Hoffmann]]
+[[producers/Peter Hoffmann]]
 [[LaFee]]

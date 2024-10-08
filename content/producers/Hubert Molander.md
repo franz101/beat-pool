@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5WZDDlQ8To3WWJTC2zir8M
 **Related artists:**
 
 [[Sonia Liebing]]
-[[Armin Pertl]]
+[[producers/Armin Pertl]]
 [[Felix Gauder]]

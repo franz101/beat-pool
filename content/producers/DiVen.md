@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2hkeJVuuapSCzYYdeBHmDO
 
 **Related artists:**
 
-[[The Nation]]
+[[producers/The Nation]]
 [[Alex Megane]]

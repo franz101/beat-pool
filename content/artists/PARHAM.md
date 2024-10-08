@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5THG1k1naDfXn9IlFDY7FC
 **Related artists:**
 
 [[TaiMO]]
-[[2RED]]
+[[producers/2RED]]

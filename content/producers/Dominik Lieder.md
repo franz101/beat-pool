@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/76CKTw4ITahzDxcA1ItbzJ
 
 **Related artists:**
 
-[[Irievibration]]
-[[Benno Calmbach]]
+[[producers/Irievibration]]
+[[producers/Benno Calmbach]]
 [[Silla]]
 [[RAF Camora]]

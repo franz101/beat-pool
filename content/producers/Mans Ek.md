@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/56bRI09UObUBUXfx0Lf5ma
 
 **Related artists:**
 
-[[Martin Hensing]]
-[[Markus Boehme]]
+[[producers/Martin Hensing]]
+[[producers/Markus Boehme]]
 [[Future Breeze]]
 [[Ron-Bon-Beat]]
-[[Klaus Derichs]]
-[[Charlie Mason]]
+[[producers/Klaus Derichs]]
+[[producers/Charlie Mason]]

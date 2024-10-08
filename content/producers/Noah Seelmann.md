@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3csCJWalNyueyZPHKuFbih
 
 **Related artists:**
 
-[[Sebastiaan Brouwer]]
+[[producers/Sebastiaan Brouwer]]
 [[Davina Michelle]]

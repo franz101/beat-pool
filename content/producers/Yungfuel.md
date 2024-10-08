@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0Cqx13XwNI1GrNNXmocYTo
 **Related artists:**
 
 [[basi]]
-[[Kushbringer]]
+[[producers/Kushbringer]]
 [[NOK1D]]
 [[JEEZA]]
 [[prodbytwelve]]

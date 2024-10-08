@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/2IfNW3VJWrAqzGSxSLhiAv
 **Related artists:**
 
 [[Drei Mann Ein Lied]]
-[[Friedhelm Mund]]
+[[producers/Friedhelm Mund]]
 [[Emphis]]
 [[Chaozz Beatzz]]
 [[Simelli]]
@@ -27,7 +27,7 @@ url: https://open.spotify.com/artist/2IfNW3VJWrAqzGSxSLhiAv
 [[Schmiddlfinga]]
 [[MisterMo]]
 [[Raubaukendisko]]
-[[nvie motho]]
+[[producers/nvie motho]]
 [[AMR]]
 [[Jakob Heisig]]
 [[Monopohl]]
@@ -36,4 +36,4 @@ url: https://open.spotify.com/artist/2IfNW3VJWrAqzGSxSLhiAv
 [[Brazed]]
 [[Kian]]
 [[Dirty B34T2]]
-[[Monroe]]
+[[producers/Monroe]]

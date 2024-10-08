@@ -22,6 +22,6 @@ url: https://open.spotify.com/artist/3wQiWM9exDunNMijAEEiBo
 [[Edo Saiya]]
 [[RyoTheGhoul]]
 [[negatiiv OG]]
-[[Johnny Good]]
+[[producers/Johnny Good]]
 [[Sierra Kidd]]
 [[Sevi Rin]]

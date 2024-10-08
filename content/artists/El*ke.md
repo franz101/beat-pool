@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5aTOLVPXW7b8vvGoA9G9Vz
 
 **Related artists:**
 
-[[O.L.A.F. Opal]]
+[[producers/O.L.A.F. Opal]]
 [[Stephan Remmler]]

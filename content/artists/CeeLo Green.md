@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8
 **Related artists:**
 
 [[Seeed]]
-[[Pete Fox]]
+[[producers/Pete Fox]]

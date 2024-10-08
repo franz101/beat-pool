@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5SdRS9iJ3DIQGah5106FtO
 
 **Related artists:**
 
-[[Nofuk]]
+[[producers/Nofuk]]
 [[OMAR]]
-[[Zinatra]]
+[[producers/Zinatra]]

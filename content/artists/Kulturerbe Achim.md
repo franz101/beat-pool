@@ -37,6 +37,6 @@ url: https://open.spotify.com/artist/7n6idaftclWlhMAH1OWLrP
 [[Skinny Finsta]]
 [[Skoob]]
 [[Merlin]]
-[[ThatBoy PM]]
+[[producers/ThatBoy PM]]
 [[Antifuchs]]
 [[Kranz]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3IBT3XnQqbKHBXpF4eX615
 **Related artists:**
 
 [[OMAR]]
-[[7J]]
+[[producers/7J]]
 [[College]]
 [[SAMMY]]
 [[YBRE]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/7cS5VOMIpnB9Pw4a6Jqejt
 
 [[Pulsedriver]]
 [[Rave Allstars]]
-[[Paul Hutsch]]
+[[producers/Paul Hutsch]]

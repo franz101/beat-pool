@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1ImONfzw8LUXK6mxn2BDT9
 
 **Related artists:**
 
-[[Ramiks]]
+[[producers/Ramiks]]
 [[Eno]]

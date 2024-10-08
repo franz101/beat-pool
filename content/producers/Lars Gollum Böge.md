@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7KXqHrs1YjUHOJux6piM1G
 
 **Related artists:**
 
-[[Thomas Preuss]]
-[[Andreas Wendorf]]
+[[producers/Thomas Preuss]]
+[[producers/Andreas Wendorf]]
 [[Alex M.]]
 [[Akustikrausch]]
 [[DJ Gollum]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3REPPpcbKK2Do6F6B2cltJ
 
 [[Michael Rötgens]]
 [[Jürgen Drews]]
-[[Thorsten Schotten]]
-[[Hartmut Weßling]]
+[[producers/Thorsten Schotten]]
+[[producers/Hartmut Weßling]]

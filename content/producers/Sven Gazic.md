@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3DuuJTVz8SFVuHR8inohJi
 
 **Related artists:**
 
-[[Wolfskind]]
+[[producers/Wolfskind]]
 [[Monet192]]
-[[Maxe]]
+[[producers/Maxe]]

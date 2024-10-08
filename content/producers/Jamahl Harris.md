@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2lHFq0lygyuYesGxyZWH4g
 
 **Related artists:**
 
-[[Adam Charon]]
+[[producers/Adam Charon]]
 [[Sarah Connor]]
-[[Rufi-Oh]]
-[[Mekong Age]]
+[[producers/Rufi-Oh]]
+[[producers/Mekong Age]]
 [[TQ]]

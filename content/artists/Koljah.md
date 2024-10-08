@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/2GmFMWg1NMjmmVFUK2Btfx
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb07228c8dac54fb1c025cc28)
 **Related artists:**
 
-[[Daniel Pongratz]]
+[[producers/Daniel Pongratz]]
 [[DJ Rafik]]
 [[Egotronic]]
 [[NMZS]]
-[[Tobias Pongratz]]
+[[producers/Tobias Pongratz]]
 [[Jinnah]]
 [[Xisqo]]
 [[Tai Phun]]

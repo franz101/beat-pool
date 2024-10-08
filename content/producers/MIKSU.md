@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/1CqDbAAooA2VOQIxy1Hw8K
 
 **Related artists:**
 
-[[Avedon]]
+[[producers/Avedon]]
 [[Lee]]
 [[Sonus030]]
 [[Mozzik]]
 [[Loredana]]
-[[Jacob Manson]]
+[[producers/Jacob Manson]]
 [[Macloud]]
-[[Deats]]
+[[producers/Deats]]
 [[MERO]]
 [[Ufo361]]
 [[Rymez]]

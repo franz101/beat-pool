@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6ey3uqSb29Q8jvJto4NWuF
 
 **Related artists:**
 
-[[Johannes Herbst]]
+[[producers/Johannes Herbst]]
 [[Dame]]
 [[Onk Lou]]
-[[Mario Skakalo]]
+[[producers/Mario Skakalo]]
 [[Michael Zöttl]]
 [[Tina Naderer]]

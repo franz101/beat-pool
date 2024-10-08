@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0SiA0xtHw1lnSXRf1S7jjw
 
 **Related artists:**
 
-[[Vincent Pontare]]
-[[Tobias Gustafsson]]
+[[producers/Vincent Pontare]]
+[[producers/Tobias Gustafsson]]
 [[No Angels]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/57YPH5IHi2BaSd1G4LWH0N
 
 **Related artists:**
 
-[[F. Cactus, V. Finsterwalde]]
+[[producers/F. Cactus, V. Finsterwalde]]
 [[Stereo Total]]

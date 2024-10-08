@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7hcS8URiVMXiwJ9pihlWue
 
 **Related artists:**
 
-[[skoolboy]]
+[[producers/skoolboy]]
 [[JACE]]
 [[Booz]]
-[[Skool Boy]]
+[[producers/Skool Boy]]
 [[Haiyti]]

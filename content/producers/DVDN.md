@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/7LbjswC3gg0hmoYKe0I0zq
 **Related artists:**
 
 [[Sokko167]]
-[[Erk Gotti]]
+[[producers/Erk Gotti]]
 [[Jerome]]
-[[o5beatz]]
+[[producers/o5beatz]]
 [[Almany]]
 [[EREN CAN]]
 [[BATU]]

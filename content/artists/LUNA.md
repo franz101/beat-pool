@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/2RrkjxcwXz281MxRs8Oqp7
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb2b574604f56b54fa0ac3f5a)
 **Related artists:**
 
-[[Pascal 'Kalli' Reinhardt]]
-[[Artox]]
-[[Steffen Haussteiner]]
-[[KrisKraus]]
+[[producers/Pascal 'Kalli' Reinhardt]]
+[[producers/Artox]]
+[[producers/Steffen Haussteiner]]
+[[producers/KrisKraus]]
 [[Björn Olson]]
 [[CedMusic]]
 [[Sarah Bäder]]

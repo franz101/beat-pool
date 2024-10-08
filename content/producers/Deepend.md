@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B
 **Related artists:**
 
 [[Rea Garvey]]
-[[Junkx]]
+[[producers/Junkx]]

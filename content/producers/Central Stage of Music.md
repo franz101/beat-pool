@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7xswXwxt6l9UtuiXFvWlOj
 
 **Related artists:**
 
-[[Timster]]
+[[producers/Timster]]
 [[Euphorizon]]
 [[Withard]]

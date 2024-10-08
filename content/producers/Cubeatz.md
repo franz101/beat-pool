@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/7ms3JhAE561KUmG101aRvu
 
 [[RAF069]]
 [[PA Sports]]
-[[Abaz]]
-[[Beatzeps]]
+[[producers/Abaz]]
+[[producers/Beatzeps]]
 [[Fard]]
 [[Kool Savas]]
 [[Marc Reis]]
@@ -27,6 +27,6 @@ url: https://open.spotify.com/artist/7ms3JhAE561KUmG101aRvu
 [[Silla]]
 [[Twin]]
 [[Marcella McCrae]]
-[[KD-Beatz]]
+[[producers/KD-Beatz]]
 [[Vega]]
 [[Jeyz]]

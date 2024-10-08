@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0dvqsPZ5Dss68MvOry9BPt
 
 **Related artists:**
 
-[[Tom Zwanzger]]
+[[producers/Tom Zwanzger]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

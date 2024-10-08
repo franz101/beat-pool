@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1OBAWOtGBx50rPgMUl6PLZ
 
 **Related artists:**
 
-[[ONEBYONE]]
+[[producers/ONEBYONE]]
 [[ela.]]

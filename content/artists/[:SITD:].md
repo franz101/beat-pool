@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2McJOiKebPtBGqyEYyZQFN
 
 **Related artists:**
 
-[[Noel Pix]]
+[[producers/Noel Pix]]
 [[Eisbrecher]]

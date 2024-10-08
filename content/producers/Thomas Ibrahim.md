@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6YvqWhrlA6naAUPhxRZka3
 
 [[Plattenpapzt Jörg]]
 [[Die Fantastischen Vier]]
-[[And.Ypsilon]]
+[[producers/And.Ypsilon]]

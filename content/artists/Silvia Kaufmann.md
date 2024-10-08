@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/42rkORtwfeBT7aEqlvCi3m
 
 **Related artists:**
 
-[[Robert Meister]]
+[[producers/Robert Meister]]
 [[Jürgen Drews]]

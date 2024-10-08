@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC
 
 **Related artists:**
 
-[[Tilmann Otto]]
-[[Stephen McGregor]]
+[[producers/Tilmann Otto]]
+[[producers/Stephen McGregor]]
 [[Gentleman]]
-[[Dwayne Chin-Quee]]
+[[producers/Dwayne Chin-Quee]]
 [[Bazzazian]]
-[[Boris Rogowski]]
-[[Clay]]
+[[producers/Boris Rogowski]]
+[[producers/Clay]]
 [[Campino]]
 [[Marcia Griffiths]]
 [[Jugglerz]]

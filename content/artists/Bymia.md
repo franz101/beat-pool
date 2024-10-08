@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3fH3B3HFBJj8M8lfBVa4ld
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
-[[Michael Mirell]]
-[[Andrew Lennix]]
+[[producers/Max Kleinschmidt]]
+[[producers/Michael Mirell]]
+[[producers/Andrew Lennix]]
 [[LIZOT]]
 [[Bodybangers]]

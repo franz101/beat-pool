@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6lp0SU3bw6aTNNcsHSjtM3
 
 **Related artists:**
 
-[[Nicolas Perrottey]]
+[[producers/Nicolas Perrottey]]
 [[DJ Shog]]

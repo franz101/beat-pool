@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcea63949ce6ab0abe8f1bdc9)
 **Related artists:**
 
-[[Tony Swain]]
-[[Ricki Wilde]]
+[[producers/Tony Swain]]
+[[producers/Ricki Wilde]]

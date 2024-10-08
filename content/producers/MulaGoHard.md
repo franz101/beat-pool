@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/04LiDgeVMhtg6Vw6y31G3u
 
 **Related artists:**
 
-[[Carter TwoFive]]
+[[producers/Carter TwoFive]]
 [[FGUN $HAKI]]
 [[negatiiv OG]]

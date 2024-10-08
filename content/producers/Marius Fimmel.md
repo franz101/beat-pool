@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3GF4pTrkhocxT4g71hSZwr
 **Related artists:**
 
 [[ANTIHELD]]
-[[Ralf Christian Mayer]]
+[[producers/Ralf Christian Mayer]]

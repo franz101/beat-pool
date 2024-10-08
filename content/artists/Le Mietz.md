@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/0PLC93SkhcsBeorfOoqMYF
 **Related artists:**
 
 [[Kahell]]
-[[Smochi]]
+[[producers/Smochi]]

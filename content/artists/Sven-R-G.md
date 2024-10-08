@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/1Ir4ihuytV7jJhUvJSW6PP
 [[Pulsedriver]]
 [[Sven-R-G & Bass-T]]
 [[Sven-R-G vs. Bass-T]]
-[[S. Petrovic jun.]]
+[[producers/S. Petrovic jun.]]
 [[Rocco]]
 [[BASS-T]]

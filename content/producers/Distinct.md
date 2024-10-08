@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6aC7cqlhasXYDSM9pMYrCZ
 
 **Related artists:**
 
-[[Lowcash]]
+[[producers/Lowcash]]

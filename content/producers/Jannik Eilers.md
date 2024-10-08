@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0uwEBIlESdKbO2bj3Sfkr3
 **Related artists:**
 
 [[DJ Cold Cut]]
-[[TimonD]]
+[[producers/TimonD]]
 [[Menju]]
-[[Cedric Apostel]]
+[[producers/Cedric Apostel]]
 [[Timond]]
 [[EnteTainment]]
-[[MENJU]]
+[[producers/MENJU]]

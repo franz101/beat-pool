@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1BGE4A6bwAaF069omM1dKk
 
 [[Rainhard Fendrich]]
 [[Peter Maffay]]
-[[Bertram Engel]]
-[[Carl Carlton]]
+[[producers/Bertram Engel]]
+[[producers/Carl Carlton]]
 [[Peter Maffay und Band]]
 [[Gregor Rottschalk]]

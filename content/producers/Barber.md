@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0jdQawwFjlM5tofz43MQMr
 
 **Related artists:**
 
-[[Paul NZA]]
+[[producers/Paul NZA]]
 [[MoTrip]]
-[[Marek Pompetzki]]
-[[Cecil Remmler]]
+[[producers/Marek Pompetzki]]
+[[producers/Cecil Remmler]]

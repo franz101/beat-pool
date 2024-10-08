@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/06br97FLQKSKx2ZeGCe0BB
 **Related artists:**
 
 [[Buntspecht]]
-[[Florentin Scheicher]]
+[[producers/Florentin Scheicher]]

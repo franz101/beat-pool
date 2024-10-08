@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2CzC4eLRqX9Hy0qOsPDHDt
 
 **Related artists:**
 
-[[Josef Bach]]
-[[Arne Schumann]]
+[[producers/Josef Bach]]
+[[producers/Arne Schumann]]
 [[Matthias Schweighöfer]]

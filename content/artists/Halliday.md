@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0ZSkJRRycgdk62Qfdd0DT2
 **Related artists:**
 
 [[Empyre One]]
-[[Bob Sandee]]
-[[Brane Kovak]]
+[[producers/Bob Sandee]]
+[[producers/Brane Kovak]]

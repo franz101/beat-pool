@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0TpST8hmVHoqcANAfs8qM8
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0b21eef6d2894cb44cdd8b65)
 **Related artists:**
 
-[[Odean]]
+[[producers/Odean]]
 [[Young Richie Rich]]
 [[Young Taylor]]
 [[prodbytwelve]]

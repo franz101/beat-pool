@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2VzwXR9gMmKdFcGYYWJ924
 
 **Related artists:**
 
-[[Rios]]
+[[producers/Rios]]
 [[Sierra Kidd]]
 [[Genetikk]]

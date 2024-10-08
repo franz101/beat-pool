@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/08zyehANaKDaB8u0kTtQr7
 **Related artists:**
 
 [[Dj Thomilla]]
-[[Conrad Hensel]]
+[[producers/Conrad Hensel]]
 [[Die Fantastischen Vier]]
-[[David Sobol]]
+[[producers/David Sobol]]

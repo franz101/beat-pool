@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1ldvLSSlbvNN657EKL6IiL
 
 **Related artists:**
 
-[[David Vogt]]
-[[Sipho Sililo]]
+[[producers/David Vogt]]
+[[producers/Sipho Sililo]]
 [[KAYEF]]
-[[Kai Fichtner]]
+[[producers/Kai Fichtner]]
 [[Philip Böllhoff]]
 [[Yanek Stärk]]

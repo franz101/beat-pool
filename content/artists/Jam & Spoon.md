@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7
 
 **Related artists:**
 
-[[Jam ElMar]]
+[[producers/Jam ElMar]]
 [[Bodybangers]]
 [[Groove Coverage]]
-[[Mark Spoon]]
+[[producers/Mark Spoon]]

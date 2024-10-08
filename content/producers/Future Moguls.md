@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/55lq5sE75aNOJh6txS7tgK
 
 **Related artists:**
 
-[[Dannyebtracks]]
-[[Patrick Faubert]]
+[[producers/Dannyebtracks]]
+[[producers/Patrick Faubert]]
 [[Ramo]]
-[[Zero Beatz]]
-[[Dominik Felsmann]]
-[[Lennart Voigt]]
+[[producers/Zero Beatz]]
+[[producers/Dominik Felsmann]]
+[[producers/Lennart Voigt]]

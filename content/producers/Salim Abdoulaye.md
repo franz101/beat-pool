@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0KKaPxAn9HtzMGmF1PHJDU
 
 **Related artists:**
 
-[[Ian Leander Mensah]]
+[[producers/Ian Leander Mensah]]
 [[OSAMA]]
 [[65Goonz]]
 [[MaazaKayo]]

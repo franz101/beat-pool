@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/0wJNPcl5IW6Ft8kVhVr9tE
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb56948fa642de0d4bb5bd42f7)
 **Related artists:**
 
-[[PAIX]]
+[[producers/PAIX]]
 [[Capo]]
 [[SOTT]]
 [[Tommy]]

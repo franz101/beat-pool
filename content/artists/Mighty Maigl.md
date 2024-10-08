@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/2MzbraXY8mcViIzzXJF04H
 ![Artist]()
 **Related artists:**
 
-[[Pavel]]
+[[producers/Pavel]]
 [[beppo]]
 [[Dennis Real]]
 [[Shubangi]]
@@ -24,8 +24,8 @@ url: https://open.spotify.com/artist/2MzbraXY8mcViIzzXJF04H
 [[Orange Field]]
 [[AzudemSK]]
 [[Philanthrope]]
-[[Adlib Swayze]]
-[[Shubangi Beppo]]
+[[producers/Adlib Swayze]]
+[[producers/Shubangi Beppo]]
 [[Flitz&Suppe]]
 [[Slowy]]
 [[Lord Folter]]

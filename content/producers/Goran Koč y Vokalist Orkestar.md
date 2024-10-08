@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4ctvgJxv8fBJ1MiA8djwiZ
 
 **Related artists:**
 
-[[Tim Tautorat]]
+[[producers/Tim Tautorat]]
 [[Faber]]
-[[Timo Keller]]
+[[producers/Timo Keller]]

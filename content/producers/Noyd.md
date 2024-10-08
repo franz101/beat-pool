@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/6LyhTUnvQfZY5isqgWnX8w
 [[Juvel]]
 [[Manuellsen]]
 [[J-Luv]]
-[[M3]]
+[[producers/M3]]
 [[Jeyz]]

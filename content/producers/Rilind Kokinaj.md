@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/0m1pBQjL4ZRijW0f9IN4F0
 
 [[Miami Yacine]]
 [[Gökhan Güler]]
-[[Rushit Mara]]
+[[producers/Rushit Mara]]

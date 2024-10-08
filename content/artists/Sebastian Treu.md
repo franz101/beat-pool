@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1PStfAyaZAat0EJkN1JfOP
 **Related artists:**
 
 [[Oli. P]]
-[[Christian Eitner]]
+[[producers/Christian Eitner]]

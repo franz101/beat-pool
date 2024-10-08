@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5F3nIOb8WYEL1Wu2JgDH7G
 
 **Related artists:**
 
-[[Tom Olbrich]]
+[[producers/Tom Olbrich]]
 [[Andreas Bourani]]
-[[Andreas Herbig]]
-[[Philipp Steinke]]
-[[Alexander Freund]]
-[[Peter "Jem" Seifert]]
+[[producers/Andreas Herbig]]
+[[producers/Philipp Steinke]]
+[[producers/Alexander Freund]]
+[[producers/Peter "Jem" Seifert]]

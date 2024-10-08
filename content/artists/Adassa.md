@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/72kqSqk124Vnl1wtT6q9Fh
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[Tale & Dutch]]
 [[Dj Tht]]
 [[Henrik Münchow]]

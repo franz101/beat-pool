@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/10R6wMWc9N2KGcTWTMyLIH
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb98419e9a9b0c1b4bffc434d9)
 **Related artists:**
 
-[[HTN]]
+[[producers/HTN]]
 [[doZ9]]
 [[Sonne Ra]]
 [[Eloquent]]

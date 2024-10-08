@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0gWs3R2f8l9Eo6FuQIrLVg
 **Related artists:**
 
 [[Johannes Oerding]]
-[[Benni Dernhoff]]
+[[producers/Benni Dernhoff]]

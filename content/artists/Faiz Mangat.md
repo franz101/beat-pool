@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/2m4iV3vHUpBFg57i7WKqL2
 
 [[Azad]]
 [[Moses Pelham]]
-[[Gorex]]
-[[Alex Dehn]]
+[[producers/Gorex]]
+[[producers/Alex Dehn]]
 [[Efe Ökmen]]

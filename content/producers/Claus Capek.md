@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2HUKuyoZXNctgoWYHQO5o2
 
 **Related artists:**
 
-[[Don Krutscho]]
+[[producers/Don Krutscho]]
 [[Idil]]
 [[Oli. P]]
 [[Funky Punk]]
 [[Jürgen Drews]]
-[[Guy Gross]]
+[[producers/Guy Gross]]

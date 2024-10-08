@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1qWTUKrklH7FFaXk5n44af
 
 **Related artists:**
 
-[[DJ Sweap]]
+[[producers/DJ Sweap]]
 [[Wicht]]
 [[Kool Savas]]

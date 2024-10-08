@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6wCdPeC5LHzaVWRG56EGNe
 **Related artists:**
 
 [[Udo Lindenberg]]
-[[Frank Ramond]]
+[[producers/Frank Ramond]]

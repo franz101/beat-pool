@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/7Bkj8skabo80QKkbxFnBw4
 
 [[Manuellsen]]
 [[KC Rebell]]
-[[Hamid Chizari]]
+[[producers/Hamid Chizari]]
 [[Chakuza]]

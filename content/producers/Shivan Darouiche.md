@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/45MaABnNZozkO5v8uPxa2h
 **Related artists:**
 
 [[Edo Saiya]]
-[[Roadrunner]]
+[[producers/Roadrunner]]
 [[badchieff]]

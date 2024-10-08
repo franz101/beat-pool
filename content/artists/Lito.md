@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6a5ULaAJZ7Ii2aBSLPSsza
 **Related artists:**
 
 [[MoTrip]]
-[[Elias Klughammer]]
-[[David Ruoff]]
+[[producers/Elias Klughammer]]
+[[producers/David Ruoff]]

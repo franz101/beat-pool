@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb869c07e9ea8ff97059356dc0)
 **Related artists:**
 
-[[Yung Glizzy Cartiersosa]]
+[[producers/Yung Glizzy Cartiersosa]]
 [[Chapo102]]
-[[Kev Koko]]
-[[Yung Pear]]
-[[Jacob Bauernfeind]]
+[[producers/Kev Koko]]
+[[producers/Yung Pear]]
+[[producers/Jacob Bauernfeind]]
 [[Al Majeed]]
 [[KASIMIR1441]]
-[[stickle]]
+[[producers/stickle]]

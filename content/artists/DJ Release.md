@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4TVH4cXIi6EMyOkZTRqnJc
 
 **Related artists:**
 
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Timo Krämer]]
 [[Vega]]

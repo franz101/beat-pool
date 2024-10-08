@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4aXXDj9aZnlshx7mzj3W1N
 
 **Related artists:**
 
-[[Opetaia Foa'i]]
-[[Mark Mancina]]
+[[producers/Opetaia Foa'i]]
+[[producers/Mark Mancina]]
 [[Don Harper]]
 [[Andreas Bourani]]
-[[Chris Montan]]
+[[producers/Chris Montan]]

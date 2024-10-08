@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4edEKYyKxQBrI5InlgmcsN
 
 **Related artists:**
 
-[[Frans Torell]]
+[[producers/Frans Torell]]
 [[ELI]]
 [[Teo Runsjö]]

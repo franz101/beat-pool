@@ -16,17 +16,17 @@ url: https://open.spotify.com/artist/3lXz8nwBGa8sY893p3AnO2
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebebde8c891c81e468db6ad293)
 **Related artists:**
 
-[[Dieser Cater]]
-[[6AM]]
+[[producers/Dieser Cater]]
+[[producers/6AM]]
 [[SOTT]]
 [[DOSH]]
 [[El Baba]]
-[[Memo]]
-[[BM]]
+[[producers/Memo]]
+[[producers/BM]]
 [[Haisenberg]]
 [[Rabe]]
 [[KASIMIR1441]]
-[[Tai Jason]]
+[[producers/Tai Jason]]
 [[Lolito]]
 [[Kardash]]
-[[Semi Kula]]
+[[producers/Semi Kula]]

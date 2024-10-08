@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0MMdYAIZJI3s7vZJL1gCaN
 
 **Related artists:**
 
-[[Dennis Westermann]]
+[[producers/Dennis Westermann]]
 [[Noeleven]]
 [[Punch Arogunz]]

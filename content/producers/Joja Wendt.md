@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3UHnVtj4MTMhfH2JPEHeSm
 
 **Related artists:**
 
-[[Erich Liessmann]]
+[[producers/Erich Liessmann]]
 [[Michelle]]

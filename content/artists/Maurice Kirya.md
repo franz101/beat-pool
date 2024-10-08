@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/74irFmh7k7vfTa2QXwI729
 **Related artists:**
 
 [[Maro]]
-[[Mark Cwiertnia]]
-[[Daniel Nitt]]
+[[producers/Mark Cwiertnia]]
+[[producers/Daniel Nitt]]
 [[Mark Forster]]
-[[Ralf Christian Mayer]]
+[[producers/Ralf Christian Mayer]]

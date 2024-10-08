@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC
 [[Lars “Gollum” Böge]]
 [[Pulsedriver]]
 [[Empyre One]]
-[[Jan “Wayne” Christiansen]]
+[[producers/Jan “Wayne” Christiansen]]
 [[Scarlet]]

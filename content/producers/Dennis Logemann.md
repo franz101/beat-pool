@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3zYc2e5oMI5rApP4re3faE
 
 **Related artists:**
 
-[[Patrick Scholl]]
+[[producers/Patrick Scholl]]
 [[RainDropz!]]
 [[DANCE DEALERS]]
 [[Chris van Dutch]]
@@ -19,4 +19,4 @@ url: https://open.spotify.com/artist/3zYc2e5oMI5rApP4re3faE
 [[Rainy]]
 [[Alexander Schröder]]
 [[Giga Dance]]
-[[Denis Lehmann]]
+[[producers/Denis Lehmann]]

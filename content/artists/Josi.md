@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5vQXzZjy86ijQhMjMb1ke4
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebbe7c5afcc2bbf0df5272dc14)
 **Related artists:**
 
-[[blindforlove]]
+[[producers/blindforlove]]

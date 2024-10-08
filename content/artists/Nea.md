@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4J6n12fCG6ze2dJsMHS1fH
 
 **Related artists:**
 
-[[David Alexi]]
-[[Johnny Illstrument]]
+[[producers/David Alexi]]
+[[producers/Johnny Illstrument]]
 [[Vega]]

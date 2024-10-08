@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3OTCtN5x9FXgqRfKuIyvnX
 
 **Related artists:**
 
-[[Tommaso De Donatis]]
+[[producers/Tommaso De Donatis]]
 [[Gad Fadget]]
 [[Pulsedriver]]

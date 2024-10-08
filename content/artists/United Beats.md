@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4guhygTb9Sx45NcvGJ34qH
 
 **Related artists:**
 
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]
 [[Pulsedriver]]

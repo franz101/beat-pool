@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/490ua1hssJjxvBW0wvUVi3
 
 [[René Baumann]]
 [[Marina Marx]]
-[[Achim Kleist]]
-[[Wolfgang von Webenau]]
+[[producers/Achim Kleist]]
+[[producers/Wolfgang von Webenau]]
 [[Feuerherz]]
 [[Andrea Berg]]
 [[Karsten Walter]]

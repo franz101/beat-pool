@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4t9OMDwi6MQiD4Mn1MqK2H
 
 **Related artists:**
 
-[[Ben Ahrens]]
+[[producers/Ben Ahrens]]
 [[Reinhard Mey]]
 [[Hannes Wader]]

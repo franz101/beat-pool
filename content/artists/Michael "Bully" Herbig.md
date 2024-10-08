@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0Cflz7gEDHRSVeWkbRyDiJ
 **Related artists:**
 
 [[Alexander Wesselsky]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Otto Waalkes]]
 [[Uwe Ochsenknecht]]
 [[Johannes Oerding]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6YJqoODR8TbGC0Z3hNmd13
 **Related artists:**
 
 [[Oli. P]]
-[[Otis]]
-[[Hanisch]]
-[[Laoukili]]
+[[producers/Otis]]
+[[producers/Hanisch]]
+[[producers/Laoukili]]

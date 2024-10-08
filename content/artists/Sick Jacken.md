@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/2Rf13iETx8NVJLIc5N6Ub4
 [[Kontra K]]
 [[Maximilian Diehn]]
 [[The Cratez]]
-[[The Krauts]]
+[[producers/The Krauts]]

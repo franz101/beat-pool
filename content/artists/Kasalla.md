@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/0fN3Kd9aGNr9lTzRFqih4S
 
 [[Cat Ballou]]
 [[Carolin Kebekus]]
-[[Florian Peil]]
+[[producers/Florian Peil]]
 [[Gentleman]]
-[[Wolfgang Stach]]
-[[Nikolaus Faust]]
+[[producers/Wolfgang Stach]]
+[[producers/Nikolaus Faust]]

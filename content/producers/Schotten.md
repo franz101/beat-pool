@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2PwAso4VWRTsYIsrf6CRwK
 **Related artists:**
 
 [[M. Rötgens]]
-[[Wessling]]
+[[producers/Wessling]]
 [[Anna-Maria Zimmermann]]

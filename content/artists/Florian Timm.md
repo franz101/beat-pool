@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/04Mt2TbeNSKMSX7iOUPnzK
 
 **Related artists:**
 
-[[Xtreme Sound]]
-[[Dirk Fiebich]]
+[[producers/Xtreme Sound]]
+[[producers/Dirk Fiebich]]
 [[Anna-Maria Zimmermann]]

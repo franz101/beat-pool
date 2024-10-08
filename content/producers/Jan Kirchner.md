@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0w1XITCfvMOdJSSZjssPAf
 **Related artists:**
 
 [[Howard Carpendale]]
-[[Alexander Seidel]]
-[[Dieter Weidenfeld]]
+[[producers/Alexander Seidel]]
+[[producers/Dieter Weidenfeld]]

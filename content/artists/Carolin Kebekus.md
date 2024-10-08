@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/19ce3buu8Ipf4Og3naEB4g
 
 **Related artists:**
 
-[[Florian Peil]]
+[[producers/Florian Peil]]
 [[Kasalla]]
 [[Favorite]]

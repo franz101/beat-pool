@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/4MSHUiXabE4VwsEE0uK8y7
 **Related artists:**
 
 [[Nice & Wild]]
-[[Joe Granda]]
+[[producers/Joe Granda]]

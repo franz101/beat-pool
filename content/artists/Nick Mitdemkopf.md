@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7zZqqCg1H2Jpe42p8gFXcd
 [[Mr. Käfer]]
 [[Fubu]]
 [[Flitz&Suppe]]
-[[tusken.]]
+[[producers/tusken.]]
 [[Lord Folter]]

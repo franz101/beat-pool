@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2O7acouBXC2DoZ2miUlGkf
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Amar]]
 [[Moe Mitchell]]

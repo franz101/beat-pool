@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/00f5vH5XSiQBNO2IAHZcjm
 [[Svaba Ortak]]
 [[Nate57]]
 [[Haze]]
-[[Dannemann]]
+[[producers/Dannemann]]
 [[Eazyono]]
 [[Sido]]

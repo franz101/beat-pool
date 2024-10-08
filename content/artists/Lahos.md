@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4Pamica4HJLZPQTKTCkG2w
 
 **Related artists:**
 
-[[Maciej Puchalski]]
-[[Frans Zimmer]]
-[[Kevin Zuber]]
+[[producers/Maciej Puchalski]]
+[[producers/Frans Zimmer]]
+[[producers/Kevin Zuber]]
 [[Alle Farben]]

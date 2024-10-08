@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb73163a0981b65ad977e6041)
 **Related artists:**
 
-[[John Ewbank]]
+[[producers/John Ewbank]]
 [[Marco Borsato]]

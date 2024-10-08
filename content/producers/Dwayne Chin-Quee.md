@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4fIeD3LHcYQCybOJeD5ddX
 
 **Related artists:**
 
-[[Stephen McGregor]]
+[[producers/Stephen McGregor]]
 [[Gentleman]]
 [[Ky-Mani Marley]]

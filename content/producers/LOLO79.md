@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7xgkElWT6dfv1abAt4cyC6
 
 **Related artists:**
 
-[[PAIX]]
+[[producers/PAIX]]
 [[Capo]]
 [[UZI]]
 [[SOTT]]

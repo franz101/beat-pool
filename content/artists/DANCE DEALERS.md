@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4LuAsvHZ6QVQGbwBlCUiRk
 
 [[Alexander Schröder]]
 [[RainDropz!]]
-[[Dennis Logemann]]
+[[producers/Dennis Logemann]]
 [[AlexKea]]

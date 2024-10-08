@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3o3IFzqVBCrMehbEUYxEf5
 
 **Related artists:**
 
-[[Edo Zanki]]
+[[producers/Edo Zanki]]
 [[Nino de Angelo]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

@@ -18,9 +18,9 @@ url: https://open.spotify.com/artist/4jKf6qHaKjnuofSy7rXc91
 
 [[Dota Kehr]]
 [[Phela]]
-[[Patrick Reising]]
+[[producers/Patrick Reising]]
 [[Janis Görlich]]
-[[Dorothea Kehr]]
+[[producers/Dorothea Kehr]]
 [[Lina Maly]]
-[[Stefan Wittich]]
-[[Jan Rohrbach]]
+[[producers/Stefan Wittich]]
+[[producers/Jan Rohrbach]]

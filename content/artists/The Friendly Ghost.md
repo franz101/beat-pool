@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1GcRGbeny1vhinzpTFvAhq
 
 **Related artists:**
 
-[[Steffen Rickert]]
-[[Ben Burgwinkel]]
+[[producers/Steffen Rickert]]
+[[producers/Ben Burgwinkel]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

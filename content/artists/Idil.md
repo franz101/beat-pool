@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/69haVkogwGtG87PtAAM37b
 
 [[Oli. P]]
 [[Funky Punk]]
-[[Claus Capek]]
-[[Guy Gross]]
+[[producers/Claus Capek]]
+[[producers/Guy Gross]]

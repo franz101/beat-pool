@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/71MxvbY6dYqeoL54UFrM40
 [[Nockout86]]
 [[Mosh36]]
 [[MC Bogy]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Herzog]]
 [[Tarek K.I.Z]]
 [[Sa4]]

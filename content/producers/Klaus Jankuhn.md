@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2purFToC3YAfgr4NotIn0u
 **Related artists:**
 
 [[2raumwohnung]]
-[[Westbam-ML]]
+[[producers/Westbam-ML]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
+[[producers/Tommi Eckart]]

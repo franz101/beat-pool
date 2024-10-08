@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3c1lCOk4hSv5sUtD6OR3Zb
 
 **Related artists:**
 
-[[Pllumb]]
-[[Deats]]
-[[Rzon]]
+[[producers/Pllumb]]
+[[producers/Deats]]
+[[producers/Rzon]]
 [[Mozzik]]
 [[Miksu - Macloud]]
 [[Loredana]]

@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/1qE4CSDyGGLsSBOtlWoYqX
 **Related artists:**
 
 [[Bato]]
-[[ONEDAH]]
-[[ROCKS]]
-[[Stefan Sarkocevic]]
+[[producers/ONEDAH]]
+[[producers/ROCKS]]
+[[producers/Stefan Sarkocevic]]

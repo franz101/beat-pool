@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3AEbZPLLC08xEuciPEHFfG
 ![Artist](https://i.scdn.co/image/ab67616d0000b2732fa3044115575c0ae4f6c721)
 **Related artists:**
 
-[[YungSmoke030]]
+[[producers/YungSmoke030]]
 [[jaynbeats]]

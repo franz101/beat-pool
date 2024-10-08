@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6UAUb8UQBAopi3vPOgcCoc
 
 **Related artists:**
 
-[[Sven Greiner]]
-[[Frank Eikam]]
-[[Tommaso De Donatis]]
+[[producers/Sven Greiner]]
+[[producers/Frank Eikam]]
+[[producers/Tommaso De Donatis]]

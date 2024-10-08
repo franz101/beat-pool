@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/4NTnk6KemqkYo7gTLwYeUv
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe9f8e54b5bfad83477aaa327)
 **Related artists:**
 
-[[DVDN]]
-[[Perino]]
-[[Armin Monte]]
+[[producers/DVDN]]
+[[producers/Perino]]
+[[producers/Armin Monte]]
 [[Maestro]]
-[[Angelo]]
+[[producers/Angelo]]
 [[GUS]]
-[[HNDRX]]
+[[producers/HNDRX]]
 [[Albozz]]
 [[Mois]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3PUPzGv76LRJ2SRj1SprSP
 
 **Related artists:**
 
-[[Kent Base]]
+[[producers/Kent Base]]
 [[Dany C.]]
 [[Shaun Bate]]

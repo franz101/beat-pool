@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2qvrVVVPjeKvUAmhHBF5li
 **Related artists:**
 
 [[Maite Itoiz]]
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]

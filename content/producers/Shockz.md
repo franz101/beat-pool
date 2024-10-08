@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6txthukoDENhLmavbxJx8V
 
 **Related artists:**
 
-[[KaHama]]
+[[producers/KaHama]]

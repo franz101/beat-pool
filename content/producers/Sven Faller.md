@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/498SI25eedUQQUqzrf74NF
 
 **Related artists:**
 
-[[Jens Fischer Rodrian]]
+[[producers/Jens Fischer Rodrian]]
 [[Konstantin Wecker]]

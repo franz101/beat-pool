@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2h05BPlltEH5CrFzvLRb89
 
 **Related artists:**
 
-[[Michelle Leonard]]
+[[producers/Michelle Leonard]]
 [[Sarah Connor]]
-[[Nalle Ahlstedt]]
+[[producers/Nalle Ahlstedt]]

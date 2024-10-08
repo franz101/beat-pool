@@ -12,14 +12,14 @@ url: https://open.spotify.com/artist/1SxxorGZZ0sWjgLlwN1yzd
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Benny Blanco]]
+[[producers/Benny Blanco]]
 [[Jonesmann]]
 [[Haftbefehl]]
-[[Sti]]
+[[producers/Sti]]
 [[Azad]]
 [[Ercandize]]
-[[Gorex]]
+[[producers/Gorex]]
 [[Olexesh]]
 [[Kool Savas]]
-[[Toe]]
+[[producers/Toe]]
 [[Jeyz]]

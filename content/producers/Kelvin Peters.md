@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2jojv5cJST5zSZyijujV49
 
 **Related artists:**
 
-[[The Royals]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[Bonez MC]]
-[[Damini Ebunoluwa Ogulu]]
+[[producers/Damini Ebunoluwa Ogulu]]

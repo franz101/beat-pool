@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2oblUaHZixbcEIQR9Jhrcj
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb732d77fba697ea9ce40fb5f)
 **Related artists:**
 
-[[Florentin Scheicher]]
-[[Martin Siewert]]
+[[producers/Florentin Scheicher]]
+[[producers/Martin Siewert]]

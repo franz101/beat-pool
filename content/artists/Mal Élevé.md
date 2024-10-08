@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3PHJkWqkPIHfhQbtkXU3dN
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5364cd968468b1db38fdf125)
 **Related artists:**
 
-[[Tobias von Kitzing]]
+[[producers/Tobias von Kitzing]]
 [[Ben Dana]]
 [[Sookee]]
 [[Mortis]]

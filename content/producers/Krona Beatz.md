@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/08rBRusqMhEuweldWYRxea
 
 [[Fard]]
 [[B-Case]]
-[[YenoBeatz]]
+[[producers/YenoBeatz]]

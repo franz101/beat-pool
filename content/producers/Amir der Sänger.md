@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0lg1PVMwle01qcxkOWs2gZ
 
 **Related artists:**
 
-[[Kostas]]
-[[Joshimixu]]
+[[producers/Kostas]]
+[[producers/Joshimixu]]
 [[Fard]]
-[[Kostas Karagiozidis]]
+[[producers/Kostas Karagiozidis]]
 [[PA Sports]]
 [[Kurdo]]

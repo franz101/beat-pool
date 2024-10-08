@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7yDRzzNzxmUqsajB9lIQmi
 [[Nazar]]
 [[Moe Phoenix]]
 [[KC Rebell]]
-[[Kevin Gomringer]]
+[[producers/Kevin Gomringer]]
 [[PA Sports]]
-[[Tim Gomringer]]
+[[producers/Tim Gomringer]]

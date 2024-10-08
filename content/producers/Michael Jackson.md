@@ -11,18 +11,18 @@ url: https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm
 
 **Related artists:**
 
-[[Staticbeatz]]
-[[Juhdee]]
+[[producers/Staticbeatz]]
+[[producers/Juhdee]]
 [[Eunique]]
-[[Lucry]]
+[[producers/Lucry]]
 [[Adel Tawil]]
 [[KC Rebell]]
 [[Veysel]]
 [[Mert]]
-[[Jan Dreyer]]
+[[producers/Jan Dreyer]]
 [[XATAR]]
 [[Miksu]]
 [[Macloud]]
-[[Ariya Rahimianpour]]
+[[producers/Ariya Rahimianpour]]
 [[Rooq]]
 [[Azzi Memo]]

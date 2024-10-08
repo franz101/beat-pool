@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/15wOgyJSWfsC41l98FeWy8
 
 **Related artists:**
 
-[[Joshua Stolten]]
+[[producers/Joshua Stolten]]
 [[Fourty]]
-[[Daniel Cronauer]]
+[[producers/Daniel Cronauer]]
 [[Dominik Köhl]]
-[[Christoph Cronauer]]
+[[producers/Christoph Cronauer]]
 [[Chris Cronauer]]
 [[Vanessa Mai]]
 [[Stereoact]]

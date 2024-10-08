@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1ORtRPk8qPPT8mEBIDWher
 
 **Related artists:**
 
-[[Marc Jounnaux]]
+[[producers/Marc Jounnaux]]
 [[Dezmond Dez]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/4DSAiOwZWmcOswNI7y20Cm
 **Related artists:**
 
 [[Silly]]
-[[Frank Kretschmer]]
-[[Ulf Sommer]]
-[[Tommy Remm]]
+[[producers/Frank Kretschmer]]
+[[producers/Ulf Sommer]]
+[[producers/Tommy Remm]]
 [[Maite Kelly]]
 [[IC Falkenberg]]
 [[Peter Plate]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY
 
 **Related artists:**
 
-[[Heinz Hess]]
+[[producers/Heinz Hess]]
 [[Stephan Remmler]]
 [[[re:jazz]]]

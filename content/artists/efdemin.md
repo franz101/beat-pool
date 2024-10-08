@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6hjRjVNLWTCPYci9nxhI1G
 
 **Related artists:**
 
-[[Dimlite | Phillip Sollmann]]
+[[producers/Dimlite | Phillip Sollmann]]
 [[Dimlite]]
 [[DJ Koze]]

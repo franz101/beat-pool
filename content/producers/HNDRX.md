@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/1Uf8G9srzRwKJwB6LJeBHC
 
 **Related artists:**
 
-[[Chryziz]]
+[[producers/Chryziz]]
 [[Sokko167]]
-[[Pjack]]
+[[producers/Pjack]]
 [[Lil Lano]]
-[[Perino]]
+[[producers/Perino]]
 [[Maestro]]
 [[GUS]]
 [[Ra'is]]
@@ -23,5 +23,5 @@ url: https://open.spotify.com/artist/1Uf8G9srzRwKJwB6LJeBHC
 [[Trippie Boi]]
 [[Eno]]
 [[Mois]]
-[[Aside]]
+[[producers/Aside]]
 [[Miami Yacine]]

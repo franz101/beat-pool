@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/13VIFQOAIEgQriSTu7NHf7
 [[AzudemSK]]
 [[Dennis Real]]
 [[Maulheld]]
-[[Adlib Swayze]]
+[[producers/Adlib Swayze]]
 [[Slowy]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7MpAp1u2pZrlSLrYLFOYyU
 
 **Related artists:**
 
-[[Darko Beats]]
+[[producers/Darko Beats]]
 [[Milonair]]

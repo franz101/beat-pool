@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3sGp8h1TlBH506q1B3DYt9
 
 [[Daniel Großmann]]
 [[LEA]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

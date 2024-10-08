@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4i5kdxCCKyfblbgZNhfUzY
 **Related artists:**
 
 [[Kulturerbe Achim]]
-[[Berkan Akbiyik]]
+[[producers/Berkan Akbiyik]]
 [[Contrabeatz]]
 [[Dazzle]]
 [[BRKN]]

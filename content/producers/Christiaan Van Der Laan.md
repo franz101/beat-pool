@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0FaZ6qQSwNawAgQ4xT3Pvu
 
 **Related artists:**
 
-[[Mark van Bruggen]]
+[[producers/Mark van Bruggen]]
 [[remme]]

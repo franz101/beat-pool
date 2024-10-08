@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/7c3IvNS3sINVdf7TDIbBx3
 
 [[Jan Delay]]
 [[Xavier Naidoo]]
-[[Jan Delay und M. Arfmann]]
-[[Matthias Arfmann]]
+[[producers/Jan Delay und M. Arfmann]]
+[[producers/Matthias Arfmann]]

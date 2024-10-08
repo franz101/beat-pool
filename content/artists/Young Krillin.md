@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ
 
 [[Opti]]
 [[Danny Green]]
-[[Clefco]]
+[[producers/Clefco]]
 [[FKN SKZ]]
 [[Mr. Sesi]]
 [[KDM Shey]]
@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/5daTSRLr5FPpoAU2o1IzyJ
 [[Tarek Gee]]
 [[Hugo Nameless]]
 [[Fid Mella]]
-[[Chazer One]]
+[[producers/Chazer One]]
 [[Maçiek]]
 [[Donvtello]]
 [[dop]]

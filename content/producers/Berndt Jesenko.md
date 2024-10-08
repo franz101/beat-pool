@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4uLuMVr2k2Xs2UZKmqwzoi
 
 **Related artists:**
 
-[[Tribune]]
+[[producers/Tribune]]
 [[Dj Tht]]
 [[Moonset]]

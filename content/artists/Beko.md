@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/37hq157C17tuXXoZNJ5y8d
 
 [[Modus]]
 [[2Malle]]
-[[Aphem]]
+[[producers/Aphem]]
 [[Sechser]]
 [[Teuterekordz]]
 [[Lucky]]

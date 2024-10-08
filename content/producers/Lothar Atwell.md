@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7u7unduexxt6gbGKPnlGeR
 
 **Related artists:**
 
-[[Mirko Michalzik]]
-[[Bo Heart]]
+[[producers/Mirko Michalzik]]
+[[producers/Bo Heart]]
 [[Klaus Lage]]
 [[Peter Wölpl]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv
 
 **Related artists:**
 
-[[Harry Charles Gough]]
+[[producers/Harry Charles Gough]]
 [[Luciano]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3kOPviLsiuKCFTTsHc47lI
 
 **Related artists:**
 
-[[T. Pfund]]
+[[producers/T. Pfund]]
 [[DJ Pfund 500]]
 [[DJ Sweep]]

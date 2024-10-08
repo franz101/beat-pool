@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3mhDn4XA9GYZ8qR5spf0kG
 
 **Related artists:**
 
-[[Andrea Figallo]]
+[[producers/Andrea Figallo]]
 [[Wise Guys]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/46wU0B5VQRfl9I599KL11X
 
 **Related artists:**
 
-[[berki]]
+[[producers/berki]]
 [[Heinie Nüchtern]]
-[[joeldemora]]
+[[producers/joeldemora]]
 [[Kidnfinity]]

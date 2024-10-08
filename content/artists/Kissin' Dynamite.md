@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2wSP2cFfkqg4LKu1pmkTWx
 
 **Related artists:**
 
-[[Johannes Braun]]
+[[producers/Johannes Braun]]

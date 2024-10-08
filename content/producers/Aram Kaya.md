@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0zgkRWIEp4DqqiobNLNA7F
 **Related artists:**
 
 [[XATAR]]
-[[M3]]
+[[producers/M3]]

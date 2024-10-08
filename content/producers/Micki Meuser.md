@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/5RfS4DphVHO9CUAHzTL3Dk
 
 [[Ideal]]
 [[Die Ärzte]]
-[[Gareth Jones]]
+[[producers/Gareth Jones]]

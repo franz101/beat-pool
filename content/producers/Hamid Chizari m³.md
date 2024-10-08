@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2mVA3gcUaugWqwhJwqujz9
 
 **Related artists:**
 
-[[Navid Chizari - NOYD]]
+[[producers/Navid Chizari - NOYD]]
 [[Azad]]

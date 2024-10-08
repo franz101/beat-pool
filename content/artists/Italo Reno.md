@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/34KjxBocW4pjtenT9oUOJl
 **Related artists:**
 
 [[Harris]]
-[[SashliQ]]
+[[producers/SashliQ]]
 [[B-Tight]]
 [[Curse]]

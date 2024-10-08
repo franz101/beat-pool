@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/59snjrcPRFwwX8P3uYt2WU
 **Related artists:**
 
 [[Berge]]
-[[Rocco Horn]]
+[[producers/Rocco Horn]]

@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/2KgZNCJZFBlFPLw1zZVW5u
 
 **Related artists:**
 
-[[U.G.]]
+[[producers/U.G.]]
 [[Anti Garanti]]
 [[Joe Budden]]
 [[Azra]]
 [[Eko Fresh]]
 [[Caput]]
-[[Hakan Yalcin]]
-[[Melbeatz]]
-[[Kingsize]]
-[[Benny Bazzazian]]
+[[producers/Hakan Yalcin]]
+[[producers/Melbeatz]]
+[[producers/Kingsize]]
+[[producers/Benny Bazzazian]]
 [[Kool Savas]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3JzgNB1Kzlc17zuSzrC51x
 
 **Related artists:**
 
-[[Dan Broatman]]
+[[producers/Dan Broatman]]
 [[Westernhagen]]
 [[Orchestre de l'Opéra de Lyon]]
-[[Martin Sauer]]
+[[producers/Martin Sauer]]

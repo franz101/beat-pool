@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe
 
 **Related artists:**
 
-[[Jerry Duplessis]]
+[[producers/Jerry Duplessis]]
 [[Cro]]
 [[Sarah Connor]]

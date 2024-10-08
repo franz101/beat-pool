@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7adCbfW9aRcBxWhuuSNXTo
 **Related artists:**
 
 [[Momo Chahine]]
-[[JUSH]]
+[[producers/JUSH]]

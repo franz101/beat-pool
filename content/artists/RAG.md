@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/77s5mPHpWoTwkkYjpdIubp
 **Related artists:**
 
 [[Criss Krass]]
-[[Mr. Wiz]]
+[[producers/Mr. Wiz]]
 [[Der Lange]]
-[[DJ Chris]]
+[[producers/DJ Chris]]
 [[Creutzfeld & Jakob]]
-[[Fast Forward]]
+[[producers/Fast Forward]]

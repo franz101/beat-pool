@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1AjESlKBo7fzIqCrHfvWke
 **Related artists:**
 
 [[Ingo Thürauf]]
-[[Michael Ilbert]]
+[[producers/Michael Ilbert]]
 [[Sarah Connor]]
 [[Henning Wehland]]
-[[Andreas Rauscher]]
+[[producers/Andreas Rauscher]]

@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/5J2KerlFuRVXo0UGyLxtLP
 [[Bazzazian]]
 [[Tarek K.I.Z]]
 [[Nico K.I.Z]]
-[[Nikki 3k]]
+[[producers/Nikki 3k]]
 [[Drunken Masters]]
 [[Maxim K.I.Z]]

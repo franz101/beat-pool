@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/1YQg0jqLV5RT98HjMXxzaO
 **Related artists:**
 
 [[Jumpa]]
-[[Berky]]
-[[Hardy X]]
-[[Palazzo]]
+[[producers/Berky]]
+[[producers/Hardy X]]
+[[producers/Palazzo]]
 [[Bausa]]
-[[Benjamin Factor]]
+[[producers/Benjamin Factor]]

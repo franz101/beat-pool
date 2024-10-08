@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5ByOBqVYAfPMeqPOn5aYaZ
 **Related artists:**
 
 [[Fury In The Slaughterhouse]]
-[[Franz Plasa]]
+[[producers/Franz Plasa]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4AAsDyj3GOx9I5juydANLk
 
 **Related artists:**
 
-[[James Carill]]
+[[producers/James Carill]]
 [[Broadcast]]

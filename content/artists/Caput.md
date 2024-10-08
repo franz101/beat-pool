@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/14mI0L9DmoBVrnGYrHYdyL
 
 **Related artists:**
 
-[[DJ Suave]]
+[[producers/DJ Suave]]
 [[KAAS]]
 [[Fiva MC]]
 [[Laas Unltd.]]
@@ -42,7 +42,7 @@ url: https://open.spotify.com/artist/14mI0L9DmoBVrnGYrHYdyL
 [[Kitty Kat]]
 [[Jifusi]]
 [[Amar]]
-[[DJ Nicon]]
+[[producers/DJ Nicon]]
 [[Tua]]
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Vega]]

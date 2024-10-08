@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5lX7Tfk52S0zxY2bNuem6l
 **Related artists:**
 
 [[Bosca]]
-[[AbsoluteBeatz]]
+[[producers/AbsoluteBeatz]]
 [[Karen]]
-[[Makayzi]]
+[[producers/Makayzi]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/5OqWihr8mp99BZxhQAQvhq
 
 **Related artists:**
 
-[[Daniel Pongratz]]
-[[Tobias Pongratz]]
+[[producers/Daniel Pongratz]]
+[[producers/Tobias Pongratz]]
 [[Nena]]
 [[Eko Fresh]]
-[[Axel Kroell]]
+[[producers/Axel Kroell]]
 [[MoTrip]]
 [[Danger Dan]]
 [[Die Prinzen]]

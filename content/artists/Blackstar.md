@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6nOyRpLdDaFZ9oTx1NK6Nc
 
 **Related artists:**
 
-[[Kwame]]
+[[producers/Kwame]]
 [[Psycho]]
 [[Ron Miller]]
 [[Nate57]]

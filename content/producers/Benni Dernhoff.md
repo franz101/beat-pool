@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3uaoK7pDfOG0aCXVyC5rc4
 **Related artists:**
 
 [[Johannes Oerding]]
-[[Sebastian Baare]]
+[[producers/Sebastian Baare]]
 [[Ina Müller]]
-[[Mark Smith]]
+[[producers/Mark Smith]]

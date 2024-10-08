@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/068dS7HLAbj6o3NiUyV5o6
 
 **Related artists:**
 
-[[Sansimo]]
+[[producers/Sansimo]]
 [[Dawid DST]]
 [[Tschappy]]
 [[Karmo Kaputto]]

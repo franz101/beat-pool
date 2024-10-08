@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/1pwp2pntEW1nzhLpTGnkRW
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfa0421b6c5f570e61151dab3)
 **Related artists:**
 
-[[Dirty Dasmo]]
-[[Sven Gillert]]
+[[producers/Dirty Dasmo]]
+[[producers/Sven Gillert]]
 [[Freshmaker]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]
 [[Haudegen]]
-[[Reece]]
+[[producers/Reece]]
 [[M.I.K.I]]
 [[Disarstar]]
 [[Vega]]

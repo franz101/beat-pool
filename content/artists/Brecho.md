@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/1maq3Qhte9vVQ6gUDfFl1J
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb401011ab2295fab241fcd935)
 **Related artists:**
 
-[[Mikky Juic]]
-[[ThisisYT]]
+[[producers/Mikky Juic]]
+[[producers/ThisisYT]]
 [[LOKO BEN]]
-[[DINSKI]]
+[[producers/DINSKI]]
 [[Hamada]]
 [[Hemso]]

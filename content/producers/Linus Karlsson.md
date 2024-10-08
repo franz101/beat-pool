@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5K6bWHIR3hIgZQ2i6zsJaR
 **Related artists:**
 
 [[Crazy & Corza]]
-[[Ferenc Karsai]]
+[[producers/Ferenc Karsai]]

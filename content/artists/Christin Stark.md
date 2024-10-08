@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4LbfmLlmefdaJCAIDeQmkN
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb952e3a8a756742abff84588f)
 **Related artists:**
 
-[[Connie Andreszka]]
+[[producers/Connie Andreszka]]
 [[Matthias Reim]]

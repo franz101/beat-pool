@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6bJHCYelfC5IunwK9IgKiJ
 
 **Related artists:**
 
-[[Fonty]]
+[[producers/Fonty]]
 [[Lumidee]]
 [[Ardian Bujupi]]
 [[Big Ali]]

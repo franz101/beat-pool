@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/6yQe0u8QsPKZisEs4yccxk
 [[Christine Pfeifle]]
 [[DMMK]]
 [[Veronika Lohmer]]
-[[Michael Herberger]]
+[[producers/Michael Herberger]]
 [[Dominik Wagner]]

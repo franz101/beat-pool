@@ -18,10 +18,10 @@ url: https://open.spotify.com/artist/5HWrBwfAPQmLpIucF3OJZm
 
 [[Nizi19]]
 [[Omar101]]
-[[Phil Koch]]
+[[producers/Phil Koch]]
 [[Lucio101]]
-[[Torn Palk]]
-[[Louis Sky]]
+[[producers/Torn Palk]]
+[[producers/Louis Sky]]
 [[SEKOZAZA]]
 [[Figub Brazlevic]]
 [[DISSY]]

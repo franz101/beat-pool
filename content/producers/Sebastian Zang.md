@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7xbvBpiZMo5AMobfutrKWi
 **Related artists:**
 
 [[Teamtrouble]]
-[[Sebastian Bussenius]]
+[[producers/Sebastian Bussenius]]
 [[The Tronix]]

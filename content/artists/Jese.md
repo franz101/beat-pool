@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3Trpb1C5UcpgYMq5LRwdtL
 
 **Related artists:**
 
-[[Jesper Thorn]]
+[[producers/Jesper Thorn]]
 [[Scarlet]]

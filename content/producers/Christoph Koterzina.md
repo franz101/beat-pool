@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2wYfHi1rYkyYq9g801lL0T
 **Related artists:**
 
 [[Liquit Walker]]
-[[Lennard Oestmann]]
-[[Pascal Reinhardt]]
+[[producers/Lennard Oestmann]]
+[[producers/Pascal Reinhardt]]

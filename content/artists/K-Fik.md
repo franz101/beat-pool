@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/5FjvoeJCQqnj7vjwPtjAJz
 [[Maldo]]
 [[BlechBeppo]]
 [[Acaz]]
-[[Vecz]]
+[[producers/Vecz]]
 [[Raptor]]
 [[Joek2]]
 [[4Self]]

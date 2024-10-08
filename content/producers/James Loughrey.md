@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/6e8dZ3kIqANppiqFeeVVa0
 
 **Related artists:**
 
-[[Lord Scan]]
+[[producers/Lord Scan]]
 [[257ers]]
 [[Nomis]]
-[[Moretime Productions]]
+[[producers/Moretime Productions]]
 [[Der Klan]]
 [[Battleboi Basti]]
 [[Curse]]

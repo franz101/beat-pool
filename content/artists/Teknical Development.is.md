@@ -26,6 +26,6 @@ url: https://open.spotify.com/artist/5MGA7iXzpguFevPSpnSsl4
 [[AzudemSK]]
 [[Philanthrope]]
 [[Noritsu]]
-[[B-Side]]
+[[producers/B-Side]]
 [[Spacekonsta]]
 [[Rob Really]]

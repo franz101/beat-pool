@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/32zwxfriGcn4TtQKzhKHk0
 
 **Related artists:**
 
-[[Reatsch]]
+[[producers/Reatsch]]
 [[G-Hot]]
 [[Silla]]
-[[Diavo]]
+[[producers/Diavo]]

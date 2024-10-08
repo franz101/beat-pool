@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2Sg3vUbULY7JNmzTWonGHM
 **Related artists:**
 
 [[18 Karat]]
-[[Lea Canere]]
+[[producers/Lea Canere]]

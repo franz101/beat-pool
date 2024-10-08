@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7cwccy11cEfvEiY21ikr6c
 
 **Related artists:**
 
-[[Dennis Westermann]]
-[[Hauke Quaer]]
+[[producers/Dennis Westermann]]
+[[producers/Hauke Quaer]]
 [[Punch Arogunz]]

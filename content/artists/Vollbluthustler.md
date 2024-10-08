@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1i7z2eGlfate4rLKGKWFIh
 
 **Related artists:**
 
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Kontra K]]
-[[Big Flexx]]
-[[BombenProdukt]]
+[[producers/Big Flexx]]
+[[producers/BombenProdukt]]

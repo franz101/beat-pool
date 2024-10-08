@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6pdJHhqOjLTk1qzcbu77XU
 
 **Related artists:**
 
-[[Rych]]
+[[producers/Rych]]
 [[Lostboi Lino]]

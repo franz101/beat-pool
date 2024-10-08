@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1Yso012dk6JFCIGwvCxTBS
 **Related artists:**
 
 [[EAZ]]
-[[ROB]]
+[[producers/ROB]]

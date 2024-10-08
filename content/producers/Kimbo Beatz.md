@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4zvJ6PEcYrRaAUgeTpzLjJ
 
 **Related artists:**
 
-[[Victor Flowers]]
-[[Sinch]]
+[[producers/Victor Flowers]]
+[[producers/Sinch]]
 [[Adesse]]
-[[Typhoon]]
+[[producers/Typhoon]]
 [[Sido]]
 [[Estikay]]

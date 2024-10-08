@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2j5OCWxOgS8ErrAOgqU0N5
 
 **Related artists:**
 
-[[Nicolas Perrottey]]
-[[Maarten Kleekamp]]
+[[producers/Nicolas Perrottey]]
+[[producers/Maarten Kleekamp]]

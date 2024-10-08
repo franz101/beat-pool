@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6hhnOqnruddyiFOUImvbhP
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Dynamite]]
-[[Rhaatid]]
+[[producers/Dynamite]]
+[[producers/Rhaatid]]

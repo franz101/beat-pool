@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1TvKxg1xELdjuytDri6odC
 **Related artists:**
 
 [[Greeny]]
-[[Benno Calmbach]]
+[[producers/Benno Calmbach]]
 [[Chakuza]]
 [[Said]]
 [[RAF Camora]]

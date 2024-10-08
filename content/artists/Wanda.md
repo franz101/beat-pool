@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6Kg9EvjSnEm5swmrvWCJyB
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebfeccb469b46afb6f79bb031b)
 **Related artists:**
 
-[[Paul Gallister]]
-[[SRF - Schweizer Radio und Fernsehen]]
-[[Chris Egger]]
+[[producers/Paul Gallister]]
+[[producers/SRF - Schweizer Radio und Fernsehen]]
+[[producers/Chris Egger]]

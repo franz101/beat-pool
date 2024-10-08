@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2JKz5RSzqBDIMHhmB9sHph
 **Related artists:**
 
 [[Element Of Crime]]
-[[Veto]]
+[[producers/Veto]]

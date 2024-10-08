@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/3jf24ZUpw4CwmgyB7MZqnH
 
 [[Jush]]
 [[Macloud]]
-[[MIKSU]]
+[[producers/MIKSU]]
 [[Miksu - Macloud]]
 [[AVO]]
 [[Carlifornia]]

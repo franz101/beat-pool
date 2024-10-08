@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D
 [[Guè Pequeno]]
 [[Farid Bang]]
 [[Haftbefehl]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Juh-Dee]]
-[[XPLOSIVE]]
+[[producers/XPLOSIVE]]

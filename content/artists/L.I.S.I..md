@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6Uj2u4qy8ZGWlA3GMqHZ2X
 
 **Related artists:**
 
-[[DJ Desue]]
-[[DJ Rocky]]
+[[producers/DJ Desue]]
+[[producers/DJ Rocky]]
 [[Afrob]]

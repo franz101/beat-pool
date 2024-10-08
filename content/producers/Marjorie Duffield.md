@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7oW71JQ6kag1khgAisi6ID
 
 **Related artists:**
 
-[[Gennie Rim]]
-[[Peilin Chou]]
-[[Glen Keane]]
-[[Christopher Curtis]]
+[[producers/Gennie Rim]]
+[[producers/Peilin Chou]]
+[[producers/Glen Keane]]
+[[producers/Christopher Curtis]]
 [[Vanessa Mai]]
-[[Helen Park]]
+[[producers/Helen Park]]

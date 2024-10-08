@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4JmjkboBd5IqWDxtB1n5aB
 **Related artists:**
 
 [[Massive Töne]]
-[[J.C. do Santos]]
-[[Jean-Christoph Ritter]]
+[[producers/J.C. do Santos]]
+[[producers/Jean-Christoph Ritter]]

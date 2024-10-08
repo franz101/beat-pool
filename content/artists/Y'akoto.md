@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/2JehOBriwVSalkeqL3noMM
 **Related artists:**
 
 [[Samy Deluxe]]
-[[Aga John Machirus]]
-[[Tony Brown]]
+[[producers/Aga John Machirus]]
+[[producers/Tony Brown]]

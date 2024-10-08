@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4SRV2JmBSZsbQKWr1hsCQo
 **Related artists:**
 
 [[Rio Reiser]]
-[[Boys Noize]]
-[[Cymo]]
-[[Samon Kawamura]]
+[[producers/Boys Noize]]
+[[producers/Cymo]]
+[[producers/Samon Kawamura]]
 [[Genetikk]]

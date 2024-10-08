@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3cpTZveaINaneSbcWmASOz
 **Related artists:**
 
 [[Bosca]]
-[[Shad Velez]]
-[[Lea Canere]]
+[[producers/Shad Velez]]
+[[producers/Lea Canere]]

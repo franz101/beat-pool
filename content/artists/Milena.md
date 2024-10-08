@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3QgdINeEJnEK1FcKh2W0vk
 **Related artists:**
 
 [[Cr7z]]
-[[Sebastian Binner]]
+[[producers/Sebastian Binner]]

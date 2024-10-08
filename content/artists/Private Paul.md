@@ -23,7 +23,7 @@ url: https://open.spotify.com/artist/3SgqCpe0ZQav7W349EEui1
 [[Rotten Monkey]]
 [[Hollywood Hank]]
 [[Scotch]]
-[[Epic Infantry]]
+[[producers/Epic Infantry]]
 [[Duzoe]]
 [[MXP]]
 [[BlaDesa]]

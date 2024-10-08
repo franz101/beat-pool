@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/7IL4fpG8Uxfza3wfJTjT0u
 
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[Davee]]
-[[Sophie Sebald]]
+[[producers/Sophie Sebald]]
 [[Edin]]
 [[toksi]]
 [[O'Bros]]
-[[Josh]]
-[[Daniele Terranova]]
-[[Ruben Rodriguez]]
+[[producers/Josh]]
+[[producers/Daniele Terranova]]
+[[producers/Ruben Rodriguez]]
 [[Kalazh44]]

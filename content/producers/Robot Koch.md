@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI
 
 [[2raumwohnung]]
 [[Gerard]]
-[[Sven Ludwig]]
-[[Tommi Eckart]]
+[[producers/Sven Ludwig]]
+[[producers/Tommi Eckart]]
 [[Olli Banjo]]
 [[Inga Humpe]]
 [[K.I.Z]]

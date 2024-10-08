@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/6WNkTuEtDJFa7iRPCJ5ZLQ
 **Related artists:**
 
 [[Skinny Al]]
-[[Depeka Records]]
+[[producers/Depeka Records]]
 [[Aslan DPK]]
 [[Kontra K]]
 [[Skepsis]]
 [[Blokkmonsta]]
-[[BombenProdukt]]
+[[producers/BombenProdukt]]
 [[Bonez MC]]
 [[Rako]]

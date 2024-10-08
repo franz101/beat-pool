@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/05KAScvJAcVnKW5NPW8TVi
 
 **Related artists:**
 
-[[Prdx808]]
+[[producers/Prdx808]]
 [[EREN CAN]]

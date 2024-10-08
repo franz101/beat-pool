@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5UwVYD9oapYnLk0ZJ9tN6t
 
 **Related artists:**
 
-[[Michael Krammer]]
+[[producers/Michael Krammer]]
 [[Bilderbuch]]
-[[Maurice Ernst]]
-[[David Conen]]
-[[Peter Horazdovsky]]
-[[Philipp Scheibl]]
+[[producers/Maurice Ernst]]
+[[producers/David Conen]]
+[[producers/Peter Horazdovsky]]
+[[producers/Philipp Scheibl]]

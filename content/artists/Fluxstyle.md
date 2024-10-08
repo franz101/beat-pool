@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5zNcDFXhtzJq37PjSJ9WIF
 **Related artists:**
 
 [[Jason Parker]]
-[[Henry Strecker]]
+[[producers/Henry Strecker]]

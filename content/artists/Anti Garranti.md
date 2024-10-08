@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7EOpkFh2j044riVFx6kbvJ
 
 **Related artists:**
 
-[[Kingsize]]
+[[producers/Kingsize]]
 [[Eko Fresh]]

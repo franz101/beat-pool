@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4F8UcSWPWYDZUPlZX7dv6j
 **Related artists:**
 
 [[Azad]]
-[[FDA]]
+[[producers/FDA]]

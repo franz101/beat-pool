@@ -19,5 +19,5 @@ url: https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM
 [[Goran Koč y Vokalist Orkestar]]
 [[Sophie Hunger]]
 [[Dino Brandāo]]
-[[Timo Keller]]
-[[Tim Tautorat]]
+[[producers/Timo Keller]]
+[[producers/Tim Tautorat]]

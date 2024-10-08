@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4EP0EvuwcLwcRrCD8KCcm1
 
 **Related artists:**
 
-[[Daniel Tjarks]]
+[[producers/Daniel Tjarks]]
 [[wavvyboi]]
 [[TJ_babybrain]]

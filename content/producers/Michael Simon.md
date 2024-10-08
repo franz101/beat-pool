@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj
 
 **Related artists:**
 
-[[H.P. Baxxter]]
-[[Rick J. Jordan]]
-[[Jens Thele]]
+[[producers/H.P. Baxxter]]
+[[producers/Rick J. Jordan]]
+[[producers/Jens Thele]]
 [[Scooter]]

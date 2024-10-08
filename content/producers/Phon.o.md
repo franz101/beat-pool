@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3nkHEHOcJY6qflwhkCW4sF
 
 **Related artists:**
 
-[[Simon Kempner]]
-[[Klimperboy]]
+[[producers/Simon Kempner]]
+[[producers/Klimperboy]]
 [[Joy Denalane]]
 [[Alex Prince]]
 [[Max Herre]]

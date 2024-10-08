@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5cYVWM0g4nuAYa7dTu9Pvc
 **Related artists:**
 
 [[Mickie Krause]]
-[[Jojo Berger]]
+[[producers/Jojo Berger]]

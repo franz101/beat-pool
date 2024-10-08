@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6DHvYn8PdhuxLZaZ4yDxeB
 **Related artists:**
 
 [[Dave Daniel Bönsch]]
-[[Niklas Kraft]]
+[[producers/Niklas Kraft]]
 [[Clueso]]
 [[Martin Rödiger]]

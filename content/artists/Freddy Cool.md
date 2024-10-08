@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1HMnmf9Zj78pxD9qMAuBDV
 **Related artists:**
 
 [[B-Tight]]
-[[Greckoe]]
+[[producers/Greckoe]]

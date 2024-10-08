@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4BDyiPon1HL4aEHPsWfItJ
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Norbert Hamm]]
+[[producers/Norbert Hamm]]
 [[Ingo Kays]]

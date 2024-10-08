@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6aADCMnA7OJIbFmnr2bKuL
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Guildo Horn]]
-[[Pruntz Kegelmann]]
+[[producers/Guildo Horn]]
+[[producers/Pruntz Kegelmann]]

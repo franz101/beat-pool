@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/4xLPsIGPym8NqH6EMyemes
 
 **Related artists:**
 
-[[Timon Schaper]]
+[[producers/Timon Schaper]]
 [[Jerome]]
 [[Gestört aber GeiL]]
-[[Oliver Pum]]
-[[Nico Wendel]]
-[[Oliver Kleissle]]
+[[producers/Oliver Pum]]
+[[producers/Nico Wendel]]
+[[producers/Oliver Kleissle]]
 [[Anstandslos & Durchgeknallt]]
 [[JONA]]
 [[Maria Dürrling]]
-[[Jona Selle]]
-[[Vitali Zestovskih]]
+[[producers/Jona Selle]]
+[[producers/Vitali Zestovskih]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6jqEeW8TYraekRRNuOsWZz
 
 **Related artists:**
 
-[[Feremiah]]
+[[producers/Feremiah]]
 [[RIN]]
-[[Neal & Alex]]
+[[producers/Neal & Alex]]

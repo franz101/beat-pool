@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh
 **Related artists:**
 
 [[Diggy Dex]]
-[[Arno Krabman]]
+[[producers/Arno Krabman]]

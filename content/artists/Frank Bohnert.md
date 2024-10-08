@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4AzZXJ4ySbETOceLaHvRio
 
 **Related artists:**
 
-[[Marlon Weiss]]
+[[producers/Marlon Weiss]]
 [[Xelerator]]
-[[Frank Kohnert]]
+[[producers/Frank Kohnert]]

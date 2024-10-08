@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1T13cGeido7KnHjybcIJhZ
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[Hämatom]]

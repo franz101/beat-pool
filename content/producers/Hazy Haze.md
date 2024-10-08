@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0jz3tfobHxYDqn4b601bcO
 
 **Related artists:**
 
-[[Moritz Stahl]]
+[[producers/Moritz Stahl]]
 [[Samy Deluxe]]
-[[Derek von Krogh]]
+[[producers/Derek von Krogh]]
 [[Max Herre]]

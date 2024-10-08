@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7s03H1eojQx3d3Sr0Y9XS3
 **Related artists:**
 
 [[Lio]]
-[[Iceberg]]
-[[Cozy q]]
+[[producers/Iceberg]]
+[[producers/Cozy q]]
 [[Miami Yacine]]

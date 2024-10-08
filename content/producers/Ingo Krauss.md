@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2zUPs29xV9z1T5UmHVOwDq
 **Related artists:**
 
 [[Extrabreit]]
-[[Klaus Scharff]]
+[[producers/Klaus Scharff]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/0wEAQ68m1exwTX39qgzRM5
 
 [[Gzuz]]
 [[Bandit]]
-[[Jonas Romann]]
+[[producers/Jonas Romann]]
 [[Nearo]]
 [[Reeperbahn Kareem]]
 [[Grace]]

@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/3iBsRBThyYCyg0bFB5lier
 
 [[K-Fik]]
 [[Acaz]]
-[[Vecz]]
+[[producers/Vecz]]
 [[Raptor]]
 [[Lew]]
 [[Lyrikone]]

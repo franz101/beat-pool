@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/14OhkbAaZAGoyNPVgxUNrW
 **Related artists:**
 
 [[Fury In The Slaughterhouse]]
-[[Jens Krause]]
-[[Franz Plasa]]
-[[Paul Grau]]
+[[producers/Jens Krause]]
+[[producers/Franz Plasa]]
+[[producers/Paul Grau]]

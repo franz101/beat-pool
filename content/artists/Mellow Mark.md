@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0towMO9OxE5LdJWfk7fw3F
 **Related artists:**
 
 [[AnalogBassCamp]]
-[[Krutsch]]
+[[producers/Krutsch]]
 [[Bugati]]
 [[Culcha Candela]]
 [[Martin Jondo]]
 [[Jamaram]]
-[[Ingo "Pow Pow" Rheinbay]]
+[[producers/Ingo "Pow Pow" Rheinbay]]

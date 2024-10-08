@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx
 
 **Related artists:**
 
-[[Dillon Jaymes]]
+[[producers/Dillon Jaymes]]
 [[Haiyti]]

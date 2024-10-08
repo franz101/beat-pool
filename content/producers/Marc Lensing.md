@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0oxkpGM4UgNV5tn48gAqkG
 
 **Related artists:**
 
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Bosca]]
 [[Sierra Kidd]]

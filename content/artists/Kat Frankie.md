@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/6vdr7WnqTfEEPjKJsNrlgY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb26da47c29ccff08320ff255d)
 **Related artists:**
 
-[[Vincent von Schlippenbach]]
-[[Hugo Schilgen]]
+[[producers/Vincent von Schlippenbach]]
+[[producers/Hugo Schilgen]]
 [[Revolverheld]]
 [[Clueso]]
-[[David Conen]]
+[[producers/David Conen]]
 [[Casper]]
-[[Marcus Wuest]]
+[[producers/Marcus Wuest]]
 [[Marteria]]
-[[Dirk Berger]]
-[[Tobias Kuhn]]
+[[producers/Dirk Berger]]
+[[producers/Tobias Kuhn]]
 [[Get Well Soon]]
-[[Konstantin Gropper]]
+[[producers/Konstantin Gropper]]

@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/3Z5cO0fQFJYMPFQRq0vR8E
 
 **Related artists:**
 
-[[Tesk]]
+[[producers/Tesk]]
 [[Mädness]]
 [[Philophilta]]
 [[Gabreal]]
-[[Phonk D]]
-[[Iron]]
+[[producers/Phonk D]]
+[[producers/Iron]]

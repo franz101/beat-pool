@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/5NqVvG2agIxKs79xN1kjWP
 **Related artists:**
 
 [[Kool Savas]]
-[[Smoove]]
+[[producers/Smoove]]
 [[Sido]]
 [[Marteria]]

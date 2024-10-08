@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0ku1j8p3JJ1zYEwYoJscRi
 
 **Related artists:**
 
-[[Elmar Kast]]
+[[producers/Elmar Kast]]
 [[Howard Carpendale]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]

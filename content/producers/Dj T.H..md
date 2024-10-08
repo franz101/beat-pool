@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ
 **Related artists:**
 
 [[DJ Lee]]
-[[DJ Fait]]
+[[producers/DJ Fait]]
 [[Megara]]
-[[DJ Dean]]
+[[producers/DJ Dean]]

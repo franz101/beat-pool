@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/5KRY4aF36VpGHngyDGnDFY
 [[Axel Jäger]]
 [[Tim de Ville]]
 [[Lara Loft]]
-[[Nicolas Heine]]
+[[producers/Nicolas Heine]]
 [[Sinan Kurtulus]]
 [[Alex M.]]
 [[Marc van Damme]]

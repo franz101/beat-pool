@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3PxrwzMG1uak0aGyUBFhg7
 
 [[Brous One]]
 [[Blu]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Damu The Fudgemunk]]

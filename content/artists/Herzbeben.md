@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/0DNiSbNXKyToseeoISAmnt
 
 **Related artists:**
 
-[[Tim Peters]]
+[[producers/Tim Peters]]

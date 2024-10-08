@@ -16,18 +16,18 @@ url: https://open.spotify.com/artist/4cohcn6lAkdQIAt3q5C4e2
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5aaca01ca749dd38054388a3)
 **Related artists:**
 
-[[Melik]]
+[[producers/Melik]]
 [[toobrokeforfiji]]
-[[Franz Bibiza]]
+[[producers/Franz Bibiza]]
 [[Danju]]
 [[Baba Rico]]
 [[Skofi]]
 [[CAN MIT ME$$R]]
 [[makko]]
-[[STSK]]
+[[producers/STSK]]
 [[grabsteyn]]
 [[Okfella]]
-[[Pengg]]
+[[producers/Pengg]]
 [[Sol93]]
 [[Ski Aggu]]
 [[prodbypengg]]

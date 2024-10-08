@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/4KqsX7NhabCWu77W0MkdRE
 ![Artist](https://i.scdn.co/image/ab6761610000e5eba6ec5af3cc21897ce6b43852)
 **Related artists:**
 
-[[Traya]]
+[[producers/Traya]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2btqhGTWvWVcMuP66m98G0
 
 **Related artists:**
 
-[[Rzon]]
+[[producers/Rzon]]
 [[Mozzik]]
-[[Kitza]]
+[[producers/Kitza]]

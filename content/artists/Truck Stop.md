@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7eH4Ds7cmyDRSmmApbJHUc
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Uwe Lost]]
+[[producers/Uwe Lost]]

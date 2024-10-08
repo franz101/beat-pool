@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/6M5LIsS48Xw69p9VZX7QpP
 **Related artists:**
 
 [[no lyar]]
-[[prodbywilson]]
+[[producers/prodbywilson]]
 [[swagboipi]]

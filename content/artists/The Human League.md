@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7d7b329ff3612234ebb2a6af)
 **Related artists:**
 
-[[Colin Thurston]]
-[[Martin Rushent]]
+[[producers/Colin Thurston]]
+[[producers/Martin Rushent]]

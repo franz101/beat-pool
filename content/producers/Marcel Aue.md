@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/30uueDpxpoV5k7kGH5Gp9w
 
 **Related artists:**
 
-[[Christian Kohlhaas]]
+[[producers/Christian Kohlhaas]]
 [[Clueso]]
 [[Thomas Hübner]]
 [[Daniel Bätge]]
-[[Paul Tetzlaff]]
+[[producers/Paul Tetzlaff]]
 [[Martin Rödiger]]
 [[Udo Lindenberg]]
-[[Philipp Milner]]
-[[Christoph Bernewitz]]
+[[producers/Philipp Milner]]
+[[producers/Christoph Bernewitz]]

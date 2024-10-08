@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/2v0ICLnNjBtkZYN22RrSHG
 
 [[Gzuz]]
 [[Maxwell]]
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[Capuz]]
 [[Bonez MC]]

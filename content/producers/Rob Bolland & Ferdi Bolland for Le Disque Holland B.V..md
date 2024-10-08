@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2azDeO6LgYR181XPOBzdXr
 
 **Related artists:**
 
-[[Bolland Companies Int.]]
+[[producers/Bolland Companies Int.]]
 [[Falco]]

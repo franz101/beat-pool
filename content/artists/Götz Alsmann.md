@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6EZ4Ddo7QfwPTPpm2JBDh6
 
 **Related artists:**
 
-[[Vincent Sorg]]
+[[producers/Vincent Sorg]]
 [[In Extremo]]
-[[Resetti Brothers]]
+[[producers/Resetti Brothers]]

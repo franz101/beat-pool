@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2umeR4Kadyyc9lnDaXENBb
 **Related artists:**
 
 [[Stefanie Kloß]]
-[[Johannes Stolle]]
-[[Thomas Stolle]]
+[[producers/Johannes Stolle]]
+[[producers/Thomas Stolle]]
 [[Silbermond]]

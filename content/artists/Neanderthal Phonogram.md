@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7IkkaHXHDhEEMk3IYT5sJI
 **Related artists:**
 
 [[Pulsedriver]]
-[[Bertrand]]
-[[DJ Kryst-Off]]
+[[producers/Bertrand]]
+[[producers/DJ Kryst-Off]]

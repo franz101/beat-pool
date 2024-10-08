@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7sVUWm3IZeY13cmMzn7ohI
 
 **Related artists:**
 
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Brous One]]
 [[Retrogott]]

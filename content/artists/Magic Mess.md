@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2xyVzVOTIotLuozrY6VQmv
 **Related artists:**
 
 [[Lakmann]]
-[[Cap Kendricks]]
+[[producers/Cap Kendricks]]
 [[Rooq]]
 [[Chinch 33]]

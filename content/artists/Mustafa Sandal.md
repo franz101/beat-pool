@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo
 **Related artists:**
 
 [[Gentleman]]
-[[Beathoavenz]]
+[[producers/Beathoavenz]]

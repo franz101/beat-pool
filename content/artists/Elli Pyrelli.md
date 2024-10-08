@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7alSpyIgUUWUGXNhUHCV5c
 **Related artists:**
 
 [[Das Panik-Orchester]]
-[[Thomas Kukuck]]
+[[producers/Thomas Kukuck]]
 [[Udo Lindenberg]]

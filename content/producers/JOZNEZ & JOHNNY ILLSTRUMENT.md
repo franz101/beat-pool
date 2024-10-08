@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/56B8RvU0wTp56M9PD8QokO
 
 **Related artists:**
 
-[[Joshimixu]]
+[[producers/Joshimixu]]
 [[KC Rebell]]
 [[SPEC]]
 [[Juh-Dee]]
-[[OC]]
+[[producers/OC]]
 [[Farid Bang]]

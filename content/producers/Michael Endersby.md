@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/5usnH98iOMFPLxLfWqElNu
 
 [[Schandmaul]]
 [[Helene Fischer]]
-[[Philip Niessen]]
+[[producers/Philip Niessen]]
 [[Saltatio Mortis]]
 [[Cassandra Steen]]
-[[Lillo Scrimali]]
+[[producers/Lillo Scrimali]]
 [[Unheilig]]

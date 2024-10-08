@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0IPUNa7kThR3yC1f5irKSl
 
 **Related artists:**
 
-[[Stephan Schulmeister]]
+[[producers/Stephan Schulmeister]]
 [[Gentleman]]
-[[Boris Silvera]]
+[[producers/Boris Silvera]]

@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/030i9XOpIBx5cf3t81XJbJ
 **Related artists:**
 
 [[Glasperlenspiel]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]
 [[LEA]]
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]
 [[Elènne]]

@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/5QazZSVNUdVzRD3iwQFPBw
 
 **Related artists:**
 
-[[Henning Verlage]]
+[[producers/Henning Verlage]]
 [[Neuroticfish]]
 [[[:SITD:]]]
 [[Die Krupps]]
 [[Clawfinger]]
 [[Dero Goi]]
 [[Aesthetic Perfection]]
-[[Maximilian Schauer]]
+[[producers/Maximilian Schauer]]
 [[Eisbrecher]]

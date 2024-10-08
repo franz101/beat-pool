@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/7biRx7zTwHJ0XFzeDfyxoR
 [[Nikolai Kinski]]
 [[Nisse]]
 [[Klaus Kinski]]
-[[Nicolas Rebscher]]
+[[producers/Nicolas Rebscher]]
 [[Rezar]]
 [[Bill Kaulitz]]

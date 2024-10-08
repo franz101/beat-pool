@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5hAylMdGKRvXpI1KpaW4Cv
 **Related artists:**
 
 [[KC Rebell]]
-[[Joshimixu]]
-[[JOZNEZ & JOHNNY ILLSTRUMENT]]
+[[producers/Joshimixu]]
+[[producers/JOZNEZ & JOHNNY ILLSTRUMENT]]

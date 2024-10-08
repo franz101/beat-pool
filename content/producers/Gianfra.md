@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/192XLocqkFIrQOwwWcqKPz
 
 [[RAF Camora]]
 [[Bonez MC]]
-[[Maurizio Lobina]]
+[[producers/Maurizio Lobina]]
 [[The Cratez]]
-[[The Royals]]
+[[producers/The Royals]]

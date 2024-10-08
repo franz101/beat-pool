@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/2ijskvLzfJbZvDXOfH6jRJ
 **Related artists:**
 
 [[ASP]]
-[[Harry Gutowski]]
+[[producers/Harry Gutowski]]
 [[Francois Kevorkian]]
 [[Purpur]]
-[[Claus Zundel]]
+[[producers/Claus Zundel]]
 [[Joachim Witt]]
 [[Blank & Jones]]
-[[Theo Werdin]]
+[[producers/Theo Werdin]]
 [[Francois K]]

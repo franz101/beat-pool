@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG
 
 **Related artists:**
 
-[[Amaterasu & Kay One]]
+[[producers/Amaterasu & Kay One]]
 [[Kns Tha Engineer]]
 [[Kay One]]

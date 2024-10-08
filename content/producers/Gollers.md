@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5KMwqInW2OSOfGfdkBMXub
 
 **Related artists:**
 
-[[Awaline]]
+[[producers/Awaline]]
 [[Pulsedriver]]
-[[Rijkaard]]
+[[producers/Rijkaard]]
 [[Fun Brothers]]
 [[Ray Knox]]

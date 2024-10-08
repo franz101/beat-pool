@@ -24,5 +24,5 @@ url: https://open.spotify.com/artist/4HaaRX9FluXhqjXIuIL9Ra
 [[Jalil]]
 [[King Khalil]]
 [[AK AUSSERKONTROLLE]]
-[[KDaGreat]]
-[[UNIKA]]
+[[producers/KDaGreat]]
+[[producers/UNIKA]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/32lSBdXNplkiAjODQiiWlz
 
 **Related artists:**
 
-[[Don Krutscho]]
+[[producers/Don Krutscho]]
 [[Culcha Candela]]

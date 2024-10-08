@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0dfote6Wq1XnM8fqMFwt04
 **Related artists:**
 
 [[Eli Preiss]]
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]
-[[Nea&LX]]
+[[producers/Nea&LX]]

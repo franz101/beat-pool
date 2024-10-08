@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5eyZbzEUJvEeu2sW59llx7
 
 **Related artists:**
 
-[[Andreas Weizel]]
+[[producers/Andreas Weizel]]
 [[Oleg Kondratenko]]
 [[Frida Gold]]

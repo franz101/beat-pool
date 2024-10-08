@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/1j6Q73Yu6FmsTOCYH1EjCm
 
 [[Das Panik-Orchester]]
 [[Udo Lindenberg]]
-[[Dave King]]
+[[producers/Dave King]]

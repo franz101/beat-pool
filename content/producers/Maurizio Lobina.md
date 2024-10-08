@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/11famSvimRSobTCjc8u1e4
 [[RAF Camora]]
 [[Bonez MC]]
 [[The Cratez]]
-[[The Royals]]
-[[Gianfra]]
+[[producers/The Royals]]
+[[producers/Gianfra]]

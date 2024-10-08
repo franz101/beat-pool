@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/7a8GUCpjxjV6tw5D3d9FQz
 
 [[Slin Project]]
 [[DVA]]
-[[Pedro De Cabra]]
-[[Sascha Linde]]
+[[producers/Pedro De Cabra]]
+[[producers/Sascha Linde]]
 [[Ben La Pompe]]
 [[René De La Moné]]
 [[René Scholl]]
-[[Jan Van Bass-10]]
+[[producers/Jan Van Bass-10]]

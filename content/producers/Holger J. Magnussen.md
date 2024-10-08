@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4CdbYW1Jf0mHRWy58JJdZa
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Mick Franke]]
+[[producers/Mick Franke]]

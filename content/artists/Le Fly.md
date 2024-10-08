@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4ZtBx6rfSEXaqAgUWjCip6
 
 **Related artists:**
 
-[[Voddi 257]]
+[[producers/Voddi 257]]
 [[257ers]]

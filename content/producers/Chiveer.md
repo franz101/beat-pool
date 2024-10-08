@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6XKqwREgLN1UAxh3xxJ8w1
 
 **Related artists:**
 
-[[Ghana Beats]]
+[[producers/Ghana Beats]]
 [[geenaro]]
 [[Luciano]]

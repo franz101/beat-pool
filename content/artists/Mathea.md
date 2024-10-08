@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3r5Kc95Oz8lDc8BL9ChO7n
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebe2168e5ca58bccaa82441a6b)
 **Related artists:**
 
-[[Johannes Herbst]]
-[[Vlado Dzihan]]
+[[producers/Johannes Herbst]]
+[[producers/Vlado Dzihan]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/18Qi7vTFCAKpRa1lYrGUzL
 **Related artists:**
 
 [[LUIS]]
-[[rocky]]
-[[Prodbytwelve]]
+[[producers/rocky]]
+[[producers/Prodbytwelve]]

@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6zuB9C5kSTT9InMFFSibOI
 
 [[Sun Diego]]
 [[JURI]]
-[[Digital Drama]]
-[[DVDN]]
+[[producers/Digital Drama]]
+[[producers/DVDN]]
 [[Deamon]]
 [[Mavie]]

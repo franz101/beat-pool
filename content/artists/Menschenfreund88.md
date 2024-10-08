@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0E073uCXiKZlZimLzf4Gmt
 
 **Related artists:**
 
-[[Jakob Paul]]
-[[Ben Burgwinkel]]
+[[producers/Jakob Paul]]
+[[producers/Ben Burgwinkel]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

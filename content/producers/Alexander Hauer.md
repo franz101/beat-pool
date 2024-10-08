@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2q2v5PqqR802cFcidrEqjH
 
 **Related artists:**
 
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[KATI K]]
 [[Edo Saiya]]

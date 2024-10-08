@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2yNNLoOCMCUXR9fa208ai0
 
 **Related artists:**
 
-[[JVSPER]]
+[[producers/JVSPER]]
 [[loufre]]

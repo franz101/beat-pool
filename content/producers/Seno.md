@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5uo0yWBWydUfl6FTVaUZH3
 **Related artists:**
 
 [[Ardian Bujupi]]
-[[Ryder]]
+[[producers/Ryder]]

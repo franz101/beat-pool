@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6xSuHUzYTdwnYijSIvyoDZ
 **Related artists:**
 
 [[Milonair]]
-[[Darko Beats]]
+[[producers/Darko Beats]]

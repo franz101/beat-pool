@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0lj3NLTNLnCMnHMO268Our
 
 **Related artists:**
 
-[[KK-47]]
-[[DJ DeeVoe]]
+[[producers/KK-47]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]

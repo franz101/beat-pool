@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1rzRry0DYMUDRRao7jWB5f
 
 **Related artists:**
 
-[[Gennie Rim]]
-[[Peilin Chou]]
-[[Marjorie Duffield]]
-[[Glen Keane]]
+[[producers/Gennie Rim]]
+[[producers/Peilin Chou]]
+[[producers/Marjorie Duffield]]
+[[producers/Glen Keane]]
 [[Vanessa Mai]]
-[[Helen Park]]
+[[producers/Helen Park]]

@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/68J2mK6MoahQBlJnpWYuqB
 [[Proph]]
 [[Snaga]]
 [[Fard]]
-[[Gorex]]
+[[producers/Gorex]]
 [[Mobb Deep]]

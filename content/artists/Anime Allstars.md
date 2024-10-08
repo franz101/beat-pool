@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/6pHNd7opVLI17k79GvvIAb
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb204d43cea1fef05a6cc9ebc3)
 **Related artists:**
 
-[[Andy Knote]]
+[[producers/Andy Knote]]

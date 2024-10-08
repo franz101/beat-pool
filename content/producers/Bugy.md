@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/1XxdJaLo6jXdFbgR1zKJ3x
 
 **Related artists:**
 
-[[Sonus03]]
+[[producers/Sonus03]]
 [[Ezhel]]
-[[Artz]]
+[[producers/Artz]]
 [[Sonus030]]
-[[Jimmy Torrio]]
+[[producers/Jimmy Torrio]]
 [[Ufo361]]
 [[The Cratez]]

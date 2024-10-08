@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/34UcwtXpRHHZj4D7ZfluuS
 **Related artists:**
 
 [[Pulsedriver]]
-[[Schuby]]
+[[producers/Schuby]]
 [[Langenhagen]]
 [[Gary D.]]
-[[Yanny]]
+[[producers/Yanny]]

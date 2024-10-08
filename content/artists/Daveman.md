@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/0ryv10wLAel5jodKuJABcm
 
 [[Feiert Jesus!]]
 [[Luiz Carlos Bolz de Jesus Macedo]]
-[[Winnie Schweitzer]]
-[[Uwe Klapdor]]
+[[producers/Winnie Schweitzer]]
+[[producers/Uwe Klapdor]]
 [[Eva]]
-[[Tobi Worner]]
-[[Davis Eisape]]
+[[producers/Tobi Worner]]
+[[producers/Davis Eisape]]

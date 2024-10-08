@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/25PyqLxVLDwsosUZvkc9X0
 **Related artists:**
 
 [[Adesse]]
-[[Dennis Neuer]]
+[[producers/Dennis Neuer]]

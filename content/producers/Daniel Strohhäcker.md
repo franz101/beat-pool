@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3FLuoqugCtrkxfX08aOm70
 
 **Related artists:**
 
-[[Johannes Bruhns]]
+[[producers/Johannes Bruhns]]
 [[Tristan Brusch]]
-[[Joe Joaquin]]
-[[Marlon Tubach]]
+[[producers/Joe Joaquin]]
+[[producers/Marlon Tubach]]
 [[Charlotte Brandi]]
-[[Fabian Simon]]
-[[Willi Sieger]]
+[[producers/Fabian Simon]]
+[[producers/Willi Sieger]]

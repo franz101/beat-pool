@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0AV7eicfV9IDJeoSz52zic
 **Related artists:**
 
 [[3Plusss]]
-[[Peter Winkler]]
+[[producers/Peter Winkler]]

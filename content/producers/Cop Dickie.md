@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/6Tcj3lG8mfEjuPDOlLMufz
 [[Tua]]
 [[Audhentik]]
 [[Culcha Candela]]
-[[Ruben Rodriguez]]
-[[Jules Kalmbacher]]
+[[producers/Ruben Rodriguez]]
+[[producers/Jules Kalmbacher]]

@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/2cPTxcST9OlSaZzjfEbX9B
 
 **Related artists:**
 
-[[Josef Bach]]
-[[Jens Schneider]]
+[[producers/Josef Bach]]
+[[producers/Jens Schneider]]
 [[Ricardo Muñoz]]
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]
-[[Jules Kalmbacher]]
-[[Nisse Ingwersen]]
+[[producers/Jules Kalmbacher]]
+[[producers/Nisse Ingwersen]]
 [[Knappe]]
-[[Patrick Pyke Salmy]]
+[[producers/Patrick Pyke Salmy]]
 [[Matthias Schweighöfer]]
 [[Edin]]
-[[Arne Schumann]]
+[[producers/Arne Schumann]]

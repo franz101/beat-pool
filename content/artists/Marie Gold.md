@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1kwJZ4lXhlq8JRllnfGHmp
 **Related artists:**
 
 [[Juse Ju]]
-[[Shuko]]
+[[producers/Shuko]]

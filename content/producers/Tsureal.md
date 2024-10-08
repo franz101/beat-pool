@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6k5S2G6JLzG1ycOpta33eP
 
 **Related artists:**
 
-[[Rossgossage]]
+[[producers/Rossgossage]]
 [[M.O.030]]

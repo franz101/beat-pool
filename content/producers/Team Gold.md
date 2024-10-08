@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/11sKWIW3DfHCRXwbXE5bfh
 
 **Related artists:**
 
-[[Jurij Gold]]
-[[Falconi]]
+[[producers/Jurij Gold]]
+[[producers/Falconi]]
 [[Riccardo]]

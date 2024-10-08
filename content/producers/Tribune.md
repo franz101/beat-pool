@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/113F1pDjvshFrj991cfLu2
 
 **Related artists:**
 
-[[DJ Restlezz]]
-[[Megastylez]]
+[[producers/DJ Restlezz]]
+[[producers/Megastylez]]
 [[Aleeze]]
-[[Berndt Jesenko]]
+[[producers/Berndt Jesenko]]
 [[Cueboy]]
 [[Dj Tht]]
 [[Ti-Mo]]

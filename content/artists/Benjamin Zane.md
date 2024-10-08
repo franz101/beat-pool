@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4qfxz6jFbqN8nSmkGwMIAy
 
 [[Pulsedriver]]
 [[DJ Stardust]]
-[[M. Kornschober]]
-[[B. Zipperle]]
+[[producers/M. Kornschober]]
+[[producers/B. Zipperle]]

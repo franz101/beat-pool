@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/38TdbaFRXl7N5hR1TWjBzd
 [[Empyre One]]
 [[RainDropz!]]
 [[Giorno]]
-[[Markus Kornschober]]
+[[producers/Markus Kornschober]]
 [[MrG!]]
-[[Megastylez]]
+[[producers/Megastylez]]

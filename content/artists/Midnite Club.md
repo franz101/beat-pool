@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1tGbnZCp427RISDZlX4XwC
 **Related artists:**
 
 [[Bernd Herrmann]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

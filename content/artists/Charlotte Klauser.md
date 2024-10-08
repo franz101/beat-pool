@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/2VHncI4kMjcGm5i5t7smeP
 [[Peter Maffay]]
 [[Leon Taylor]]
 [[Natasja Marinkovic]]
-[[Peter Keller]]
+[[producers/Peter Keller]]

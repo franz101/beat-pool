@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4u6Gfc2V8OyLlJWkzgBL7c
 ![Artist]()
 **Related artists:**
 
-[[Dirk Schlag]]
+[[producers/Dirk Schlag]]
 [[voXXclub]]
-[[Martin Simma]]
+[[producers/Martin Simma]]
 [[Santiano]]
 [[Peter Reber]]

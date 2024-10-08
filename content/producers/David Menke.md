@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/469hbNk7fj83mUY9Fhd94P
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Boris Rogowski]]
-[[Ben Bazzazian]]
+[[producers/Boris Rogowski]]
+[[producers/Ben Bazzazian]]
 [[Gentleman]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2trMEhsk7EJym3R2zwBrxD
 
 **Related artists:**
 
-[[Teyssandier Bertrand]]
-[[Christophe Schaendel]]
+[[producers/Teyssandier Bertrand]]
+[[producers/Christophe Schaendel]]

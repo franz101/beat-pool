@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3W309JwnLuIkPo6A9R4a7K
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb93aee417bfeee7d2912aef8d)
 **Related artists:**
 
-[[Michael Guy Chislett]]
-[[Tim Whincop]]
-[[Reuben Morgan]]
-[[Steve McPherson]]
-[[Brooke Ligertwood]]
+[[producers/Michael Guy Chislett]]
+[[producers/Tim Whincop]]
+[[producers/Reuben Morgan]]
+[[producers/Steve McPherson]]
+[[producers/Brooke Ligertwood]]

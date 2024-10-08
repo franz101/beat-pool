@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/3gnfjtUFmWM7CCfmB4NKng
 
 [[Nazar]]
 [[Falco]]
-[[Djorkaeff]]
-[[Beatzarre]]
+[[producers/Djorkaeff]]
+[[producers/Beatzarre]]

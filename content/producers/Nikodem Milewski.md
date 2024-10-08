@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2uxwx8YseSJLLuAPi1Gvl6
 **Related artists:**
 
 [[Stanfour]]
-[[Christian Lidsba]]
-[[Alex Rethwisch]]
+[[producers/Christian Lidsba]]
+[[producers/Alex Rethwisch]]

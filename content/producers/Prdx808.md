@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0Apo2qUcYpuCYWtzt2V3Vv
 
 **Related artists:**
 
-[[Nine4our]]
+[[producers/Nine4our]]
 [[EREN CAN]]

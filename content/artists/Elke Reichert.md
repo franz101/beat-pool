@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4jqxJjYPgIqKNLJAc0RmuM
 **Related artists:**
 
 [[Feiert Jesus!]]
-[[Albert Frey]]
-[[Uli Kringler]]
+[[producers/Albert Frey]]
+[[producers/Uli Kringler]]

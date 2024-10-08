@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/0Nf8r7TPFiBZzDtNZghUOD
 
 **Related artists:**
 
-[[Matthias Brocke]]
+[[producers/Matthias Brocke]]
 [[M-Traxx]]
 [[Pulsedriver]]
 [[Nicco]]
-[[Michael “Money-G” Bein]]
-[[Shaun Baker]]
+[[producers/Michael “Money-G” Bein]]
+[[producers/Shaun Baker]]
 [[Darius & Finlay]]

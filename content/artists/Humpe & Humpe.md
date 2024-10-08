@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1lPMy3kz9TMyZnsoXKVTXm
 
 **Related artists:**
 
-[[The Krauts]]
+[[producers/The Krauts]]
 [[Adel Tawil]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6LIGXBPpwVopZityPqJrvt
 
 [[Jan Delay]]
 [[Lary]]
-[[Tropf]]
+[[producers/Tropf]]
 [[Summer Cem]]

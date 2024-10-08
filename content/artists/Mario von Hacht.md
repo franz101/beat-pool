@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2RGONpUUQAj4NtgEhU1oqU
 
 **Related artists:**
 
-[[Andy]]
-[[Hausmarke]]
+[[producers/Andy]]
+[[producers/Hausmarke]]
 [[Die Fantastischen Vier]]
 [[DJ Koze]]

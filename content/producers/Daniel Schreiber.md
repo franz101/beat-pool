@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/5dWw5reCGkczF9pA4dRoZ7
 [[Gzuz]]
 [[LX]]
 [[Maxwell]]
-[[nvie motho]]
+[[producers/nvie motho]]
 [[The Cratez]]

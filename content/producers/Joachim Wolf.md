@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4udj8G5PQ6skrdI5YqHlCB
 **Related artists:**
 
 [[Beatrice Egli]]
-[[Achim Radloff]]
+[[producers/Achim Radloff]]

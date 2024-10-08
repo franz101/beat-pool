@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/06FYoENinaS95Ttzv1fkv0
 **Related artists:**
 
 [[GReeeN]]
-[[The Royals]]
+[[producers/The Royals]]
 [[The Cratez]]
 [[Bonez MC]]
 [[RAF Camora]]

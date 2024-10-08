@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2h9NPJvvVtQYi6LUIjPPtB
 
 **Related artists:**
 
-[[Crada]]
+[[producers/Crada]]
 [[Tim Bendzko]]

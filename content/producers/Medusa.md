@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2NQdDSSsXc3MLmkokmXK1i
 
 **Related artists:**
 
-[[Yung Swisher]]
+[[producers/Yung Swisher]]
 [[Sarhad]]
 [[Efe]]

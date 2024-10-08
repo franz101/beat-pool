@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5JemCTLtWGot2sBW59JipT
 
 **Related artists:**
 
-[[AgaJon]]
+[[producers/AgaJon]]
 [[Chefket]]

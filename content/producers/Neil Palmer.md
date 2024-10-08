@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5OxKYN2ynConCVkp9OTKeT
 
 **Related artists:**
 
-[[William T. Davis]]
+[[producers/William T. Davis]]
 [[Xavier Naidoo]]
 [[Yvonne Catterfeld]]

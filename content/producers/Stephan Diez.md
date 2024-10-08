@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4Ygh4DaZ58kqNDyjg99edz
 **Related artists:**
 
 [[Konstantin Wecker]]
-[[Toni Spirkl]]
+[[producers/Toni Spirkl]]

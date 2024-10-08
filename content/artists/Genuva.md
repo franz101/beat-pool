@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/2uHbjLmfTvRMiNJUQaRX9P
 **Related artists:**
 
 [[ThankYouKid]]
-[[Rooz]]
+[[producers/Rooz]]

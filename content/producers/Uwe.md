@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6npVunSmGQg0fw9iVbT8QH
 
 [[Wise Guys]]
 [[Brings]]
-[[Baltrusch]]
+[[producers/Baltrusch]]

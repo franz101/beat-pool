@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/1bHjpwll0NKLjH7Bw0KYoe
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb882dc1b594a2679de30b13c6)
 **Related artists:**
 
-[[J. Wassenberg]]
+[[producers/J. Wassenberg]]

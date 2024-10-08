@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1jr0672RFInoFMCK2R3U4n
 **Related artists:**
 
 [[Das Lumpenpack]]
-[[Niko Faust]]
+[[producers/Niko Faust]]

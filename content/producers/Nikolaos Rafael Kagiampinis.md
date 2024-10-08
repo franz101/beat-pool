@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/1EHKSWnDBgAvdgBtP3QAXz
 [[Prinz Pi]]
 [[Bosse]]
 [[Capital Bra]]
-[[Mirko Schaffer]]
+[[producers/Mirko Schaffer]]

@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/2dMO34aTE4wTRQZkgDehMF
 [[Xavi]]
 [[Olexesh]]
 [[Azzi Memo]]
-[[Alexander Barkey]]
-[[Jules Kalmbacher]]
+[[producers/Alexander Barkey]]
+[[producers/Jules Kalmbacher]]

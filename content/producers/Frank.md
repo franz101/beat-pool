@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1c1zan5bb0iXtzLDHrptRe
 **Related artists:**
 
 [[Philipp Poisel]]
-[[Pilsl]]
+[[producers/Pilsl]]

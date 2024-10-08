@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/04BT2JCimPN1HdmSw747Az
 
 **Related artists:**
 
-[[Frank Engel]]
-[[Live Legend Konzertagentur GmbH]]
-[[Bernie Haefner]]
+[[producers/Frank Engel]]
+[[producers/Live Legend Konzertagentur GmbH]]
+[[producers/Bernie Haefner]]
 [[Adel Tawil]]

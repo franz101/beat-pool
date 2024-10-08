@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/5GKpebHXAItr2mGSXVvlUT
 **Related artists:**
 
 [[Lucky]]
-[[Aphem]]
+[[producers/Aphem]]
 [[Beko]]
 [[Teuterekordz]]
 [[Sechser]]

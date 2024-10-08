@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/08WaXGgIlDnGFzquSXkKm4
 
 **Related artists:**
 
-[[Blaise Keys]]
+[[producers/Blaise Keys]]
 [[Kelvyn Colt]]
-[[Kelvyn Ajala]]
+[[producers/Kelvyn Ajala]]

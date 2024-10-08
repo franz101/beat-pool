@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2mZl7mXq81NIboLKC4o7mY
 
 **Related artists:**
 
-[[Instrumens]]
+[[producers/Instrumens]]
 [[Samy Deluxe]]
-[[Dynamite]]
+[[producers/Dynamite]]

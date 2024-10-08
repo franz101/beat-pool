@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/62HR0dVCuv0Su6U8ED3h6h
 **Related artists:**
 
 [[Discotronic]]
-[[Thomas Grisl]]
+[[producers/Thomas Grisl]]
 [[Pulsedriver]]
-[[Thomas Greisl]]
+[[producers/Thomas Greisl]]

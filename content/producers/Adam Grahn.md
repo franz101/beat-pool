@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7nbBpsSTQWPpgX3pvoyLL0
 **Related artists:**
 
 [[Hannes Irengård]]
-[[Per Andreasson]]
+[[producers/Per Andreasson]]
 [[Jonas Almén]]
 [[Royal Republic]]

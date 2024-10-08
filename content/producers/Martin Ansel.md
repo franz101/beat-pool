@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/6ugr4Qhm6nqCxPnFCfgJPe
 **Related artists:**
 
 [[Nelson Müller]]
-[[Ulf Ronneberger]]
+[[producers/Ulf Ronneberger]]
 [[Helene Fischer]]
 [[Pur]]
-[[Hartmut Engler]]
+[[producers/Hartmut Engler]]
 [[Kids]]
-[[Ingo Reidl]]
+[[producers/Ingo Reidl]]
 [[Götz von Sydow]]
 [[Peter Freudenthaler]]
 [[Peppa]]

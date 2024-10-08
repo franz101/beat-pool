@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/4zTPzSVspMOKSjK6IUkt5h
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebccc3b82219ff2fa0292b2a8a)
 **Related artists:**
 
-[[DJ Eule]]
-[[Constantine Mineikis]]
+[[producers/DJ Eule]]
+[[producers/Constantine Mineikis]]
 [[HeXer]]

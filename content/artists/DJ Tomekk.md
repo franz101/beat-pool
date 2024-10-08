@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb193b08532ae38930e48e9b14)
 **Related artists:**
 
-[[Thomas Schmidt]]
+[[producers/Thomas Schmidt]]
 [[Frauenarzt]]
 [[MC Rene]]
 [[Fler]]
@@ -37,5 +37,5 @@ url: https://open.spotify.com/artist/182XFUhmCtgombl0vTM8fN
 [[Grandmaster Flash]]
 [[Martin Stieber]]
 [[Blokkmonsta]]
-[[Tom-As]]
+[[producers/Tom-As]]
 [[Flavor Flav]]

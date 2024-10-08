@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/25j6h65Y19e6knzW6VBn49
 [[Maniac]]
 [[Waldo The Funk]]
 [[Hulk Hodn]]
-[[Eduardo Rojas Conduela]]
+[[producers/Eduardo Rojas Conduela]]
 [[Dexter]]

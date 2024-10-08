@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/2yo2la2oyTFJzcSVi1LJJF
 [[Main Concept]]
 [[El Shadai]]
 [[Flashmaster D]]
-[[Glammerlicious]]
+[[producers/Glammerlicious]]
 [[Armageddonman]]

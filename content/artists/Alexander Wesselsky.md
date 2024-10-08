@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/1oqfPxaChCcsA6T2RbZMzx
 **Related artists:**
 
 [[Michael "Bully" Herbig]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Otto Waalkes]]
 [[Charlotte Klauser]]
 [[Uwe Ochsenknecht]]

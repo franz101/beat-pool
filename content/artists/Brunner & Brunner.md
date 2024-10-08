@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/3wbftONQjYa0CGlyEwxJUR
 ![Artist](https://i.scdn.co/image/ab67616d0000b273aef71c156a7f7570f2cb6a7d)
 **Related artists:**
 
-[[Alfons Weindorf]]
+[[producers/Alfons Weindorf]]

@@ -23,5 +23,5 @@ url: https://open.spotify.com/artist/2NtMdOeRgyQObljg0UO3Ft
 [[Dj Thomilla]]
 [[Meli]]
 [[Afrob]]
-[[Tommy W.]]
-[[Thomas Wittinger]]
+[[producers/Tommy W.]]
+[[producers/Thomas Wittinger]]

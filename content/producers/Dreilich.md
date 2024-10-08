@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0EvaZQvXIhiqIXR5VFoxAW
 
 **Related artists:**
 
-[[Robert Schumann]]
+[[producers/Robert Schumann]]
 [[Karat]]
-[[Kurzhals]]
+[[producers/Kurzhals]]

@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/3zSziwf9WDSX3AdwBV1fzp
 
 **Related artists:**
 
-[[A. Tawil]]
-[[S. Kirchner]]
+[[producers/A. Tawil]]
+[[producers/S. Kirchner]]
 [[Ich + Ich]]
-[[F. Fischer]]
-[[Annette Humpe]]
+[[producers/F. Fischer]]
+[[producers/Annette Humpe]]
 [[Adel Tawil]]
-[[Sebastian Kirchner]]
-[[Florian Fischer]]
+[[producers/Sebastian Kirchner]]
+[[producers/Florian Fischer]]

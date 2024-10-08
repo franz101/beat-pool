@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1tEXly3qYB0SYxDzi7gvFS
 
 **Related artists:**
 
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]
 [[VIZE]]
-[[ALOTT]]
+[[producers/ALOTT]]

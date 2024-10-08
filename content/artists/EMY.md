@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/1SURHwqN7bc8HNveYwPEiu
 **Related artists:**
 
 [[Nico Suave]]
-[[J.O.D]]
+[[producers/J.O.D]]

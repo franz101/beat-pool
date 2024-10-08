@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1NHCsW4l8QkAv82VTsqgJz
 **Related artists:**
 
 [[Silla]]
-[[Imran Abbas]]
+[[producers/Imran Abbas]]

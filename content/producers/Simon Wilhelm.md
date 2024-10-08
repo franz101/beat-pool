@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0bHfvbNt3B50ecqIq6L71Q
 **Related artists:**
 
 [[Glaubenszentrum Live]]
-[[Edgar Breitenbach]]
+[[producers/Edgar Breitenbach]]
 [[Outbreakband]]
 [[Lena Garofalo]]
-[[Pala Friesen]]
+[[producers/Pala Friesen]]
 [[Jessica Friesen]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2vQv1yELaoUuvf7U0ddHgX
 **Related artists:**
 
 [[KC Rebell]]
-[[Clay]]
+[[producers/Clay]]

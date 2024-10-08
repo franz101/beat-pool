@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/4yACjWtDQ5PYsLTgVnKtpa
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb19424ba3689339947ab9e940)
 **Related artists:**
 
-[[Chris Jarbee]]
-[[Dalton]]
+[[producers/Chris Jarbee]]
+[[producers/Dalton]]

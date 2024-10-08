@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb36181a1f1b7b9c67da2dca6e)
 **Related artists:**
 
-[[Michael Ilbert]]
-[[Per Andreasson]]
-[[MICHAEL TIBES]]
-[[Christian Neander]]
-[[Adam Grahn]]
+[[producers/Michael Ilbert]]
+[[producers/Per Andreasson]]
+[[producers/MICHAEL TIBES]]
+[[producers/Christian Neander]]
+[[producers/Adam Grahn]]
 [[Jonas Almén]]
 [[Nosebreakers]]
 [[Hannes Irengård]]

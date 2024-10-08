@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4qokFnhHq6Oy3oAZQA9GSx
 
 **Related artists:**
 
-[[Monte]]
+[[producers/Monte]]
 [[Twizzy]]
 [[Punch Arogunz]]
-[[Illicity]]
+[[producers/Illicity]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2BAIb3L5QQnKRLb8yFLviq
 
 [[Zuna]]
 [[Azet]]
-[[Lucry]]
+[[producers/Lucry]]

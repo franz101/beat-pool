@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3I3knkWC5YF0W2kbAxRZz1
 
 **Related artists:**
 
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]
 [[Glasperlenspiel]]
-[[Nick Coler]]
+[[producers/Nick Coler]]

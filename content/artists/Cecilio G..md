@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p
 
 **Related artists:**
 
-[[CK Pro]]
+[[producers/CK Pro]]
 [[Brudi030]]

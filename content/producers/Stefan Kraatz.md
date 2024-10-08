@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0ryo8bfVdNo6v9EBozc6bx
 **Related artists:**
 
 [[Lina Maly]]
-[[Jim Hickey]]
+[[producers/Jim Hickey]]
 [[FINN]]

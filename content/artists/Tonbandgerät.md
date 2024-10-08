@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/0PUf7ZQsGx7s7en5EVfNNx
 **Related artists:**
 
 [[Stefanie Heinzmann]]
-[[Udo Rinklin]]
-[[Frank Pilsl]]
-[[Elmar Weyland]]
-[[Wolfgang Stach]]
-[[Tim Tautorat]]
+[[producers/Udo Rinklin]]
+[[producers/Frank Pilsl]]
+[[producers/Elmar Weyland]]
+[[producers/Wolfgang Stach]]
+[[producers/Tim Tautorat]]
 [[Jan Windmeier]]

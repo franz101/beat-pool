@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/07sJTHzs0NqNEXJLy1enIc
 
 **Related artists:**
 
-[[Twin for Redfly Music AB]]
+[[producers/Twin for Redfly Music AB]]
 [[No Angels]]

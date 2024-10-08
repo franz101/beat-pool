@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/5WesSfZwdtLI1iy05rJF0S
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc416c7950a6186b5e675b9c5)
 **Related artists:**
 
-[[Thomas Fessler]]
+[[producers/Thomas Fessler]]

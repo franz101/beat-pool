@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7uaikZmOtxXTNe5kPWv5t6
 
 **Related artists:**
 
-[[Pzy]]
+[[producers/Pzy]]
 [[Olexesh]]
 [[Azzi Memo]]
 [[The Cratez]]

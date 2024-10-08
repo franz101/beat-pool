@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/7kuPd6Ui4TSPRn85nZjlJm
 [[E-Partment]]
 [[Jaycee Madoxx]]
 [[Marc Korn]]
-[[Bangpool Studios Ballears]]
+[[producers/Bangpool Studios Ballears]]

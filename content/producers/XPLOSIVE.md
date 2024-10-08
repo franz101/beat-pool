@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/21S6E4w6HPJB0h1zboCbTZ
 [[Rim'K]]
 [[Guè Pequeno]]
 [[Farid Bang]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Juh-Dee]]

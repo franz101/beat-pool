@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1niZG25b54OyxkT1AOdmYi
 **Related artists:**
 
 [[AchtVier]]
-[[DarkoBeats]]
+[[producers/DarkoBeats]]

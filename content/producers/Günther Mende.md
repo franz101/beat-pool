@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3Jf9LupmRQq3kbkCEjS5ps
 
 **Related artists:**
 
-[[Candy De Rouge]]
+[[producers/Candy De Rouge]]
 [[Falco]]
-[[Alexander C. Derouge]]
+[[producers/Alexander C. Derouge]]
 [[Nino de Angelo]]
-[[Candy Rouge]]
+[[producers/Candy Rouge]]

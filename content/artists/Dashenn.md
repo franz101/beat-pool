@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/64p5bDVBEsICHU7jlJQdnX
 
 [[Eddy Soulo]]
 [[Samy Deluxe]]
-[[David Banner]]
-[[phreQuincy]]
-[[Rob Easy]]
-[[Dynamite]]
+[[producers/David Banner]]
+[[producers/phreQuincy]]
+[[producers/Rob Easy]]
+[[producers/Dynamite]]
 [[Neo]]

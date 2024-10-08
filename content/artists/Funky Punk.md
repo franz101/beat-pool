@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/09FT8L0xXWtUiBh4LcEsnE
 
 [[Idil]]
 [[Oli. P]]
-[[Claus Capek]]
-[[Guy Gross]]
+[[producers/Claus Capek]]
+[[producers/Guy Gross]]

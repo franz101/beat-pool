@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/70Gs9dn5GQGnvTuj77ykzr
 
 [[Arne Kopfermann]]
 [[Andreas Volz]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Margarete Kosse]]
 [[Conny Bader]]
 [[Sarah Kaiser]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7FFaykldsmor5U1uWhx5tx
 **Related artists:**
 
 [[Stereo Total]]
-[[Cem Oral]]
+[[producers/Cem Oral]]

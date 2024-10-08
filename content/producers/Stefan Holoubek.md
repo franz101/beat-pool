@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1avhyblPQe6jpiSsIgQrLy
 **Related artists:**
 
 [[Pizzera & Jaus]]
-[[Erwin Bader]]
+[[producers/Erwin Bader]]

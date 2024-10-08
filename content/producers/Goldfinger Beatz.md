@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/02nj6GNOsVsXBFgf8NJk12
 
 [[Cedric]]
 [[Niekan]]
-[[Chrizmatic]]
+[[producers/Chrizmatic]]
 [[Kontra K]]
 [[Kianush]]
 [[AK AUSSERKONTROLLE]]

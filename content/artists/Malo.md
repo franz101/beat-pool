@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1h8J8ik3ANaCWB9l7NZF10
 
 **Related artists:**
 
-[[Tony Brown]]
+[[producers/Tony Brown]]
 [[Samy Deluxe]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5doZTyThk8gxqMmc2fn1XA
 
 **Related artists:**
 
-[[Joznez]]
+[[producers/Joznez]]
 [[Silva]]
 [[Majoe]]

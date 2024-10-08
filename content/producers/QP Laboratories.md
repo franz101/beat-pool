@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3BdODtJ7JVKx9AL2bnSsjX
 
 **Related artists:**
 
-[[Homefront Productions]]
+[[producers/Homefront Productions]]
 [[Daddy Rings]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6YSlos33F6rLKxkJcW2OeI
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb49616b438b5d1fc3700a0c02)
 **Related artists:**
 
-[[Wings]]
-[[Alfo]]
+[[producers/Wings]]
+[[producers/Alfo]]
 [[Noah]]
 [[JIGGO]]

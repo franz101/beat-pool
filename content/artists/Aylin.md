@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7q7ky3reAgSwLwfVEqnMPd
 **Related artists:**
 
 [[Bosca]]
-[[Cristal]]
+[[producers/Cristal]]

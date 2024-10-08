@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3LEBfyGW9jVxBLz6c1JXEc
 **Related artists:**
 
 [[2raumwohnung]]
-[[Christian Pfeuffer- Inga Humpe]]
-[[Tommi Eckart]]
-[[Daniel Klein]]
+[[producers/Christian Pfeuffer- Inga Humpe]]
+[[producers/Tommi Eckart]]
+[[producers/Daniel Klein]]

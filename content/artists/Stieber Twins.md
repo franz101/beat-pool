@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/0vd5m6CjxZxyYgMWhWUF5r
 
 **Related artists:**
 
-[[Lord Scan]]
+[[producers/Lord Scan]]
 [[Shabazz the Disciple]]
 [[Götz Gottschalk]]
 [[GZA]]
-[[Luxus Chris]]
+[[producers/Luxus Chris]]
 [[Samy Deluxe]]
 [[DJ Tomekk]]
 [[The Arsonists]]
 [[Max Herre]]
-[[Mr. Mar]]
+[[producers/Mr. Mar]]
 [[Martin Stieber]]
-[[Tom-As]]
+[[producers/Tom-As]]
 [[Christian Stieber]]
 [[Curse]]

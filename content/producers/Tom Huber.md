@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/6MZOGGpOxuOKf394fgdbPM
 
 [[Rian Lüttich]]
 [[Yvonne Catterfeld]]
-[[Chris Le Blanc]]
+[[producers/Chris Le Blanc]]

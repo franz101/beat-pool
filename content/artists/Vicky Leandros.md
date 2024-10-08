@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/68yjIBoc8l4GaliVFZDUcJ
 ![Artist](https://i.scdn.co/image/0058cecfa6a40d0f1a467119008558741717aaa4)
 **Related artists:**
 
-[[Leo Leandros]]
+[[producers/Leo Leandros]]
 [[Stereoact]]
 [[Thorsten Brötzmann]]
 [[Scooter]]

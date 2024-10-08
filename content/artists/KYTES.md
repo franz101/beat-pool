@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/1q8H46YhdCtAO8tXHIWe2d
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc0d8481f9e071f5b0495f04e)
 **Related artists:**
 
-[[Yannik Ernst]]
-[[Florian Kiermaier]]
-[[Matthias Oldofredi]]
+[[producers/Yannik Ernst]]
+[[producers/Florian Kiermaier]]
+[[producers/Matthias Oldofredi]]
 [[RAC]]

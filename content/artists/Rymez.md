@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6lUWb46h9Y8H8cqpW3i0pc
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc2f4f2ebac9dde0c1bc628a6)
 **Related artists:**
 
-[[MIKSU]]
+[[producers/MIKSU]]
 [[Loredana]]

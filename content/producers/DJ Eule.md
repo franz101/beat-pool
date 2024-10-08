@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7MxHrlDFCGs7e1xeeSnUHv
 **Related artists:**
 
 [[iNTeLL]]
-[[Constantine Mineikis]]
+[[producers/Constantine Mineikis]]
 [[Freshmaker]]
 [[Jinx]]
 [[Timeless]]
@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/7MxHrlDFCGs7e1xeeSnUHv
 [[Kool Savas]]
 [[Klimas]]
 [[Karen]]
-[[Gennaro Frenken]]
+[[producers/Gennaro Frenken]]
 [[Acaz]]
 [[Saya]]
 [[Morlockk Dilemma]]

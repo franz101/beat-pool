@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/1ZLl5Z3ZFtQ53iSEWyjl8O
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebeb1bd2dcb5bd67f85ba434aa)
 **Related artists:**
 
-[[Liam Griesbach]]
-[[nocashfromparents]]
-[[Alex Graumann]]
+[[producers/Liam Griesbach]]
+[[producers/nocashfromparents]]
+[[producers/Alex Graumann]]

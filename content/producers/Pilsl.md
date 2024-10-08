@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/65gn92FextbZlM4XGKXu6S
 **Related artists:**
 
 [[Philipp Poisel]]
-[[Frank]]
+[[producers/Frank]]

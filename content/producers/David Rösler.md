@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/15IWhCUFM8cuKAvliod6sP
 **Related artists:**
 
 [[Nu51]]
-[[Mirnes Kvrgic]]
-[[Sebastian Ibisevic]]
+[[producers/Mirnes Kvrgic]]
+[[producers/Sebastian Ibisevic]]

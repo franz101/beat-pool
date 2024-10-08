@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4gJ6bdBmIvCb1VGadgLPuh
 **Related artists:**
 
 [[Heinz Rudolf Kunze]]
-[[Peter Koobs]]
-[[Zoran Grujovski]]
+[[producers/Peter Koobs]]
+[[producers/Zoran Grujovski]]

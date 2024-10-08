@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0udAyYdD8D529q2imhLaR6
 **Related artists:**
 
 [[Mickie Krause]]
-[[Hermann Niesig]]
+[[producers/Hermann Niesig]]

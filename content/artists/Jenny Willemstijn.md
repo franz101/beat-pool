@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3jZ7mNMU1NWfEyWnNPlrFa
 **Related artists:**
 
 [[Götz Gottschalk]]
-[[Farhad Samadzada]]
+[[producers/Farhad Samadzada]]
 [[Curse]]

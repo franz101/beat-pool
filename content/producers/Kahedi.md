@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2PbkfV6tmavKkj4wAHBTTc
 **Related artists:**
 
 [[KitschKrieg]]
-[[Christopher Annen]]
+[[producers/Christopher Annen]]
 [[Max Herre]]
-[[Severin Kantereit]]
+[[producers/Severin Kantereit]]

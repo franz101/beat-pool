@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4o6hj5TpI3JqUyVCJoZpfX
 
 **Related artists:**
 
-[[Phillip Palm]]
+[[producers/Phillip Palm]]
 [[Nena]]

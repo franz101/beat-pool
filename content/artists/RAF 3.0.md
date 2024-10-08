@@ -28,7 +28,7 @@ url: https://open.spotify.com/artist/7CqB6nNGQPcaEJ940E2x2r
 [[Sudden]]
 [[Silla]]
 [[RAF Camora]]
-[[KD Supier]]
+[[producers/KD Supier]]
 [[Prinz Pi]]
 [[Konshens]]
 [[Tarek K.I.Z]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/24yIHazEtbVlCxggbf1ex8
 **Related artists:**
 
 [[Yung Hurn]]
-[[DLS]]
-[[riico]]
+[[producers/DLS]]
+[[producers/riico]]
 [[Luciano]]

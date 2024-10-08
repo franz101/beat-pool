@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/1myqTmqClEe4xL7SobnSlF
 [[Pott Riddim]]
 [[Swag Boy Alex]]
 [[Der Butterwegge]]
-[[Maik Timmermann]]
+[[producers/Maik Timmermann]]

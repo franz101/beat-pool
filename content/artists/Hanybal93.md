@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4V9Fs3BSd4rhEzDBFtdZ6T
 
 **Related artists:**
 
-[[Jambeatz]]
+[[producers/Jambeatz]]
 [[Bonez MC]]

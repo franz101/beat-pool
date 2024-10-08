@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/04OLxyz813FCUQMD538IMK
 **Related artists:**
 
 [[Axel Jäger]]
-[[The Nation]]
-[[Sven Blaikz Schwarz]]
+[[producers/The Nation]]
+[[producers/Sven Blaikz Schwarz]]
 [[Alex M.]]

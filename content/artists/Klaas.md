@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif
 
 **Related artists:**
 
-[[Klaas Gerling]]
+[[producers/Klaas Gerling]]

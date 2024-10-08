@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0XyFHBwmvI3Km43v0E8KUq
 **Related artists:**
 
 [[dude26]]
-[[Jan Vetter]]
-[[Georg Ziegler]]
+[[producers/Jan Vetter]]
+[[producers/Georg Ziegler]]
 [[Wun Two]]
 [[IAMPAUL]]
 [[Eloquent]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2tB5RCuDTzlpT0tS4E2fvd
 **Related artists:**
 
 [[Jan Delay]]
-[[Jan Delay und M. Arfmann]]
+[[producers/Jan Delay und M. Arfmann]]

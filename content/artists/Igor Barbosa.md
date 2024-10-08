@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/6yJJzUN58MwuBWAHE2EUq0
 **Related artists:**
 
 [[Umse]]
-[[Deckah]]
+[[producers/Deckah]]
 [[JuJu Rogers]]

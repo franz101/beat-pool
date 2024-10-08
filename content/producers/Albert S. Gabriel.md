@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/0JIrRHrWisAqbv5U4FqaMy
 **Related artists:**
 
 [[Clueso]]
-[[Haus Erika Productions]]
+[[producers/Haus Erika Productions]]
 [[Remarkable]]
 [[Snaz]]
 [[MC Metaphysics]]

@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/6LmAQh4EtCTvhV5d9nKgbg
 
 [[Ulf Leo Sommer]]
 [[Rosenstolz]]
-[[Daniel Faust]]
+[[producers/Daniel Faust]]
 [[Peter Plate]]
 [[Michelle]]

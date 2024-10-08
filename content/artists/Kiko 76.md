@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/2cZmPcRs7o0QYaxsjo2loD
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7a222903c87e4a9565e9ef5d)
 **Related artists:**
 
-[[Ozett]]
-[[Dj Omonoia]]
-[[Dannemann]]
+[[producers/Ozett]]
+[[producers/Dj Omonoia]]
+[[producers/Dannemann]]
 [[Haze]]
-[[Zinoondabeat]]
+[[producers/Zinoondabeat]]

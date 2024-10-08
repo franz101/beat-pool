@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/3kklzjWziqW7RX5jQjsRnb
 ![Artist](https://i.scdn.co/image/ab67616d0000b273ec672b5869165398df80423d)
 **Related artists:**
 
-[[Can "Stress" Canatan]]
+[[producers/Can "Stress" Canatan]]
 [[Sebbe Staxx]]
 [[Dani M]]

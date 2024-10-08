@@ -42,6 +42,6 @@ url: https://open.spotify.com/artist/7mnmr8BPHhEEYFwIHlclFt
 [[Mista Meta]]
 [[BABYJOY]]
 [[get.home.safe]]
-[[Samuel Kalbantner]]
+[[producers/Samuel Kalbantner]]
 [[Monk]]
 [[Inoffiziell.Goldenboy]]

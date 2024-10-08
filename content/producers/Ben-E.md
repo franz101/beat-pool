@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/1o4aTuiYfgYEM75Q0MLFhX
 
 **Related artists:**
 
-[[Jermaine]]
-[[Zino Beatz]]
+[[producers/Jermaine]]
+[[producers/Zino Beatz]]
 [[JIGGO]]
-[[Jonny Jones]]
-[[Zinobeatz]]
+[[producers/Jonny Jones]]
+[[producers/Zinobeatz]]
 [[Kurdo]]

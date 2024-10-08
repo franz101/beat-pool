@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2PJ6vUmLYFkp3bUO7WK1VY
 **Related artists:**
 
 [[Kianush]]
-[[Chrizmatic]]
+[[producers/Chrizmatic]]

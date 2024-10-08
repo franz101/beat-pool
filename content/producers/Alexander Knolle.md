@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/72vFDBXhXXcM65k4W1wI0t
 
 **Related artists:**
 
-[[Nisse Ingwersen]]
+[[producers/Nisse Ingwersen]]
 [[Max Giesinger]]
 [[Matthias Schweighöfer]]
-[[Jens Schneider]]
-[[Kurt Stolle]]
+[[producers/Jens Schneider]]
+[[producers/Kurt Stolle]]
 [[Wincent Weiss]]

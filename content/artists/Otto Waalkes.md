@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f
 
 **Related artists:**
 
-[[Jochen Konerding]]
+[[producers/Jochen Konerding]]
 [[Michael "Bully" Herbig]]
 [[Alexander Wesselsky]]
 [[Dayrelis Laura Pérez García]]
@@ -20,13 +20,13 @@ url: https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f
 [[Wolfgang Petry]]
 [[Tobias Künzel]]
 [[Ilse DeLange]]
-[[Andreas Herbig]]
-[[Henrik Menzel]]
-[[Peter Wagner]]
+[[producers/Andreas Herbig]]
+[[producers/Henrik Menzel]]
+[[producers/Peter Wagner]]
 [[Stefan Waggershausen]]
 [[die travelling Homeboys]]
-[[Peter "Jem" Seifert]]
-[[Peter Keller]]
+[[producers/Peter "Jem" Seifert]]
+[[producers/Peter Keller]]
 [[Uwe Ochsenknecht]]
 [[Peter Maffay]]
 [[LaBrassBanda]]

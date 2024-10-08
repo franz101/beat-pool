@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5a3fhq9gKhzIrNZL075BRS
 
 [[Schandmaul]]
 [[Subway To Sally]]
-[[Simon Michael Schmitt]]
-[[Simon Michael]]
+[[producers/Simon Michael Schmitt]]
+[[producers/Simon Michael]]
 [[Donots]]

@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/4nxYhbBCQSp82hEZcmB2Qc
 [[Separate]]
 [[Prinz Porno]]
 [[Charon]]
-[[Deckah]]
+[[producers/Deckah]]
 [[Umse]]
 [[Vega]]
 [[Pimf]]

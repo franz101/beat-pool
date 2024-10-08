@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/045asKAyJ8bk2wKJt7j5YE
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebca7ca8616d195b8a26199603)
 **Related artists:**
 
-[[Jules Kalmbacher]]
-[[Jens Schneider]]
+[[producers/Jules Kalmbacher]]
+[[producers/Jens Schneider]]

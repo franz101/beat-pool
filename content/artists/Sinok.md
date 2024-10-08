@@ -19,6 +19,6 @@ url: https://open.spotify.com/artist/1SU9LIS4vWoegMaUikmEDC
 [[Alita]]
 [[Bandit]]
 [[Jaill]]
-[[Devin Beats]]
-[[Jam Beatz]]
+[[producers/Devin Beats]]
+[[producers/Jam Beatz]]
 [[Reeperbahn Kareem]]

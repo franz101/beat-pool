@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1WTdBl7GnxeeqllSEChWLs
 
 **Related artists:**
 
-[[Ralph Quick]]
+[[producers/Ralph Quick]]
 [[Subway To Sally]]

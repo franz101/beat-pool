@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/6C1X5Uh3DPIkC2gaVq00BL
 **Related artists:**
 
 [[Buba Corelli]]
-[[Tim Crudu]]
+[[producers/Tim Crudu]]
 [[Olexesh]]
 [[DJ Katch]]

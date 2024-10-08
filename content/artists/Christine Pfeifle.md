@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/17aW6ae762oBONvsb5DOuz
 
 [[Anna Stadler]]
 [[DMMK]]
-[[Michael Herberger]]
+[[producers/Michael Herberger]]
 [[Dominik Wagner]]
-[[Joshua Linne]]
+[[producers/Joshua Linne]]

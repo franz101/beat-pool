@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/2jipy8O0jvCYNRyCWIsTKS
 **Related artists:**
 
 [[DJ Release]]
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Vega]]
 [[FACE]]

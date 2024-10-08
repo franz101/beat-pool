@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/6PTNfU4UHhN1VL2ltc9KdZ
 **Related artists:**
 
 [[Azad]]
-[[IZ]]
+[[producers/IZ]]
 [[Sezai]]
 [[Real Jay]]
 [[Ebony Prince]]

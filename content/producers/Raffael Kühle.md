@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2kPBQBNigJvcnFBqiqsGpU
 
 **Related artists:**
 
-[[Christoph Schreiner]]
+[[producers/Christoph Schreiner]]
 [[Veedel Kaztro]]
 [[OK KID]]
 [[Raffi Balboa]]
-[[Moritz Rech]]
-[[Tim Tautorat]]
+[[producers/Moritz Rech]]
+[[producers/Tim Tautorat]]
 [[LGoony]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6MAPAsaK6WjrvDrrYKViau
 **Related artists:**
 
 [[Nino de Angelo]]
-[[Elmar Kast]]
+[[producers/Elmar Kast]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3pYzxKNylFW1CdyrSKg8ZK
 **Related artists:**
 
 [[Azad]]
-[[Sti]]
+[[producers/Sti]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6LasEVZqKdo7wtwNlFF3mg
 
 **Related artists:**
 
-[[Gramoz Aliu]]
+[[producers/Gramoz Aliu]]
 [[Loredana]]
 [[Beatgees]]
 [[Mozzik]]

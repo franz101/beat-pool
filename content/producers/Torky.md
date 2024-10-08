@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/3WpXX9sGJ8g1ERItRRZMZi
 
 **Related artists:**
 
-[[Staticbeatz]]
-[[Nozad]]
+[[producers/Staticbeatz]]
+[[producers/Nozad]]
 [[Marvin Game]]
 [[YUN MUFASA]]
 [[AL Kareem]]

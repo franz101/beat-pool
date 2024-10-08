@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/1xROrlBoafT3RP94BEbIvH
 [[SAM]]
 [[King Khalil]]
 [[Laruzo]]
-[[Krutsch]]
+[[producers/Krutsch]]

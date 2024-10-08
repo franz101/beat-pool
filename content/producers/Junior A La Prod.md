@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0GsweI7bjvJkYIOSsRfS26
 
 **Related artists:**
 
-[[Josh Rosinet]]
+[[producers/Josh Rosinet]]
 [[C ARMA]]

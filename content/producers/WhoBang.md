@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0yNTmcEIfDNXn56SnV8BQ2
 
 **Related artists:**
 
-[[Wizdom]]
+[[producers/Wizdom]]
 [[2ara]]
-[[Bjet]]
+[[producers/Bjet]]

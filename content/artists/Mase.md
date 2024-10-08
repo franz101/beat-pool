@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/66BtwTebRZiKaBpj3qTZk5
 
 [[Krey]]
 [[AzudemSK]]
-[[Pierre Sonality]]
-[[Jay Spaten]]
+[[producers/Pierre Sonality]]
+[[producers/Jay Spaten]]
 [[Hypnotize]]

@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/1A0kA0Nodd3mKXSIajsGKk
 
 **Related artists:**
 
-[[Ali Zuckowski]]
-[[FLY]]
+[[producers/Ali Zuckowski]]
+[[producers/FLY]]
 [[Joy Denalane]]
 [[Max Herre]]
 [[KAHEDI]]
 [[Eunique]]
-[[Roberto Di Gioia]]
+[[producers/Roberto Di Gioia]]
 [[RIN]]
-[[Samon Kawamura]]
+[[producers/Samon Kawamura]]
 [[Christoph Rehli]]
 [[David Jürgens]]

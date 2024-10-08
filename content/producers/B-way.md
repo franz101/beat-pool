@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/0kajKt0vrTzbt5wIBWupDe
 
 [[Pulsedriver]]
 [[Xelerator]]
-[[Marlon White]]
+[[producers/Marlon White]]
 [[Xelerator & BrainShock]]

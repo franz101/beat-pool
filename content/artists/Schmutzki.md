@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0AHmI1lKFTY93a6oEUCqrJ
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4b5d02d8f51da654bd7d00a2)
 **Related artists:**
 
-[[Marten Thielges]]
-[[Thomas Harsem]]
+[[producers/Marten Thielges]]
+[[producers/Thomas Harsem]]

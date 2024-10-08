@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/2ui05kQpR1J895indOuO99
 **Related artists:**
 
 [[MERO]]
-[[Salistylezz]]
-[[Mydas Morris]]
+[[producers/Salistylezz]]
+[[producers/Mydas Morris]]
 [[Qzeng]]
 [[Lil Lano]]

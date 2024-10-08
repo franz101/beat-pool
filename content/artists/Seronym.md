@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/5wne1ZfV6mpGIcsAFksMUV
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc12d858410550e91c721df63)
 **Related artists:**
 
-[[YenoBeatz]]
+[[producers/YenoBeatz]]
 [[Umut Capone]]
 [[Cemo]]
-[[trico]]
+[[producers/trico]]

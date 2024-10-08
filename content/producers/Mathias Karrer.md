@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/5mH20Vrb1qkKtBRIIcXrXQ
 [[Daev Yung]]
 [[Olli Banjo]]
 [[Julian Rößner]]
-[[zRy]]
+[[producers/zRy]]
 [[Boz]]
 [[Kool Savas]]
 [[Cr7z]]

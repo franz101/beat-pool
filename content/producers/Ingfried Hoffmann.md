@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5AL6E8HkQxbulxQIFFVUXb
 **Related artists:**
 
 [[Herbert Grönemeyer]]
-[[Horst Krause]]
+[[producers/Horst Krause]]

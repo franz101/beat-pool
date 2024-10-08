@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/159oJddLiuKFNYTa3ZNueS
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6d8142d0d680e72c8b1c9eee)
 **Related artists:**
 
-[[Henning Verlage]]
-[[Mathias Roska]]
+[[producers/Henning Verlage]]
+[[producers/Mathias Roska]]
 [[Thorsten Brötzmann]]
-[[Nikolaus Presnik]]
+[[producers/Nikolaus Presnik]]
 [[DJ Ötzi]]

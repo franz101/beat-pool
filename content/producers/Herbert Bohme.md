@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1zZSXsPQImbJ8E6wtZ7qKK
 
 **Related artists:**
 
-[[Graham Laybourne]]
-[[Andreas Herbig]]
+[[producers/Graham Laybourne]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]

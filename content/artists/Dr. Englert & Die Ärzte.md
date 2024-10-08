@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4N9Ss0iZ1i2HgLO67BsLfk
 
 **Related artists:**
 
-[[Martin Englert]]
+[[producers/Martin Englert]]
 [[Stephan Remmler]]

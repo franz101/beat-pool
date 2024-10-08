@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/4Ii7WtD3tB6b3mKjSJNFb8
 **Related artists:**
 
 [[L'aupaire]]
-[[Robert Laupert]]
+[[producers/Robert Laupert]]

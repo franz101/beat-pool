@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0HiW6o8FpmDrWUryCEHTGS
 
 **Related artists:**
 
-[[Gennaro Frenken]]
-[[DJ Eule]]
+[[producers/Gennaro Frenken]]
+[[producers/DJ Eule]]
 [[Cr7z]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/1XLAt5zAwfQigFFy4vJh9V
 
 [[Feiert Jesus!]]
 [[Julia Schonke]]
-[[Nathanael Wendt]]
+[[producers/Nathanael Wendt]]
 [[Glenn Kaiser]]
 [[Norm Strauss]]
 [[Sarah Kaiser]]

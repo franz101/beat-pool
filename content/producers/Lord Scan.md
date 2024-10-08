@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/50TOYj99p4hCaMC1vg3z7f
 [[Götz Gottschalk]]
 [[Der Klan]]
 [[Curse]]
-[[James Loughrey]]
+[[producers/James Loughrey]]

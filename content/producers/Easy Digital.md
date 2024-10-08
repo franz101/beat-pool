@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1JXlzu2SujQyEvc7TZkfDm
 
 **Related artists:**
 
-[[Mete Makkat]]
+[[producers/Mete Makkat]]
 [[XATAR]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7au4fKGi0CVSm199Xz4XeM
 
 **Related artists:**
 
-[[Xaver Naudascher]]
+[[producers/Xaver Naudascher]]
 [[Dj Thomilla]]
 [[Die Fantastischen Vier]]
-[[Jason Rowe]]
+[[producers/Jason Rowe]]

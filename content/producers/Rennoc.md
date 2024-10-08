@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7r0eaABmlTTpUr64x0mIfF
 
 **Related artists:**
 
-[[YenoBeatz]]
+[[producers/YenoBeatz]]
 [[Kollegah]]
-[[Denibeatzz]]
+[[producers/Denibeatzz]]
 [[Freshmaker]]

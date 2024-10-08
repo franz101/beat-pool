@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6y6cxKDwtLsjKGu4eGKrgE
 
 [[DJ Rafik]]
 [[Prezident]]
-[[Andre Bojanglez]]
+[[producers/Andre Bojanglez]]
 [[Jinnah]]
 [[Xisqo]]
 [[Koljah]]

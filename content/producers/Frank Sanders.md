@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Qcab6czysaiMab8z3zBvl
 
 **Related artists:**
 
-[[Matt James]]
+[[producers/Matt James]]
 [[Tom Gregory]]

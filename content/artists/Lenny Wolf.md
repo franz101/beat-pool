@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6zNkNBxlsIVNuXsSJeem1U
 
 **Related artists:**
 
-[[Brisk Fingaz]]
+[[producers/Brisk Fingaz]]
 [[Chakuza]]

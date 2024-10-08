@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/0ea9KvWWm9NycRbBev8KPy
 
 [[TOMMY & TIBBY]]
 [[Topmodelz]]
-[[T. Schleh]]
+[[producers/T. Schleh]]
 [[Jonny Rose]]
 [[Don Esteban]]
-[[E Zabler]]
+[[producers/E Zabler]]
 [[Pulsedriver]]
 [[Trancecore Project]]

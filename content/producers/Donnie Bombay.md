@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/5bElf2vbq71Uwc8o5TXpuf
 [[Argonautiks]]
 [[Greg Dhilla]]
 [[Kuchenmann]]
-[[Izaak Haze]]
+[[producers/Izaak Haze]]
 [[Koholik]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/71W7FEPaF2yyFETscZpIN8
 **Related artists:**
 
 [[$OHO BANI]]
-[[Ericson]]
+[[producers/Ericson]]

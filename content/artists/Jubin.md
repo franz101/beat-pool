@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/00PgQZNvaqJXEwja8qi00t
 **Related artists:**
 
 [[YONII]]
-[[Veteran]]
+[[producers/Veteran]]
 [[Dardan]]
 [[Gökhan Güler]]
-[[Zeeko]]
+[[producers/Zeeko]]

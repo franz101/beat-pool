@@ -13,9 +13,9 @@ url: https://open.spotify.com/artist/6V6PVcKsN7s2GUtZIoK864
 
 [[My Ugly Clementine]]
 [[Oehl]]
-[[Sophie Lindinger]]
+[[producers/Sophie Lindinger]]
 [[Bilderbuch]]
 [[René Mühlberger]]
 [[Autodrom]]
 [[Yukno]]
-[[The Krauts]]
+[[producers/The Krauts]]

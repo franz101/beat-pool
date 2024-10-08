@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6WyrG7agf9lzLUwPX1dEVW
 ![Artist]()
 **Related artists:**
 
-[[Killa M]]
+[[producers/Killa M]]
 [[Ramo]]
-[[Tengo]]
-[[Danny BeatBrotherz]]
+[[producers/Tengo]]
+[[producers/Danny BeatBrotherz]]

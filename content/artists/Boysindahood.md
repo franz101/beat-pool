@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3R1ewgoYVT2KmWJd0oC3MB
 **Related artists:**
 
 [[Brudi030]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]

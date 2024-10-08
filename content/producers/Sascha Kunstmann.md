@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4UDfhWZCsCMFPVBn8ohqYP
 
 [[Animus]]
 [[Frank White]]
-[[Iad Aslan]]
+[[producers/Iad Aslan]]
 [[Silla]]
 [[Fler]]
 [[Jihad]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/46OImEZJuGQA9ZtICez75K
 
 **Related artists:**
 
-[[Timon Schaper]]
-[[Mark Becker]]
+[[producers/Timon Schaper]]
+[[producers/Mark Becker]]
 [[LIZOT]]
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Tiscore]]
 [[Maria Dürrling]]
-[[Vitali Zestovskih]]
+[[producers/Vitali Zestovskih]]

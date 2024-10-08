@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/70liwLrXal9ne6ZvLekhJS
 
 [[Telly Tellz]]
 [[AJÉ]]
-[[Kassim Beats]]
-[[Zinoondabeat]]
+[[producers/Kassim Beats]]
+[[producers/Zinoondabeat]]

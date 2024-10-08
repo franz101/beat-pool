@@ -11,16 +11,16 @@ url: https://open.spotify.com/artist/4dbzO3YLT1nvyC5IBtT4bP
 
 **Related artists:**
 
-[[Gino Montesano]]
-[[Joe Thompson]]
+[[producers/Gino Montesano]]
+[[producers/Joe Thompson]]
 [[Topmodelz]]
-[[Stefania Vento]]
+[[producers/Stefania Vento]]
 [[Ced Tecknoboy]]
 [[City Shakerz]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Tom Larusso]]
 [[Crystal Lake]]
 [[Dj Tht]]
-[[Chris Victory]]
+[[producers/Chris Victory]]
 [[Sean Finn]]
-[[Dual Playaz]]
+[[producers/Dual Playaz]]

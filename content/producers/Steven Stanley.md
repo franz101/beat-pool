@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7is8Pjkal8dpE7bMkTVhaP
 
 **Related artists:**
 
-[[Paul Daley]]
+[[producers/Paul Daley]]
 [[Gentleman]]

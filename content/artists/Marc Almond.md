@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/7nBZYpVAH6bD0QlD7Mpil7
 
 [[Rosenstolz]]
 [[Ulf Leo Sommer]]
-[[Ulf Sommer]]
-[[Patrik Majer]]
+[[producers/Ulf Sommer]]
+[[producers/Patrik Majer]]
 [[Peter Plate]]

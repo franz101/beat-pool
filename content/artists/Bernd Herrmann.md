@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0pooJTsHkbyE26GE3uaWpD
 **Related artists:**
 
 [[Midnite Club]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

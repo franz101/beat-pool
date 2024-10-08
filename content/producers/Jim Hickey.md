@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3MrP5NiUQ2Nb8Qdgt1i6LU
 **Related artists:**
 
 [[Lina Maly]]
-[[Stefan Kraatz]]
+[[producers/Stefan Kraatz]]
 [[FINN]]

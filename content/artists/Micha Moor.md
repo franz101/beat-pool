@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7oGHuhJ1ffojXBuxgK4qiy
 **Related artists:**
 
 [[Culcha Candela]]
-[[Kraans de Lutin]]
-[[Larsito]]
+[[producers/Kraans de Lutin]]
+[[producers/Larsito]]

@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/4scRowdbVxDFF27s2Bqly5
 [[Timo Langner]]
 [[Glaubenszentrum Live]]
 [[Outbreakband]]
-[[Albert Frey]]
-[[Michael Herberger]]
+[[producers/Albert Frey]]
+[[producers/Michael Herberger]]

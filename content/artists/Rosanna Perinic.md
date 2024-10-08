@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/65Nqk1m7CZ5M9RDDX80WY5
 ![Artist]()
 **Related artists:**
 
-[[Hans Singer]]
-[[Dietmar Kawohl]]
+[[producers/Hans Singer]]
+[[producers/Dietmar Kawohl]]
 [[Claudia Jung]]
 [[Mats Björklund]]

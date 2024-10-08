@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2FL2yn8gIF6ybuNxHgsSu0
 
 **Related artists:**
 
-[[Patrick Liegl]]
+[[producers/Patrick Liegl]]
 [[Ambre Vallet]]

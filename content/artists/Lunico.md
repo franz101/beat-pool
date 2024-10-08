@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/4ygkZ5dXMD2mCZTIgh1Akc
 **Related artists:**
 
 [[Marlo]]
-[[Notsag]]
-[[Kostas Karagiozidis]]
+[[producers/Notsag]]
+[[producers/Kostas Karagiozidis]]
 [[DLA]]
 [[Teflon030]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6XNsCe1pzOg1k1E0tVSwjW
 
 **Related artists:**
 
-[[A. Tawil]]
-[[F. Fischer]]
-[[Annette Humpe]]
-[[C. Zippel]]
+[[producers/A. Tawil]]
+[[producers/F. Fischer]]
+[[producers/Annette Humpe]]
+[[producers/C. Zippel]]
 [[Ich + Ich]]

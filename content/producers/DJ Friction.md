@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/6RUAjjT2CHYKW2zuZtC6PI
 [[Freundeskreis]]
 [[Max Herre]]
 [[Afrob]]
-[[Philippe Kayser]]
+[[producers/Philippe Kayser]]

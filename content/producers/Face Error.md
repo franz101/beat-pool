@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1GUMOOoTtSWJMuTuWDV1h1
 
 **Related artists:**
 
-[[Melbeatz]]
-[[Nina Caren]]
+[[producers/Melbeatz]]
+[[producers/Nina Caren]]
 [[Kool Savas]]
-[[Ronald Mack Donald]]
+[[producers/Ronald Mack Donald]]

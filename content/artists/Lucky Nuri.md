@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0bRh8G4iDdYYb9K6BLE8Ek
 
 **Related artists:**
 
-[[C55]]
+[[producers/C55]]
 [[Smoky]]
 [[Rako]]
 [[Blokkmonsta]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

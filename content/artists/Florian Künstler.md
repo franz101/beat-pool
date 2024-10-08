@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/50ZzowkYhUZZ2uGZSXqJbE
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf788546cf4c29eda58fa911d)
 **Related artists:**
 
-[[Jens Schneider]]
+[[producers/Jens Schneider]]
 [[Madeline Juno]]
-[[Jules Kalmbacher]]
-[[Stephan Piez]]
-[[Christian Neander]]
+[[producers/Jules Kalmbacher]]
+[[producers/Stephan Piez]]
+[[producers/Christian Neander]]

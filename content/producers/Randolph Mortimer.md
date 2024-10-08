@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5hzzEU2hFK19XioWKfaKKI
 
 **Related artists:**
 
-[[ORACLE PROTOCOL]]
+[[producers/ORACLE PROTOCOL]]
 [[Ali As]]
 [[Sun Diego]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/051OfLRSX6Yh6SnnuYocVh
 **Related artists:**
 
 [[Billy Davis]]
-[[Tricky Cris]]
+[[producers/Tricky Cris]]

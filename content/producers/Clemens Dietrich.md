@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/3eVJiZ7P3gSMDQrMiiezbx
 **Related artists:**
 
 [[Okfella]]
-[[Basobeats]]
-[[Naeem Triplin]]
-[[Jack Gibson]]
+[[producers/Basobeats]]
+[[producers/Naeem Triplin]]
+[[producers/Jack Gibson]]
 [[Jonta]]
 [[diemo]]

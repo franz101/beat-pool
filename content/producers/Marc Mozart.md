@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0i4jY52GH5ivIrptvV78n5
 
 **Related artists:**
 
-[[Peter Ries]]
-[[John Eaton]]
-[[Nik Hafemann]]
+[[producers/Peter Ries]]
+[[producers/John Eaton]]
+[[producers/Nik Hafemann]]
 [[Bro'Sis]]

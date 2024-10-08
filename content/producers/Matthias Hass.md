@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0OtqSEmyncHEDPzLES9Rj4
 
 **Related artists:**
 
-[[Frank Ramond]]
+[[producers/Frank Ramond]]
 [[Barbara Schöneberger]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/1YFzdBdyzlziQ47mJDQcmM
 
 **Related artists:**
 
-[[Dennis Bohn]]
-[[Matthias Menck]]
-[[Andy Richter]]
+[[producers/Dennis Bohn]]
+[[producers/Matthias Menck]]
+[[producers/Andy Richter]]
 [[Brooklyn Bounce]]
 [[Thorsten Dücker]]
 [[DJ Digress]]
-[[Andy Judge]]
+[[producers/Andy Judge]]
 [[Renè Küpper]]
 [[Pulsedriver]]
 [[Special D.]]

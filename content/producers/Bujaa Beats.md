@@ -11,11 +11,11 @@ url: https://open.spotify.com/artist/1KdahFkP4lEkn0ZkOBFBrM
 
 **Related artists:**
 
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Frio]]
-[[Beatzarre]]
+[[producers/Frio]]
+[[producers/Beatzarre]]
 [[Loredana]]
 [[Deno419]]
 [[Samra]]
-[[Kyree]]
+[[producers/Kyree]]

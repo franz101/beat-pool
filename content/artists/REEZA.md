@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e
 **Related artists:**
 
 [[Tiavo]]
-[[Matteo Schwanengel]]
+[[producers/Matteo Schwanengel]]
 [[John Known]]
 [[Edo Saiya]]
 [[midnide]]
-[[David Turco]]
-[[Tim Schoon]]
+[[producers/David Turco]]
+[[producers/Tim Schoon]]
 [[loufre]]

@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT
 ![Artist](https://i.scdn.co/image/2e6d5966dafa119f4a75e7df62ffa163e0d861cd)
 **Related artists:**
 
-[[Colin Thurston]]
+[[producers/Colin Thurston]]

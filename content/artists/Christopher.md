@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC
 
 [[Topic]]
 [[Vigiland]]
-[[Tobias Topic]]
-[[Alexander Tidebrink]]
+[[producers/Tobias Topic]]
+[[producers/Alexander Tidebrink]]

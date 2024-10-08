@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2gHfCidYEoWMZuKUL0NmbU
 **Related artists:**
 
 [[Tua]]
-[[Cop Dickie]]
+[[producers/Cop Dickie]]

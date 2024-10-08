@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij
 **Related artists:**
 
 [[Gentleman]]
-[[Ben Bazzazian]]
+[[producers/Ben Bazzazian]]

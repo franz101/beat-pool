@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/3XqRFHIf67GbZzD8r9dBdy
 [[Peter Maffay]]
 [[Tim Bendzko]]
 [[Culcha Candela]]
-[[Leo Schmidthals]]
+[[producers/Leo Schmidthals]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0VhmTiFei5idyT1dkHs8cq
 
 **Related artists:**
 
-[[Klaus Peter Albrecht]]
+[[producers/Klaus Peter Albrecht]]
 [[Silly]]
-[[Gareth Jones]]
-[[Helmar Federowski]]
+[[producers/Gareth Jones]]
+[[producers/Helmar Federowski]]
 [[Ideal]]

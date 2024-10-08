@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/6ml3uTf7wasWCmSFK12zlr
 [[Azad]]
 [[Francisco]]
 [[Kool Savas]]
-[[Gee Futuristic]]
+[[producers/Gee Futuristic]]

@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/6rnzNqA4KadBzzklZdmlpO
 
 **Related artists:**
 
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]

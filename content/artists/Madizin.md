@@ -18,10 +18,10 @@ url: https://open.spotify.com/artist/3KCO1VWpmHG0T2zYJjXVgj
 
 [[Beatgees]]
 [[Kerstin Ott]]
-[[MADIZIN MUSIC LAB]]
+[[producers/MADIZIN MUSIC LAB]]
 [[Lena]]
 [[Glasperlenspiel]]
 [[Sunrise Avenue]]
 [[Ali As]]
-[[Richard "Biff" Stannard]]
-[[Ash Howes]]
+[[producers/Richard "Biff" Stannard]]
+[[producers/Ash Howes]]

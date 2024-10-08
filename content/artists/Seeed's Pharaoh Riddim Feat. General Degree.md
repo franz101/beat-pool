@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/64YIPToOenG5fZhCSqOeGf
 
 **Related artists:**
 
-[[P. Baigorry]]
+[[producers/P. Baigorry]]

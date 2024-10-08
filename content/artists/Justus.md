@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2cqMIH3YST51BiDQAWHiJo
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0380dbfb2927662db044b7f5)
 **Related artists:**
 
-[[Kingsly Defounga]]
+[[producers/Kingsly Defounga]]
 [[Jack Orsen]]
 [[Taktloss]]

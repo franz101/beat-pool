@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5DxDgsLQpZIGdG7EMOxu7N
 **Related artists:**
 
 [[Bosca]]
-[[David Alexi]]
+[[producers/David Alexi]]

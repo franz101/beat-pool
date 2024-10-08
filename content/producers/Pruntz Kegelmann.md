@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7q9EjdB1Tvo5jnpIE4bklJ
 **Related artists:**
 
 [[Wolfgang Petry]]
-[[Guildo Horn]]
+[[producers/Guildo Horn]]
 [[Guildo Horn & Die Orthopädischen Strümpfe]]

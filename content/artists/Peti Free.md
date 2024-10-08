@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2lcvDAI72Ipe6HAYrYdDmM
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Mortel]]
 [[T-Ser]]
 [[Eunique]]

@@ -17,9 +17,9 @@ url: https://open.spotify.com/artist/49ij3GMkHfHLC8LxswOq5s
 **Related artists:**
 
 [[SOTT]]
-[[Mydas Morris]]
-[[Sali]]
+[[producers/Mydas Morris]]
+[[producers/Sali]]
 [[Qzeng]]
 [[OE63]]
-[[Dennzell]]
+[[producers/Dennzell]]
 [[Tommy]]

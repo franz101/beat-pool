@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4mxVZyXkZhVwTZdD1Be9Zd
 **Related artists:**
 
 [[DidekBeats]]
-[[Sadikbeatz]]
+[[producers/Sadikbeatz]]
 [[BeatBrothers]]
 [[Vendetta Beats]]

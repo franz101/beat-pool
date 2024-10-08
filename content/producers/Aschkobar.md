@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/6kqhDlXra0oUUdfTEgbuEE
 **Related artists:**
 
 [[Asche]]
-[[Johnny Illstrument]]
+[[producers/Johnny Illstrument]]
 [[Kollegah]]
-[[Gorex]]
-[[Joznez]]
-[[Alex Dehn]]
+[[producers/Gorex]]
+[[producers/Joznez]]
+[[producers/Alex Dehn]]

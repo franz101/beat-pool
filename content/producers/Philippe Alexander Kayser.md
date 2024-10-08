@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/2hm9P99UBuMcVYShqIHYjw
 
 **Related artists:**
 
-[[Philippe Kayser]]
+[[producers/Philippe Kayser]]
 [[Freundeskreis]]
 [[Gentleman]]
 [[Horst Königstein]]
 [[Max Herre]]
-[[Maximilian Herre]]
+[[producers/Maximilian Herre]]
 [[Udo Lindenberg]]

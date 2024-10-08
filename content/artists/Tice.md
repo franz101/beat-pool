@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7KXX4guSJJmbnGNrWmyyhZ
 
 **Related artists:**
 
-[[Reiner Zufall]]
+[[producers/Reiner Zufall]]
 [[Moses Pelham]]
 [[Credibil]]
 [[Illmatic]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5pD4kMl9x4Y41asaYW85FT
 
 **Related artists:**
 
-[[Mike Pecher]]
-[[Christopher Ast]]
+[[producers/Mike Pecher]]
+[[producers/Christopher Ast]]
 [[DJ Neo]]

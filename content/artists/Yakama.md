@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1gdxV99iASH4UB9SNwbOgS
 **Related artists:**
 
 [[Tiavo]]
-[[YUNG RVIDER]]
+[[producers/YUNG RVIDER]]

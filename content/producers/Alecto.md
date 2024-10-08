@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1R9pKfR5Zj0HZj2kBcp5zh
 
 **Related artists:**
 
-[[Dalton]]
-[[MaximLouis]]
+[[producers/Dalton]]
+[[producers/MaximLouis]]
 [[Franci$]]
 [[Yin Kalle]]

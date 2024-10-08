@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4OfbqhB2C2md4ZsA8R4GwF
 
 **Related artists:**
 
-[[Andreas Huber]]
-[[Frans Zimmer]]
-[[Richard Franke]]
+[[producers/Andreas Huber]]
+[[producers/Frans Zimmer]]
+[[producers/Richard Franke]]
 [[Sway Clarke]]
 [[Alle Farben]]
 [[Lydmor]]

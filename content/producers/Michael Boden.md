@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4yHOHKHR8l8gXmFZdbNIvM
 
 **Related artists:**
 
-[[Ingo Hampf]]
-[[Simon Michael Schmitt]]
+[[producers/Ingo Hampf]]
+[[producers/Simon Michael Schmitt]]
 [[Subway To Sally]]

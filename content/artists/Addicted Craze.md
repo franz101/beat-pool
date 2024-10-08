@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3BdorYQ1JCn3tt1b1cqJ3D
 
 **Related artists:**
 
-[[Sascha Knodel]]
+[[producers/Sascha Knodel]]
 [[Pulsedriver]]
 [[Toni Fox]]
 [[Stereo Faces]]

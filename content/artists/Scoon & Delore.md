@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/58NXezuuWDPqmpuTsFajaZ
 
 **Related artists:**
 
-[[Dual Playaz]]
+[[producers/Dual Playaz]]
 [[Basslovers United]]

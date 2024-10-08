@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/65BdolzrtDeNvc4xluM4D0
 
 **Related artists:**
 
-[[Paul Bao]]
+[[producers/Paul Bao]]
 [[Gianni Suave]]
-[[Toby John]]
+[[producers/Toby John]]

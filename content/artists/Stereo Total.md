@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/662bj9rCw8Twt6JDAMmMDb
 **Related artists:**
 
 [[Laila France]]
-[[Cactus-von Finsterwalde]]
+[[producers/Cactus-von Finsterwalde]]
 [[Mad Professor]]
-[[Cem Oral]]
+[[producers/Cem Oral]]
 [[Jacno]]
 [[DJ Rabauke]]
-[[F. Cactus, V. Finsterwalde]]
+[[producers/F. Cactus, V. Finsterwalde]]
 [[Aavikko]]
 [[Brezel Göring]]
 [[Brezel Goering]]

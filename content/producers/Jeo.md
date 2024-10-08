@@ -11,17 +11,17 @@ url: https://open.spotify.com/artist/1Bl06ggm4m5zFNFsRKW0Ji
 
 **Related artists:**
 
-[[Dieter Bohlen]]
-[[Christoph Leis-Bendorff]]
+[[producers/Dieter Bohlen]]
+[[producers/Christoph Leis-Bendorff]]
 [[Vanessa Mai]]
-[[Die Doofen]]
+[[producers/Die Doofen]]
 [[Yvonne Catterfeld]]
 [[Frank Bartels]]
 [[Luca Hänni]]
-[[George Glueck]]
+[[producers/George Glueck]]
 [[Falco]]
 [[Die Prinzen]]
 [[Pietro Lombardi]]
 [[Sarah Engels]]
-[[Lalo Titenkov]]
+[[producers/Lalo Titenkov]]
 [[Ramon Roselly]]

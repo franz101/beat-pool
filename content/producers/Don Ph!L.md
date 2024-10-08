@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2IMa5N5IaJ9HtmsmuYoHfR
 
 **Related artists:**
 
-[[Don Flow]]
+[[producers/Don Flow]]
 [[Nino de Angelo]]

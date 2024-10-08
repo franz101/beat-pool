@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1LBsq6h4Mscxu9B64BBCKa
 
 **Related artists:**
 
-[[Marcus Wuest]]
+[[producers/Marcus Wuest]]
 [[Mine]]

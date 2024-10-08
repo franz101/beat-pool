@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0AFrgxsoTny5Y381EFsgyn
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Hardy Krech]]
-[[Hannes Braun]]
-[[Christian Gundlach]]
-[[Dirk Schlag]]
+[[producers/Mark Nissen]]
+[[producers/Hardy Krech]]
+[[producers/Hannes Braun]]
+[[producers/Christian Gundlach]]
+[[producers/Dirk Schlag]]

@@ -15,4 +15,4 @@ url: https://open.spotify.com/artist/7fnsRCdKCQ9YS1c4aYPIz0
 [[Sonus030]]
 [[Goldfinger]]
 [[AK AUSSERKONTROLLE]]
-[[Hndrc]]
+[[producers/Hndrc]]

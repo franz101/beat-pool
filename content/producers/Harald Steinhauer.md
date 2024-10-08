@@ -13,10 +13,10 @@ url: https://open.spotify.com/artist/2Zga1L3YPGsMAZQxLqvqD2
 
 [[Juliane Werding]]
 [[Matthias Reim]]
-[[Armand Volker]]
+[[producers/Armand Volker]]
 [[Harald Lepschies]]
 [[Wolfgang Ambros]]
 [[Spider Murphy Gang]]
 [[Nino de Angelo]]
-[[Peter Kent]]
+[[producers/Peter Kent]]
 [[Claudia Jung]]

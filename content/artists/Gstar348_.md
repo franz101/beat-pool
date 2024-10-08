@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/34ZVBYQ2IruQ0yQecNDNRZ
 ![Artist](https://i.scdn.co/image/ab67616d0000b273af9a1570a546a92c0f5d0c00)
 **Related artists:**
 
-[[C55]]
+[[producers/C55]]
 [[BETO]]
 [[Karaz]]
 [[KAY AY]]
 [[King Khalil]]
 [[AP]]
-[[Isy Beatz]]
+[[producers/Isy Beatz]]

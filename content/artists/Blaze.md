@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/50u7ovKJs6HUUqjn7pGHdY
 **Related artists:**
 
 [[Jonesmann]]
-[[Keen]]
+[[producers/Keen]]
 [[Matthias Müller]]
 [[Twin]]

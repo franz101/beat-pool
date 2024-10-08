@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6oFzr5gfRcH27AgVJOg9qJ
 
 **Related artists:**
 
-[[Season]]
+[[producers/Season]]
 [[Hanybal]]
-[[Bilo K]]
-[[Julez Jadon]]
+[[producers/Bilo K]]
+[[producers/Julez Jadon]]

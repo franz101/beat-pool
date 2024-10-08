@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/5qVSZxcQ11X0NpGNOtOJtF
 **Related artists:**
 
 [[Steve Sidwell]]
-[[Andreas Herbig]]
+[[producers/Andreas Herbig]]
 [[Udo Lindenberg]]
-[[Henrik Menzel]]
-[[Peter "Jem" Seifert]]
+[[producers/Henrik Menzel]]
+[[producers/Peter "Jem" Seifert]]

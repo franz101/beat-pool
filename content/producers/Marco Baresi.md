@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7ALNyEsEJbnqra1BykQUNP
 **Related artists:**
 
 [[Gentleman]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Culcha Candela]]

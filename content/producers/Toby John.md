@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/7tCKChf1861pKfdQ4GmnCd
 
 **Related artists:**
 
-[[Rio]]
-[[Zeductive]]
-[[Funkvater Frank]]
-[[Paul Bao]]
+[[producers/Rio]]
+[[producers/Zeductive]]
+[[producers/Funkvater Frank]]
+[[producers/Paul Bao]]
 [[Gianni Suave]]
 [[OG Keemo]]

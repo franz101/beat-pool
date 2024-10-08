@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5kcG0AjYYmm4gOm8HmWvQW
 
 **Related artists:**
 
-[[Kraans de Lutin]]
-[[Ivo Moring]]
+[[producers/Kraans de Lutin]]
+[[producers/Ivo Moring]]
 [[Matthias Reim]]

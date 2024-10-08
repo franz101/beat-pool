@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/14Oz8FdDXMirWulgEYaLaG
 ![Artist](https://i.scdn.co/image/843eb881864077f2992803723c9ef4c92751c887)
 **Related artists:**
 
-[[Micki Meuser]]
-[[Gareth Jones]]
-[[Klaus D.Mueller]]
-[[Micky Meuser]]
-[[Hans Behrendt]]
-[[Conny Plank]]
+[[producers/Micki Meuser]]
+[[producers/Gareth Jones]]
+[[producers/Klaus D.Mueller]]
+[[producers/Micky Meuser]]
+[[producers/Hans Behrendt]]
+[[producers/Conny Plank]]

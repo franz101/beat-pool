@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/31TxYvJpFcBeDc5W1waImw
 
 **Related artists:**
 
-[[Frans Zimmer]]
-[[Jintae Ko]]
+[[producers/Frans Zimmer]]
+[[producers/Jintae Ko]]
 [[Rea Garvey]]
 [[Justin Jesso]]
 [[Alle Farben]]
 [[RHODES]]
 [[Jordan Powers]]
-[[Deepend]]
-[[Quarterhead]]
-[[Alexander Tidebrink]]
+[[producers/Deepend]]
+[[producers/Quarterhead]]
+[[producers/Alexander Tidebrink]]

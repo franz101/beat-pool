@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4FZOk4aICGwsoIgEq2Owpt
 
 **Related artists:**
 
-[[Peter Ries]]
-[[John Eaton]]
+[[producers/Peter Ries]]
+[[producers/John Eaton]]
 [[Bro'Sis]]
-[[Marc Mozart]]
+[[producers/Marc Mozart]]

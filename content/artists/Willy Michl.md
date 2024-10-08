@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/08fWOPzzFPojBKOlUpo7Yh
 **Related artists:**
 
 [[Spider Murphy Gang]]
-[[Barny Murphy]]
+[[producers/Barny Murphy]]

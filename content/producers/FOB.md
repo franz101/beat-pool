@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/4B0nCIhC0RKTgfZBllPtkg
 **Related artists:**
 
 [[Ali471]]
-[[Frio]]
+[[producers/Frio]]
 [[Laruzo]]
 [[Young Mesh]]
-[[Tengobeatz]]
-[[Kyree]]
+[[producers/Tengobeatz]]
+[[producers/Kyree]]
 [[KC Rebell]]
 [[Echointense]]
 [[Summer Cem]]

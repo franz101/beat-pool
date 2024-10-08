@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5dIIIG6QIEW3smWLocbpjX
 
 **Related artists:**
 
-[[Christophe Schaendel]]
+[[producers/Christophe Schaendel]]
 [[DJ Zornes]]

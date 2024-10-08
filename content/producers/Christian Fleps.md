@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1YqtcMYAFaxk92NFxBpFYd
 
 **Related artists:**
 
-[[Pat Benzner]]
-[[Dave Roth]]
+[[producers/Pat Benzner]]
+[[producers/Dave Roth]]
 [[Madeline Juno]]

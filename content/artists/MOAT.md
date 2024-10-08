@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/5TpOHlMJq0MeICLiePUXHz
 **Related artists:**
 
 [[Lai Raw]]
-[[Phil Koch]]
+[[producers/Phil Koch]]
 [[Tightill]]
-[[Friedhelm Mund]]
-[[Torn Palk]]
-[[Fynn]]
-[[Kabuki]]
+[[producers/Friedhelm Mund]]
+[[producers/Torn Palk]]
+[[producers/Fynn]]
+[[producers/Kabuki]]
 [[DISSY]]

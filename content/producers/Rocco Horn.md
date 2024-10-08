@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5CGEEaxCMNeoJPQNyDWsi6
 
 **Related artists:**
 
-[[Tim Morten Uhlenbrock]]
-[[Johannes Saal]]
+[[producers/Tim Morten Uhlenbrock]]
+[[producers/Johannes Saal]]
 [[Berge]]
-[[Tobias Siebert]]
+[[producers/Tobias Siebert]]

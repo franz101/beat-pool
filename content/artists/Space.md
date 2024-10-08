@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/7lIkLMeyDPgjAR7RdtaOzq
 ![Artist](https://i.scdn.co/image/ab67616d0000b27305da02ed1ae75e33757d4123)
 **Related artists:**
 
-[[Z-Maka]]
+[[producers/Z-Maka]]
 [[O.G. Pezo]]

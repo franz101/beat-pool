@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/5Jmh8rxXnRXNIhE4M1vQGT
 [[RainDropz!]]
 [[Slin Project]]
 [[Dan Winter]]
-[[Sascha Linde]]
+[[producers/Sascha Linde]]
 [[Mike Candys]]
 [[Calerone Inc.]]
 [[René Scholl]]

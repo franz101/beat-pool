@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/65WZBXQeY9dLbXiD88RavF
 **Related artists:**
 
 [[Konstantin Wecker]]
-[[Musikon Team John Fischer Produktion]]
+[[producers/Musikon Team John Fischer Produktion]]

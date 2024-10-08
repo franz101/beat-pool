@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3LiWw6Se53pP4xMBupeTNr
 
 **Related artists:**
 
-[[Joznez]]
-[[Johnny Illstrument]]
+[[producers/Joznez]]
+[[producers/Johnny Illstrument]]
 [[JURI]]

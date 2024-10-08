@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4UgVoJvQuJWy34Jl7s9z2L
 
 **Related artists:**
 
-[[Marcus Brosch]]
+[[producers/Marcus Brosch]]
 [[Annett Louisan]]
 [[Martin Gallop]]

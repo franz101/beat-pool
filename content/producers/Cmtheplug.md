@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4ayJXTOL7vpQZAmjl32Fy7
 
 **Related artists:**
 
-[[Fly Melodies]]
+[[producers/Fly Melodies]]
 [[Skeeniboi]]
 [[Sevi Rin]]

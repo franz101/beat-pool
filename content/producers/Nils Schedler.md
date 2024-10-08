@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1SFnXUbagzWjv1PUWkunES
 
 **Related artists:**
 
-[[Kevin Kridlo]]
+[[producers/Kevin Kridlo]]
 [[THOVI]]
 [[Niklas Brüsewitz]]
 [[Patrick Pöhl]]

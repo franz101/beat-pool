@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3v6FT0O8ZhAOhRos6B7HYy
 **Related artists:**
 
 [[Gisbert Zu Knyphausen]]
-[[Jens Fricke]]
-[[Gunnar Ennen]]
-[[Sebastian Deufel]]
+[[producers/Jens Fricke]]
+[[producers/Gunnar Ennen]]
+[[producers/Sebastian Deufel]]

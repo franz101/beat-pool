@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/1Rs864bzaQOqlDJsjk6rzZ
 
 [[2raumwohnung]]
 [[Umami]]
-[[nga Humpe]]
-[[Tommi Eckart]]
+[[producers/nga Humpe]]
+[[producers/Tommi Eckart]]
 [[Inga Humpe]]
-[[Sam Lidmann]]
-[[Robert Helms]]
+[[producers/Sam Lidmann]]
+[[producers/Robert Helms]]

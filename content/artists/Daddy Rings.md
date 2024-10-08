@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/77j6T69gmO4MZJSHfZMLr5
 
 **Related artists:**
 
-[[Homefront Productions]]
-[[Jr. Blender]]
+[[producers/Homefront Productions]]
+[[producers/Jr. Blender]]
 [[Matthias The Dread]]
 [[Gentleman]]
-[[I. Rheinbay]]
-[[Benjamin Bazzazian]]
+[[producers/I. Rheinbay]]
+[[producers/Benjamin Bazzazian]]
 [[Tamika]]
 [[Mamadee]]
-[[Bobby "Digital" Dixon]]
+[[producers/Bobby "Digital" Dixon]]
 [[Jamali]]
-[[QP Laboratories]]
+[[producers/QP Laboratories]]
 [[Barrington Levy]]

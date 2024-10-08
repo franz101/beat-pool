@@ -17,10 +17,10 @@ url: https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ
 **Related artists:**
 
 [[Almklausi]]
-[[Eric Sylaar]]
-[[Matthias Distel]]
+[[producers/Eric Sylaar]]
+[[producers/Matthias Distel]]
 [[Honk!]]
-[[Stephan Endemann]]
+[[producers/Stephan Endemann]]
 [[Ikke Hüftgold]]
 [[Mallorca Allstars]]
 [[Mike Candys]]

@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/0DxCmpiyZtCnReU9EPHshL
 
 [[Zuna]]
 [[Jumpa]]
-[[Magestick]]
+[[producers/Magestick]]

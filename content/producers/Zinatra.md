@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/5PZbxsormHsyyYmRLZbzBr
 
 **Related artists:**
 
-[[Nofuk]]
+[[producers/Nofuk]]
 [[CAZ]]
 [[Seyed]]
-[[COLLEGE]]
+[[producers/COLLEGE]]
 [[OMAR]]

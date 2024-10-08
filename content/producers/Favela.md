@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/13VQNfvwId6eLurokNp402
 **Related artists:**
 
 [[Faroon]]
-[[YUNG MOJI]]
+[[producers/YUNG MOJI]]

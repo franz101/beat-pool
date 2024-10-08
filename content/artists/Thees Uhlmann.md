@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/4nBVmMKK89dAUaanGPBgpY
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb88d06d1f493afbb99dcdd8be)
 **Related artists:**
 
-[[Steffen Wilmking]]
-[[Tobias Kuhn]]
-[[Simon Frontzek]]
-[[Rudi Maier]]
+[[producers/Steffen Wilmking]]
+[[producers/Tobias Kuhn]]
+[[producers/Simon Frontzek]]
+[[producers/Rudi Maier]]
 [[Casper]]

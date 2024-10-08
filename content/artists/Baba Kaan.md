@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1NVh05zW8rkXXIVug4eaTZ
 **Related artists:**
 
 [[MC Bogy]]
-[[OneMillion Berlin]]
+[[producers/OneMillion Berlin]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/31afRYIn9iqXKgCgHhpf9q
 
 **Related artists:**
 
-[[Misho]]
-[[Snoddy]]
+[[producers/Misho]]
+[[producers/Snoddy]]
 [[CKK]]

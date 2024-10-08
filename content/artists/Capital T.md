@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6YGhVeajpGcixgdaTfakUL
 
 [[2po2]]
 [[Ardian Bujupi]]
-[[Florjan Mumajesi]]
+[[producers/Florjan Mumajesi]]
 [[Elvana Gjata]]
 [[Majk]]
 [[Kidda]]

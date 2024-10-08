@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6JFF8eiQPa55pREIGb6SuH
 **Related artists:**
 
 [[Fettes Brot]]
-[[Maurice Summen]]
-[[Taco Van Hettinga]]
+[[producers/Maurice Summen]]
+[[producers/Taco Van Hettinga]]

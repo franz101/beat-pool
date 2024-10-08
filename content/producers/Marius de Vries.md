@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4MEZhJCV2uLCrhZoCzfjVs
 **Related artists:**
 
 [[Milow]]
-[[Brian Kennedy]]
-[[Gianluca Presti]]
-[[Joe Chiccarelli]]
-[[Jo Francken]]
-[[Michael Geldreich]]
+[[producers/Brian Kennedy]]
+[[producers/Gianluca Presti]]
+[[producers/Joe Chiccarelli]]
+[[producers/Jo Francken]]
+[[producers/Michael Geldreich]]

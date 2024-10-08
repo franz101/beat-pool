@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3qqVqxX2r7jMjMKNIp4XIj
 **Related artists:**
 
 [[Savvy]]
-[[HARDY]]
+[[producers/HARDY]]
 [[SLAV]]
-[[Jiby]]
+[[producers/Jiby]]

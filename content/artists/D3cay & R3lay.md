@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/28kGiJAe36VfPdeV6G24sP
 
 **Related artists:**
 
-[[Hayrettin Acar]]
-[[Christian Bultze]]
+[[producers/Hayrettin Acar]]
+[[producers/Christian Bultze]]

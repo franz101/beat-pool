@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6nqbsvHdj0s0m3JVobStqm
 
 **Related artists:**
 
-[[Sophie Sebald]]
-[[Tillmann Loch]]
+[[producers/Sophie Sebald]]
+[[producers/Tillmann Loch]]
 [[Edin]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/35u3t4wTkXG5omaw1QHgrO
 
 **Related artists:**
 
-[[Viktor Bertermann]]
+[[producers/Viktor Bertermann]]
 [[Prezident]]

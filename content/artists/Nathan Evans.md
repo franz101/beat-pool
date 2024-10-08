@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/1PKErrAhYFdfrDymGHRQRo
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb75b0fd0fcba9a0cf3c40e362)
 **Related artists:**
 
-[[Mark Nissen]]
-[[Marc Schettler]]
-[[Jim Muller]]
-[[Hardy Krech]]
+[[producers/Mark Nissen]]
+[[producers/Marc Schettler]]
+[[producers/Jim Muller]]
+[[producers/Hardy Krech]]
 [[Santiano]]

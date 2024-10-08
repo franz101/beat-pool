@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0QaDAQ0rd0SYlAwusihEfK
 
 **Related artists:**
 
-[[Matthias Oldofredi]]
+[[producers/Matthias Oldofredi]]
 [[Johannes Römer]]
 [[Julian le Play]]

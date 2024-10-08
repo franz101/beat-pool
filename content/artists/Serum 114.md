@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0BHPV8mGG3aOrm2A6aaVfd
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb03c3f66ecab53d2d61bb8fed)
 **Related artists:**
 
-[[Christian Mews]]
-[[Arne Wiegand]]
+[[producers/Christian Mews]]
+[[producers/Arne Wiegand]]

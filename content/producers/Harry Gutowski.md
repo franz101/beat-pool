@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/60MGfAyP5FAibQg2VukAFd
 
 **Related artists:**
 
-[[Claus Zundel]]
-[[Theo Werdin]]
+[[producers/Claus Zundel]]
+[[producers/Theo Werdin]]
 [[Hubert Kah]]

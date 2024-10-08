@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2LpjtFRnT4SAYdDJOZQqgT
 
 **Related artists:**
 
-[[ccola]]
+[[producers/ccola]]
 [[Sierra Kidd]]
-[[Consent2K]]
+[[producers/Consent2K]]

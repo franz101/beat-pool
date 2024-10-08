@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4E6cmRANt8rVKC7z3SyELH
 **Related artists:**
 
 [[Massive Töne]]
-[[W. Ntuanoglu]]
-[[Jean-Christoph Ritter]]
+[[producers/W. Ntuanoglu]]
+[[producers/Jean-Christoph Ritter]]

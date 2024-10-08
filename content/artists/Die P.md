@@ -17,12 +17,12 @@ url: https://open.spotify.com/artist/0MOwIUMFiLwG7ls1MQsmhJ
 **Related artists:**
 
 [[Main Concept]]
-[[Razvan Pop]]
+[[producers/Razvan Pop]]
 [[MC Rene]]
-[[Raz-One]]
+[[producers/Raz-One]]
 [[Tvl]]
 [[AchtVier]]
 [[the intern]]
-[[TVL]]
+[[producers/TVL]]
 [[Terra Pete]]
-[[Jmxj]]
+[[producers/Jmxj]]

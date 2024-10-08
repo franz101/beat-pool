@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6FMOGdP16KnjoA2yDa6N0v
 **Related artists:**
 
 [[Falco]]
-[[R. Ponger]]
+[[producers/R. Ponger]]

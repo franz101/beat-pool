@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/1arKjsqRVhcuwxmLEY36yA
 
 **Related artists:**
 
-[[Dreamy]]
+[[producers/Dreamy]]

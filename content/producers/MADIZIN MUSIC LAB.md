@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3k3UEZ27Xj2qJbT1fHOM77
 
 [[Glasperlenspiel]]
 [[Madizin]]
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[Kerstin Ott]]
-[[Daniel Grunenberg]]
+[[producers/Daniel Grunenberg]]

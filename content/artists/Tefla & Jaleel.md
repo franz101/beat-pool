@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0dHiAqIE1XJuLsHOhSohoi
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6a155893c68f87479dfd45b2)
 **Related artists:**
 
-[[DJ Ron]]
+[[producers/DJ Ron]]
 [[Bass Boy]]
 [[DJ Shusta]]

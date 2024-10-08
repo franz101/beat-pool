@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/71a2owKylf7wSRubuhsXEq
 
 **Related artists:**
 
-[[Steffen Wilmking]]
+[[producers/Steffen Wilmking]]
 [[Matthias Schweighöfer]]
 [[Chakuza]]

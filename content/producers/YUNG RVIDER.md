@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0DbWokNZhtYlVBzXPqiMCw
 [[Yakama]]
 [[Sierra Kidd]]
 [[Edo Saiya]]
-[[Consent2K]]
+[[producers/Consent2K]]

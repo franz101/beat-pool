@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/36qSFTwqnZvCnpmSGY9TKe
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebcdbbc4ef2c972bde5f3334ca)
 **Related artists:**
 
-[[Daniel Tjarks]]
+[[producers/Daniel Tjarks]]
 [[TJ_beastboy]]
 [[TJ_babybrain]]
 [[Young Kira]]
 [[Lando]]
-[[Thani]]
+[[producers/Thani]]
 [[John on a Mission]]

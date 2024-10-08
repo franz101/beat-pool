@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb9a3a73bffa0f14db7cb1f59f)
 **Related artists:**
 
-[[Beatzarre]]
+[[producers/Beatzarre]]
 [[Adel Tawil]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]

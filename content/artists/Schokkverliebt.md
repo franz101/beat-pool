@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/3sG1lflYfsWNonoFBaJwkv
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4734be4c9bacf038ce39337b)
 **Related artists:**
 
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]

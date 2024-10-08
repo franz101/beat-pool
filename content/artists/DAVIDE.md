@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7emuzgqvg1wWbr2hC4V5P4
 
 **Related artists:**
 
-[[Oster]]
+[[producers/Oster]]
 [[Ardian Bujupi]]

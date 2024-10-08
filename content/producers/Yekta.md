@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/38oSgVHNwP7KADuhjkY9c4
 
 **Related artists:**
 
-[[Youssef exclusive]]
+[[producers/Youssef exclusive]]
 [[BOUNTY & COCOA]]
-[[DRAM41]]
+[[producers/DRAM41]]

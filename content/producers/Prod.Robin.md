@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1R65HOEaPA0E1VFA7Iuwvu
 **Related artists:**
 
 [[Al Majeed]]
-[[Zinoondabeat]]
+[[producers/Zinoondabeat]]
 [[Big Toe]]
 [[Klapse Mane]]

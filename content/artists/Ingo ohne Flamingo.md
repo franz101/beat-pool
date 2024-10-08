@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7lXp4ROmwdbOD7Q3P8sHLE
 **Related artists:**
 
 [[Ikke Hüftgold]]
-[[Matthias Distel]]
+[[producers/Matthias Distel]]
 [[Dominik De León]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4LDuFqvmmNIlEkC0I9cHVE
 
 **Related artists:**
 
-[[Sebastian Zang]]
-[[Sebastian Bussenius]]
+[[producers/Sebastian Zang]]
+[[producers/Sebastian Bussenius]]
 [[The Tronix]]

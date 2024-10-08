@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/6eswqLpEm9AhDIguGzRswT
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2d6fe5164eeda927ac9e5f43)
 **Related artists:**
 
-[[Jens Krause]]
-[[Franz Plasa]]
-[[Vincent Sorg]]
+[[producers/Jens Krause]]
+[[producers/Franz Plasa]]
+[[producers/Vincent Sorg]]
 [[Prezident Brown]]
 [[Prez Brown]]
 [[Stefan Töteberg]]
-[[Paul Grau]]
+[[producers/Paul Grau]]

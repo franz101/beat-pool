@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3pVG7ouASKkg8bbsEgBL9J
 **Related artists:**
 
 [[FiNCH]]
-[[Dasmo]]
+[[producers/Dasmo]]

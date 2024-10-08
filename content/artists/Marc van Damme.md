@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/3USHRz9TETwqCatKH0AwMv
 [[Alex M]]
 [[Pulsedriver]]
 [[Axel Jäger]]
-[[Sebastian Wernke-Schmiesing]]
+[[producers/Sebastian Wernke-Schmiesing]]
 [[Alex M.]]
 [[Jens O.]]

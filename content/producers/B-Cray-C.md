@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/4FRUMA42D1KpvDPscNk8Dq
 **Related artists:**
 
 [[Remoe]]
-[[Fabian Grewe]]
+[[producers/Fabian Grewe]]
 [[Kool Savas]]
 [[KC Rebell]]
-[[Smoove]]
+[[producers/Smoove]]

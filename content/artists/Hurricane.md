@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4y4HjUdRtyRvV42gKFIChs
 
 **Related artists:**
 
-[[Larkin]]
+[[producers/Larkin]]
 [[Jigzaw]]

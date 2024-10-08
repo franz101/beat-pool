@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/5Yx8HM9200aVJWKKoztizW
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Tayfun Beytur]]
-[[Jonathan Kiunke]]
+[[producers/Tayfun Beytur]]
+[[producers/Jonathan Kiunke]]
 [[PA Sports]]
 [[Marc Glücks]]
 [[Silla]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6tQZCWPkS1Z8g6Oa4zZKT7
 **Related artists:**
 
 [[Friska Viljor]]
-[[Joakim Sveningsson]]
+[[producers/Joakim Sveningsson]]

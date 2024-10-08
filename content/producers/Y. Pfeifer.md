@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4JWMid51ih1vCDCqlgECSq
 **Related artists:**
 
 [[Tune Up!]]
-[[M.Reuter]]
+[[producers/M.Reuter]]

@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/3RHGR3VpqPcf5A9wlSocXa
 
 [[B & K von das department]]
 [[H-Blockx]]
-[[Steffen Wilmking]]
-[[Andreas Herbig]]
-[[Stephan Hinz]]
-[[Jan Loechel]]
+[[producers/Steffen Wilmking]]
+[[producers/Andreas Herbig]]
+[[producers/Stephan Hinz]]
+[[producers/Jan Loechel]]
 [[Dr. Ring Ding]]

@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/7dPRuQM9VRL8jmz7VCkWVG
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Bymia]]
-[[Andrew Lennix]]
+[[producers/Andrew Lennix]]
 [[LIZOT]]
 [[Bodybangers]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/61QsxlLY442guRtcT3b2jP
 **Related artists:**
 
 [[Celo & Abdi]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Anoush]]

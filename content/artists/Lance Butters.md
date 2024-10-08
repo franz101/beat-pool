@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/5fNCrHCBzuRdM8AbVajVh0
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7d74ce381d9d8244774ab542)
 **Related artists:**
 
-[[kidney paradise]]
+[[producers/kidney paradise]]
 [[Chissmann]]
-[[Bennetton]]
+[[producers/Bennetton]]
 [[Ahzumjot]]
-[[Bennett On]]
+[[producers/Bennett On]]

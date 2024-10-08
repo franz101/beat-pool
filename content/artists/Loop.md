@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3YibsZSewO4pPZ137m1Q9A
 
 **Related artists:**
 
-[[Dollaphil]]
+[[producers/Dollaphil]]
 [[YAEL]]
 [[Peso]]
 [[essow]]
-[[Arpad]]
-[[Chriskey]]
+[[producers/Arpad]]
+[[producers/Chriskey]]
 [[Meydo]]

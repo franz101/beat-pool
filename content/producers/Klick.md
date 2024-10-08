@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/30ShVdACF4DR0pAgNAKUrg
 
 **Related artists:**
 
-[[Hassbecker]]
+[[producers/Hassbecker]]
 [[Bataillon d'Amour]]
-[[Grott]]
-[[Barton]]
+[[producers/Grott]]
+[[producers/Barton]]

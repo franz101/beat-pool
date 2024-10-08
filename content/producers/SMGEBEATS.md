@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2YFyqK67bvX8acWT7GBnmE
 
 [[Skeeniboi]]
 [[beslik meister]]
-[[Encore Beats]]
+[[producers/Encore Beats]]

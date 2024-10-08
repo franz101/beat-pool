@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/6B1MLpzS6iKN8O51CB5rTO
 
 [[Howard Carpendale]]
 [[Aura Deva]]
-[[Dieter Weidenfeld]]
+[[producers/Dieter Weidenfeld]]
 [[Matthias Reim]]

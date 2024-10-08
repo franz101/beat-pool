@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/67VM1TW9hWE9hlVYcmioaH
 
 **Related artists:**
 
-[[Anna Rainer-Josko]]
-[[Sebastian Kaizik]]
+[[producers/Anna Rainer-Josko]]
+[[producers/Sebastian Kaizik]]
 [[Pulsedriver]]

@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3ZwAaaAZIP6JnxfuVQIfCK
 
 **Related artists:**
 
-[[Dennis Bohn]]
-[[Werner "Dr. Roc" Krumme]]
+[[producers/Dennis Bohn]]
+[[producers/Werner "Dr. Roc" Krumme]]
 [[Brooklyn Bounce]]
 [[Jennifer Rostock]]
 [[Das Bo]]
-[[Nenad „King Chronic“ Lautarevic]]
-[[Christian Bader]]
+[[producers/Nenad „King Chronic“ Lautarevic]]
+[[producers/Christian Bader]]

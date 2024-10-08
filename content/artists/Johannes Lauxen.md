@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/4txGJWCbvStT8uyp70A7MD
 [[Rice Master Yen]]
 [[Frauke]]
 [[Jump & Run]]
-[[Bill adlib]]
+[[producers/Bill adlib]]
 [[Anne-Louise Hoffmann]]
 [[Nepumuk]]
 [[Sir Serch]]

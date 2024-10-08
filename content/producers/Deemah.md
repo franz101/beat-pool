@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0ja3mL3iLe5ju9Ms4hQFr7
 **Related artists:**
 
 [[Luciano]]
-[[Phil TheBeat]]
+[[producers/Phil TheBeat]]
 [[Nikky Santoro]]

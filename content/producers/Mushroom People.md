@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/4ziIr4aQsNzHu1uJssQAUJ
 
 **Related artists:**
 
-[[Guido Kramer]]
-[[Frans Zimmer]]
-[[Dennis Bierbrodt]]
+[[producers/Guido Kramer]]
+[[producers/Frans Zimmer]]
+[[producers/Dennis Bierbrodt]]
 [[Alle Farben]]
-[[Pelican]]
-[[Jurgen Dohr]]
+[[producers/Pelican]]
+[[producers/Jurgen Dohr]]
 [[James Blunt]]
-[[Stefan Dabruck]]
-[[Daniel Deimann]]
+[[producers/Stefan Dabruck]]
+[[producers/Daniel Deimann]]
 [[Vega]]

@@ -35,7 +35,7 @@ url: https://open.spotify.com/artist/1RXg57ch6bNK4AmnkmA53Z
 [[Hiob]]
 [[Infinit]]
 [[Infinite aka]]
-[[DJ Eule]]
+[[producers/DJ Eule]]
 [[Morlockk Dilemma]]
 [[Phantomas]]
 [[Ad Astra]]

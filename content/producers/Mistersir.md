@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/4cEgqYfN15uIalxubmQRHy
 
 [[JONNY5]]
 [[Lélé]]
-[[Young Ravn]]
+[[producers/Young Ravn]]
 [[Fergy53]]

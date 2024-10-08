@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6fuXXoiyF1WiVIXKKCAZtt
 **Related artists:**
 
 [[Culcha Candela]]
-[[Krutsch]]
+[[producers/Krutsch]]

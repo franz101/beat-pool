@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1wB4VLtWGvEAbWyyqyXKxl
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Julian Williams]]
 [[Silla]]

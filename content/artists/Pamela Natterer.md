@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/6v2uWUFL3j9FlkFLZ9SsdV
 [[George García]]
 [[Andreas Volz]]
 [[Arne Kopfermann]]
-[[Albert Frey]]
+[[producers/Albert Frey]]
 [[Lena Belgart]]
 [[Margarete Kosse]]
 [[Sarah Kaiser]]

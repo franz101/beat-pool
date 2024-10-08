@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4P7maOAw2u1oUfxYw57LNd
 
 **Related artists:**
 
-[[David Alexi]]
+[[producers/David Alexi]]
 [[Moses Pelham]]
 [[Vega]]

@@ -26,6 +26,6 @@ url: https://open.spotify.com/artist/0oYSw03UzZ4q9hAp0hF3rB
 [[Bada Dinero]]
 [[Gideon Trumpet]]
 [[Comfort Boys]]
-[[Dan.abrige]]
+[[producers/Dan.abrige]]
 [[jaynbeats]]
 [[53anbu]]

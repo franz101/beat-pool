@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/5Bn6VR7JgMCqBxc7d6nuDE
 [[King Orgasmus One]]
 [[Kilomatik]]
 [[Freshmaker]]
-[[SMP Beatz]]
+[[producers/SMP Beatz]]

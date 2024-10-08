@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/37q96RN2ItoxZx5qkMZwo0
 **Related artists:**
 
 [[NUMINOS]]
-[[Klaus Heuser]]
+[[producers/Klaus Heuser]]
 [[Brings]]

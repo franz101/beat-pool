@@ -18,4 +18,4 @@ url: https://open.spotify.com/artist/0RfC9jvntRgsnGzakWVX8k
 
 [[Hezekia]]
 [[ICF Worship]]
-[[Dominik Laim]]
+[[producers/Dominik Laim]]

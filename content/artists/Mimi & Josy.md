@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5541CDtM5WSS0EbLIvsTnR
 
 **Related artists:**
 
-[[Hoss Power]]
-[[Jules Kalmbacher]]
+[[producers/Hoss Power]]
+[[producers/Jules Kalmbacher]]
 [[The BossHoss]]

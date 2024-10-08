@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/24dJ8tciYkeGvNcQP2gYk7
 
 **Related artists:**
 
-[[Sven Greiner]]
-[[Achim Hox]]
+[[producers/Sven Greiner]]
+[[producers/Achim Hox]]
 [[Aboutblank&KLC]]
 [[K La Cuard]]
 [[DJ Shog]]

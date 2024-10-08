@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/1GltDYqF7Pl8qKkIuN85GA
 **Related artists:**
 
 [[Philipp Schwär]]
-[[Philipp Thimm]]
-[[Robert Stephenson]]
+[[producers/Philipp Thimm]]
+[[producers/Robert Stephenson]]

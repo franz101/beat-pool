@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/6RGdMd8BXvNYtoM5MdHzAY
 
 [[Sonus030]]
 [[Fux Ausserkontrolle]]
-[[Sam Salam]]
-[[YUNG MOJI]]
+[[producers/Sam Salam]]
+[[producers/YUNG MOJI]]
 [[Faroon]]
 [[MORR]]
 [[AK AUSSERKONTROLLE]]

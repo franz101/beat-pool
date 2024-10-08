@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5jJiYk5PyGA8bZaJkNIVnn
 **Related artists:**
 
 [[Murcy]]
-[[Xanny Rich]]
+[[producers/Xanny Rich]]
 [[Aidy]]

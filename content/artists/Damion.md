@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7JQLTZ29TIhyXChZvhKmub
 **Related artists:**
 
 [[Die Fantastischen Vier]]
-[[Enik]]
+[[producers/Enik]]

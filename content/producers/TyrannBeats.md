@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/7AAKdOWbQZcPt6KHg1VS4z
 
 [[Jumpa]]
 [[Hanybal]]
-[[Zino]]
-[[Zinobeatz]]
+[[producers/Zino]]
+[[producers/Zinobeatz]]
 [[Noah]]
 [[Azad]]
 [[Krime]]

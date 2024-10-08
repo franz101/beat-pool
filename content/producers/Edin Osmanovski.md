@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0UVnCtA7OTquKDzX0tTbWU
 
 **Related artists:**
 
-[[Thomas Porzig]]
+[[producers/Thomas Porzig]]
 [[Edin]]

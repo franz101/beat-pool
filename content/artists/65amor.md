@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2zflYZgzhZFgOrsEDw8RLJ
 ![Artist](https://i.scdn.co/image/ab67616d0000b273631b309426db2b0008a49354)
 **Related artists:**
 
-[[XarBeats]]
+[[producers/XarBeats]]
 [[Ocboyblau]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1OA0qzWCA4mTpwQRrrPjRw
 **Related artists:**
 
 [[KAAS]]
-[[Christyle]]
+[[producers/Christyle]]

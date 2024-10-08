@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1M2hE4ZfRsb7ntEGr9Q1Uk
 **Related artists:**
 
 [[Dr. Ring Ding]]
-[[Konya Schmechel]]
+[[producers/Konya Schmechel]]

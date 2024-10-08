@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/053lN2qIyDnEBuoDufZIpU
 [[Remoe]]
 [[Kool Savas]]
 [[Karen]]
-[[M.a.s Beatz]]
+[[producers/M.a.s Beatz]]

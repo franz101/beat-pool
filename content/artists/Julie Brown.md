@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/6xsaL4XT1Xn7QScR6LxPiv
 
 **Related artists:**
 
-[[Fabio Antoniali]]
+[[producers/Fabio Antoniali]]
 [[ThatGurlHanna]]
 [[Culcha Candela]]
-[[DJ Antoine]]
-[[H.anna M.ontana]]
+[[producers/DJ Antoine]]
+[[producers/H.anna M.ontana]]

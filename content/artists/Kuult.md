@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/2Td6ES1bTpY7705VTTwzzk
 **Related artists:**
 
 [[Joel Brandenstein]]
-[[Franz Wieland]]
-[[4everstudios]]
-[[Philipp Evers]]
+[[producers/Franz Wieland]]
+[[producers/4everstudios]]
+[[producers/Philipp Evers]]
 [[Mo-Torres]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1DvScJjmYwwYVaDkK3tB9R
 **Related artists:**
 
 [[Jush]]
-[[Gerrit Arnold]]
+[[producers/Gerrit Arnold]]
 [[Jeje Lopes]]
 [[Momo Chahine]]

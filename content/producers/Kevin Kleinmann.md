@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1wf4m0ytV8pPmfPyP0HyEk
 
 **Related artists:**
 
-[[Tobias Topic]]
+[[producers/Tobias Topic]]
 [[KAYEF]]

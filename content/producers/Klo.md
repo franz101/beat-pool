@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2QlABGwVVmqOu8SHMyyZMq
 
 **Related artists:**
 
-[[Hkl Beats]]
+[[producers/Hkl Beats]]
 [[GAMBINO 36]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2Y9L8TaLzdijq4DETXMs3Z
 
 [[Mickie Krause]]
 [[Amaretto]]
-[[Ully Jonas]]
-[[Peter Power]]
+[[producers/Ully Jonas]]
+[[producers/Peter Power]]

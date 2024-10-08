@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebf787368e450e4a9c101a47e7)
 **Related artists:**
 
-[[Simon Klose]]
+[[producers/Simon Klose]]
 [[Edin]]

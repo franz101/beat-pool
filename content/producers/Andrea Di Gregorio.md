@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/01wLQ9vZkkVRdqjN66Q6zD
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
-[[Gabry Ponte]]
-[[Andrea Muscia]]
+[[producers/Max Kleinschmidt]]
+[[producers/Gabry Ponte]]
+[[producers/Andrea Muscia]]
 [[LIZOT]]
-[[Galwaro]]
+[[producers/Galwaro]]
 [[Charla K]]

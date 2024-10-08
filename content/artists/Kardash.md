@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/5cXuILjN1HMiKBLQ3sVQBv
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb59d1791a0af707c440e84686)
 **Related artists:**
 
-[[BM]]
+[[producers/BM]]
 [[Mufasa069]]
 [[DOSH]]

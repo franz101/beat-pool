@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/4J0rxYDON5UzQSrZpS5adI
 [[Negativ]]
 [[Acaz]]
 [[Sus90]]
-[[Raz-One]]
+[[producers/Raz-One]]
 [[Lew]]
 [[Cone Gorilla]]

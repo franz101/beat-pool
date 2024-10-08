@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6vG3GahvHJOPUqyFQxLTE3
 
 **Related artists:**
 
-[[Robert Koch]]
-[[Ben Burgwinkel]]
+[[producers/Robert Koch]]
+[[producers/Ben Burgwinkel]]
 [[Marsimoto]]
-[[Henrik Miko]]
+[[producers/Henrik Miko]]

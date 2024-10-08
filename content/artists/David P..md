@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1HisRBvo1vEih4BtwgUm6t
 
 **Related artists:**
 
-[[Rabauke]]
+[[producers/Rabauke]]
 [[Don Dougie]]
 [[Beginner]]
 [[Dendemann]]
-[[Matthias Arfmann]]
+[[producers/Matthias Arfmann]]

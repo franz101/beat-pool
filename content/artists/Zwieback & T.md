@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6NOPvBjzqyoNQIjqnaRlvu
 
 **Related artists:**
 
-[[Yunus Cimen]]
+[[producers/Yunus Cimen]]
 [[257ers]]

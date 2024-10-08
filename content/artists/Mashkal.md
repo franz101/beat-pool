@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/6mwbPdrZXOd7foDkRT6QGT
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb13503cd344dce1c13bd08043)
 **Related artists:**
 
-[[CK Pro]]
+[[producers/CK Pro]]
 [[juisé]]
-[[Kiid Cody]]
+[[producers/Kiid Cody]]
 [[Brudi030]]
-[[Goldfinger030]]
+[[producers/Goldfinger030]]
 [[YA]]

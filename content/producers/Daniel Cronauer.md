@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/73Ac50DWWthAvM8F1syNWd
 
 **Related artists:**
 
-[[Christoph Cronauer]]
+[[producers/Christoph Cronauer]]
 [[Matthias Zürkler]]
 [[Stereoact]]

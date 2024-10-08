@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/7CrDa4z7UgtWJSGLlzyYV8
 **Related artists:**
 
 [[Klaus Lage & Irene Grandi]]
-[[Martin Engelien]]
+[[producers/Martin Engelien]]
 [[Klaus Lage]]
 [[Klaus Lage & Bo Heart]]

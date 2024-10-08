@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/3nul4CdUXaaA3QSHrduvtu
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb2adbae797192bbb769e6aa60)
 **Related artists:**
 
-[[Lauren Ralph]]
-[[Futtry]]
+[[producers/Lauren Ralph]]
+[[producers/Futtry]]

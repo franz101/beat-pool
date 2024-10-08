@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/5S4T0o85RH3616noqTK6Hb
 **Related artists:**
 
 [[In Extremo]]
-[[Andreas Vater]]
+[[producers/Andreas Vater]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5Dwvrp43gXYmzgd8jIyqdL
 
 **Related artists:**
 
-[[Andre Otterbach]]
+[[producers/Andre Otterbach]]
 [[RainDropz!]]

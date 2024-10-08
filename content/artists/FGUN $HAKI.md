@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/50wzqHjRYfCJ6vvSm0sVlL
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb6daaaece931d4bc308ccedd7)
 **Related artists:**
 
-[[MulaGoHard]]
-[[Rayin]]
-[[Carter TwoFive]]
+[[producers/MulaGoHard]]
+[[producers/Rayin]]
+[[producers/Carter TwoFive]]
 [[SSIO]]
 [[XATAR]]
 [[negatiiv OG]]
-[[Karta]]
+[[producers/Karta]]

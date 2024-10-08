@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/5kWnDAh7OfxseGy2NzruuH
 
 [[Krey]]
 [[AzudemSK]]
-[[Maximilian Woltering]]
+[[producers/Maximilian Woltering]]
 [[WOX]]
 [[Firstar]]

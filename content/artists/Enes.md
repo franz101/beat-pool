@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/34pXZVU4JuirBiPGoxfcCP
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb0197a9c4775670e6240ebccc)
 **Related artists:**
 
-[[The Royals]]
-[[Vein]]
+[[producers/The Royals]]
+[[producers/Vein]]
 [[Mudi]]
-[[Vein Beats]]
+[[producers/Vein Beats]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3oo9e7yXTPIqSesl0KH0Zs
 
 [[King Orgasmus One]]
 [[Niza]]
-[[KD-Beatz]]
+[[producers/KD-Beatz]]
 [[Laruzo]]
 [[Freshmaker]]
 [[Vendetta Beats]]

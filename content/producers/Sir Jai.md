@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0sATNox4XB3sQQeJP7ryRq
 
 **Related artists:**
 
-[[David Hofmann]]
+[[producers/David Hofmann]]
 [[Kool Savas]]
 [[Laas Unltd.]]
 [[Karen]]

@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3RyB281vNbjIHiXJqwDm66
 
 [[D-Flame]]
 [[Boz]]
-[[Devin Beats]]
+[[producers/Devin Beats]]
 [[Jin]]
 [[Stik]]
 [[Reeperbahn Kareem]]

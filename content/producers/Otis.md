@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1pbHr0sN6e6MvAL5GTLTK0
 
 **Related artists:**
 
-[[Brcan]]
+[[producers/Brcan]]
 [[Oli. P]]
-[[Hanisch]]
-[[Laoukili]]
+[[producers/Hanisch]]
+[[producers/Laoukili]]

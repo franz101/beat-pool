@@ -12,11 +12,11 @@ url: https://open.spotify.com/artist/2uGWSZuLS8EQ8cr7hNiQUQ
 **Related artists:**
 
 [[TOMMY & TIBBY]]
-[[Andy Jay Powell]]
-[[E Zabler]]
+[[producers/Andy Jay Powell]]
+[[producers/E Zabler]]
 [[Beatrix Delgado]]
 [[Movetown]]
 [[Klubbingman]]
-[[S.Petrovic jr.]]
-[[T.Weitzel]]
-[[A .Heck]]
+[[producers/S.Petrovic jr.]]
+[[producers/T.Weitzel]]
+[[producers/A .Heck]]

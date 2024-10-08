@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf
 [[Nicco]]
 [[Danstyle]]
 [[Dj Cap]]
-[[Max K.]]
+[[producers/Max K.]]
 [[DJ Gollum]]
 [[L.A.R.5]]

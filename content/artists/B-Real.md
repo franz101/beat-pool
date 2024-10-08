@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2LiWxiQzuD9nmWQ6NCA8Gd
 
 [[Sen Dog]]
 [[Omik K]]
-[[Defekto]]
+[[producers/Defekto]]

@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/2xXDxHT5l7BOfuRYtPFM7n
 
 **Related artists:**
 
-[[Mark Duran]]
-[[Thomas Rabitsch]]
-[[Kurt Keinrath]]
+[[producers/Mark Duran]]
+[[producers/Thomas Rabitsch]]
+[[producers/Kurt Keinrath]]
 [[Hubert von Goisern und die Alpinkatzen]]
-[[Klaus Eberhartinger]]
+[[producers/Klaus Eberhartinger]]
 [[Falco]]
-[[Thomas Spitzer]]
-[[Hubert von Goisern]]
-[[Robert Ponger]]
+[[producers/Thomas Spitzer]]
+[[producers/Hubert von Goisern]]
+[[producers/Robert Ponger]]
 [[EAV (Erste Allgemeine Verunsicherung)]]

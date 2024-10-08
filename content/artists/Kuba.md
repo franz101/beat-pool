@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3RMUVIfL3EyviMrClncdOK
 ![Artist](https://i.scdn.co/image/ab67616d0000b2738254e0970c3ea74a3757fe7a)
 **Related artists:**
 
-[[Grzegorz Olszowka]]
-[[Nico Seyfrid]]
+[[producers/Grzegorz Olszowka]]
+[[producers/Nico Seyfrid]]
 [[Cannibal Rob]]
 [[K.I.Z]]
 [[Architekt]]

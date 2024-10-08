@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3fL8L8zQ6YNpAOECpAchzE
 **Related artists:**
 
 [[Gisbert Zu Knyphausen]]
-[[Frenzy Suhr]]
-[[Jens Fricke]]
-[[Gunnar Ennen]]
+[[producers/Frenzy Suhr]]
+[[producers/Jens Fricke]]
+[[producers/Gunnar Ennen]]

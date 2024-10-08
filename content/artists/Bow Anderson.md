@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb656d2138c500bfc3d4c67c5d)
 **Related artists:**
 
-[[Jamie Scott]]
-[[Jonny Coffer]]
+[[producers/Jamie Scott]]
+[[producers/Jonny Coffer]]

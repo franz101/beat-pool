@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1LYtIJc7ktFUKZdTODpM31
 **Related artists:**
 
 [[Sonia Liebing]]
-[[Hubert Molander]]
+[[producers/Hubert Molander]]
 [[Stefan Pössnicker]]
 [[Felix Gauder]]

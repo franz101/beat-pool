@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/4iillrghrKgbHstGkYFmsB
 [[LGoony]]
 [[Veedel Kaztro]]
 [[Jonasty]]
-[[HARDY]]
+[[producers/HARDY]]
 [[Mo Fiff]]
 [[Kapito]]
 [[SLAV]]

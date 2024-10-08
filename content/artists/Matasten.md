@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6ZOCeOEd0HMzq5jyUxARfS
 **Related artists:**
 
 [[AzudemSK]]
-[[Dubios]]
+[[producers/Dubios]]

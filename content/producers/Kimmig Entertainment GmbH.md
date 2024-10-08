@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3lMV2mKovz8KwwBzUNukgC
 
 [[Ben Zucker]]
 [[Helene Fischer]]
-[[SILVERJAM]]
+[[producers/SILVERJAM]]
 [[Silverjam]]
 [[Afrojack]]

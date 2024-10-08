@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4t0aMUreQ8WfvTO9OVMuvo
 
 [[Laskah]]
 [[ERRdeKa]]
-[[Beatells]]
+[[producers/Beatells]]

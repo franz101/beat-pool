@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/0mHSaPPhwmxoCLGC2eZkAB
 
 **Related artists:**
 
-[[Neuton-Musik: Boris Schmidt, Patrick Benzner, Sascha Pierro]]
+[[producers/Neuton-Musik: Boris Schmidt, Patrick Benzner, Sascha Pierro]]
 [[Oli. P]]
-[[Boris Schmidt]]
-[[Patrick Benzner]]
+[[producers/Boris Schmidt]]
+[[producers/Patrick Benzner]]

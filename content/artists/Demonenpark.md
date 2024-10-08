@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/4NNWYvKaHj7RDLjVl8Mw59
 [[Hassmonstas]]
 [[Breity]]
 [[Kaisa]]
-[[Ghost]]
+[[producers/Ghost]]
 [[Kaisaschnitt]]
 [[GPC]]
 [[X-trem]]

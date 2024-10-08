@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4Q6J9Plvf7YfQVI4bwllO0
 
 **Related artists:**
 
-[[Relik]]
+[[producers/Relik]]
 [[midnide]]

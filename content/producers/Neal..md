@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/3IjoJQBjQcGbOhmfswWpXZ
 **Related artists:**
 
 [[LX]]
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Ardian Bujupi]]
-[[Maxe]]
+[[producers/Maxe]]
 [[Jalil]]
 [[NGEE]]
-[[ALEX]]
+[[producers/ALEX]]

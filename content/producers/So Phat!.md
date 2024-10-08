@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/0w2IvGLbJ2HtRYYhkUMPDx
 [[Ulf Leo Sommer]]
 [[Rosenstolz]]
 [[Peter Plate]]
-[[Daniel Faust]]
+[[producers/Daniel Faust]]

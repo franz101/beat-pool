@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0Qeg2Ytz5AcfvkIO3RYV3z
 **Related artists:**
 
 [[BerlinskiBeat]]
-[[Norbert Drescher]]
-[[Karsten Liehm]]
+[[producers/Norbert Drescher]]
+[[producers/Karsten Liehm]]

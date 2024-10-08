@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0Cba8Tx0dlqkcNkLLAjGJj
 **Related artists:**
 
 [[Pulsedriver]]
-[[DJ Fait]]
+[[producers/DJ Fait]]

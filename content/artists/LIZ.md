@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/793QToVJnVh8Op8YSqJsSm
 **Related artists:**
 
 [[Ramo]]
-[[FNSHRS]]
+[[producers/FNSHRS]]

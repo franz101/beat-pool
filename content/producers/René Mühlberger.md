@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6rZEfOPK2Dh83PTMWOWOFD
 
 **Related artists:**
 
-[[Marco Kleebauer]]
+[[producers/Marco Kleebauer]]
 [[Oehl]]

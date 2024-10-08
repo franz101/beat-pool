@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1
 
 **Related artists:**
 
-[[Richard Stephenson]]
+[[producers/Richard Stephenson]]
 [[Gentleman]]

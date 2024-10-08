@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1fDV1g7HGzW1U0TkvJ130p
 
 **Related artists:**
 
-[[Joachim Heider]]
+[[producers/Joachim Heider]]
 [[Udo Jürgens]]

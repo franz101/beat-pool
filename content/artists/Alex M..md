@@ -16,9 +16,9 @@ url: https://open.spotify.com/artist/0LbnJfxWhdi3m5C6BXfhRp
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3137652decdd09ed405a5ec8)
 **Related artists:**
 
-[[Thomas Preuss]]
-[[Andreas Wendorf]]
-[[The Nation]]
+[[producers/Thomas Preuss]]
+[[producers/Andreas Wendorf]]
+[[producers/The Nation]]
 [[Brooklyn Bounce]]
 [[Lars Gollum Böge]]
 [[Akustikrausch]]
@@ -26,8 +26,8 @@ url: https://open.spotify.com/artist/0LbnJfxWhdi3m5C6BXfhRp
 [[Axel Jäger]]
 [[Pulsedriver]]
 [[BlackBonez]]
-[[Sven Blaikz Schwarz]]
-[[Sebastian Wernke-Schmiesing]]
+[[producers/Sven Blaikz Schwarz]]
+[[producers/Sebastian Wernke-Schmiesing]]
 [[Mar van Damme]]
 [[ZIGGY X]]
 [[DJ Gollum]]

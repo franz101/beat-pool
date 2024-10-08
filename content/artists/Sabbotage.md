@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/0wthMVPZokXfreetdLFWaw
 **Related artists:**
 
 [[Specktakel]]
-[[Daniel Barbosa]]
+[[producers/Daniel Barbosa]]
 [[Frenzy]]
 [[Mia Julia]]
 [[Jay Ventura]]

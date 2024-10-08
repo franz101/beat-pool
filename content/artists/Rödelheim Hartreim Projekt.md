@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/40VZtOKdJ2J5KzjCBUhQpJ
 
 **Related artists:**
 
-[[Reiner Zufall]]
+[[producers/Reiner Zufall]]
 [[Moses Pelham]]
-[[Martin Haas]]
-[[Robert Sattler]]
+[[producers/Martin Haas]]
+[[producers/Robert Sattler]]

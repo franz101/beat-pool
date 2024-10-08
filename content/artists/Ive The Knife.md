@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4ASCJyVaEqhpKHWdwv8Kbg
 **Related artists:**
 
 [[Knowsum]]
-[[HTN]]
+[[producers/HTN]]
 [[Eloquent]]

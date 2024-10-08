@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/4SldfIKT2WoB9vEm3OLU7U
 **Related artists:**
 
 [[Mickie Krause]]
-[[Michael Voss]]
+[[producers/Michael Voss]]
 [[Crazy Duke]]
-[[CHRIS SMART]]
-[[Claudio Di Carlo]]
+[[producers/CHRIS SMART]]
+[[producers/Claudio Di Carlo]]
 [[Mallorca Allstars]]

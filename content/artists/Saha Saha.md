@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/2poolyuzqDGudtadzSJ561
 **Related artists:**
 
 [[ThankYouKid]]
-[[Gautier.Beats]]
+[[producers/Gautier.Beats]]

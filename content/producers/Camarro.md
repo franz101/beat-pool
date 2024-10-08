@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1Q38gLOFWzTlbueK0bmhlZ
 
 **Related artists:**
 
-[[Little Big Horn]]
+[[producers/Little Big Horn]]
 [[Nino de Angelo]]

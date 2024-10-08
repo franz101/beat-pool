@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/46xfxts3CTsxDpOSlE2Xhf
 
 **Related artists:**
 
-[[Spyder Katana]]
+[[producers/Spyder Katana]]
 [[LUVRE47]]

@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb5b8fece194980a46944b7edf)
 **Related artists:**
 
-[[Matt James]]
+[[producers/Matt James]]
 [[Gestört aber GeiL]]
-[[Frank Sanders]]
+[[producers/Frank Sanders]]

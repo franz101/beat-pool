@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5fYbkTuDl2PHHrdbe0Xr1x
 
 **Related artists:**
 
-[[Chryziz]]
-[[Semibeatz]]
+[[producers/Chryziz]]
+[[producers/Semibeatz]]
 [[Hanybal]]

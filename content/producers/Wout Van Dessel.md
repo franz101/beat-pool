@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3dFzgxxZS8G0o35OYZXwpZ
 
 **Related artists:**
 
-[[Regi Penxten]]
+[[producers/Regi Penxten]]
 [[Sylver]]

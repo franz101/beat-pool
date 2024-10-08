@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/0dotf4MCP0FUgIb3lyEAsj
 
 **Related artists:**
 
-[[Phillip Palm]]
+[[producers/Phillip Palm]]
 [[Lukas Hilbert]]
 [[Pur]]
-[[Tony Bruno]]
+[[producers/Tony Bruno]]
 [[Nena]]

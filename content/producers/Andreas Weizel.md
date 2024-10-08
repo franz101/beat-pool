@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/3k2TvKeLOKaieZeHy2H9uv
 
 [[Fame's - Macedonian Symphonic Orchestra]]
 [[Alina Süggeler]]
-[[Robin Grubert]]
+[[producers/Robin Grubert]]
 [[Oleg Kondratenko]]
 [[Frida Gold]]

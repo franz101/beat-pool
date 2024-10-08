@@ -20,6 +20,6 @@ url: https://open.spotify.com/artist/1LJlvGcQjyxU5ZY3Ovhnd2
 [[Kids on Stage]]
 [[Udo Lindenberg]]
 [[Angus & Julia Stone]]
-[[Henrik Menzel]]
+[[producers/Henrik Menzel]]
 [[Jotham Bleiberg]]
-[[Peter "Jem" Seifert]]
+[[producers/Peter "Jem" Seifert]]

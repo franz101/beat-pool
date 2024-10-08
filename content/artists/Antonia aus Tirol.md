@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5La2M9O03U99LHeMxRJcei
 
 **Related artists:**
 
-[[Hermann Niesig]]
+[[producers/Hermann Niesig]]
 [[Mickie Krause]]

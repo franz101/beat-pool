@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/56PjpUiy7e8rQRdlkv4MEB
 **Related artists:**
 
 [[Prism]]
-[[Hayk Productions]]
+[[producers/Hayk Productions]]
 [[NOK1D]]

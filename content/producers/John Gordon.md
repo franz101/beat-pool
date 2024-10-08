@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/6VQgSpILrAJHaIcGeUiJ5Z
 
 **Related artists:**
 
-[[Ingo Politz]]
-[[Brix]]
-[[Sune Haansbæk]]
-[[Bernd Wendlandt]]
+[[producers/Ingo Politz]]
+[[producers/Brix]]
+[[producers/Sune Haansbæk]]
+[[producers/Bernd Wendlandt]]
 [[Lena]]
 [[Stefanie Heinzmann]]

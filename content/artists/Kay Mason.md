@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/09SzVtS4gTonCYAgP6DqdM
 **Related artists:**
 
 [[Mosh36]]
-[[86kiloherz]]
+[[producers/86kiloherz]]

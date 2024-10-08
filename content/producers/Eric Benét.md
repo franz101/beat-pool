@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov
 **Related artists:**
 
 [[Yvonne Catterfeld]]
-[[Walter Afanasieff]]
+[[producers/Walter Afanasieff]]

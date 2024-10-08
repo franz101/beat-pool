@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/0xNpdlACgyPYsqQ6CrIjwh
 [[Peter Freudenthaler]]
 [[Pur]]
 [[Götz von Sydow]]
-[[Hartmut Engler]]
-[[Martin Ansel]]
+[[producers/Hartmut Engler]]
+[[producers/Martin Ansel]]

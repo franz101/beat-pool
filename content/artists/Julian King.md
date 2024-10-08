@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4NGQqHYUfpvssKi7x05JaP
 **Related artists:**
 
 [[Nicone]]
-[[X-Plosive]]
+[[producers/X-Plosive]]
 [[G-Hot]]

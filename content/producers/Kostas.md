@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3BSZF7Gueufafn3FVuil2o
 [[Fard]]
 [[Amir der Sänger]]
 [[Ardian Bujupi]]
-[[Khvnmuzik]]
+[[producers/Khvnmuzik]]
 [[JIGGO]]

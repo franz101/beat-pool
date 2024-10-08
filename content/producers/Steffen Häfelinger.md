@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3ex7O1JLu9t4uN0xurNXQK
 
 **Related artists:**
 
-[[Roland Spremberg]]
+[[producers/Roland Spremberg]]
 [[Mickie Krause]]
 [[Yvonne Catterfeld]]
 [[Bernhard Brink]]

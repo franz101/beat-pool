@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/0kuVpgEYf1dnifF8j2MVh0
 **Related artists:**
 
 [[Udo Lindenberg]]
-[[Frank Beermann]]
+[[producers/Frank Beermann]]

@@ -24,4 +24,4 @@ url: https://open.spotify.com/artist/0RuU6u535mIpEH8K3Go4mQ
 [[Bausa]]
 [[Teutilla]]
 [[Marsimoto]]
-[[The Krauts]]
+[[producers/The Krauts]]

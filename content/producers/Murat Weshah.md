@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3a41q8kV8nEsHz67WJ1o8R
 
 **Related artists:**
 
-[[Artem]]
-[[Lars Wiedemann]]
-[[Iad Aslan]]
+[[producers/Artem]]
+[[producers/Lars Wiedemann]]
+[[producers/Iad Aslan]]
 [[Fero47]]

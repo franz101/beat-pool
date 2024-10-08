@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4EYCM4OHvec6KhECu6tLFE
 **Related artists:**
 
 [[Richter]]
-[[Phily Asap]]
-[[Toxik Tyson]]
+[[producers/Phily Asap]]
+[[producers/Toxik Tyson]]

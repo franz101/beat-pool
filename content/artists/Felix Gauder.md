@@ -16,17 +16,17 @@ url: https://open.spotify.com/artist/5yIkYJv30rqGKaSVbRd556
 ![Artist]()
 **Related artists:**
 
-[[Dieter Bohlen]]
+[[producers/Dieter Bohlen]]
 [[Ella Endlich]]
 [[Michelle]]
-[[Hannes Butzer]]
+[[producers/Hannes Butzer]]
 [[Sonia Liebing]]
 [[Maite Kelly]]
 [[Andrea Berg]]
 [[Olexesh]]
 [[Wolkenfrei]]
-[[Hubert Molander]]
+[[producers/Hubert Molander]]
 [[Nino de Angelo]]
-[[Oli Nova]]
-[[Armin Pertl]]
+[[producers/Oli Nova]]
+[[producers/Armin Pertl]]
 [[Vanessa Mai]]

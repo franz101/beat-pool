@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/1hcq7lKggV89es4N1dxEfp
 [[Fux]]
 [[Sonus030]]
 [[AchtVier]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[Sa4]]
 [[Bonez MC]]
 [[Diloman]]

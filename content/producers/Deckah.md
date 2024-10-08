@@ -20,5 +20,5 @@ url: https://open.spotify.com/artist/1GOQV6uV70rvnoJPeWpveG
 [[Jokaz]]
 [[Abroo]]
 [[JuJu Rogers]]
-[[Flomega]]
+[[producers/Flomega]]
 [[Pimf]]

@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo
 **Related artists:**
 
 [[Jannik Schüttler]]
-[[Johann Seifert]]
+[[producers/Johann Seifert]]

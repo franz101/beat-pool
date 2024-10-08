@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0uNoScPvcAL4krqNZfeJBq
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb17e7c5d9b2235f56b1de919f)
 **Related artists:**
 
-[[Aaron Ahrends]]
-[[Robert Stephenson]]
+[[producers/Aaron Ahrends]]
+[[producers/Robert Stephenson]]

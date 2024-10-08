@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/7M6OC6xy5T144Y9lEhxTBV
 **Related artists:**
 
 [[iAMYELLOW]]
-[[prodbyniro]]
+[[producers/prodbyniro]]

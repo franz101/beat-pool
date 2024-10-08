@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2uboNCJw6mrITQq0bsNc7g
 
 **Related artists:**
 
-[[Shockz]]
+[[producers/Shockz]]

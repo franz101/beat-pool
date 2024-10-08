@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/18flDXDx8GuweDLLdBzICm
 **Related artists:**
 
 [[Azad]]
-[[Gorex]]
+[[producers/Gorex]]
 [[Kool Savas]]

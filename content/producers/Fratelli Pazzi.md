@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0siZ7Bl9fApY4ENAEvpQh7
 
 **Related artists:**
 
-[[Fratelli Corleone]]
+[[producers/Fratelli Corleone]]
 [[Nino de Angelo]]

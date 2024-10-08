@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/325L7kby6bkG5qSXXAFEWM
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebb9a59f4ff63d984b87cec1c1)
 **Related artists:**
 
-[[Bullit]]
+[[producers/Bullit]]
 [[Haftbefehl]]
-[[Tengo]]
-[[Djorkaeff]]
+[[producers/Tengo]]
+[[producers/Djorkaeff]]
 [[Ramo]]
-[[Beatzarre]]
-[[Panorama]]
+[[producers/Beatzarre]]
+[[producers/Panorama]]
 [[Hell Yes]]
 [[Bazzazian]]
 [[Olexesh]]

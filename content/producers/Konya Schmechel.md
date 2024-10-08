@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/16x5uSxuoBm36fLEwCaL2U
 **Related artists:**
 
 [[Sista Gracy]]
-[[R. A. Jung]]
-[[R.A. Jung]]
+[[producers/R. A. Jung]]
+[[producers/R.A. Jung]]
 [[Michael von der Heide]]
 [[Tippa Irie]]
 [[Dr. Ring Ding]]

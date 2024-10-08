@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6Ng4dJl4WPa8kTdPlfhF9Q
 **Related artists:**
 
 [[Dr. Bene]]
-[[Frainstrumentos]]
+[[producers/Frainstrumentos]]
 [[Sello Personal]]

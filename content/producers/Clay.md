@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5UkXqB4nhWdezjkur0kdB0
 
 **Related artists:**
 
-[[Tilmann Otto]]
+[[producers/Tilmann Otto]]
 [[Aloe Blacc]]
 [[Alborosie]]
 [[Gentleman]]

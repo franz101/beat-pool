@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5PXXIpfaC8moVnGm1UImko
 
 **Related artists:**
 
-[[Zinobeatz]]
+[[producers/Zinobeatz]]
 [[Kurdo]]

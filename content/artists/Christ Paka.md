@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/5maeQHtz5QDnmAl3MgJxBL
 
 **Related artists:**
 
-[[Staticbeatz]]
+[[producers/Staticbeatz]]
 [[Emzi]]
 [[Micel O.]]
 [[Eunique]]

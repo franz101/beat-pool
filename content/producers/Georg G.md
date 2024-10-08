@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/00owTpQNC3sc2XPQRYZcjE
 [[Ceso]]
 [[AJÉ]]
 [[Skinny Finsta]]
-[[Byusa Mane]]
+[[producers/Byusa Mane]]

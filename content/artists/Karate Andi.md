@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/52JDGHEmHKktNs1lN7HCl8
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd1e41f1afb73388ca1d323fe)
 **Related artists:**
 
-[[Darko Beats]]
+[[producers/Darko Beats]]
 [[B-Tight]]
 [[doZ9]]
 [[MC Bomber]]
@@ -26,7 +26,7 @@ url: https://open.spotify.com/artist/52JDGHEmHKktNs1lN7HCl8
 [[Hiob]]
 [[Kaisaschnitt]]
 [[Timi Hendrix]]
-[[Mecs Treem]]
+[[producers/Mecs Treem]]
 [[Favorite]]
 [[Olexesh]]
 [[Basti DNP]]
@@ -39,11 +39,11 @@ url: https://open.spotify.com/artist/52JDGHEmHKktNs1lN7HCl8
 [[Gustav]]
 [[Torky Tork]]
 [[Rokko Weissensee]]
-[[Kevin Thomas-Paolucci]]
+[[producers/Kevin Thomas-Paolucci]]
 [[Kontra K]]
 [[DNTSY]]
 [[Morlockk Dilemma]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]
 [[Plusmacher]]
 [[Kollegah]]
 [[Milonair]]

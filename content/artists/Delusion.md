@@ -18,5 +18,5 @@ url: https://open.spotify.com/artist/1AcwytV8oYzhmgXwGD2gaA
 
 [[Valentin Hansen]]
 [[Fynn Kliemann]]
-[[Deluison]]
+[[producers/Deluison]]
 [[Drunken Masters]]

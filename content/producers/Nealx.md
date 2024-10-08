@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/4X8N3Op8OVDn8JVs3uKlKY
 **Related artists:**
 
 [[Maestro]]
-[[Perino]]
+[[producers/Perino]]
 [[Mois]]

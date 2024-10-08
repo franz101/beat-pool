@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/3TIwO626zK0xsBnxhn5foV
 
 **Related artists:**
 
-[[H.P. Baxxter]]
+[[producers/H.P. Baxxter]]
 [[Section 1]]
 [[Brooklyn Bounce]]
 [[Scooter]]
 [[Pulsedriver]]
-[[J. Thele]]
+[[producers/J. Thele]]
 [[Pinball]]
-[[Rick J. Jordan]]
+[[producers/Rick J. Jordan]]
 [[ZIGGY X]]
 [[Axel Coon Remix]]

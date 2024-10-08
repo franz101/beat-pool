@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1vZedGF4gAoSkbr8swMXsb
 
 **Related artists:**
 
-[[Narcotics]]
+[[producers/Narcotics]]
 [[Xidir]]

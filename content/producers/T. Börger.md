@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/54rjPCVY1pQvzlJHHrV61I
 
 **Related artists:**
 
-[[George Glueck]]
+[[producers/George Glueck]]
 [[T MB]]
 [[Falco]]

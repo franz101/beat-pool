@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4eCZ1Oo8BizQ6obAHcUbF3
 
 **Related artists:**
 
-[[Tayfun Beytur]]
-[[Bau]]
+[[producers/Tayfun Beytur]]
+[[producers/Bau]]
 [[Bizzy Montana]]

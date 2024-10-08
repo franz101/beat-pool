@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1zdUczlGNvhKnRTFvg8Mgh
 
 **Related artists:**
 
-[[Theo Werdin]]
+[[producers/Theo Werdin]]
 [[Hubert Kah]]
-[[Harry Gutowski]]
+[[producers/Harry Gutowski]]

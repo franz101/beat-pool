@@ -18,6 +18,6 @@ url: https://open.spotify.com/artist/3KPL9k9pi5qS1DFnt7Il8K
 
 [[Erabi]]
 [[DNA030]]
-[[Enaka]]
-[[SIAS]]
+[[producers/Enaka]]
+[[producers/SIAS]]
 [[P.A.T.M.A.N]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/711WEGR4IDB7G6Ug4sALqJ
 **Related artists:**
 
 [[Zugezogen Maskulin]]
-[[Tom Schley]]
-[[Markus Ganter]]
+[[producers/Tom Schley]]
+[[producers/Markus Ganter]]

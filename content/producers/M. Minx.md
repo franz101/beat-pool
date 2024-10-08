@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/554WTh7PEiML1B8Fswf3FX
 **Related artists:**
 
 [[G-Hot]]
-[[Bo Diggler]]
+[[producers/Bo Diggler]]
 [[Julian Williams]]
-[[Ilan]]
+[[producers/Ilan]]
 [[Silla]]
 [[Fler]]

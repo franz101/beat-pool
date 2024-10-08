@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/2ZJJwhtLcXYiJGIFbdcz5i
 
 **Related artists:**
 
-[[Abel Romez]]
+[[producers/Abel Romez]]
 [[Aquagen]]
 [[Milo.nl]]
 [[Arnold Palmer]]
@@ -21,9 +21,9 @@ url: https://open.spotify.com/artist/2ZJJwhtLcXYiJGIFbdcz5i
 [[Big Daddi]]
 [[Blaikz]]
 [[DJ Shog]]
-[[Andrew Spencer]]
+[[producers/Andrew Spencer]]
 [[Dream Dance Alliance]]
 [[Pulsedriver]]
-[[Sven Greiner]]
-[[DJ Fait]]
+[[producers/Sven Greiner]]
+[[producers/DJ Fait]]
 [[Marc Kiss]]

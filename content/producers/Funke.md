@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/455jYw3dnrzNBc9mK2cuSe
 
 **Related artists:**
 
-[[rythm]]
-[[Al B Smoove]]
-[[Hurtboyag]]
+[[producers/rythm]]
+[[producers/Al B Smoove]]
+[[producers/Hurtboyag]]
 [[Yung Hurn]]
-[[Jimmy Torrio]]
-[[DLS]]
+[[producers/Jimmy Torrio]]
+[[producers/DLS]]
 [[Ali As]]
 [[Ufo361]]
-[[Tai Jason]]
+[[producers/Tai Jason]]
 [[The Cratez]]
 [[Data Luv]]

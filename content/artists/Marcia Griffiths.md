@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM
 
 **Related artists:**
 
-[[Tilmann Otto]]
-[[Clay]]
+[[producers/Tilmann Otto]]
+[[producers/Clay]]
 [[Gentleman]]
 [[Ky-Mani Marley]]

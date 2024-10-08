@@ -11,4 +11,4 @@ url: https://open.spotify.com/artist/2F3y92gJZlpQCEmMRqQsug
 
 **Related artists:**
 
-[[DeloForce]]
+[[producers/DeloForce]]

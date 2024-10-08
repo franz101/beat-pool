@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/2PCunoN2k2VeFMZ4CwNjg3
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb81a373b58e8b187b6c81fc85)
 **Related artists:**
 
-[[3ckz]]
-[[Prod Paolo]]
+[[producers/3ckz]]
+[[producers/Prod Paolo]]
 [[NOK1D]]
 [[Spicychili]]
 [[Murcy]]
 [[midnide]]
-[[Xanny Rich]]
-[[PHVNTOMANE]]
-[[Steve Giant]]
+[[producers/Xanny Rich]]
+[[producers/PHVNTOMANE]]
+[[producers/Steve Giant]]
 [[t-low]]

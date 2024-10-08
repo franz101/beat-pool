@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2WMGDLk9AP8LqREK2FJVa4
 
 **Related artists:**
 
-[[Evince]]
+[[producers/Evince]]
 [[MU$A386]]
-[[Feniko Beatz]]
+[[producers/Feniko Beatz]]

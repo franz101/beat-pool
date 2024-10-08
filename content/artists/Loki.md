@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/56IV1D1ol0hUvVvP5y6I2X
 ![Artist](https://i.scdn.co/image/ab67616d0000b2734fca36351e4f38201496690a)
 **Related artists:**
 
-[[Shahabedin Azodifar]]
-[[Jan Vetter]]
-[[I.L.L. Will]]
+[[producers/Shahabedin Azodifar]]
+[[producers/Jan Vetter]]
+[[producers/I.L.L. Will]]
 [[Wun Two]]
 [[Tufu]]
 [[Eloquent]]
-[[Dustin Christ]]
-[[Panorama]]
+[[producers/Dustin Christ]]
+[[producers/Panorama]]
 [[Patrick Rüdiger]]
 [[Hulk Hodn]]
 [[Evory]]

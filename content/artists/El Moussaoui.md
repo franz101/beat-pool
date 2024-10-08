@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6CnTtXNfsyvR71JENyuHHE
 
 **Related artists:**
 
-[[Paul NZA]]
+[[producers/Paul NZA]]
 [[MoTrip]]

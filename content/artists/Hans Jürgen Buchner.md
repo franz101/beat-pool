@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2mdy3r6keNMSqB6BupMzsZ
 
 **Related artists:**
 
-[[Barny Murphy]]
-[[Armand Volker]]
+[[producers/Barny Murphy]]
+[[producers/Armand Volker]]
 [[Spider Murphy Gang]]

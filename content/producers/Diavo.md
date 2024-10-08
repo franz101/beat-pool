@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/6ZBAjUjLD2Ph8uKc2PAFt9
 
 **Related artists:**
 
-[[IFG Beats]]
+[[producers/IFG Beats]]
 [[L¥NN]]
 [[G-Hot]]
 [[DJ Reaf]]
 [[Stantuned]]
 [[Silla]]
 [[Freshmaker]]
-[[Morris Gargano]]
-[[RXON]]
-[[Reatsch]]
+[[producers/Morris Gargano]]
+[[producers/RXON]]
+[[producers/Reatsch]]
 [[Shen]]
-[[Yannick Blaurock]]
+[[producers/Yannick Blaurock]]

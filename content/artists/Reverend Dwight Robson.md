@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4NQvaMySxHS5qvGZOlHK5w
 **Related artists:**
 
 [[Elen]]
-[[Christian Neander]]
+[[producers/Christian Neander]]

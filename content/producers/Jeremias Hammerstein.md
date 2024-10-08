@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0yIOl9pkVuC7V1bXP3cHq5
 **Related artists:**
 
 [[Jeremiah]]
-[[Haku Nakagami]]
+[[producers/Haku Nakagami]]
 [[KUSO GVKI]]

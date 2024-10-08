@@ -15,5 +15,5 @@ url: https://open.spotify.com/artist/1vzmLZbXh0Bw5Kz5U4iIyB
 [[SOTT]]
 [[OZ]]
 [[AK AUSSERKONTROLLE]]
-[[Dosh]]
+[[producers/Dosh]]
 [[Shindy]]

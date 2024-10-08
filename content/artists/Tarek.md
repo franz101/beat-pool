@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/3gjSOd9D5PJGwd53NM50ir
 [[Chakuza]]
 [[Said]]
 [[AchtVier]]
-[[86kiloherz]]
+[[producers/86kiloherz]]
 [[MoTrip]]
 [[Sa4]]
 [[Bonez MC]]

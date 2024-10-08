@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/2FYGC0bFOUqwuy7zlsoiTh
 
 [[Young Mesh]]
 [[Bato]]
-[[Pzy]]
+[[producers/Pzy]]
 [[Manuellsen]]
-[[Estidee]]
+[[producers/Estidee]]
 [[KEZ]]

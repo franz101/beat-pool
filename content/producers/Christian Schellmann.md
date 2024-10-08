@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2hzQzZeIUmUa3T0gclTR8f
 **Related artists:**
 
 [[Oli. P]]
-[[Andy Edner]]
+[[producers/Andy Edner]]

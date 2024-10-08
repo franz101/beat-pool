@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/7F5hZkWaY2896iD5QSmI0E
 [[Saltatio Mortis]]
 [[Schandmaul]]
 [[Patty Gurdy]]
-[[Chris Harms]]
+[[producers/Chris Harms]]
 [[Subway To Sally]]
 [[Feuerschwanz]]

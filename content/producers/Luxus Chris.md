@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/7lV8sCoJNU9cImtwitEIgF
 [[Shabazz the Disciple]]
 [[Stieber Twins]]
 [[The Arsonists]]
-[[Mr. Mar]]
+[[producers/Mr. Mar]]
 [[Martin Stieber]]
 [[Christian Stieber]]
 [[Curse]]

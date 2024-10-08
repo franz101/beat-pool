@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/76Kutk3eG3RMHDOXcf9B1b
 
 **Related artists:**
 
-[[FOOS]]
+[[producers/FOOS]]
 [[Davee]]
-[[Michael Vajna]]
+[[producers/Michael Vajna]]
 [[Cassandra Steen]]
 [[O'Bros]]
-[[Tillmann Loch]]
-[[Cop Dickie]]
+[[producers/Tillmann Loch]]
+[[producers/Cop Dickie]]
 [[Culcha Candela]]
-[[Jules Kalmbacher]]
+[[producers/Jules Kalmbacher]]

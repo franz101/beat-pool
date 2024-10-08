@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/7IsaK7BFw1u03GmjOVN18v
 
 **Related artists:**
 
-[[Gainworx]]
+[[producers/Gainworx]]
 [[Dream Dance Alliance]]
 [[Soulcry]]
-[[Alan Delabie]]
+[[producers/Alan Delabie]]
 [[DJ RAVEN]]
 [[Thomas Petersen vs. Mega 'Lo Mania]]
 [[Ina Morgan]]
-[[Mario Lopez]]
-[[Alan Frijns]]
+[[producers/Mario Lopez]]
+[[producers/Alan Frijns]]

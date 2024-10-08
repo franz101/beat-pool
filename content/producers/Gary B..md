@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/4vA2hiTxBbGnMKl2GwfEBB
 **Related artists:**
 
 [[Oli. P]]
-[[O-Jay]]
+[[producers/O-Jay]]
 [[Yvonne Catterfeld]]
-[[Chris Kusch]]
+[[producers/Chris Kusch]]

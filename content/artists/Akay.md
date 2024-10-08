@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/7BbKDD9GI5B3DsCRsMIVsu
 **Related artists:**
 
 [[MC Bilal]]
-[[Djorkaeff]]
+[[producers/Djorkaeff]]
 [[The Outlawz]]
 [[Eko Fresh]]
-[[Beatzarre]]
+[[producers/Beatzarre]]

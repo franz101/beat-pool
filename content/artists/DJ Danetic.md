@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6viw4U9vWb74tsGcJHFPYd
 
 **Related artists:**
 
-[[Simon Eichinger]]
+[[producers/Simon Eichinger]]
 [[Pedaz]]
 [[Miksu]]
 [[Bosca]]

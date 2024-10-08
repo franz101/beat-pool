@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd
 
 **Related artists:**
 
-[[Chahid]]
+[[producers/Chahid]]
 [[2Sick]]
 [[Ardian Bujupi]]

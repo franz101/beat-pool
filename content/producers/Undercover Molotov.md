@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3srYgLMlHn5X5y8yViJXGS
 
 [[Fatal]]
 [[Hanybal]]
-[[Abaz]]
+[[producers/Abaz]]
 [[DOE]]
 [[Fard]]
 [[Kontra K]]

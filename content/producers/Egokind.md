@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3Vu3giA1ZUQY1kWTerqhdD
 
 **Related artists:**
 
-[[Kilian & Jo]]
+[[producers/Kilian & Jo]]
 [[MAJAN]]
-[[Ozean]]
+[[producers/Ozean]]
 [[Cro]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1NMrkFHZakHLMMD30DCmb3
 **Related artists:**
 
 [[Brings]]
-[[Harry Alfter]]
+[[producers/Harry Alfter]]
 [[Helmuth Rüßmann]]
-[[Sebastian Simmich]]
+[[producers/Sebastian Simmich]]

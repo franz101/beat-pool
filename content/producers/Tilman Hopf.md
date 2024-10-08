@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/325K1IC9kbKUw9RTfs1LbZ
 **Related artists:**
 
 [[Ohrbooten]]
-[[Moses Schneider]]
+[[producers/Moses Schneider]]

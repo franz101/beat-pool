@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/3aq3pEq9s37bU8nHhk9RvJ
 **Related artists:**
 
 [[Snipe]]
-[[Glazzy]]
+[[producers/Glazzy]]
 [[Amin]]

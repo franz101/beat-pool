@@ -16,14 +16,14 @@ url: https://open.spotify.com/artist/5LAmxNxE3Sv7W7nq1SCbj1
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebec1c578187fd3a310fc31d02)
 **Related artists:**
 
-[[SBM]]
-[[Reecesowavy]]
+[[producers/SBM]]
+[[producers/Reecesowavy]]
 [[OSAMA]]
 [[Robin Rozay]]
-[[Broke Boys]]
+[[producers/Broke Boys]]
 [[OG Raijk]]
-[[nocashfromparents]]
+[[producers/nocashfromparents]]
 [[65Goonz]]
 [[Endzone]]
-[[ATP]]
+[[producers/ATP]]
 [[Tarek & Zenci]]

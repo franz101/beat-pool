@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4dS4xbmuSmFuRwx9nTxCnz
 
 **Related artists:**
 
-[[Mark Nissen]]
-[[Hardy Krech]]
-[[Hannes Braun]]
+[[producers/Mark Nissen]]
+[[producers/Hardy Krech]]
+[[producers/Hannes Braun]]
 [[König der Piraten]]
-[[Dirk Schlag]]
+[[producers/Dirk Schlag]]

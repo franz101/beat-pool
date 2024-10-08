@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/2wSwmN9yuc1jBG8mcwSwlh
 **Related artists:**
 
 [[Christian Knollmüller]]
-[[Tobias Hamm]]
-[[Timo Knop]]
+[[producers/Tobias Hamm]]
+[[producers/Timo Knop]]
 [[Christophe Thébaud]]
-[[Martin Neumayer]]
+[[producers/Martin Neumayer]]
 [[Jürgen Drews]]
 [[G.G. Merkel]]

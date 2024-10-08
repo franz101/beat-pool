@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/2W5sz2gokz8hegq5L8cHrt
 [[Eunique]]
 [[RAF Camora]]
 [[AriBeatz]]
-[[Michael Jackson]]
+[[producers/Michael Jackson]]
 [[KC Rebell]]
 [[Ufo361]]
 [[Veysel]]

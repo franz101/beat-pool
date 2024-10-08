@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/1m4KDTCtGzbN9Q09g7uXwn
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8f3af85cf8b1d60ad012b038)
 **Related artists:**
 
-[[Thomas Eifert]]
-[[Henrik Steigerwald]]
+[[producers/Thomas Eifert]]
+[[producers/Henrik Steigerwald]]

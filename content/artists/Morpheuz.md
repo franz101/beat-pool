@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf
 
 [[Macloud]]
 [[ART]]
-[[Thr3es6ixty]]
+[[producers/Thr3es6ixty]]
 [[Miksu - Macloud]]
 [[Miksu]]
 [[JIGGO]]

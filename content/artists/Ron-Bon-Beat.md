@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/3l4WhpNld59cqs3HuHk3pX
 
 **Related artists:**
 
-[[Martin Hensing]]
-[[Markus Boehme]]
-[[Charlie Mason]]
-[[Ron:Bon:Beat Project]]
+[[producers/Martin Hensing]]
+[[producers/Markus Boehme]]
+[[producers/Charlie Mason]]
+[[producers/Ron:Bon:Beat Project]]
 [[Future Breeze]]
-[[Mans Ek]]
-[[Klaus Derichs]]
+[[producers/Mans Ek]]
+[[producers/Klaus Derichs]]

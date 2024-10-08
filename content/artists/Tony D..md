@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/13ksGd7F8xLuAjROYMzYxL
 
 **Related artists:**
 
-[[Paul NZA]]
-[[Marek Pompetzki]]
-[[Cecil Remmler]]
+[[producers/Paul NZA]]
+[[producers/Marek Pompetzki]]
+[[producers/Cecil Remmler]]
 [[Sido]]

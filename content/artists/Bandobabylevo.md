@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/3pApw1ewcRgksc4CpnONwc
 **Related artists:**
 
 [[YY]]
-[[Beck beats]]
-[[Almnac]]
+[[producers/Beck beats]]
+[[producers/Almnac]]
 [[UNTER OBSI]]
 [[KALIM]]
 [[DIZZY]]

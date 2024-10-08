@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/0OZsbo7wbfOuKCmHUNBUHz
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb3f8855fab77c711cdee07903)
 **Related artists:**
 
-[[Panda Music]]
+[[producers/Panda Music]]

@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/3M4DsAM4T4bZ9uDwVoAb8A
 **Related artists:**
 
 [[Joe Space]]
-[[Boora]]
-[[Walterwarm]]
+[[producers/Boora]]
+[[producers/Walterwarm]]
 [[Wun Two]]
-[[drowse.]]
-[[Raz-One]]
+[[producers/drowse.]]
+[[producers/Raz-One]]

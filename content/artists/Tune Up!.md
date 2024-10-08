@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/082zRlftZ3m400Bu6Q2s2Q
 
 **Related artists:**
 
-[[M.Reuter]]
-[[Y. Pfeifer]]
+[[producers/M.Reuter]]
+[[producers/Y. Pfeifer]]

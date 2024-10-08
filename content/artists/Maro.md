@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/2StMQ9JzVyUGCFTEvEUN5T
 
 **Related artists:**
 
-[[Mark Cwiertnia]]
+[[producers/Mark Cwiertnia]]
 [[Maurice Kirya]]
-[[Daniel Nitt]]
+[[producers/Daniel Nitt]]
 [[Mark Forster]]
-[[Ralf Christian Mayer]]
+[[producers/Ralf Christian Mayer]]

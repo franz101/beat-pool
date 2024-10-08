@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/3iFaXfR6AIosfgbuXxSgf4
 [[Soolking]]
 [[MERO]]
 [[BRADO]]
-[[Fade]]
-[[Zimzala]]
+[[producers/Fade]]
+[[producers/Zimzala]]

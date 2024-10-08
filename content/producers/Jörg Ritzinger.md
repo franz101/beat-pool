@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/4tvvsC3XHysRVjXJYqFxsX
 
 [[Pulsedriver]]
 [[DJ Sequenza]]
-[[Stefan Benz]]
+[[producers/Stefan Benz]]

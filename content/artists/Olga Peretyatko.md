@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/4xomLb6nE2jqKp9l7S2qcF
 
 [[Michael "Bully" Herbig]]
 [[Alexander Wesselsky]]
-[[Peter Keller]]
+[[producers/Peter Keller]]
 [[Otto Waalkes]]
 [[Uwe Ochsenknecht]]
 [[Johannes Oerding]]

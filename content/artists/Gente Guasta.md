@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2q1tXN8jtjAL6odgG7qKHK
 
 **Related artists:**
 
-[[Arsonists]]
+[[producers/Arsonists]]
 [[Torch]]
 [[Toni-L]]

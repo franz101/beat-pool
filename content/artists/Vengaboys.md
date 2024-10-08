@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb8da941abb31d52fc08e7ec16)
 **Related artists:**
 
-[[Delmundo]]
-[[Danski]]
+[[producers/Delmundo]]
+[[producers/Danski]]

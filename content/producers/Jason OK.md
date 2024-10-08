@@ -12,10 +12,10 @@ url: https://open.spotify.com/artist/3OPg3qTnqSVs8LWBeQGyRB
 **Related artists:**
 
 [[Gestört aber GeiL]]
-[[Matthias Kurpiers]]
+[[producers/Matthias Kurpiers]]
 [[Capital Bra]]
-[[Kevin Zaremba]]
+[[producers/Kevin Zaremba]]
 [[Wincent Weiss]]
-[[Kevin Bleibaum]]
+[[producers/Kevin Bleibaum]]
 [[Glasperlenspiel]]
 [[SDP]]

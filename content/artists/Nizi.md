@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3jyfycjhKr9J0L9mtQ5OOq
 **Related artists:**
 
 [[Big Toe]]
-[[Majid Al-Habash]]
+[[producers/Majid Al-Habash]]

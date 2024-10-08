@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/6wDQgJE1sKWmrZL2N0vYyP
 
 [[G.G.B]]
 [[Pufuleti]]
-[[Razvan Pop]]
+[[producers/Razvan Pop]]
 [[Die P]]
 [[Negativ]]
 [[Sus90]]

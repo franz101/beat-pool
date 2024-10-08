@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/41AQxVD4Pvh0rzkklN8SIj
 
 **Related artists:**
 
-[[Mathias Roska]]
+[[producers/Mathias Roska]]
 [[Mitch Keller]]

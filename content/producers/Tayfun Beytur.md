@@ -12,12 +12,12 @@ url: https://open.spotify.com/artist/346sQjKupZVbBiHfYkytrl
 **Related artists:**
 
 [[Bizzy Montana]]
-[[Mario Skakalo]]
+[[producers/Mario Skakalo]]
 [[Marc Glücks]]
 [[Johannes Löffler]]
 [[Timeless]]
-[[Achim Welsch]]
-[[Youri Havermans]]
-[[Jens Sulik]]
-[[Denis Litvinskij]]
-[[Nelson Youngbrooke]]
+[[producers/Achim Welsch]]
+[[producers/Youri Havermans]]
+[[producers/Jens Sulik]]
+[[producers/Denis Litvinskij]]
+[[producers/Nelson Youngbrooke]]

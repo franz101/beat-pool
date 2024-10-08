@@ -16,4 +16,4 @@ url: https://open.spotify.com/artist/3YHo1tsCclG4642yVEnHhh
 ![Artist](https://i.scdn.co/image/ab67616d0000b273791b37b5be34b124480e1143)
 **Related artists:**
 
-[[dyzzy]]
+[[producers/dyzzy]]

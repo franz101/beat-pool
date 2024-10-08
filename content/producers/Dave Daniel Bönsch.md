@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7wn7hKrHsTlUCgqlQrFN6s
 
 **Related artists:**
 
-[[Niklas Kraft]]
+[[producers/Niklas Kraft]]
 [[Clueso]]
 [[Martin Rödiger]]
 [[Andreas Möckel]]

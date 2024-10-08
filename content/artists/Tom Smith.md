@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5nw0YnxEyqweUJ4Piu9TWM
 **Related artists:**
 
 [[Casper]]
-[[Konstantin Gropper]]
-[[Markus Ganter]]
+[[producers/Konstantin Gropper]]
+[[producers/Markus Ganter]]

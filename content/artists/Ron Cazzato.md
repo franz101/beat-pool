@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5lot75Ecaww3qwfQX1wCOe
 
 **Related artists:**
 
-[[SashliQ]]
-[[Jules]]
+[[producers/SashliQ]]
+[[producers/Jules]]
 [[Curse]]

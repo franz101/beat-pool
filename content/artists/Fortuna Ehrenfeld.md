@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/7xs1dZEBvPCk2zktBhVeKb
 **Related artists:**
 
 [[Rainald Grebe]]
-[[Martin Bechler]]
+[[producers/Martin Bechler]]
 [[Enno Bunger]]

@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/7LjwQeJGUVN6GR3JxoE4Ud
 ![Artist](https://i.scdn.co/image/ab67616d0000b2731a7650680ef35e31ec6a54fc)
 **Related artists:**
 
-[[KevDunkin]]
+[[producers/KevDunkin]]
 [[Obi One]]
 [[Günther Fresh]]
 [[Saftboys]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/5WLNhK4QDt7xgX45A9VGec
 **Related artists:**
 
 [[LEA]]
-[[Johann Walter]]
+[[producers/Johann Walter]]
 [[Sero]]
-[[Abaz]]
+[[producers/Abaz]]
 [[Jennifer Rostock]]
 [[Wincent Weiss]]
 [[Madeline Juno]]

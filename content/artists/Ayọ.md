@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6OkX55UMCw4Hgc5HM4zr7K
 
 **Related artists:**
 
-[[Rodney Borde-Kuofie]]
+[[producers/Rodney Borde-Kuofie]]
 [[Patrice]]

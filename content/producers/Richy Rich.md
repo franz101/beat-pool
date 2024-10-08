@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2D6foYfXBNXQMV1VpMxQIb
 
 **Related artists:**
 
-[[Paul Becker]]
+[[producers/Paul Becker]]
 [[Nazar]]

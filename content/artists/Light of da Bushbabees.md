@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/1d6Cpvhc2wR2ZhjiNbtO4q
 
 **Related artists:**
 
-[[DJ Desue]]
+[[producers/DJ Desue]]
 [[Afrob]]

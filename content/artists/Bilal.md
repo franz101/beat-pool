@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/7HdYNSJx9hrCSPMumOMPpW
 **Related artists:**
 
 [[Joy Denalane]]
-[[Jake One]]
+[[producers/Jake One]]
 [[KAHEDI]]

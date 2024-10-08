@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/3uYbnmE3w5tYnXsZQcmbfq
 
 [[Prezident]]
 [[Elsta]]
-[[Kamikazes]]
+[[producers/Kamikazes]]
 [[R.U.F.F.K.I.D.D.]]
 [[Degenhardt]]
 [[Flip Ferocious]]

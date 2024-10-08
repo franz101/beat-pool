@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/53wjdpZmrOiteCmja3AM6K
 
 **Related artists:**
 
-[[Carlos Albrecht]]
+[[producers/Carlos Albrecht]]
 [[Udo Lindenberg]]
 [[Free Orbit]]
 [[Konstantin Wecker]]

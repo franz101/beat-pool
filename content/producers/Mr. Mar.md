@@ -13,7 +13,7 @@ url: https://open.spotify.com/artist/2pXlOv4UC1t8hqmqCIiCDC
 
 [[Shabazz the Disciple]]
 [[Stieber Twins]]
-[[Luxus Chris]]
+[[producers/Luxus Chris]]
 [[The Arsonists]]
 [[Martin Stieber]]
 [[Christian Stieber]]

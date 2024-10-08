@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6Lmvqp41PAFh3toxWz1pnf
 
 **Related artists:**
 
-[[Copyright Control]]
+[[producers/Copyright Control]]
 [[DDA]]
 [[Pulsedriver]]

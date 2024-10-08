@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3D6C4rCaWL6oe51i2CtCMp
 
 **Related artists:**
 
-[[Ilan]]
+[[producers/Ilan]]
 [[Silla]]
 [[Fler]]

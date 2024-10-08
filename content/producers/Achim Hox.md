@@ -11,10 +11,10 @@ url: https://open.spotify.com/artist/54y9YX1lyjJeLOgxL5916W
 
 **Related artists:**
 
-[[Philipp Franecki]]
+[[producers/Philipp Franecki]]
 [[Aboutblank&KLC]]
 [[K La Cuard]]
 [[DJ Shog]]
 [[Dream Dance Alliance]]
-[[Sven Greiner]]
-[[Phillip Franecki]]
+[[producers/Sven Greiner]]
+[[producers/Phillip Franecki]]

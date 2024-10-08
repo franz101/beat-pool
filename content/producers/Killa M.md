@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1eP1GHTLT43UQxmY23a1un
 
 **Related artists:**
 
-[[Bjet]]
+[[producers/Bjet]]
 [[Moe Phoenix]]
-[[Tengo]]
+[[producers/Tengo]]
 [[Mosh36]]
 [[Jahy]]

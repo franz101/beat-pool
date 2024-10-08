@@ -17,6 +17,6 @@ url: https://open.spotify.com/artist/2Ww8SxsEQ9lZk5q8GTstOE
 **Related artists:**
 
 [[RAPK]]
-[[AP Supreme]]
+[[producers/AP Supreme]]
 [[MotB]]
 [[O.G. Pezo]]

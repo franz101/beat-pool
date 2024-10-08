@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/4vF2JLNnAVttxoX98PMaAi
 
 **Related artists:**
 
-[[Raoul Vychodil]]
-[[Brobotik]]
+[[producers/Raoul Vychodil]]
+[[producers/Brobotik]]
 [[Querbeat]]
 [[Culcha Candela]]
 [[Sara Lugo]]

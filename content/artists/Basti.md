@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/4udJS5nDgP9TsRiu2zFvdM
 
 **Related artists:**
 
-[[Tito Tentaculo]]
+[[producers/Tito Tentaculo]]
 [[MC Bomber]]

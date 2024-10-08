@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/5TTKrMvuaDl5x3AaOdT0sY
 
 **Related artists:**
 
-[[Gino Montesano]]
-[[Andrew Spencer]]
+[[producers/Gino Montesano]]
+[[producers/Andrew Spencer]]

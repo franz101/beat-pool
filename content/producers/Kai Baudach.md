@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/1wDfINRgo0nJWli7UQtRF9
 
 [[Ryko-J]]
 [[ESSENTIAL.WAV]]
-[[Tom Hanke]]
+[[producers/Tom Hanke]]
 [[Juri]]
 [[buildaroof]]

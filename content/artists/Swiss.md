@@ -16,16 +16,16 @@ url: https://open.spotify.com/artist/702Fgj9mIQ9bzfp9i9Dg7B
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb817988e9a38518c906f5f56c)
 **Related artists:**
 
-[[Chris Harms]]
-[[Corvin Bahn]]
-[[Beatzarre]]
+[[producers/Chris Harms]]
+[[producers/Corvin Bahn]]
+[[producers/Beatzarre]]
 [[Ferris MC]]
 [[B-Tight]]
 [[P.M.B.]]
 [[Basti Trailerpark]]
 [[Swiss & Die Andern]]
 [[Tamas]]
-[[P-Koss]]
+[[producers/P-Koss]]
 [[SDP]]
 [[Punch Arogunz]]
 [[Blokkmonsta]]

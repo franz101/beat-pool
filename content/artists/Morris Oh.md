@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/59D2EYsXciwJidBM17gLK1
 
 **Related artists:**
 
-[[R.Rozay]]
+[[producers/R.Rozay]]
 [[MaazaKayo]]

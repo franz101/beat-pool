@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR
 **Related artists:**
 
 [[Cashmo]]
-[[DaFire]]
+[[producers/DaFire]]
 [[KEZ]]
 [[Twin]]

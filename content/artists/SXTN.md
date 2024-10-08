@@ -20,7 +20,7 @@ url: https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3
 [[Frauenarzt]]
 [[Harris]]
 [[Schwartz]]
-[[Krutsch]]
+[[producers/Krutsch]]
 [[King Orgasmus One]]
 [[Smoky]]
 [[Lumaraa]]

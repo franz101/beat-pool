@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb90af7ede70e2875a7d5a0086)
 **Related artists:**
 
-[[Einsnulleins]]
+[[producers/Einsnulleins]]
 [[Young Kira]]
 [[RIN]]
 [[Sierra Kidd]]
-[[Alexis Troy]]
+[[producers/Alexis Troy]]

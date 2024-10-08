@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/5N6EzjkOoyABhNZJggeXi6
 [[No Angels]]
 [[Die Prinzen]]
 [[Yvonne Catterfeld]]
-[[Jan "vd3" van der Toorn]]
+[[producers/Jan "vd3" van der Toorn]]

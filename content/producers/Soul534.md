@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/5cNNwZyKzrZxPbFsVi6RsQ
 
 [[Mehrzad Marashi]]
 [[Alpa Gun]]
-[[DJ Amin]]
+[[producers/DJ Amin]]
 [[PA Sports]]

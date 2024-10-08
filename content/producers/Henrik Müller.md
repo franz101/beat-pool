@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0vOoAqU3yK0jBPFHF4AVMf
 
 **Related artists:**
 
-[[Tim Tautorat]]
+[[producers/Tim Tautorat]]
 [[KLAN]]
-[[Stefan Heinrich]]
+[[producers/Stefan Heinrich]]

@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/0ZoVwOlz1qWaQucVIKISKJ
 **Related artists:**
 
 [[Clueso]]
-[[Haus Erika Productions]]
+[[producers/Haus Erika Productions]]
 [[Remarkable]]
-[[Albert S. Gabriel]]
+[[producers/Albert S. Gabriel]]
 [[Snaz]]
 [[MC Metaphysics]]
 [[Layguuan Sharkie]]

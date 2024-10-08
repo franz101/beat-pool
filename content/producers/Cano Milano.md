@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0ort16zYJcXOOt8s5xHcKw
 **Related artists:**
 
 [[Ra'is]]
-[[Zimzala]]
-[[Caid]]
+[[producers/Zimzala]]
+[[producers/Caid]]
 [[Kalazh44]]
-[[Chris Jarbee]]
+[[producers/Chris Jarbee]]
 [[Hasan.K]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/6u89hsVg7hjc5JgyTGxB8M
 **Related artists:**
 
 [[Glasperlenspiel]]
-[[Valicon Studio 2 Berlin]]
+[[producers/Valicon Studio 2 Berlin]]

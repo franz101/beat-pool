@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3jdsUxe0kr03zqOd4V9mgM
 
 **Related artists:**
 
-[[Mistersir]]
+[[producers/Mistersir]]
 [[Lélé]]

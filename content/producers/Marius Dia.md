@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/6ODB1ZYq9RwBxX2BHUqp8R
 
 **Related artists:**
 
-[[Max Kleinschmidt]]
+[[producers/Max Kleinschmidt]]
 [[Holy Molly]]
 [[LIZOT]]
 [[Alex Parker]]

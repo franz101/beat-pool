@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2TdTpj3STOI0ofXaJRxDDm
 
 [[Jolie Noir]]
 [[Dave Ramone]]
-[[F.Leidig]]
-[[K.Grunwald]]
+[[producers/F.Leidig]]
+[[producers/K.Grunwald]]

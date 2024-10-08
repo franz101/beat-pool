@@ -12,13 +12,13 @@ url: https://open.spotify.com/artist/4HIta8WeidgXi1RCYwysBz
 **Related artists:**
 
 [[Rea Garvey]]
-[[X-Plosive]]
-[[Abaz]]
-[[RØMANS]]
-[[Robin Grubert]]
+[[producers/X-Plosive]]
+[[producers/Abaz]]
+[[producers/RØMANS]]
+[[producers/Robin Grubert]]
 [[The BossHoss]]
 [[Stefanie Heinzmann]]
 [[Xavier Naidoo]]
 [[Marlon Roudette]]
-[[Jacob Molin]]
+[[producers/Jacob Molin]]
 [[Ryan Sheridan]]

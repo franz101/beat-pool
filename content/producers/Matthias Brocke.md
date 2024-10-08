@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/4axUBkG5pBjq2ypGeBba74
 
 **Related artists:**
 
-[[Michael “Money-G” Bein]]
-[[Shaun Baker]]
+[[producers/Michael “Money-G” Bein]]
+[[producers/Shaun Baker]]
 [[Money-G]]
 [[M-Traxx]]

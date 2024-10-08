@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/2GvwZbDjH1DbQpodGKENDw
 
 [[2raumwohnung]]
 [[Inga Humpe]]
-[[Tommi Eckart]]
-[[Jorn Elling Wuttke]]
+[[producers/Tommi Eckart]]
+[[producers/Jorn Elling Wuttke]]
 [[Alter Ego]]

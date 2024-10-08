@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3STEErq4UOzbVyUWZFI6B6
 
 **Related artists:**
 
-[[DJ Stylewarz]]
+[[producers/DJ Stylewarz]]
 [[Ferris MC]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4oEbzQ18T7reM5Hf16zj9u
 **Related artists:**
 
 [[Azad]]
-[[Dervizz]]
+[[producers/Dervizz]]

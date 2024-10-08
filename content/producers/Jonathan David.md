@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5CIuGaIpl1dkoV7pvf8IN8
 
 **Related artists:**
 
-[[Feremiah]]
-[[Phil TheBeat]]
+[[producers/Feremiah]]
+[[producers/Phil TheBeat]]
 [[Mike Singer]]

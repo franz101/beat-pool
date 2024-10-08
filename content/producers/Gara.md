@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/0db8ROeNIuQnEPvHhAcVvl
 
 **Related artists:**
 
-[[SMR]]
+[[producers/SMR]]
 [[negatiiv OG]]
 [[Faroon]]

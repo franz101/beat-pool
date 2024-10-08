@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/2hUa8UqJQ1uBxsiOtjak1I
 [[Yukmouth]]
 [[Proof]]
 [[Eko Fresh]]
-[[Don Tone]]
+[[producers/Don Tone]]
 [[Bizarre]]

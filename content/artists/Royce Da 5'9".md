@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/6DVipHzYsPlIoA0DW8Gmns
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Tré Little]]
 [[Kool Savas]]

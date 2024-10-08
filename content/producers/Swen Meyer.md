@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/13meGfAhWHBNpiDYDiEN3O
 
 [[Heinz Rudolf Kunze]]
 [[Beatgees]]
-[[Jochen Naaf]]
-[[Sebastian Schubert]]
+[[producers/Jochen Naaf]]
+[[producers/Sebastian Schubert]]
 [[Vera Klima]]
 [[Clara Louise]]
 [[Ferris MC]]

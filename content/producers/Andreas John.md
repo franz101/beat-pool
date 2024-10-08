@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/0E6K2GLM8Ap5CkJ5BoNtDf
 **Related artists:**
 
 [[Samra]]
-[[Lukas Piano]]
-[[Djorkaeff]]
+[[producers/Lukas Piano]]
+[[producers/Djorkaeff]]
 [[Capital Bra]]
-[[Beatzarre]]
-[[Bahar Henschel]]
+[[producers/Beatzarre]]
+[[producers/Bahar Henschel]]

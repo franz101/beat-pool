@@ -17,7 +17,7 @@ url: https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4
 **Related artists:**
 
 [[Specktakel]]
-[[Daniel Barbosa]]
+[[producers/Daniel Barbosa]]
 [[Frenzy]]
 [[Ikke Hüftgold]]
 [[Sabbotage]]

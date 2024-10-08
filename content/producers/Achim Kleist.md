@@ -12,7 +12,7 @@ url: https://open.spotify.com/artist/3ZC4mmA40LpVUuzFkw4ci4
 **Related artists:**
 
 [[Marina Marx]]
-[[Wolfgang von Webenau]]
+[[producers/Wolfgang von Webenau]]
 [[Karsten Walter]]
 [[Feuerherz]]
-[[Syndicate Musicproduction]]
+[[producers/Syndicate Musicproduction]]

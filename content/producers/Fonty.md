@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/6nMOIdqk4I81E79wVm2RLk
 [[Big Ali]]
 [[Kurdo]]
 [[Lumidee]]
-[[DJ Mase]]
-[[Nero Lindvr]]
+[[producers/DJ Mase]]
+[[producers/Nero Lindvr]]
 [[Veysel]]

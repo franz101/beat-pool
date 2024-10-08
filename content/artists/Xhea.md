@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4CcTLKHcRHZvNKReZ544AR
 **Related artists:**
 
 [[SECAL]]
-[[Pascal Hendrick]]
+[[producers/Pascal Hendrick]]

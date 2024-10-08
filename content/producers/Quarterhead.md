@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY
 **Related artists:**
 
 [[Elen]]
-[[Frans Zimmer]]
-[[Jintae Ko]]
-[[Junkx]]
+[[producers/Frans Zimmer]]
+[[producers/Jintae Ko]]
+[[producers/Junkx]]
 [[Jordan Powers]]
 [[Alle Farben]]

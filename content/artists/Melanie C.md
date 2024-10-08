@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb424ed826ca56a41961543d83)
 **Related artists:**
 
-[[Rhett Lawrence]]
+[[producers/Rhett Lawrence]]
 [[Lisa "Left Eye" Lopes]]

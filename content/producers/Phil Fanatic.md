@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/63RyOGc7VWk7EDXGeQXbEH
 
 [[Farid Bang]]
 [[Kollegah]]
-[[Hookbeats]]
+[[producers/Hookbeats]]
 [[Seyed]]
 [[Juh-Dee]]

@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/6TQJeIIqOXoMobuWesNzTO
 **Related artists:**
 
 [[RainDropz!]]
-[[Dennis Logemann]]
+[[producers/Dennis Logemann]]
 [[DANCE DEALERS]]
 [[AlexKea]]

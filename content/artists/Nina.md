@@ -17,11 +17,11 @@ url: https://open.spotify.com/artist/7fGWx1Xp4JmsdLeerDfZjU
 **Related artists:**
 
 [[C.L.A.S.]]
-[[Bartosch Jeznach]]
-[[Boogieman]]
-[[Sebastian Hackert]]
-[[Malte Pittner]]
-[[C.L.A.S. Productions]]
+[[producers/Bartosch Jeznach]]
+[[producers/Boogieman]]
+[[producers/Sebastian Hackert]]
+[[producers/Malte Pittner]]
+[[producers/C.L.A.S. Productions]]
 [[Deichkind]]
 [[Hamburg]]
 [[Philipp Grütering]]

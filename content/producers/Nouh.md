@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/5gWiIh5NHjTRZP0uTZJga6
 **Related artists:**
 
 [[Vizzion]]
-[[M6]]
+[[producers/M6]]
 [[Freshmaker]]
 [[Kollegah]]
-[[Pjeter]]
+[[producers/Pjeter]]
 [[Neo]]
-[[Northside]]
+[[producers/Northside]]

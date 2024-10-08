@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/0JTwFRif7hzAE4zb9swQG2
 
 **Related artists:**
 
-[[Kemelion]]
-[[Worstbeatz]]
+[[producers/Kemelion]]
+[[producers/Worstbeatz]]
 [[Noah]]
 [[AVO]]
-[[Perino]]
+[[producers/Perino]]
 [[Apache 207]]

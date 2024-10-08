@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/7tztapS337XfteyzKnCLyI
 
 **Related artists:**
 
-[[Tobias Pongratz]]
+[[producers/Tobias Pongratz]]
 [[Danger Dan]]
 [[Sebastian Krumbiegel]]
 [[Koljah]]

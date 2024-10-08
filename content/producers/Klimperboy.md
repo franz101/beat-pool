@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5eelaeIzJgCX9l26v0vqi1
 
 **Related artists:**
 
-[[Simon Kempner]]
+[[producers/Simon Kempner]]
 [[Afrob]]
-[[Phon.o]]
+[[producers/Phon.o]]

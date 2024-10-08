@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2LfXYszbmJgJRUwlcPTf1f
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Summer Cem]]
 [[Kool Savas]]
-[[Aksit Ugurlu]]
+[[producers/Aksit Ugurlu]]
 [[Lumidee]]
 [[Eko Fresh]]

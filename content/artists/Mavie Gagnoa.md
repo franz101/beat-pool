@@ -19,7 +19,7 @@ url: https://open.spotify.com/artist/5zCxDRWhKh6hvcJ1KXdtwh
 [[Nizi19]]
 [[Omar101]]
 [[Lucio101]]
-[[Palazzo]]
+[[producers/Palazzo]]
 [[Marvin Game]]
 [[ROBO]]
 [[Kana & Mavie]]

@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/66JuktEqUuYbizqLiREWDc
 
 **Related artists:**
 
-[[Johannes Herbst]]
+[[producers/Johannes Herbst]]
 [[Dame]]
 [[Harald Mörth]]
 [[Michael Zöttl]]

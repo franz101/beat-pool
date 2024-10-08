@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/3n8OuhX7AutHUt0Oli5J4H
 
 [[Andrea Adams-Frey]]
 [[Feiert Jesus!]]
-[[Albert Frey]]
+[[producers/Albert Frey]]

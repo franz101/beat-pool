@@ -11,15 +11,15 @@ url: https://open.spotify.com/artist/1smuo8gDfA39Bw0NvgCcNa
 
 **Related artists:**
 
-[[SLS]]
+[[producers/SLS]]
 [[Nu51]]
 [[SAMY]]
-[[North]]
+[[producers/North]]
 [[Freezy]]
-[[Chris Jarbee]]
-[[Arpad]]
-[[riico]]
-[[Wylo]]
-[[DIONMAEDIT]]
+[[producers/Chris Jarbee]]
+[[producers/Arpad]]
+[[producers/riico]]
+[[producers/Wylo]]
+[[producers/DIONMAEDIT]]
 [[Luciano]]
 [[OUHBOY]]

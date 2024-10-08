@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0AcDT9SWmQlSs5YWVABKQi
 **Related artists:**
 
 [[Richard Clayderman]]
-[[Armand Volker]]
+[[producers/Armand Volker]]
 [[Claudia Jung]]

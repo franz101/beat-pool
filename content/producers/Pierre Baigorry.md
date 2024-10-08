@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/4uYlFPUtaE6QIXaxZDKHoQ
 [[SSIO]]
 [[Beatsteaks]]
 [[Black Kappa]]
-[[Reaf]]
+[[producers/Reaf]]
 [[Seeed]]
-[[P. Baigorry]]
+[[producers/P. Baigorry]]

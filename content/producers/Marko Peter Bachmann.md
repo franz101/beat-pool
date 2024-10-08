@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/7LuB9SO7bdDQ9v2rMlg6SA
 **Related artists:**
 
 [[Rocko Schamoni]]
-[[Konrad Halver]]
+[[producers/Konrad Halver]]
 [[Monty Arnold]]

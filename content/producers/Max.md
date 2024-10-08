@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6GAMZ3hkA2y52fMzSXeADA
 **Related artists:**
 
 [[Joy Denalane]]
-[[Don Philipe]]
+[[producers/Don Philipe]]
 [[Beginner]]

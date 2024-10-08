@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4zNxRvv19Ogtdxtovn3WTU
 **Related artists:**
 
 [[Konstantin Wecker]]
-[[Stephan Diez]]
+[[producers/Stephan Diez]]

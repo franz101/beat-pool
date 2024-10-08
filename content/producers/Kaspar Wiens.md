@@ -13,8 +13,8 @@ url: https://open.spotify.com/artist/68T52XILoeLvGFyTaQtOeS
 
 [[Jan Delay]]
 [[Dynamite Deluxe]]
-[[Jan Eißfeldt]]
-[[Matthias Arfmann]]
+[[producers/Jan Eißfeldt]]
+[[producers/Matthias Arfmann]]
 [[Deichkind]]
-[[Jochen Niemann]]
+[[producers/Jochen Niemann]]
 [[Disko No.1]]

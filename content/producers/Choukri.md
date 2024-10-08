@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/2H2cZ4g0luvZNPLoJMH4s6
 
 **Related artists:**
 
-[[King Kuba]]
+[[producers/King Kuba]]
 [[Ezhel]]
 [[SAMY]]
-[[Iceberg]]
+[[producers/Iceberg]]
 [[XATAR]]
 [[SSIO]]
 [[Reda Rwena]]
-[[LULOU]]
+[[producers/LULOU]]
 [[reezy]]
 [[Eno]]
 [[Vanessa Mai]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2Y7XecP8onmBn5vGqcGkce
 
 **Related artists:**
 
-[[Misho]]
-[[OM]]
+[[producers/Misho]]
+[[producers/OM]]
 [[CKK]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/3IROyZHNJondyknlyQMVDJ
 
 **Related artists:**
 
-[[Niko Sieveking]]
+[[producers/Niko Sieveking]]
 [[Echt]]
-[[Franz Plasa]]
+[[producers/Franz Plasa]]

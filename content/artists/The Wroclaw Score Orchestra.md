@@ -12,8 +12,8 @@ url: https://open.spotify.com/artist/3Oowg63mt70qDGVYMu25LC
 **Related artists:**
 
 [[Peter Maffay]]
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[Joris Bartsch Buhle]]
-[[Peter Keller]]
-[[Pascal Kravetz]]
-[[Carl Carlton]]
+[[producers/Peter Keller]]
+[[producers/Pascal Kravetz]]
+[[producers/Carl Carlton]]

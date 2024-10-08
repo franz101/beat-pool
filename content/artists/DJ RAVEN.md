@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/1shICE9ymv5vWTdgaDtAcO
 
 **Related artists:**
 
-[[Alan Delabie]]
-[[Alan Frijns]]
+[[producers/Alan Delabie]]
+[[producers/Alan Frijns]]
 [[Thomas Petersen]]
 [[Soulcry]]

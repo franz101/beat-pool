@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/3lBxBV06XL8L3Kr3UJqQjr
 **Related artists:**
 
 [[Buddha]]
-[[Erk Gotti]]
-[[NVProduction]]
+[[producers/Erk Gotti]]
+[[producers/NVProduction]]

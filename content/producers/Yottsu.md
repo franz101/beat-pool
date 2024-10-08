@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0uVlNWjc1qm7wQ1dyfcF5W
 
 **Related artists:**
 
-[[Cozy From Earth]]
+[[producers/Cozy From Earth]]
 [[Chaze Sharp]]

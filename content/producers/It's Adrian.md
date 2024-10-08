@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2jXkFpL6tPcTxx2iCJ00kC
 
 **Related artists:**
 
-[[CaPo BeatZ]]
+[[producers/CaPo BeatZ]]
 [[Punch Arogunz]]

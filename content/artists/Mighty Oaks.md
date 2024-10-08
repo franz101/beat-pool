@@ -16,8 +16,8 @@ url: https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebd75b2e74f9516de9f53a3853)
 **Related artists:**
 
-[[Nikolai Potthoff]]
-[[Ryan Hadlock]]
-[[Robert Stephenson]]
-[[Tobias Kuhn]]
-[[Mirko Schaffer]]
+[[producers/Nikolai Potthoff]]
+[[producers/Ryan Hadlock]]
+[[producers/Robert Stephenson]]
+[[producers/Tobias Kuhn]]
+[[producers/Mirko Schaffer]]

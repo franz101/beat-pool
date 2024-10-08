@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1FScFWhALmQOpC3TX9YdRq
 
 **Related artists:**
 
-[[Adam Charon]]
+[[producers/Adam Charon]]
 [[Sarah Connor]]
-[[Rufi-Oh]]
+[[producers/Rufi-Oh]]
 [[TQ]]
-[[Jamahl Harris]]
+[[producers/Jamahl Harris]]

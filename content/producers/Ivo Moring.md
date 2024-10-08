@@ -14,7 +14,7 @@ url: https://open.spotify.com/artist/5NMhrDj8h4w1V1dKRz5Xbl
 [[Matthias Reim]]
 [[Thorsten Brötzmann]]
 [[DJ Bonzay]]
-[[Kraans de Lutin]]
+[[producers/Kraans de Lutin]]
 [[Jürgen Drews]]
 [[Puhdys]]
 [[Vanessa Mai]]

@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5gY1BhYgVykYHLrKGGncSL
 **Related artists:**
 
 [[Mortel]]
-[[R.Rozay]]
+[[producers/R.Rozay]]
 [[MaazaKayo]]

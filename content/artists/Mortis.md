@@ -21,6 +21,6 @@ url: https://open.spotify.com/artist/2xxwXsYa55SKGWj6iBi2GW
 [[Swiss & Die Andern]]
 [[Fatoni]]
 [[DJ Breaque]]
-[[Mario Radzom]]
-[[Marc Junge]]
+[[producers/Mario Radzom]]
+[[producers/Marc Junge]]
 [[Pimf]]

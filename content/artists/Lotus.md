@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb730e3f57331b56124eefc5a5)
 **Related artists:**
 
-[[Stephen Singer]]
+[[producers/Stephen Singer]]
 [[Bodybangers]]

@@ -16,5 +16,5 @@ url: https://open.spotify.com/artist/6YN70pjMBxCM4ZYQHH12k1
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7a90ed35d2b03c62a77ec118)
 **Related artists:**
 
-[[Daniel Tjarks]]
+[[producers/Daniel Tjarks]]
 [[TJ_babybrain]]

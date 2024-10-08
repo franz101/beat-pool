@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/21tAA0UAhlTN1cx148APXw
 
 **Related artists:**
 
-[[DJ Eule]]
+[[producers/DJ Eule]]
 [[Freshmaker]]
 [[Cr7z]]

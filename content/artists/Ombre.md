@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/3YSOixszL7RHlcxzsn1Qlx
 **Related artists:**
 
 [[Marlo]]
-[[Lucry]]
+[[producers/Lucry]]

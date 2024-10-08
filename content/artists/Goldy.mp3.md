@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/15OpDdqnzp15Be1IC8xZn7
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb57b49a9e47d567076e003fcf)
 **Related artists:**
 
-[[Aiss9000]]
+[[producers/Aiss9000]]
 [[Tightill]]
 [[Florida Juicy]]

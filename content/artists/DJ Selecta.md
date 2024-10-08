@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/1XKwIEhIqcbGK5eMpWHFHh
 
 **Related artists:**
 
-[[Imre Kis]]
+[[producers/Imre Kis]]
 [[Dj Tht]]
 [[Van Snyder]]

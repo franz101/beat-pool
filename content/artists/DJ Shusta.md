@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2JRdCJd64t2J1qDuquDWfj
 ![Artist]()
 **Related artists:**
 
-[[DJ Ron]]
+[[producers/DJ Ron]]
 [[Bass Boy]]
 [[Tefla & Jaleel]]

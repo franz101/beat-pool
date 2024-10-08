@@ -15,6 +15,6 @@ url: https://open.spotify.com/artist/7jSSN1Ln5TaI2mmRfhQhlh
 [[Sprachtot]]
 [[Chakuza]]
 [[RAF Camora]]
-[[Steffen "Steddy" Wilmking]]
-[[Sebastian Madsen]]
+[[producers/Steffen "Steddy" Wilmking]]
+[[producers/Sebastian Madsen]]
 [[D-Bo]]

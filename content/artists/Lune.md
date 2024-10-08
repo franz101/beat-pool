@@ -16,13 +16,13 @@ url: https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb7e21dc454668d06eca44e90c)
 **Related artists:**
 
-[[Raymatic]]
+[[producers/Raymatic]]
 [[Jumpa]]
-[[Magestick]]
-[[Frio]]
-[[klosely]]
-[[Maxe]]
-[[Bounce Brothas]]
+[[producers/Magestick]]
+[[producers/Frio]]
+[[producers/klosely]]
+[[producers/Maxe]]
+[[producers/Bounce Brothas]]
 [[Monet192]]
-[[Aside]]
+[[producers/Aside]]
 [[Juh-Dee]]

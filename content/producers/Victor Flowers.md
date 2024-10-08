@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/5RTAKdEUr09k6foRCiIhZ6
 
 **Related artists:**
 
-[[Typhoon]]
-[[Kimbo Beatz]]
-[[Sinch]]
+[[producers/Typhoon]]
+[[producers/Kimbo Beatz]]
+[[producers/Sinch]]
 [[Punch Arogunz]]
 [[Adesse]]
 [[Sido]]

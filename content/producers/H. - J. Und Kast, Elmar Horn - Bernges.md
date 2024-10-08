@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7aM0LtWUuVyyVbCZqCGmQl
 
 **Related artists:**
 
-[[Elmar Kast]]
+[[producers/Elmar Kast]]
 [[Nino de Angelo]]
-[[Hans-Joachim Horn-Bernges]]
+[[producers/Hans-Joachim Horn-Bernges]]

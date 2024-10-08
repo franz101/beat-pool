@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/2rEVnwCPBeGkWMv425KoG1
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebacbd6d3a5c2769707b4e1c0f)
 **Related artists:**
 
-[[Blurry]]
-[[Babyblue]]
-[[Masri]]
+[[producers/Blurry]]
+[[producers/Babyblue]]
+[[producers/Masri]]

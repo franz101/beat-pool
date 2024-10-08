@@ -16,7 +16,7 @@ url: https://open.spotify.com/artist/6qex612ghzehNlkz3etsJV
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb68db596bc47a59e7b7f7d0cb)
 **Related artists:**
 
-[[ProdByHxrV]]
+[[producers/ProdByHxrV]]
 [[negatiiv OG]]
 [[Yung Vision]]
-[[DannyRomeBeats]]
+[[producers/DannyRomeBeats]]

@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4846EweTNJP1oTLOXBn4i8
 **Related artists:**
 
 [[Peter Schilling]]
-[[Armin Sabol]]
+[[producers/Armin Sabol]]

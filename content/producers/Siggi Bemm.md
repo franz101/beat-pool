@@ -14,6 +14,6 @@ url: https://open.spotify.com/artist/1Y1SUzb4BohPmF8L6nF3tC
 [[Jean-Jacques Kravetz]]
 [[Peter Maffay]]
 [[Eddy Kante]]
-[[Bertram Engel]]
+[[producers/Bertram Engel]]
 [[Udo Lindenberg]]
-[[Carl Carlton]]
+[[producers/Carl Carlton]]

@@ -16,10 +16,10 @@ url: https://open.spotify.com/artist/2UlbXyP5kv74JNAXCNktq0
 ![Artist](https://i.scdn.co/image/ab67616d0000b273ef002b974eff3d0284814739)
 **Related artists:**
 
-[[Unknown]]
-[[Roald Rascher]]
-[[David Bronner]]
+[[producers/Unknown]]
+[[producers/Roald Rascher]]
+[[producers/David Bronner]]
 [[René Tinner]]
-[[Hubert von Goisern]]
-[[Roald Raschner]]
-[[Wolfgang Spannberger]]
+[[producers/Hubert von Goisern]]
+[[producers/Roald Raschner]]
+[[producers/Wolfgang Spannberger]]

@@ -17,8 +17,8 @@ url: https://open.spotify.com/artist/2kZbmVy6SYzniA8T0r0zFf
 **Related artists:**
 
 [[Cassandra Steen]]
-[[Stephan Zeh]]
+[[producers/Stephan Zeh]]
 [[Tal Ofarim]]
-[[Peter Keller]]
-[[Peter "Jem" Seifert]]
-[[Christian Neander]]
+[[producers/Peter Keller]]
+[[producers/Peter "Jem" Seifert]]
+[[producers/Christian Neander]]

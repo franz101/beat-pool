@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0s2BRO6wLQxZ9FR3EeAIXe
 
 **Related artists:**
 
-[[Manuel Reuter]]
-[[Yann Peifer]]
+[[producers/Manuel Reuter]]
+[[producers/Yann Peifer]]

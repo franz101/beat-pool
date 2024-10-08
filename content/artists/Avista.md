@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2rkb6rdm6A2iLNo5TZnllF
 
 **Related artists:**
 
-[[Plattenpapzt]]
+[[producers/Plattenpapzt]]
 [[Cashmo]]

@@ -14,4 +14,4 @@ url: https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv
 [[Gringo]]
 [[Goldfinger]]
 [[Summer Cem]]
-[[Riddla]]
+[[producers/Riddla]]

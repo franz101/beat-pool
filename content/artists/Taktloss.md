@@ -21,5 +21,5 @@ url: https://open.spotify.com/artist/0oQzKeXeYagtm4CY4plMkw
 [[King Orgasmus One]]
 [[Supafunk]]
 [[Justus]]
-[[Kingsly Defounga]]
+[[producers/Kingsly Defounga]]
 [[Jack Orsen]]

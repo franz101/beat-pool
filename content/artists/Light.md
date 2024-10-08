@@ -14,5 +14,5 @@ url: https://open.spotify.com/artist/0dpBmz9YaKFRxKG3q1CzpG
 [[Silva]]
 [[Young Mesh]]
 [[DJ Teddy-O]]
-[[Frio]]
+[[producers/Frio]]
 [[Majoe]]

@@ -17,5 +17,5 @@ url: https://open.spotify.com/artist/68jFd8fas1U1U51bGQZXbr
 **Related artists:**
 
 [[Jerome Thomas]]
-[[ROHO]]
+[[producers/ROHO]]
 [[Bluestaeb]]

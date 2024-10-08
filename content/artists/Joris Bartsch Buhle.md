@@ -11,12 +11,12 @@ url: https://open.spotify.com/artist/6UDk0qrtNjkS6vbro9ZFjY
 
 **Related artists:**
 
-[[Bertram Engel]]
-[[Peter Keller]]
+[[producers/Bertram Engel]]
+[[producers/Peter Keller]]
 [[The Wroclaw Score Orchestra]]
 [[Peter Maffay]]
 [[Gerd Köthe]]
-[[Carl Carlton]]
-[[Pascal Kravetz]]
+[[producers/Carl Carlton]]
+[[producers/Pascal Kravetz]]
 [[Martina Preuss]]
-[[Roland Heck]]
+[[producers/Roland Heck]]

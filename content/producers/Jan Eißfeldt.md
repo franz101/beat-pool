@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/0cCRelwvNBMPz0o0Z35iVB
 **Related artists:**
 
 [[Jan Delay]]
-[[Matthias Arfmann]]
-[[Kaspar Wiens]]
+[[producers/Matthias Arfmann]]
+[[producers/Kaspar Wiens]]

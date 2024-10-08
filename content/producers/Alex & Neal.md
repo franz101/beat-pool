@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/0gAz80wEnY9bHE1ErGWVb1
 
 **Related artists:**
 
-[[DJ DeeVoe]]
+[[producers/DJ DeeVoe]]
 [[Jalil]]

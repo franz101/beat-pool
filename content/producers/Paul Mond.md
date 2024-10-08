@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/620psuQTjaUU4RPCxIAbK5
 
 **Related artists:**
 
-[[Sucuki]]
+[[producers/Sucuki]]
 [[Mehnersmoos]]

@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3I2596dGk4K3e4qKjwpzQb
 
 **Related artists:**
 
-[[HTN]]
+[[producers/HTN]]
 [[Eloquent]]

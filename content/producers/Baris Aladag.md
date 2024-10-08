@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/7aJNM44gomV8cXrqP8sVya
 
 **Related artists:**
 
-[[Ralf Christian Mayer]]
+[[producers/Ralf Christian Mayer]]
 [[Clueso]]
 [[Martin Rödiger]]

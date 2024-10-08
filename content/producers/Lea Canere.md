@@ -11,13 +11,13 @@ url: https://open.spotify.com/artist/099PPrLfkaq19h4okHTztm
 
 **Related artists:**
 
-[[HSA]]
-[[TUPAHSIO]]
+[[producers/HSA]]
+[[producers/TUPAHSIO]]
 [[Freshmaker]]
 [[King Orgasmus One]]
 [[Bosca]]
 [[18 Karat]]
 [[Nio]]
-[[Shad Velez]]
-[[AbsoluteBeatz]]
+[[producers/Shad Velez]]
+[[producers/AbsoluteBeatz]]
 [[Vega]]

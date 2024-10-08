@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2newix2XJ4vgif5y2S7GXO
 
 **Related artists:**
 
-[[Manuel Reuter]]
+[[producers/Manuel Reuter]]
 [[Jerome]]

@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/2te6HdndlSCGmlrwciA8T3
 
 **Related artists:**
 
-[[Steddy]]
+[[producers/Steddy]]
 [[Klaus Kinski]]
 [[Nisse]]

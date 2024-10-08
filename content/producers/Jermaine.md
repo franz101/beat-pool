@@ -11,8 +11,8 @@ url: https://open.spotify.com/artist/1OKRBogmwhlsLzbpNbwikr
 
 **Related artists:**
 
-[[Zinobeats]]
-[[Zino Beatz]]
-[[Ben-E]]
+[[producers/Zinobeats]]
+[[producers/Zino Beatz]]
+[[producers/Ben-E]]
 [[Kalazh44]]
 [[JIGGO]]

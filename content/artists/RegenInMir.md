@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2AXM51i4nYwQPo9T54MGZQ
 **Related artists:**
 
 [[Jay Jiggy]]
-[[Larry Fricke]]
+[[producers/Larry Fricke]]

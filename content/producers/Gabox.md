@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/1vHa8DgCf6zsx6Pa6AGSuq
 **Related artists:**
 
 [[Ir Sais]]
-[[Chaz Mishan]]
+[[producers/Chaz Mishan]]
 [[Ivana Santacruz]]

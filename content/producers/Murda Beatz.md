@@ -17,4 +17,4 @@ url: https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC
 [[Haiyti]]
 [[Miksu]]
 [[Macloud]]
-[[Sizzy]]
+[[producers/Sizzy]]

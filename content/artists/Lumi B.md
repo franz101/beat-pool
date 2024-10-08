@@ -16,6 +16,6 @@ url: https://open.spotify.com/artist/0k13RtTxun6lBDH665ZjbI
 ![Artist](https://i.scdn.co/image/ab6761610000e5ebc68a903556cab0a9f11ef61d)
 **Related artists:**
 
-[[Deard Sylejmani]]
+[[producers/Deard Sylejmani]]
 [[Ledri Vula]]
 [[Dafina Zeqiri]]

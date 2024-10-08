@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2fX116OM271yHQYyL2o7UR
 **Related artists:**
 
 [[H-Blockx]]
-[[Stephan Hinz]]
+[[producers/Stephan Hinz]]
 [[Dr. Ring Ding]]

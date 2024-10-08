@@ -13,6 +13,6 @@ url: https://open.spotify.com/artist/1nvs4FrenvkkhDh3TFYwHr
 
 [[Sarah Connor]]
 [[Fietje van Haag]]
-[[Rob Tyger]]
+[[producers/Rob Tyger]]
 [[Horn Amsterdam Sesion Orchestra]]
-[[Kay Denar]]
+[[producers/Kay Denar]]

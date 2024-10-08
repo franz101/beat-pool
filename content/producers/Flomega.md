@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/0fqBDasOM2kPrTJ8DMdg0x
 [[Nico Suave]]
 [[Dramadigs]]
 [[Morlockk Dilemma]]
-[[Deckah]]
+[[producers/Deckah]]
 [[Afrob]]
 [[Joka]]
 [[Umse]]

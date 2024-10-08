@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/1M6mcgrDrrECkFAnjAP3PR
 **Related artists:**
 
 [[Stephan Remmler]]
-[[Rodrigo Sha]]
+[[producers/Rodrigo Sha]]

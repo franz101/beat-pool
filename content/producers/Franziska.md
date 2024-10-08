@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/3FkrwKPefJL4kZmDGsKJb2
 
 **Related artists:**
 
-[[Melbeatz]]
+[[producers/Melbeatz]]
 [[Ercandize]]

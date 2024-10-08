@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/2xfQ87jiBglYnZ0dUScN3J
 **Related artists:**
 
 [[Tom Astor]]
-[[Klaus Lohmer]]
+[[producers/Klaus Lohmer]]

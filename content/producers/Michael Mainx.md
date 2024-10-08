@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/6f5t9tU6kv4JvNippbSEzF
 
 **Related artists:**
 
-[[Stephan Weidner]]
+[[producers/Stephan Weidner]]
 [[Böhse Onkelz]]

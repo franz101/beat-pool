@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/2IY4HLuV79buONLu6jJsDs
 
 **Related artists:**
 
-[[M. Reim]]
+[[producers/M. Reim]]
 [[Matthias Reim]]

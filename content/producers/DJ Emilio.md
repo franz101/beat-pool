@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/7phaPvlGl4pvuYxiXLHtur
 **Related artists:**
 
 [[Massive Töne]]
-[[co-produced by Tommy Wittinger und MASSIVE TNE]]
+[[producers/co-produced by Tommy Wittinger und MASSIVE TNE]]

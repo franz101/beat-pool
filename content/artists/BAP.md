@@ -16,15 +16,15 @@ url: https://open.spotify.com/artist/39ukKqQOSUFJDAM9OLKQZg
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb94f434977e3dc06d3565a975)
 **Related artists:**
 
-[[Werner Kopal]]
+[[producers/Werner Kopal]]
 [[Nina Hagen]]
 [[Axel Büchel]]
-[[Phil Delire]]
+[[producers/Phil Delire]]
 [[Henning Wehland]]
 [[Helmuth Rüssmann]]
 [[Büdi Siebert]]
-[[Klaus Heuser]]
-[[Reinhold Mack]]
-[[Wolfgang "Stackman" Stach]]
+[[producers/Klaus Heuser]]
+[[producers/Reinhold Mack]]
+[[producers/Wolfgang "Stackman" Stach]]
 [[Culcha Candela]]
-[[Hubert von Goisern]]
+[[producers/Hubert von Goisern]]

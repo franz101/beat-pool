@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX
 
 **Related artists:**
 
-[[Matthias Reiling]]
-[[Hauke Freer]]
+[[producers/Matthias Reiling]]
+[[producers/Hauke Freer]]
 [[DJ Koze]]

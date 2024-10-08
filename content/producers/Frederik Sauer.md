@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/5cf8Cws0uGhOzAoxjrlvRT
 **Related artists:**
 
 [[Elen]]
-[[Philip Krause]]
-[[Jan Listing]]
+[[producers/Philip Krause]]
+[[producers/Jan Listing]]

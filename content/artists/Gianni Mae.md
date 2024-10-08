@@ -11,5 +11,5 @@ url: https://open.spotify.com/artist/7A9eAxRYEABqRd2Us9v6xn
 
 **Related artists:**
 
-[[Haku Nakagami]]
+[[producers/Haku Nakagami]]
 [[KUSO GVKI]]

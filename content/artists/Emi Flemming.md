@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/1NoPFA1TulKIVafZaHiBhH
 **Related artists:**
 
 [[Anstandslos & Durchgeknallt]]
-[[Mark Becker]]
-[[Oliver Kleissle]]
-[[Vitali Zestovskih]]
+[[producers/Mark Becker]]
+[[producers/Oliver Kleissle]]
+[[producers/Vitali Zestovskih]]

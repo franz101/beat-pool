@@ -11,7 +11,7 @@ url: https://open.spotify.com/artist/3wVciFsMCKw8wIvA3PTAZl
 
 **Related artists:**
 
-[[NIZA]]
+[[producers/NIZA]]
 [[Niza]]
 [[CALO]]
 [[Veysel]]

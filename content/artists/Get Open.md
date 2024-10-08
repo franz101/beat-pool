@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2LPdh0D2ta4PaEm1ZUhhyS
 **Related artists:**
 
 [[Main Concept]]
-[[Siba Giba]]
-[[Glammerlicious]]
+[[producers/Siba Giba]]
+[[producers/Glammerlicious]]

@@ -13,5 +13,5 @@ url: https://open.spotify.com/artist/2ZrNB6U537eDcojKVAQwAt
 
 [[Cr7z]]
 [[Absztrakkt]]
-[[Sven Oppermann]]
+[[producers/Sven Oppermann]]
 [[Ad Astra]]

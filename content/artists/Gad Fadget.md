@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/6nmCpJXGkLCG9BWAKRnfMl
 **Related artists:**
 
 [[Martin Sola]]
-[[Tommaso De Donatis]]
+[[producers/Tommaso De Donatis]]
 [[Pulsedriver]]

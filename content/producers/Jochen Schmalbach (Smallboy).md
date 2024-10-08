@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/2wacl9zfxLOFwDHcwM1vR6
 
 [[Dj Thomilla]]
 [[Die Fantastischen Vier]]
-[[DJ Friction]]
+[[producers/DJ Friction]]

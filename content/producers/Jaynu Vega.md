@@ -15,7 +15,7 @@ url: https://open.spotify.com/artist/3M09PKjLY7mlnXBst8q4UA
 [[BHZ]]
 [[Ion Miles]]
 [[Big Pat]]
-[[THEMBA]]
+[[producers/THEMBA]]
 [[MotB]]
 [[Longus Mongus]]
 [[Monk]]

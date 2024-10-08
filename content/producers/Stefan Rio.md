@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/15HR5j7uxZdM99jDvHf9kH
 
 **Related artists:**
 
-[[Timo Erlenbruch]]
+[[producers/Timo Erlenbruch]]
 [[Scooter]]
 [[Kindervater]]

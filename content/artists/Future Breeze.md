@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls
 
 **Related artists:**
 
-[[Martin Hensing]]
-[[Markus Boehme]]
-[[Mans Ek]]
+[[producers/Martin Hensing]]
+[[producers/Markus Boehme]]
+[[producers/Mans Ek]]
 [[Ron-Bon-Beat]]
-[[Klaus Derichs]]
-[[Charlie Mason]]
+[[producers/Klaus Derichs]]
+[[producers/Charlie Mason]]

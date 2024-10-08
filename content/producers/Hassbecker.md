@@ -12,6 +12,6 @@ url: https://open.spotify.com/artist/3eXYfQIXwuhsEkyw8d8mMa
 **Related artists:**
 
 [[Bataillon d'Amour]]
-[[Grott]]
-[[Klick]]
-[[Barton]]
+[[producers/Grott]]
+[[producers/Klick]]
+[[producers/Barton]]

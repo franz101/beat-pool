@@ -11,9 +11,9 @@ url: https://open.spotify.com/artist/4nX36LZLmNKu2uTM0p0nPb
 
 **Related artists:**
 
-[[Bartosch Jeznach]]
+[[producers/Bartosch Jeznach]]
 [[Deichkind]]
-[[Boogieman]]
-[[Malte Pittner]]
+[[producers/Boogieman]]
+[[producers/Malte Pittner]]
 [[Philipp Grütering]]
-[[Sebastian Hackert]]
+[[producers/Sebastian Hackert]]

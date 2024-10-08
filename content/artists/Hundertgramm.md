@@ -12,4 +12,4 @@ url: https://open.spotify.com/artist/4nHTkWdPvzaB7wx5VlblNs
 **Related artists:**
 
 [[Danju]]
-[[Menace]]
+[[producers/Menace]]

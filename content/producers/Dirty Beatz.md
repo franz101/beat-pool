@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/3BnzdUPHpNgKwWS8wuWBwq
 **Related artists:**
 
 [[Micel O.]]
-[[Johnny Illstrument]]
-[[Carma]]
+[[producers/Johnny Illstrument]]
+[[producers/Carma]]

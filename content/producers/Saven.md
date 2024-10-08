@@ -11,14 +11,14 @@ url: https://open.spotify.com/artist/5SNQGlCZDD8f3U0MiyhtQf
 
 **Related artists:**
 
-[[Hunes]]
+[[producers/Hunes]]
 [[Moe Phoenix]]
-[[Caid]]
-[[Frio]]
+[[producers/Caid]]
+[[producers/Frio]]
 [[Mosh36]]
 [[Bugs]]
 [[Manuellsen]]
-[[Jay Sung]]
-[[DK]]
+[[producers/Jay Sung]]
+[[producers/DK]]
 [[Milonair]]
 [[MO]]

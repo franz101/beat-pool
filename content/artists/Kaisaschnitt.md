@@ -42,7 +42,7 @@ url: https://open.spotify.com/artist/4px8xCMlvU9Y74jO9qy2jg
 [[Gasy]]
 [[MC Basstard]]
 [[Breity]]
-[[Ghost]]
+[[producers/Ghost]]
 [[Silla]]
 [[GPC]]
 [[MC Bogy]]

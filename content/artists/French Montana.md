@@ -16,12 +16,12 @@ url: https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv
 ![Artist](https://i.scdn.co/image/ab6761610000e5eb4817f2b6ca81e55e2c1f79d9)
 **Related artists:**
 
-[[MMinx]]
+[[producers/MMinx]]
 [[Juh-Dee]]
 [[Silla]]
 [[Fler]]
 [[Saucegod]]
 [[Khaled]]
 [[Hamza]]
-[[Ilan]]
+[[producers/Ilan]]
 [[Farid Bang]]

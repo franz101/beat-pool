@@ -11,6 +11,6 @@ url: https://open.spotify.com/artist/5ZnMM0GBGjVapvWSF6GD8R
 
 **Related artists:**
 
-[[Hannes Sigl]]
+[[producers/Hannes Sigl]]
 [[Voyce]]
-[[Matthias Mania]]
+[[producers/Matthias Mania]]

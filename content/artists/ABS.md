@@ -18,7 +18,7 @@ url: https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ
 
 [[Lakmann]]
 [[Inferno.79]]
-[[Pure Doze]]
+[[producers/Pure Doze]]
 [[Doze]]
 [[Raid]]
 [[Too Strong]]
@@ -31,5 +31,5 @@ url: https://open.spotify.com/artist/2T3J7n1kgrAa4ujlAiFzcQ
 [[Terence Chill]]
 [[Onandon & Dike]]
 [[Backdraft]]
-[[DJ Salicious]]
+[[producers/DJ Salicious]]
 [[Roey Marquis II für Shen Productions]]

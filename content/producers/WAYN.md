@@ -13,4 +13,4 @@ url: https://open.spotify.com/artist/15AOTarp1X21B20DRWvll1
 
 [[Bangs]]
 [[AOB]]
-[[B€€RLY]]
+[[producers/B€€RLY]]

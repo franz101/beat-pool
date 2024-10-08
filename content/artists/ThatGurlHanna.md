@@ -16,11 +16,11 @@ url: https://open.spotify.com/artist/48bqtQhilt5mDstY1HfgN5
 ![Artist](https://i.scdn.co/image/ab67616d0000b2737a47363d7aa9be8b6e565c16)
 **Related artists:**
 
-[[Fabio Antoniali]]
+[[producers/Fabio Antoniali]]
 [[Bovann]]
-[[Sebastian Curly Moser]]
+[[producers/Sebastian Curly Moser]]
 [[Culcha Candela]]
-[[Sebastian Moser]]
-[[DJ Antoine]]
-[[H.anna M.ontana]]
+[[producers/Sebastian Moser]]
+[[producers/DJ Antoine]]
+[[producers/H.anna M.ontana]]
 [[Julie Brown]]

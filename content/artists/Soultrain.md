@@ -12,5 +12,5 @@ url: https://open.spotify.com/artist/2H8BbV8abPbizVGmxp8UtD
 **Related artists:**
 
 [[Akira]]
-[[M.a.s. de Vries]]
+[[producers/M.a.s. de Vries]]
 [[C7]]

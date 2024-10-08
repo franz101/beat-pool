@@ -12,9 +12,9 @@ url: https://open.spotify.com/artist/1rjeVTt9Ra1ldvN7SpeK0G
 **Related artists:**
 
 [[E-Type]]
-[[Arnthor]]
-[[Rami]]
-[[Kristian Lundin]]
+[[producers/Arnthor]]
+[[producers/Rami]]
+[[producers/Kristian Lundin]]
 [[No Angels]]
-[[John Amatiello]]
+[[producers/John Amatiello]]
 [[Nana Hedin]]
